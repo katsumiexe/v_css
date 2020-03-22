@@ -156,13 +156,9 @@
 
 .box_0_2{
 	display		:inline-block;
-	position	:absolute;
-	top			:42vw;
-	left		:0;
-	right		:0;
 	margin		:auto;
 	width		:86vw;
-	height		:36vw;
+	height		:20vw;
 	border		:0.5vw solid #f0f0f0;
 	padding		:1.5vw;
 	font-size	:3.2vw;
@@ -400,8 +396,8 @@
 .inbox_2{
 	display:inline-block;
 	font-weight:600;
-	border:1px solid #ff4080;
-	background-color:#ffe0f0;
+	border:1px solid #c0c0d0;
+	background-color:#d0d0e0;
 	margin:3px;
 	padding:3px;
 	border-radius:5px;
