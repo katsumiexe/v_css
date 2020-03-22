@@ -217,8 +217,8 @@
 	display		:inline-block;
 	position	:absolute;
 	top			:9vw;
-	right		:1vw;
-	left		:1vw;
+	right		:0vw;
+	left		:0vw;
 	margin		:auto;
 	width		:88vw;
 }
