@@ -174,9 +174,11 @@
 	position	:relative;
 	width		:90vw;
 	height		:82vw;
-	border		:0.5vw solid #000080;
+	border		:0.5vw solid #803000;
 	margin		:1vw auto;
+	background:#f0f0f0;
 }	
+
 
 .box_2_1{
 	display		:inline-block;
@@ -207,7 +209,6 @@
 	padding		:1.5vw;
 	font-size	:3.2vw;
 	line-height	:4.2vw;
-	background	:#fafafa;
 	text-align	:left;
 }
 
