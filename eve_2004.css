@@ -462,14 +462,14 @@
 
 .title_1{
 	font-size:17px;
-	color:#0000d0;
+	color:#603000;
 	width:100%;
-	border-bottom:double 5px #0000d0;
+	border-bottom:double 5px #603000;
 	padding:5px;
 	text-align:left;
 	font-weight:800;
-	border-left:solid 10px #0000d0;
-	background: linear-gradient(60deg, #c0d0ff, #e0ffff); 
+	border-left:solid 10px #603000;
+	background: linear-gradient(60deg, #a08000, #ffc090); 
 }
 
 .list_0{
