@@ -28,9 +28,7 @@
 	background	:#ffe0c0;
 	text-align	:left;
 	box-shadow	:0vw 0vw 1vw 2vw #ffe0c0 
-
 }
-
 
 .title_1{
 	font-size:17px;
@@ -52,6 +50,7 @@
 	border		:0.5vw solid #800000;
 	background	:#fafafa;
 }
+
 .list_0_0{
 	display		:inline-block;
 	width		:90vw;
