@@ -109,10 +109,9 @@
 }
 
 .box_2{
-	display		:inline-flex;
+	display		:inline-block;
 	position	:relative;
-	flex-basis	:450px;
-	width		:450px;
+	width		:640px;
 	height		:450px;
 	border		:3px solid #000080;
 	margin		:10px;
@@ -158,8 +157,7 @@
 	right		:6px;
 	left		:6px;
 	margin		:auto;
-	width		:168px;
-	height		:168px;
+	width		:640px;
 }
 
 .box_2_ok{
