@@ -137,23 +137,23 @@
 .box_2_2{
 	display		:inline-block;
 	position	:absolute;
-	bottom		:10px;
+	bottom		:20px;
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:620px;
-	height		:180px;
+	width		:600px;
+	height		:160px;
 	padding		:6px;
 	font-size	:16px;
 	line-height	:24px;
-	background	:#fafae0;
+
 	text-align	:left;	
 }
 
 .box_2_3{	
 	display		:inline-block;
 	position	:absolute;
-	top			:80px;
+	top			:70px;
 	right		:0;
 	left		:0;
 	margin		:auto;
