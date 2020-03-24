@@ -16,17 +16,19 @@
 }
 
 
-.box_0_2{
+.box_1{
 	display		:inline-block;
-	margin		:auto;
-	width		:86vw;
+	margin		:2vw auto;
+	width		:80vw;
 	height		:20vw;
-	border		:0.5vw solid #f0f0f0;
+	border		:1vw dashed #906000;
 	padding		:1.5vw;
 	font-size	:3.2vw;
-	line-height	:4.2vw;
+	line-height	:5vw;
 	background	:#fafafa;
 	text-align	:left;
+	box-shadow	:0vw 4vw 0vw #fafafa; 
+
 }
 
 
