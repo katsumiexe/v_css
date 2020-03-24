@@ -125,7 +125,7 @@
 	left		:0;	
 	right		:0;	
 	margin		:auto;
-	width		:440px;
+	width		:640px;
 	height		:48px;
 	line-height	:48px;
 	background	:linear-gradient(#0000e0,#000080);
@@ -137,11 +137,11 @@
 .box_2_2{
 	display		:inline-block;
 	position	:absolute;
-	top			:252px;
+	bottom		:10px;
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:410px;
+	width		:620px;
 	height		:180px;
 	padding		:6px;
 	font-size	:16px;
@@ -150,14 +150,14 @@
 	text-align	:left;	
 }
 
-.box_2_3{
+.box_2_3{	
 	display		:inline-block;
 	position	:absolute;
-	top			:66px;
-	right		:6px;
-	left		:6px;
+	top			:80px;
+	right		:0;
+	left		:0;
 	margin		:auto;
-	width		:640px;
+	width		:600px;
 }
 
 .box_2_ok{
