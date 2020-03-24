@@ -20,14 +20,14 @@
 	display		:inline-block;
 	margin		:2vw auto;
 	width		:80vw;
-	height		:20vw;
+	height		:24vw;
 	border		:0.5vw dashed #906000;
 	padding		:1.5vw;
 	font-size	:3.2vw;
-	line-height	:5vw;
+	line-height	:4.5vw;
 	background	:#ffe0c0;
 	text-align	:left;
-	box-shadow	:4vw 4vw 0vw #ffe0c0; 
+	box-shadow	:2vw 4vw 0vw #ffe0c0; 
 
 }
 
