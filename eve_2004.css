@@ -21,13 +21,13 @@
 	margin		:2vw auto;
 	width		:80vw;
 	height		:20vw;
-	border		:1vw dashed #906000;
+	border		:0.5vw dashed #906000;
 	padding		:1.5vw;
 	font-size	:3.2vw;
 	line-height	:5vw;
-	background	:#fafafa;
+	background	:#ffe0c0;
 	text-align	:left;
-	box-shadow	:0vw 4vw 0vw #fafafa; 
+	box-shadow	:4vw 4vw 0vw #ffe0c0; 
 
 }
 
