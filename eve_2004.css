@@ -152,13 +152,12 @@
 .box_2_2{
 	display		:inline-block;
 	position	:absolute;
-	top			:40vw;
+	top			:39vw;
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:86vw;
-	height		:36vw;
-	border		:0.5vw solid #f0f0f0;
+	width		:88vw;
+	height		:37vw;
 	padding		:1.5vw;
 	font-size	:3.2vw;
 	line-height	:4.2vw;
