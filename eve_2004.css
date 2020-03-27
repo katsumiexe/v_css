@@ -1,7 +1,6 @@
 .list_on{
 	border		:0.5vw solid #d00000;
 	background	:linear-gradient(#ff3030,#d00000);
-
 }
 
 .list_yet{
@@ -12,9 +11,7 @@
 .list_done{
 	border		:0.5vw solid #eeeeee;
 	background	:linear-gradient(#eeeeee,#cccccc);
-
 }
-
 
 .box_1{
 	display		:inline-block;
@@ -175,7 +172,6 @@
 	width		:88vw;
 }
 
-
 .sen{
 	font-size:12px;
 	background:#906000;
@@ -195,7 +191,6 @@
 	padding:1px 3px;
 	margin:1px;
 }
-
 
 .yet{
 	display	:none;
