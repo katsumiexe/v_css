@@ -38,6 +38,14 @@
 	border		:3px solid #800000;
 	background	:#fafafa;
 }
+
+
+.list_0_0_0{
+	display		:inline-block;
+	width		:440px;
+	margin		:0 auto;
+}
+
 .list_0_0{
 	display		:inline-block;
 	width		:435px;
@@ -46,10 +54,9 @@
 	border		:3px solid #800000;
 	background	:#800000;
 	text-align	:center;
-	margin-top:12px;
-	color:#fafafa;
-	font-size:24px;
-	font-weight:600;
+	color		:#fafafa;
+	font-size	:24px;
+	font-weight	:600;
 }
 
 .list_img{
