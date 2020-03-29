@@ -212,6 +212,7 @@
 }
 
 .done{
+	display		:none;
 	position	:fixed;
 	top			:0;
 	bottom		:0;
@@ -219,14 +220,14 @@
 	right		:0;
 	margin		:auto;
 	border		:1vw solid #c08080;	
-	width		:30vw;
+	width		:40vw;
 	height		:30vw;
-	line-height	:18vw;
+	line-height	:10vw;
 	text-align	:center;
 	font-size	:3.8vw;
-	color		:#fafafa;
+	color		:#c08080;
 	box-shadow	:0.5vw 0.5vw 0.5vw rgba(60,60,60,0.5);
 	background	:#ffd0a0;
-	border-radius:50%;
+	border-radius:10vw;
 }
 
