@@ -45,7 +45,7 @@ a{
 	height		:15vw;
 	line-height	:6vw;
 	padding		:2vw;
-	font-size	:4vw;
+	font-size	:3.6vw;
 	text-align	:left;
 	color		:#303030;
 	border		:1vw solid #fae0a0;
@@ -55,8 +55,8 @@ a{
 
 
 .pt_btn{
-	width		:30PXvw;
-	height		:10vw;
+	width		:30vw;
+	height		:8vw;
 	font-size	:4vw;
 	font-weight	:700;	
 	color		:#fafafa;
