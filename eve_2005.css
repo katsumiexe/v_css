@@ -41,12 +41,11 @@ a{
 
 .p2_box_c{
 	display		:inline-block;
-	width		:28vw;
-	height		:15vw;
-	line-height	:6vw;
-	padding		:2vw;
+	width		:58vw;
+	height		:10vw;
+	line-height	:10vw;
 	font-size	:3.6vw;
-	text-align	:left;
+	text-align	:center;
 	color		:#303030;
 	border		:1vw solid #fae0a0;
 	background #ffe0c0;
