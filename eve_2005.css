@@ -61,10 +61,10 @@ a{
 
 .box_nam{
 	display		:inline-block;
-	height		:8vw;;
+	height		:7.5vw;;
 	width		:77vw;
 	font-size	:5vw;
-	line-height	:8.5vw;
+	line-height	:8vw;
 	color		:#303030;
 	font-weight	:600;
 }
