@@ -11,8 +11,8 @@ a{
 	margin:2vw auto;
 	display		:inline-block;
 	position	:relative;
-	width		:40vw;	
-	height		:40vw;
+	width		:30vw;	
+	height		:30vw;
 	background	:linear-gradient(135deg,#dddddd,#eeeeee);
 	box-shadow	:0.5vw 0.5vw 0.5vw rgba(30,30,30,0.5);
 }
@@ -21,13 +21,13 @@ a{
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:38vw;	
-	height		:38vw;
+	width		:28vw;	
+	height		:28vw;
 }
 
 .p2_box_a_1{
 	display		:inline-block;
-	width		:40vw;
+	width		:30vw;
 	height		:6vw;
 	line-height	:6vw;
 	padding-left:1vw;
@@ -37,7 +37,7 @@ a{
 
 .p2_box_c{
 	display		:inline-block;
-	width		:38vw;
+	width		:28vw;
 	height		:15vw;
 	line-height	:6vw;
 	padding		:2vw;
@@ -45,14 +45,15 @@ a{
 	text-align	:left;
 	color		:#303030;
 	border		:1vw solid #fae0a0;
+	background #ffe0c0;
 }
 
 
 
 .pt_btn{
-	width		:40vw;
+	width		:30PXvw;
 	height		:10vw;
-	font-size	:6vw;
+	font-size	:4vw;
 	font-weight	:700;	
 	color		:#fafafa;
 	text-shadow	:0.5vw 0.5vw 0vw #303030;
