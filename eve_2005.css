@@ -1,6 +1,6 @@
 *{
--webkit-appearance: none;
- -webkit-text-size-adjust: 100%;
+	-webkit-appearance: none;
+	-webkit-text-size-adjust: 100%;
 }
 
 a{
@@ -59,8 +59,6 @@ a{
 	background 	:#ffe0c0;
 }
 
-
-
 .pt_btn{
 	width		:30vw;
 	height		:8vw;
@@ -77,6 +75,3 @@ a{
 .c2{
 	background:linear-gradient(#eeeeee,#cccccc);
 }
-
-
-
