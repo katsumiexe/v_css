@@ -18,13 +18,13 @@ a{
 
 
 .p1_h3{
-	width		:100%;
+	display:block
 	background	:#668ad8;
 	font-weight	:600;
 	color		:#fafafa;
-	padding		:1.5vw;
+	padding		:2vw;
 	font-size	:4vw;
-	text-align	:left;"
+	text-align	:left;
 }
 
 
