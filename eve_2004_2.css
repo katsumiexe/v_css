@@ -69,8 +69,8 @@
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:20vw;
-	height		:20vw;
+	width		:15vw;
+	height		:15vw;
 	background	:#0000ff;
 
 }
@@ -78,7 +78,7 @@
 .pop00_c{
 	position	:absolute;
 	top			:1vw;
-	left		:22vw;
+	left		:17vw;
 	width		:58vw;
 	height		:20vw;
 	background	:#df0000;
