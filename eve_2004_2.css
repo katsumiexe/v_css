@@ -81,6 +81,7 @@
 
 .pop00_d{
 	position	:absolute;
+	overflow	:hidden;
 	top			:17vw;
 	left		:1vw;
 	width		:74vw;
@@ -91,7 +92,6 @@
 
 .pop00_d1{
 	display		:inline-block;
-	overflow	:hidden;
 	width		:74vw;
 	text-align	:left;
 	font-size	:3.4vw;
