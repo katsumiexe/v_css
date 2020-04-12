@@ -93,6 +93,7 @@
 .pop00_d1{
 	position	:absolute;
 	top			:0vw;
+	left		:0;
 	display		:inline-block;
 	width		:74vw;
 	text-align	:left;
