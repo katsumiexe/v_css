@@ -1,4 +1,3 @@
-
 .flex{
 	display		:inline-flex;
 	width		:98vw;
@@ -87,5 +86,7 @@
 	width		:74vw;
 	height		:103vw;
 	background	:#fff0ef;
-	text-align:left;
+	text-align	:left;
+	font-size	:3.5vw;
 }
+
