@@ -51,19 +51,16 @@
 
 .pop00_a{
 	position	:absolute;
-	top			:30vh;
+	top			:20vh;
 	left		:0;
 	right		:0;
 	margin		:auto;
 	width		:80vw;
-	height		:100vw;
+	height		:120vw;
 	border		:2vw solid #e0d0ff;
 	background	:#f0f2ff;
 	padding		:2vw;
-
 }
-
-
 
 .pop00_b{
 	position	:absolute;
@@ -72,7 +69,6 @@
 	width		:15vw;
 	height		:15vw;
 	background	:#0000ff;
-
 }
 
 .pop00_c{
@@ -80,7 +76,7 @@
 	top			:1vw;
 	left		:17vw;
 	width		:58vw;
-	height		:20vw;
+	height		:15vw;
 	background	:#df0000;
 }
 
@@ -89,10 +85,7 @@
 	top			:17vw;
 	left		:1vw;
 	width		:74vw;
-	height		:78vw;
+	height		:103vw;
 	background	:#fff0ef;
 	text-align:left;
 }
-
-
-
