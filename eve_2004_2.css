@@ -86,7 +86,15 @@
 	width		:74vw;
 	height		:103vw;
 	background	:#fff0ef;
-	text-align	:left;
-	font-size	:3.5vw;
 }
+
+
+.pop00_d1{
+	display		:inline-block;
+	overflow	:hidden;
+	width		:74vw;
+	text-align	:left;
+	font-size	:3.4vw;
+}
+
 
