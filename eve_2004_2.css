@@ -54,12 +54,16 @@
 	top			:30vh;
 	left		:0;
 	right		:0;
+	margin		:auto;
 	width		:80vw;
 	height		:100vw;
 	border		:2vw solid #e0d0ff;
 	background	:#f0f2ff;
 	padding		:2vw;
+
 }
+
+
 
 .pop00_b{
 	position	:absolute;
@@ -86,7 +90,8 @@
 	left		:1vw;
 	width		:74vw;
 	height		:78vw;
-	background	:#906000;
+	background	:#fff0ef;
+	text-align:left;
 }
 
 
