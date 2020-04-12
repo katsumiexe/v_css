@@ -108,7 +108,9 @@
 	background	:#000090;
 	border		:1vw solid #fafafa;
 	border-radius:50%;
-	font-weight:800;
-	
+	font-weight	:1000;
+	color		:#fafafa;	
+	transform: rotate(90deg)
 }
+
 
