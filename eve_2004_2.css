@@ -91,11 +91,14 @@
 
 
 .pop00_d1{
+	position	:absolute;
+	top			:0vw;
 	display		:inline-block;
 	width		:74vw;
 	text-align	:left;
 	font-size	:3.4vw;
 }
+
 
 .pop00_e{
 	position	:absolute;
@@ -103,7 +106,7 @@
 	right		:-5vw;
 	width		:10vw;
 	height		:10vw;
-	line-height	:12vw;
+	line-height	:9vw;
 	text-align	:center;
 	background	:#000090;
 	border		:1vw solid #fafafa;
