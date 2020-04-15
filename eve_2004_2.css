@@ -54,7 +54,7 @@
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:80vw;
+	width		:84vw;
 	height		:125vw;
 	border		:2vw solid #e0d0ff;
 	background	:#f0f2ff;
@@ -84,7 +84,7 @@
 	overflow	:hidden;
 	top			:17vw;
 	left		:1vw;
-	width		:74vw;
+	width		:78vw;
 	height		:103vw;
 	background	:#fff0ef;
 }
@@ -95,9 +95,9 @@
 	top			:0vw;
 	left		:0;
 	display		:inline-block;
-	width		:74vw;
+	width		:78vw;
 	text-align	:left;
-	font-size	:3.4vw;
+	font-size	:3.2vw;
 }
 
 .pop00_e{
