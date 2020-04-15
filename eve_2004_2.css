@@ -74,7 +74,7 @@
 	position	:absolute;
 	top			:1vw;
 	left		:17vw;
-	width		:58vw;
+	width		:68vw;
 	height		:15vw;
 	background	:#df0000;
 }
@@ -114,6 +114,21 @@
 	font-weight	:1000;
 	color		:#fafafa;	
 	transform: rotate(90deg);
+}
+
+.pop00_f{
+	position	:absolute;
+	top			:-5vw;
+	right		:-5vw;
+	width		:15vw;
+	height		:15vw;
+	line-height	:13vw;
+	text-align	:center;
+	background	:#f0f2ff;
+	border		:2vw solid #e0d0ff;
+	border-radius:4vw;
+	font-weight	:1000;
+	color		:#fafafa;	
 }
 
 
