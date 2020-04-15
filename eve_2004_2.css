@@ -92,12 +92,13 @@
 
 .pop00_d1{
 	position	:absolute;
-	top			:0vw;
+	top			:0;
 	left		:0;
 	display		:inline-block;
 	width		:78vw;
 	text-align	:left;
 	font-size	:3.2vw;
+	background:#d0e0f0;
 }
 
 .pop00_e{
