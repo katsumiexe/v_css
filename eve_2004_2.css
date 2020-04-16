@@ -64,7 +64,6 @@
 	left		:1vw;
 	width		:15vw;
 	height		:15vw;
-	background	:#0000ff;
 }
 
 .pop00_c{
@@ -73,16 +72,16 @@
 	left		:17vw;
 	width		:72vw;
 	height		:15vw;
-	background	:#df0000;
 }
 
 .pop00_d{
 	position	:relative;
 	width		:90vw;
-	background	:#fff0ef;
+	background	:#fff0f5;
 	text-align	:left;
 	font-size	:4vw;
 	padding		:2vw;
+	box-shadow	:1vw 1vw 2vw rgba(80,80,80,0.5),-1vw -1vw 2vw rgba(80,80,80,0.5);
 }
 
 .pop00_e{
