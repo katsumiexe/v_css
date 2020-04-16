@@ -48,6 +48,13 @@
 }
 
 .pop00_b{
+	position	:relative;
+	width		:84vw;
+	height		:17vw;
+	background	:#ff00ff;
+}
+
+.pop00_img{
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
