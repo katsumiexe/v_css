@@ -41,14 +41,14 @@
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:84vw;
+	width		:94vw;
 	border		:2vw solid #e0d0ff;
 	background	:#f0f2ff;
 }
 
 .pop00_b{
 	position	:relative;
-	width		:80vw;
+	width		:90vw;
 	height		:17vw;
 	background	:#ff00ff;
 }
@@ -66,21 +66,19 @@
 	position	:absolute;
 	top			:1vw;
 	left		:17vw;
-	width		:62vw;
+	width		:72vw;
 	height		:15vw;
 	background	:#df0000;
 }
 
 .pop00_d{
 	position	:relative;
-	width		:80vw;
+	width		:90vw;
 	background	:#fff0ef;
 	text-align	:left;
 	font-size	:4vw;
 	padding		:2vw;
 }
-
-
 
 .pop00_e{
 	position	:absolute;
@@ -112,7 +110,4 @@
 	font-weight	:1000;
 	color		:#c0b0ff;	
 	font-size:8vw;
-	
 }
-
-
