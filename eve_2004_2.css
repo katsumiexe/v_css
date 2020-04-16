@@ -73,7 +73,7 @@
 
 .pop00_d{
 	position	:relative;
-	width		:76vw;
+	width		:80vw;
 	background	:#fff0ef;
 	text-align	:left;
 	font-size	:4vw;
@@ -95,7 +95,7 @@
 	border-radius:50%;
 	font-weight	:1000;
 	color		:#fafafa;	
-	transform: rotate(90deg);
+	transform: rotate(-90deg);
 }
 
 .pop00_f{
