@@ -36,21 +36,8 @@
 	overflow	:hidden;
 }
 
-.pop00{
-	display		:none;
-	position	:fixed;
-	top			:-10vh;
-	height		:120vh;
-	left		:-10vw;
-	width		:120vw;
-	background	:rgba(100,100,100,0.4);
-	z-index		:15;
-}
-
-
 .pop00_a{
-	position	:absolute;
-	top			:20vh;
+	position	:relative;
 	left		:0;
 	right		:0;
 	margin		:auto;
