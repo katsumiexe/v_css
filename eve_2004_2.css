@@ -44,12 +44,11 @@
 	width		:84vw;
 	border		:2vw solid #e0d0ff;
 	background	:#f0f2ff;
-	padding		:2vw;
 }
 
 .pop00_b{
 	position	:relative;
-	width		:84vw;
+	width		:80vw;
 	height		:17vw;
 	background	:#ff00ff;
 }
@@ -67,17 +66,18 @@
 	position	:absolute;
 	top			:1vw;
 	left		:17vw;
-	width		:63vw;
+	width		:62vw;
 	height		:15vw;
 	background	:#df0000;
 }
 
 .pop00_d{
 	position	:relative;
-	width		:78vw;
+	width		:76vw;
 	background	:#fff0ef;
 	text-align	:left;
 	font-size	:4vw;
+	padding		:2vw;
 }
 
 
