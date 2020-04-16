@@ -36,6 +36,9 @@
 	overflow	:hidden;
 }
 
+.pop00{
+	min-height:70vh;
+}
 .pop00_a{
 	position	:relative;
 	left		:0;
