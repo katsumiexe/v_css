@@ -55,7 +55,6 @@
 	right		:0;
 	margin		:auto;
 	width		:84vw;
-	height		:125vw;
 	border		:2vw solid #e0d0ff;
 	background	:#f0f2ff;
 	padding		:2vw;
@@ -80,25 +79,14 @@
 }
 
 .pop00_d{
-	position	:absolute;
-	overflow	:hidden;
-	top			:17vw;
-	left		:1vw;
+	position	:relative;
 	width		:78vw;
-	height		:103vw;
 	background	:#fff0ef;
-}
-
-
-.pop00_d1{
-	position	:absolute;
-	top			:0;
-	left		:0;
-	display		:inline-block;
-	width		:78vw;
 	text-align	:left;
-	font-size	:3.2vw;
+	font-size	:4vw;
 }
+
+
 
 .pop00_e{
 	position	:absolute;
