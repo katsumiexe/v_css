@@ -1,3 +1,19 @@
+.box_0{
+	margin			:2vw auto;
+	padding			:2vw;
+	width			:80vw;
+	line-height		:5.5vw;
+	font-size		:4vw;
+	text-align		:left;
+	color			:#fafafa;
+	border			:0.5vw dashed #fafafa;
+	box-shadow		:0px 0px 0px 2vw #c090a0;
+	border-radius	:1vw;
+	background		:#c090a0;
+
+}
+
+
 .flex{
 	display		:inline-flex;
 	width		:98vw;
