@@ -57,6 +57,8 @@
 	width		:87vw;
 	height		:17vw;
 	background:#906000;
+	color		:#fafafa;
+	text-shadow	:-1px -1px 1px #202020;
 }
 
 .pop00_img{
@@ -88,8 +90,6 @@
 	text-align	:left;
 	font-size	:4vw;
 	padding		:2vw;
-	color		:#fafafa;
-	text-shadow	:-1px -1px 1px #202020;
 }
 
 .pop00_e{
