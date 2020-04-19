@@ -7,9 +7,9 @@
 	text-align		:left;
 	color			:#fafafa;
 	border			:0.5vw dashed #fafafa;
-	box-shadow		:0px 0px 0px 2vw #c090a0;
+	box-shadow		:0px 0px 0px 2vw #ffd0f0,2vw 2vw 1vw 1vw rgba(30,30,30,0.3);
 	border-radius	:1vw;
-	background		:#c090a0;
+	background		:#ffd0f0;
 
 }
 
