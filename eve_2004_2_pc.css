@@ -58,17 +58,17 @@
 	position	:relative;
 	left		:0;
 	right		:0;
-	margin		:1vw auto 10vw auto;
-	width		:90vw;
-	border		:2vw solid #906000;
+	margin		:5px auto 20px auto;
+	width		:900px;
+	border		:10px solid #906000;
 	background	:#fafafa;
-	box-shadow:0.5vw 0.5vw 1vw rgba(90,90,90,0.4);
+	box-shadow:5px 5px 5px rgba(90,90,90,0.4);
 }
 
 .pop00_b{
 	position	:relative;
-	width		:87vw;
-	height		:17vw;
+	width		:860px;
+	height		:120px;
 	background:#906000;
 	color		:#fafafa;
 	text-shadow	:-1px -1px 1px #202020;
@@ -76,44 +76,43 @@
 
 .pop00_img{
 	position	:absolute;
-	top			:0vw;
-	left		:0vw;
-	width		:16vw;
-	height		:16vw;
+	top			:0;
+	left		:0;
+	width		:120px;
+	height		:120px;
 }
 
 .pop00_c{
 	position	:absolute;
-	top			:1vw;
-	left		:17vw;
-	width		:68vw;
-	height		:15vw;
-	line-height	:20vw;
-	font-size	:6vw;
+	top			:0;
+	left		:120px;
+	width		:720px;
+	height		:120px;
+	line-height	:120px;
+	font-size	:20px;
 	text-align	:left;	
 	font-weight	:700;
-//	box-shadow	:1vw 1vw 4vw rgba(120,100,80,0.3) inset,-1vw -1vw 4vw rgba(120,100,80,0.3)inset;
 }
 
 
 .pop00_d{
 	position	:relative;
-	width		:86vw;
+	width		:860px;
 	background	:#fafafa;
 	text-align	:right;
 }
 
 .pop00_d1{
-	width		:86vw;
+	width		:860;
 	text-align	:left;
-	font-size	:4vw;
-	padding		:2vw;
+	font-size	:16px;
+	padding		:5px;
 }
 
 .pop00_d2{
 	text-align	:right;
-	font-size	:4vw;
-	padding-right:10vw;
+	font-size	:16px;
+	padding-right:50px;
 	font-weight	:700;
 	color		:#000090;
 	text-decoration:none;
