@@ -82,11 +82,11 @@
 .pop00_d{
 	position	:relative;
 	width		:86vw;
-	background	:#fff0f5;
+	background	:#fafafa;
 	text-align	:left;
 	font-size	:4vw;
 	padding		:2vw;
-	box-shadow	:1vw 1vw 2vw rgba(80,80,80,0.5),-1vw -1vw 2vw rgba(80,80,80,0.5);
+	box-shadow	:1vw 1vw 2vw rgba(80,80,80,0.5) inset,-1vw -1vw 2vw rgba(80,80,80,0.5)inset;
 }
 
 .pop00_e{
@@ -98,8 +98,8 @@
 	font-size	:10vw;
 	line-height	:9vw;
 	text-align	:center;
-	background	:#000090;
-	border		:1vw solid #fafafa;
+	background	:#e0f0ff;
+	border		:2vw solid #906000;
 	border-radius:50%;
 	font-weight	:1000;
 	color		:#fafafa;	
