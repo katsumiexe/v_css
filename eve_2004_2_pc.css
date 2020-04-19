@@ -69,11 +69,10 @@
 	position	:relative;
 	width		:920px;
 	height		:130px;
-	background:#906000;
+	background	:#906000;
 	color		:#fafafa;
 	text-shadow	:-1px -1px 1px #202020;
-	padding-left:20px;
-	font-size:25px;
+	font-size	:25px;
 }
 
 .pop00_img{
@@ -91,7 +90,8 @@
 	width		:720px;
 	height		:120px;
 	line-height	:120px;
-	font-size	:20px;
+	padding-left:20px;
+	font-size	:30px;
 	text-align	:left;	
 	font-weight	:700;
 }
@@ -107,19 +107,21 @@
 .pop00_d1{
 	width		:940px;
 	text-align	:left;
-	font-size	:16px;
+	font-size	:18px;
 	padding		:5px;
+	line-height	:30px;
 }
 
 .pop00_d2{
 	position	:absolute;
 	bottom		:5px;
-	right		:5xp;
+	right		:5px;
 	text-align	:right;
 	font-size	:16px;
 	font-weight	:700;
 	color		:#000090;
 	text-decoration:none;
+	cursor:pointer;
 }
 
 .pop00_e{
