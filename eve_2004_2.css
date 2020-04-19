@@ -61,10 +61,10 @@
 
 .pop00_img{
 	position	:absolute;
-	top			:1vw;
-	left		:1vw;
-	width		:15vw;
-	height		:15vw;
+	top			:0vw;
+	left		:0vw;
+	width		:16vw;
+	height		:16vw;
 }
 
 .pop00_c{
@@ -88,6 +88,8 @@
 	text-align	:left;
 	font-size	:4vw;
 	padding		:2vw;
+	color		:#fafafa;
+	text-shadow	:-1px -1px 1px #202020;
 }
 
 .pop00_e{
