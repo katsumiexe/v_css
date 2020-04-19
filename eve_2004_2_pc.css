@@ -67,11 +67,13 @@
 
 .pop00_b{
 	position	:relative;
-	width		:860px;
-	height		:120px;
+	width		:920px;
+	height		:130px;
 	background:#906000;
 	color		:#fafafa;
 	text-shadow	:-1px -1px 1px #202020;
+	padding-left:20px;
+	font-size:25px;
 }
 
 .pop00_img{
@@ -97,13 +99,13 @@
 
 .pop00_d{
 	position	:relative;
-	width		:860px;
+	width		:960px;
 	background	:#fafafa;
 	text-align	:right;
 }
 
 .pop00_d1{
-	width		:860;
+	width		:860px;
 	text-align	:left;
 	font-size	:16px;
 	padding		:5px;
