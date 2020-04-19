@@ -59,7 +59,7 @@
 	left		:0;
 	right		:0;
 	margin		:5px auto 20px auto;
-	width		:900px;
+	width		:940px;
 	border		:10px solid #906000;
 	background	:#fafafa;
 	box-shadow:5px 5px 5px rgba(90,90,90,0.4);
@@ -99,13 +99,13 @@
 
 .pop00_d{
 	position	:relative;
-	width		:960px;
+	width		:940px;
 	background	:#fafafa;
 	text-align	:right;
 }
 
 .pop00_d1{
-	width		:860px;
+	width		:940px;
 	text-align	:left;
 	font-size	:16px;
 	padding		:5px;
