@@ -67,7 +67,7 @@
 
 .pop00_b{
 	position	:relative;
-	width		:920px;
+	width		:940px;
 	height		:130px;
 	background	:#906000;
 	color		:#fafafa;
@@ -121,6 +121,7 @@
 	font-weight	:700;
 	color		:#000090;
 	cursor		:pointer;
+	text-shadow:1px 1px 0px #fafafa;
 }
 
 .pop00_e{
