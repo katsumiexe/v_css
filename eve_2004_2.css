@@ -87,10 +87,26 @@
 	position	:relative;
 	width		:86vw;
 	background	:#fafafa;
+	text-align	:right;
+}
+
+.pop00_d1{
+	width		:86vw;
 	text-align	:left;
 	font-size	:4vw;
 	padding		:2vw;
 }
+
+.pop00_d2{
+	text-align	:right;
+	font-size	:4vw;
+	padding		:2vw 0px;
+	font-weight	:700;
+	color		:#000090;
+	text-decoration:none;
+}
+
+
 
 .pop00_e{
 	position	:absolute;
