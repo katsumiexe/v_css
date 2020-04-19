@@ -45,7 +45,7 @@
 	position	:relative;
 	left		:0;
 	right		:0;
-	margin		:auto;
+	margin		:1vw auto 10vw auto;
 	width		:90vw;
 	border		:2vw solid #906000;
 	background	:#fafafa;
@@ -105,8 +105,6 @@
 	color		:#000090;
 	text-decoration:none;
 }
-
-
 
 .pop00_e{
 	position	:absolute;
