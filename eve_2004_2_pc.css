@@ -1,5 +1,5 @@
 .box_0{
-	margin			:20px auto;
+	margin			:30px auto;
 	padding			:5px;
 	width			:700px;
 	line-height		:30px;
@@ -27,7 +27,7 @@
 
 .flex_box{
 	display		:inline-block;
-	flex-basis	:120px;
+	flex-basis	:130px;
 	height		:160px;
 	text-align	:center;
 	margin		:3px;
@@ -41,14 +41,14 @@
 .flex_m{
 	display		:inline-block;
 	width		:120px;
-	height		:60px;
+	height		:30px;
 	margin		:0 auto;
 
 	background	:#fafafa;
 	color		:#6090ff;
 	font-weight	:600;
 	font-size	:16px;
-	line-height	:60px;
+	line-height	:30px;
 	text-align	:center;
 	overflow	:hidden;
 }
