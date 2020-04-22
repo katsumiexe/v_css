@@ -163,12 +163,12 @@ a{
 
 .flex{
 	display		:inline-flex;
-	width		:98vw;
+	width		:99vw;
 	margin		:2vw auto;
 	background	:#fafafa;
 	flex-wrap	:wrap;
 	justify-content: flex-start;
-	padding		:1vw;
+	padding		:0.5vw;
 }
 
 .flex_box{
@@ -176,7 +176,7 @@ a{
 	flex-basis	:23vw;
 	height		:27vw;
 	text-align	:center;
-	margin		:0.5vw;
+	margin		:1vw 0.5vw;
 }
 
 .flex_p{
