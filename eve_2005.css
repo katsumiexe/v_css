@@ -17,13 +17,14 @@ a{
 }
 
 .p1_h3{
-	display:block
-	background	:#668ad8;
+	display		:block
+	background	:#fafafa;
 	font-weight	:600;
-	color		:#fafafa;
+	color		:#668ad8;
 	padding		:2vw;
 	font-size	:4vw;
 	text-align	:left;
+	border-left	:5vw solid #ff6060;
 }
 
 .box_0{
