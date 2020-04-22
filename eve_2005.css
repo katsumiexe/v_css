@@ -17,10 +17,10 @@ a{
 }
 
 .p1_h3{
-	display		:block
+	display		:block;
 	background	:#fafafa;
 	font-weight	:600;
-	color		:#668ad8;
+	color		:#00004d;
 	padding		:2vw;
 	font-size	:4vw;
 	text-align	:left;
