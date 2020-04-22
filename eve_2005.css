@@ -160,3 +160,41 @@ a{
 .c2{
 	background:linear-gradient(#eeeeee,#cccccc);
 }
+
+.flex{
+	display		:inline-flex;
+	width		:98vw;
+	margin		:2vw auto;
+	background	:#906000;
+	flex-wrap	:wrap;
+	justify-content: flex-start;
+	padding		:1vw;
+}
+
+.flex_box{
+	display		:inline-block;
+	flex-basis	:22vw;
+	height		:27vw;
+	text-align	:center;
+	margin		:1vw;
+}
+
+.flex_p{
+	width		:22vw;
+	height		:22vw;
+}
+
+.flex_m{
+	display		:inline-block;
+	width		:22vw;
+	height		:5vw;
+	margin		:0 auto;
+	text-align	:center;
+	background	:#fafafa;
+	color		:#6090ff;
+	font-weight	:600;
+	font-size	:3.2vw;
+	line-height	:5vw;
+	text-align	:center;
+	overflow	:hidden;
+}
