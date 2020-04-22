@@ -173,22 +173,22 @@ a{
 
 .flex_box{
 	display		:inline-block;
-	flex-basis	:22vw;
+	flex-basis	:23vw;
 	height		:27vw;
 	text-align	:center;
-	margin		:1vw;
+	margin		:0.5vw;
 }
 
 .flex_p{
-	width		:22vw;
-	height		:22vw;
+	width		:23vw;
+	height		:23vw;
 }
 
 .flex_m{
 	display		:inline-block;
-	width		:22vw;
+	width		:23vw;
 	height		:5vw;
-	margin		:0 auto;
+	margin		:auto;
 	text-align	:center;
 	background	:#fafafa;
 	color		:#303090;
