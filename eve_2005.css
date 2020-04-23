@@ -130,7 +130,7 @@ a{
 	line-height	:6vw;
 	font-size	:3.5vw;
 	margin		:0 auto;
-
+	overflow	:hidden;
 }
 
 .p2_box_c{
