@@ -11,4 +11,9 @@ $(function(){
 		$('.flex_box').hide();
 		$('.group'+Tmp).show();
 	});
+
+    $('#connect').on('click',function(){
+
+	});
 });
+
