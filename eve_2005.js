@@ -1,6 +1,7 @@
 $(function(){ 
 	$('.flex_box').hide();
 	$('.group0').show();
+	$('#p1').css('background','linear-gradient(#c0a000,#a09000)');
 
     $('.page').on('click',function(){
 		$('.page').css('background','linear-gradient(#d0d0d0,#c0c0c0)');
@@ -8,6 +9,6 @@ $(function(){
 
 		Tmp =$(this).attr('id').replace("p", "");
 		$('.flex_box').hide();
-		$('.group'+Tmp).dadeIn(500);
+		$('.group'+Tmp).fadeIn(500);
 	});
 });
