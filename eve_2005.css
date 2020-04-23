@@ -232,3 +232,17 @@ a{
 	background:linear-gradient(#c0c0c0,#a0a0a0);
 }
 
+.box_a_0{
+	width:96vw;
+	padding:1vw;
+	background:#e0e0e0;
+	border-left:3vw solid #0000d0;
+	box-shadow:0 0 0 2vw #e0e0e0;
+}
+.box_a_1{
+	width:96vw;
+	padding:2vw;
+	background:#e0e0e0;
+	border:1vw solid #0000d0;
+}
+
