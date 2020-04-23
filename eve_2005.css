@@ -249,3 +249,19 @@ a{
 	text-align:left;
 }
 
+
+.page{
+	background	:linear-gradient(#d0d0d0,#c0c0c0);
+	font-size	:4.5vw;
+	font-weight	:800;
+	color		:#fafafa;
+	height		:8vw;
+	line-height	:8vw;
+	width		:8vw;
+	text-align	:center;
+	text-shadow	:2px 2px 0px #303030;
+	margin		:1vw;
+	border-radius:2vw;
+}
+
+
