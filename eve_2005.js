@@ -9,6 +9,6 @@ $(function(){
 
 		Tmp =$(this).attr('id').replace("p", "");
 		$('.flex_box').hide();
-		$('.group'+Tmp).fadeIn(500);
+		$('.group'+Tmp)delay(100).fadeIn(1000);
 	});
 });
