@@ -106,8 +106,8 @@ a{
 	margin:2vw auto;
 	display		:inline-block;
 	position	:relative;
-	width		:30vw;	
-	height		:36vw;
+	width		:40vw;	
+	height		:46vw;
 	background	:linear-gradient(135deg,#dddddd,#eeeeee);
 	box-shadow	:0.5vw 0.5vw 0.5vw rgba(30,30,30,0.5);
 }
@@ -116,21 +116,21 @@ a{
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:28vw;	
-	height		:28vw;
+	width		:38vw;	
+	height		:38vw;
 }
 
 .p2_box_b{
 	display		:inline-block;
 	position	:absolute;
-	top			:30vw;
+	top			:40vw;
 	left		:1vw;
 
-	width		:28vw;
+	width		:38vw;
 	height		:6vw;
 	line-height	:6vw;
 	padding-left:1vw;
-	font-size	:4vw;
+	font-size	:3.5vw;
 	margin:0 auto;
 }
 
