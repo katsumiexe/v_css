@@ -17,7 +17,22 @@ $(function(){
 	});
 
     $('#connect').on('click',function(){
+		$.post("post_eve_2005.php",
+		{
+			'user_id':User_id,
+			'ope_id':Ope_id
+		},
+		function(data){
+			if(data == 2){
+				$('.bottun_box').hide();
+				$('.call_box').show();
 
+			}else{
+				$('.call_ng').show();
+			}		
+		});
 	});
+
+
 });
 
