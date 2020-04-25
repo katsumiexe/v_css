@@ -16,11 +16,15 @@ $(function(){
 		$('.sorry').stop().fadeIn(200).delay(1500).fadeOut(1500);
 	});
 
+
+
     $('#connect').on('click',function(){
+		console.log(Ope_Id);
+
 		$.post("post_eve_2005.php",
 		{
-			'user_id':User_id,
-			'ope_id':Ope_id
+			'user_id':User_Id,
+			'ope_id':Ope_Id
 		},
 		function(data){
 			if(data == 2){
