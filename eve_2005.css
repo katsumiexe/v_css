@@ -231,21 +231,21 @@ a{
 }
 
 .box_a_0{
-	width:90vw;
-	padding:1.5vw;
-	background:#e0e0e0;
-//	border-left:3vw solid #0000d0;
-	margin:0 auto;
-	text-align:left;
-	font-weight:600;
+	width		:90vw;
+	padding		:1.5vw;
+	background	:#e0e0e0;
+//	border-left	:3vw solid #0000d0;
+	margin		:0 auto;
+	text-align	:left;
+	font-weight	:600;
 }
 .box_a_1{
-	width:90vw;
-	padding:2vw;
-	background:#fafafa;
-//	border:1vw solid #0000d0;
-	margin:0 auto 3vw auto;
-	text-align:left;
+	width		:90vw;
+	padding		:2vw;
+	background	:#fafafa;
+//	border		:1vw solid #0000d0;
+	margin		:0 auto 3vw auto;
+	text-align	:left;
 }
 
 
@@ -292,6 +292,7 @@ a{
 	color		:#303030;
 	padding		:2vw;
 	font-size	:4vw;
+	margin		:1vw auto;
 }
 
 .ng_box{
@@ -303,4 +304,6 @@ a{
 	color		:#303030;
 	padding		:2vw;
 	font-size	:4vw;
+	margin		:1vw auto;
+
 }
