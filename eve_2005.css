@@ -8,24 +8,24 @@ a{
 }
 
 .p1_box_a{
-	padding: 1vw ;
-	margin: 8vw;
-	background: #fafafa;
-	box-shadow: #fafafa 0 0 3vw 3vw;
-	font-size:3.8vw;
-	text-align:left;
+	padding			:1vw;
+	margin			:8vw;
+	background		:#fafafa;
+	box-shadow		:#fafafa 0 0 3vw 3vw;
+	font-size		:3.8vw;
+	text-align		:left;
 }
 
 .p1_h3{
-	display		:block;
-	width		:99vw;
-	background	:#fafafa;
-	font-weight	:600;
-	color		:#00004d;
-	padding		:2vw;
-	font-size	:4vw;
-	text-align	:left;
-	border-left	:5vw solid #ff6060;
+	display			:block;
+	width			:99vw;
+	background		:#fafafa;
+	font-weight		:600;
+	color			:#00004d;
+	padding			:2vw;
+	font-size		:4vw;
+	text-align		:left;
+	border-left		:5vw solid #ff6060;
 }
 
 .box_0{
@@ -99,11 +99,10 @@ a{
 	background:#f5f0ff;
 	border-radius:5px;
 }
-
 */
 
 .p2_box_a{
-	margin:2vw auto;
+	margin		:2vw auto;
 	display		:inline-block;
 	position	:relative;
 	width		:40vw;	
