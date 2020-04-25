@@ -25,14 +25,11 @@ $(function(){
 		function(data){
 			if(data == 2){
 				$('.bottun_box').hide();
-				$('.call_box').show();
+				$('.call_box').fadeIn(500);
 
 			}else{
-				$('.call_ng').show();
+				$('.call_ng').fadeIn(500);
 			}		
 		});
 	});
-
-
 });
-
