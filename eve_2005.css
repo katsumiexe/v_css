@@ -285,7 +285,7 @@ a{
 }
 
 .call_box{
-	display		:inline-block;
+	display		:none;
 	width		:55vw;
 	border		:1vw solid #00a0c0;
 	background	:#fafafa;
@@ -295,7 +295,7 @@ a{
 }
 
 .call_ng{
-	display		:inline-block;
+	display		:none;
 	width		:50vw;
 	height		:30vw;
 	border		:1vw solid #d00000;
