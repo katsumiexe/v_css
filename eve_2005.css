@@ -266,4 +266,20 @@ a{
 	cursor		:pointer;
 }
 
+.sorry{
+	display		:none;
+	position	:fixed;
+	top			:20vh;
+	left		:0;
+	right		:0;
+	margin		:auto;
+	width		:60vw;
+	border		:1px solid #c00000;
+	background	:#fafafa;
+	color		:#303030;
+	padding		:2vw;
+	font-size	:4vw;
+	box-shadow	:0.5vw 0.5vw 0.5vw 0.5vw rgba(60,60,60,0.5);
+}
+
 

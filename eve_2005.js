@@ -12,6 +12,10 @@ $(function(){
 		$('.group'+Tmp).show();
 	});
 
+    $('.now_use').on('click',function(){
+		$('.sorry').stop(false,true).fadeIn(200).delay(1000);
+	});
+
     $('#connect').on('click',function(){
 
 	});
