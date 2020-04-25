@@ -13,7 +13,7 @@ $(function(){
 	});
 
     $('.now_use').on('click',function(){
-		$('.sorry').stop().fadeIn(200).delay(1000).fadeOut(1200);
+		$('.sorry').stop().fadeIn(200).delay(1000).fadeOut(1500);
 	});
 
     $('#connect').on('click',function(){
