@@ -286,8 +286,7 @@ a{
 
 .call_box{
 	display		:inline-block;
-	width		:50vw;
-	height		:30vw;
+	width		:55vw;
 	border		:1vw solid #00a0c0;
 	background	:#fafafa;
 	color		:#303030;
@@ -305,6 +304,3 @@ a{
 	padding		:2vw;
 	font-size	:4vw;
 }
-
-
-
