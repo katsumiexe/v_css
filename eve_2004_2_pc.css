@@ -105,9 +105,10 @@
 }
 
 .pop00_d1{
-	width		:940px;
+	width		:920px;
 	text-align	:left;
 	font-size	:18px;
+	margin		:10px;
 	padding		:5px;
 	line-height	:30px;
 }
