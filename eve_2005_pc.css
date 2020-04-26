@@ -158,20 +158,20 @@ a{
 .flex_box{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:150px;
-	height		:200px;
+	flex-basis	:140px;
+	height		:180px;
 	text-align	:center;
 	margin		:10px 5px;
 }
 
 .flex_p{
-	width		:150px;
-	height		:150px;
+	width		:140px;
+	height		:140px;
 }
 
 .flex_m{
 	display		:inline-block;
-	width		:150px;
+	width		:140px;
 	height		:40px;
 	margin		:auto;
 	background	:#031F4C;
