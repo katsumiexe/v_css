@@ -269,7 +269,8 @@ a{
 	right		:0;
 	bottom		:0;
 	margin		:auto;
-	width		:500px;
+	width		:400px;
+	height:100ox;			
 	border		:1px solid #c00000;
 	background	:#fafafa;
 	color		:#303030;
