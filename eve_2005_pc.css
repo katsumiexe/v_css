@@ -8,11 +8,11 @@ a{
 }
 
 .p1_box_a{
-	padding			:5px;
+	padding			:20px;
 	margin			:20px;
 	background		:#fafafa;
 	box-shadow		:#fafafa 0 0 10px 10px;
-	font-size		:14px;
+	font-size		:18px;
 	text-align		:left;
 }
 
@@ -147,7 +147,7 @@ a{
 
 .flex{
 	display		:inline-flex;
-	width		:820px;
+	width		:950px;
 	margin		:10px auto;
 	background	:#fafafa;
 	flex-wrap	:wrap;
@@ -158,26 +158,26 @@ a{
 .flex_box{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:120px;
-	height		:160px;
+	flex-basis	:150px;
+	height		:200px;
 	text-align	:center;
-	margin		:5px;
+	margin		:10px 5px;
 }
 
 .flex_p{
-	width		:120px;
-	height		:120px;
+	width		:150px;
+	height		:150px;
 }
 
 .flex_m{
 	display		:inline-block;
-	width		:120px;
-	height		:60px;
+	width		:150px;
+	height		:40px;
 	margin		:auto;
 	background	:#031F4C;
 	color		:#fafafa;
-	font-size	:20px;
-	line-height	:60px;
+	font-size	:16px;
+	line-height	:40px;
 	text-align	:center;
 	overflow	:hidden;
 }
@@ -187,11 +187,11 @@ a{
 	bottom		:30px;
 	right		:10px;
 	display		:inline-block;
-	width		:60px;
-	height		:30px;
+	width		:80px;
+	height		:25px;
 	color		:#fafafa;
 	font-size	:20px;
-	line-height	:30px;
+	line-height	:25px;
 	text-align	:center;
 	box-shadow	:1px 1px 0 rgba(0,0,0,1); 
 	font-weight	:600;
