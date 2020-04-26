@@ -7,6 +7,18 @@ a{
 	text-decoration:none !important;
 }
 
+
+.back{
+	z-index			:-1;
+	position		:fixed;
+	top				:200px;
+	left			:0;
+	width			:100vw:
+	height			:100vh;
+	background		:#00004dl;
+}
+
+
 .p1_box_a{
 	padding			:20px;
 	margin			:20px;
