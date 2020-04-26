@@ -31,12 +31,11 @@ a{
 
 .p1_h3{
 	display			:block;
-	width			:800px;
 	background		:#fafafa;
 	font-weight		:600;
 	color			:#00004d;
 	padding			:20px;
-	font-size		:20px;
+	font-size		:24px;
 	text-align		:left;
 	border-left		:10px solid #ff6060;
 }
