@@ -1,0 +1,292 @@
+*{
+	-webkit-appearance: none;
+	-webkit-text-size-adjust: 100%;
+}
+
+a{
+	text-decoration:none !important;
+}
+
+.p1_box_a{
+	padding			:5px;
+	margin			:20px;
+	background		:#fafafa;
+	box-shadow		:#fafafa 0 0 10px 10px;
+	font-size		:14px;
+	text-align		:left;
+}
+
+.p1_h3{
+	display			:block;
+	width			:800px;
+	background		:#fafafa;
+	font-weight		:600;
+	color			:#00004d;
+	padding			:20px;
+	font-size		:20px;
+	text-align		:left;
+	border-left		:10px solid #ff6060;
+}
+
+.box_0{
+	display			:inline-block;
+	position		:relative;
+	width			:720px;
+	height			:120px;
+	border			:2px solid #0000d0;
+	background		:#f0f0f0;	
+	text-decoration	:none;
+}
+
+.box_pic{
+	position	:absolute;
+	top			:5px;
+	left		:5px;
+	height		:110px;
+	width		:110px;
+}
+
+.box_txt{
+	display		:inline-block;
+	position	:absolute;
+	top			:0;
+	left		:120px;
+	height		:120px;
+	width		:600pc;
+	text-align	:left;
+	background	:#fafafa;
+	box-shadow	: 0 0 20px rgba(140,140,240,0.5) inset; 
+	padding-left:10pc;
+}
+
+.box_nam{
+	display		:inline-block;
+	height		:7.5vw;;
+	width		:77vw;
+	font-size	:5vw;
+	line-height	:8vw;
+	color		:#303030;
+	font-weight	:600;
+}
+	
+.box_dan,.box_sen{
+	display		:inline-block;
+	width		:77vw;
+	height		:5vw;
+	font-size	:4vw;
+	color		:#ffffff;
+}
+
+.box_dan{
+	color		:#008000;
+}
+
+.box_sen{
+	color		:#0000d0;
+}
+
+.p2_box_a{
+	margin		:2vw auto;
+	display		:inline-block;
+	position	:relative;
+	width		:40vw;	
+	height		:46vw;
+	background	:linear-gradient(135deg,#dddddd,#eeeeee);
+	box-shadow	:0.5vw 0.5vw 0.5vw rgba(30,30,30,0.5);
+}
+
+.p2_img{
+	position	:absolute;
+	top			:1vw;
+	left		:1vw;
+	width		:38vw;	
+	height		:38vw;
+}
+
+.p2_box_b{
+	display		:inline-block;
+	position	:absolute;
+	top			:40vw;
+	left		:0vw;
+	width		:40vw;
+	height		:6vw;
+	line-height	:6vw;
+	font-size	:3.5vw;
+	margin		:0 auto;
+	overflow	:hidden;
+}
+
+.p2_box_c{
+	width		:58vw;
+	height		:10vw;
+	line-height	:9vw;
+	font-size	:3.6vw;
+	text-align	:center;
+	color		:#303030;
+	border		:1vw solid #fae0a0;
+	background 	:#ffe0c0;
+	margin		:3vw auto;
+}
+
+.pt_btn{
+	width		:40vw;
+	height		:8vw;
+	font-size	:4vw;
+	font-weight	:700;	
+	color		:#fafafa;
+	text-shadow	:2px 2px 2px #303030;
+}
+
+.c1{
+	background:linear-gradient(#ffc000,#c09000);
+}
+
+.c2{
+	background:linear-gradient(#eeeeee,#cccccc);
+}
+
+.flex{
+	display		:inline-flex;
+	width		:820px;
+	margin		:10px auto;
+	background	:#fafafa;
+	flex-wrap	:wrap;
+	justify-content: flex-start;
+	padding		:5px;
+}
+
+.flex_box{
+	position	:relative;
+	display		:inline-block;
+	flex-basis	:120px;
+	height		:160px;
+	text-align	:center;
+	margin		:5px;
+}
+
+.flex_p{
+	width		:120px;
+	height		:120px;
+}
+
+.flex_m{
+	display		:inline-block;
+	width		:120px;
+	height		:60px;
+	margin		:auto;
+	background	:#031F4C;
+	color		:#fafafa;
+	font-size	:20px;
+	line-height	:60px;
+	text-align	:center;
+	overflow	:hidden;
+}
+
+.flex_s{
+	position	:absolute;
+	bottom		:30px;
+	right		:10px;
+	display		:inline-block;
+	width		:60px;
+	height		:30px;
+	color		:#fafafa;
+	font-size	:20px;
+	line-height	:30px;
+	text-align	:center;
+	box-shadow	:1px 1px 0 rgba(0,0,0,1); 
+	font-weight	:600;
+	border-radius:1px;
+}
+
+.flex_s1{
+	background:linear-gradient(#00c000,#008000);
+}
+
+.flex_s2{
+	background:linear-gradient(#c0a000,#a09000);
+}
+
+.flex_s3{
+	background:linear-gradient(#c0a000,#a09000);
+}
+
+.flex_s4{
+	background:linear-gradient(#c0c0c0,#a0a0a0);
+}
+
+.box_a_0{
+	width		:90vw;
+	padding		:1.5vw;
+	background	:#e0e0e0;
+	margin		:0 auto;
+	text-align	:left;
+	font-weight	:600;
+}
+.box_a_1{
+	width		:90vw;
+	padding		:2vw;
+	background	:#fafafa;
+//	border		:1vw solid #0000d0;
+	margin		:0 auto 3vw auto;
+	text-align	:left;
+}
+
+
+.page{
+	display		:inline-block;
+	background	:linear-gradient(#d0d0d0,#c0c0c0);
+	font-size	:40px;
+	font-weight	:800;
+	color		:#fafafa;
+	height		:60px;
+	line-height	:60px;
+	width		:60px;
+	text-align	:center;
+	text-shadow	:2px 2px 0px #303030;
+	margin		:10px;
+	border-radius:5px;
+	cursor		:pointer;
+}
+
+.sorry{
+	display		:none;
+	position	:fixed;
+	top			:0;
+	left		:0;
+	right		:0;
+	bottom		:0;
+	margin		:auto;
+	width		:700px;
+	height		:20vh;
+	border		:1px solid #c00000;
+	background	:#fafafa;
+	color		:#303030;
+	padding		:10px;
+	font-size	:20px;
+	box-shadow	:5px 5px 5px 5px rgba(60,60,60,0.5);
+	text-align	:left;
+}
+
+.call_box{
+	display		:none;
+	width		:55vw;
+	border		:1vw solid #00a0c0;
+	background	:#fafafa;
+	color		:#303030;
+	padding		:2vw;
+	font-size	:4vw;
+	margin		:1vw auto;
+}
+
+.ng_box{
+	display		:none;
+	width		:50vw;
+	height		:30vw;
+	border		:1vw solid #d00000;
+	background	:#fafafa;
+	color		:#303030;
+	padding		:2vw;
+	font-size	:4vw;
+	margin		:1vw auto;
+
+}
