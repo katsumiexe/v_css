@@ -12,7 +12,7 @@ a{
 	margin			:20px;
 	background		:#fafafa;
 	box-shadow		:#fafafa 0 0 10px 10px;
-	font-size		:18px;
+	font-size		:22px;
 	text-align		:left;
 }
 
@@ -158,21 +158,21 @@ a{
 .flex_box{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:140px;
+	flex-basis	:147px;
 	height		:180px;
 	text-align	:center;
-	margin		:10px 5px;
+	margin		:5px;
 }
 
 .flex_p{
-	width		:140px;
-	height		:140px;
+	width		:147px;
+	height		:147px;
 }
 
 .flex_m{
 	display		:inline-block;
-	width		:140px;
-	height		:40px;
+	width		:147px;
+	height		:33px;
 	margin		:auto;
 	background	:#031F4C;
 	color		:#fafafa;
@@ -184,7 +184,7 @@ a{
 
 .flex_s{
 	position	:absolute;
-	bottom		:30px;
+	bottom		:45px;
 	right		:10px;
 	display		:inline-block;
 	width		:80px;
