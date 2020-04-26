@@ -14,6 +14,7 @@ a{
 	box-shadow		:#fafafa 0 0 10px 10px;
 	font-size		:22px;
 	text-align		:left;
+	line-height		:150%;
 }
 
 .p1_h3{
@@ -183,19 +184,19 @@ a{
 }
 
 .flex_s{
-	position	:absolute;
-	bottom		:45px;
-	right		:10px;
-	display		:inline-block;
-	width		:80px;
-	height		:25px;
-	color		:#fafafa;
-	font-size	:20px;
-	line-height	:25px;
-	text-align	:center;
-	box-shadow	:1px 1px 0 rgba(0,0,0,1); 
-	font-weight	:600;
-	border-radius:1px;
+	position		:absolute;
+	bottom			:40px;
+	right			:10px;
+	display			:inline-block;
+	width			:80px;
+	height			:25px;
+	color			:#fafafa;
+	font-size		:20px;
+	line-height		:25px;
+	text-align		:center;
+	box-shadow		:1px 1px 0 rgba(0,0,0,1); 
+	font-weight		:600;
+	border-radius	:1px;
 }
 
 .flex_s1{
