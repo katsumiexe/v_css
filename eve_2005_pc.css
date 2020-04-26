@@ -11,11 +11,11 @@ a{
 .back{
 	z-index			:-1;
 	position		:fixed;
-	top				:180px;
+	top				:0;
 	left			:0;
 	width			:100vw;
 	height			:100vh;
-	background		:#00004dl;
+	background		:#00004d;
 }
 
 
