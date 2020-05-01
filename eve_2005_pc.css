@@ -303,3 +303,16 @@ a{
 	font-size	:20px;
 	margin		:5px auto;
 }
+
+.tel_set{
+	display		:inline-block;
+	margin		:10px auto;
+	padding		:10px 30px;
+	background	:linear-gradient(#00a000,#008000);
+	color		:#fafafa;
+	font-weight	:700;
+	border-radius:5px;
+	font-size	:18px;
+	text-decoration:none;
+}
+
