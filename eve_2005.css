@@ -307,3 +307,18 @@ a{
 	margin		:1vw auto;
 
 }
+
+
+.tel_set{
+	display		:inline-block;
+	margin		:1vw auto;
+	padding		:1vw;
+	background	:linear-gradient(#00a000,#008000);
+	color		:#fafafa;
+	font-weight	:700;
+	border-radius:1vw;
+	font-size	:4vw;
+	text-decoration:none;
+}
+
+
