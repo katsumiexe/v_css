@@ -308,11 +308,10 @@ a{
 
 }
 
-
 .tel_set{
 	display		:inline-block;
 	margin		:1vw auto;
-	padding		:1vw;
+	padding		:1vw 3vw;
 	background	:linear-gradient(#00a000,#008000);
 	color		:#fafafa;
 	font-weight	:700;
@@ -320,5 +319,3 @@ a{
 	font-size	:4vw;
 	text-decoration:none;
 }
-
-
