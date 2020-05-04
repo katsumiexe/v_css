@@ -228,6 +228,10 @@ a{
 	background:linear-gradient(#c0c0c0,#a0a0a0);
 }
 
+.flex_s5{
+	background:linear-gradient(#30c030,#009000);
+}
+
 .box_a_0{
 	width		:900px;
 	padding		:10px;
