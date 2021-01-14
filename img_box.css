@@ -349,6 +349,7 @@ input[type=range]::-moz-range-thumb{
 	width			:80vw;
 	height			:80vw;
 	border			:0.5vw solid #606060;
+	box-sizing		:content-box;
 }
 
 .img_box_in2{
