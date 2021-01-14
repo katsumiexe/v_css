@@ -133,18 +133,11 @@ console.log("css_p"+css_p);
 		ImgTop = $("#cvs1").css("top");
 	});
 
-	$('#img_set').on('click',function(){	
+
 /*
-console.log(Set);
-console.log(ImgTop);
-console.log(ImgLeft);
+	$('#img_set').on('click',function(){	
 
-console.log(cvs_W);
-console.log(cvs_H);
-console.log($('.zoom_box').text());
-console.log(Rote);
-*/
-
+		$('#main_img').attr('src',ImgCode);
 		$.post({
 			url:"post_img_set.php",
 			data:{
@@ -161,7 +154,6 @@ console.log(Rote);
 			},
 
 		}).done(function(data, textStatus, jqXHR){
-//			console.log(data);
 
 			$('.set_back').fadeOut(200);
 			$('.img_box	').animate({'top':'120vh'},200);
@@ -169,34 +161,15 @@ console.log(Rote);
 			var ctx = cvs.getContext('2d');
 			ctx.clearRect(0, 0, cvs_A,cvs_A);
 
-			$('#wait').hide();
 			$('.zoom_box').text('100');
 			Rote=0;
-			if(Set == "reg"){
-				$('#box'+Tmp).addClass('on');
-				$('#no'+Tmp).addClass('on_s');
-				$('#name'+Tmp).addClass('on_n').text($('#reg_name').val());
-				$('#img'+Tmp).attr('src',data);
-				$('#set'+Tmp).addClass('on_w');
-				$('#cfg'+Tmp).addClass('on_c');
 
-			}else if(Set == "new"){
-				$('.tree_img').attr('src',data);
-
-			}else if(Set == "res"){
-				$('.write_img').attr('src',data);
-
-			}else if(Set == "chg"){
-				$('#list_img'+Tmp).attr('src',data);
-			}
 		}).fail(function(jqXHR, textStatus, errorThrown){
 			console.log(textStatus);
 			console.log(errorThrown);
 		});
-
-
 	});
-
+*/
 	$('#img_close').on('click',function(){	
 		$('.set_back').fadeOut(200);
 		$('.img_box	').animate({'top':'120vh'},200);
