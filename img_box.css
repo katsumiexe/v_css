@@ -195,14 +195,6 @@
 	top			:0;
 	left		:0;
 }
-/*
-.set_img{
-	position	:absolute;
-	top			:10vw;
-	left		:10vw;
-	overflow	:hidden;
-}
-*/
 
 input[type=range] {
 	-webkit-appearance	:none;
@@ -458,6 +450,107 @@ input[type=range]::-moz-range-thumb{
 	z-index		:27;
 }
 
+#cvs1{
+	position	:absolute;
+	background	:#f0f0f0;
+}
+
+.set_img{
+	position	:absolute;
+	top			:10vw;
+	left		:10vw;
+	overflow	:hidden;
+}
+
+input[type=range] {
+	-webkit-appearance:none;
+	background		:#ffffff;
+	height			:4vw;
+	width			:100%;
+	display			:inline-block;
+	border			:none;
+	margin			:2vw 0;
+	border-radius	:0;
+}
+
+input[type=range]::-webkit-slider-thumb{
+	-webkit-appearance:none;
+	background:#f17766;
+	height:7vw;
+	width:7vw;
+	border-radius:50%;
+	border:0.5vw solid #ffffff;
+}
+
+input[type=range]::-ms-tooltip{
+	display:none;
+}
+
+input[type=range]::-moz-range-track{
+	height:0;
+}
+
+input[type=range]::-moz-range-thumb{
+	background		:#f17766;
+	height			:7vw;
+	width			:7vw;
+	border-radius	:50%;
+	border			:0.5vw solid #ffffff;
+}
+
+.zoom_mi{
+	display				:inline-block;
+	height				:8vw;
+	flex-basis			:6vw;
+	border				:0.5vw solid #f17766;
+	border-radius		:3vw 0 0 3vw;
+	line-height			:8vw;
+	text-align			:center;
+	cursor				:pointer;
+	background			:#ffe0f0;
+	color				:#f17766;
+	font-size			:4vw;
+	font-weight			:600;
+}		
+
+.zoom_pu{
+	display				:inline-block;
+	height				:8vw;
+	flex-basis			:6vw;
+	border				:0.5vw solid #f17766;
+	border-radius		:0 3vw 3vw 0;
+	line-height			:8vw;
+	text-align			:center;
+	cursor				:pointer;
+	background			:#ffe0f0;
+	color				:#f17766;
+	font-size			:4vw;
+	font-weight			:600;
+}
+
+.zoom_rg{
+	display				:inline-block;
+	height				:8vw;
+	line-height			:8vw;
+	flex				:1;
+	border				:0.5vw solid #f17766;
+	background			:#ffe0f0
+}
+
+.zoom_box{
+	border				:0.5vw solid #f17766;
+	color				:#f17766;
+	display				:inline-block;
+	height				:8vw;
+	flex-basis			:13vw;
+	line-height			:8vw;
+	text-align			:center;
+	margin-left			:2vw;
+	background			:#ffffff;
+	font-weight			:600;
+	font-size			:4vw;
+}
+
 
 
 .btn_c1{
@@ -498,112 +591,7 @@ input[type=range]::-moz-range-thumb{
 	width		:60vw;
 	height		:60vw;
 }
-/*
-.set_img{
-	position	:absolute;
-	top			:10vw;
-	left		:10vw;
-	overflow	:hidden;
-}
-*/
 
-input[type=range] {
-	-webkit-appearance	:none;
-	appearance			:none;
-
-	background		:#f17766;
-	background		:#000090;
-	height			:5px;
-	width			:98%;
-	display			:inline-block;
-	border			:none;
-	margin			:10px 0;
-	border-radius	:0;
-}
-
-input[type=range]::-webkit-slider-thumb{
-	-webkit-appearance:none;
-	background		:#f17766;
-	height			:20px;
-	width			:20px;
-	border-radius	:50%;
-	border			:2px solid #800000;
-}
-
-
-input[type=range]::-ms-tooltip{
-	display:none;
-}
-
-
-input[type=range]::-moz-range-track{
-	height:0;
-}
-
-input[type=range]::-moz-range-thumb{
-	background		:#fafafa;
-	height			:40px;
-	width			:40px;
-	border-radius	:50%;
-	border			:none;
-}
-
-.zoom_mi{
-	display				:inline-block;
-	height				:40px;
-	width				:30px;
-	flex-basis			:30px;
-	border				:1px solid #f17766;
-	border-radius		:10px 0 0 10px;
-	line-height			:40px;
-	text-align			:center;
-	cursor				:pointer;
-	background			:#ffe0f0;
-	color				:#f17766;
-	font-size			:24px;
-	font-weight			:600;
-}
-
-
-.zoom_pu{
-	display				:inline-block;
-	height				:40px;
-	width				:30px;
-	flex-basis			:30px;
-	border				:1px solid #f17766;
-	border-radius		:0 10px 10px 0;
-	line-height			:40px;
-	text-align			:center;
-	cursor				:pointer;
-	background			:#ffe0f0;
-	color				:#f17766;
-	font-size			:24px;
-	font-weight			:600;
-}
-
-.zoom_rg{
-	display				:inline-block;
-	height				:40px;
-	line-height			:40px;
-	flex				:1;
-	border				:1px solid #f17766;
-	background			:#ffe0f0
-}
-
-.zoom_box{
-	border				:1pxvw solid #f17766;
-	color				:#f17766;
-	display				:inline-block;
-	height				:40px;
-	flex-basis			:50px;
-	line-height			:40px;
-	text-align			:center;
-	margin-left			:5px;
-	background			:#fafafa;
-	font-weight			:600;
-	font-size			:20px;
-	border:1px solid #f17766;
-}
 
 .upload_btn{
 	width			:40vw;
