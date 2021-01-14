@@ -132,6 +132,7 @@ console.log("css_p"+css_p);
 		ImgLeft = $("#cvs1").css("left");
 		ImgTop = $("#cvs1").css("top");
 	});
+
 	$('#img_set').on('click',function(){	
 /*
 console.log(Set);
@@ -145,7 +146,7 @@ console.log(Rote);
 */
 
 		$.post({
-			url:"post/img_set.php",
+			url:"post_img_set.php",
 			data:{
 				'img_code'	:ImgCode.replace(/^data:image\/jpeg;base64,/, ""),
 				'img_top'	:ImgTop,
@@ -157,7 +158,6 @@ console.log(Rote);
 				'cast'		:Tmp,
 				'reg_name'	:$('#reg_name').val(),
 				'del'		:0,
-				'set'		:Set,
 			},
 
 		}).done(function(data, textStatus, jqXHR){
