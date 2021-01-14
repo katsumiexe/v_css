@@ -373,6 +373,7 @@ input[type=range]::-moz-range-thumb{
 	left		:0;
 	width		:10vw;
 	height		:10vw;
+	box-sizing	:content-box;
 	z-index		:27;
 }
 
@@ -383,6 +384,7 @@ input[type=range]::-moz-range-thumb{
 	left		:10vw;
 	width		:60vw;
 	height		:10vw;
+	box-sizing	:content-box;
 	border-bottom:1px solid #ff0000;
 	z-index		:27;
 }
@@ -394,6 +396,7 @@ input[type=range]::-moz-range-thumb{
 	right		:0vw;
 	width		:10vw;
 	height		:10vw;
+	box-sizing	:content-box;
 	z-index		:27;
 }
 
@@ -404,6 +407,7 @@ input[type=range]::-moz-range-thumb{
 	left		:0;
 	width		:10vw;
 	height		:60vw;
+	box-sizing	:content-box;
 	border-right:1px solid #ff0000;
 	z-index		:27;
 }
@@ -415,6 +419,7 @@ input[type=range]::-moz-range-thumb{
 	right		:0;
 	width		:10vw;
 	height		:60vw;
+	box-sizing	:content-box;
 	border-left	:1px solid #ff0000;
 	z-index		:27;
 }
@@ -426,6 +431,7 @@ input[type=range]::-moz-range-thumb{
 	left		:0;
 	width		:10vw;
 	height		:10vw;
+	box-sizing	:content-box;
 	z-index		:27;
 }
 
@@ -436,6 +442,7 @@ input[type=range]::-moz-range-thumb{
 	left		:10vw;
 	width		:60vw;
 	height		:10vw;
+	box-sizing	:content-box;
 	border-top	:0.2vw solid #ff0000;
 	z-index		:27;
 }
@@ -447,6 +454,7 @@ input[type=range]::-moz-range-thumb{
 	right		:0;
 	width		:10vw;
 	height		:10vw;
+	box-sizing	:content-box;
 	z-index		:27;
 }
 
