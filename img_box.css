@@ -595,8 +595,8 @@ input[type=range]::-moz-range-thumb{
 
 #cvs1{
 	position	:absolute;
-	top			:0;
-	left		:0;
+	top			:10vw;
+	left		:10vw;
 	width		:60vw;
 	height		:60vw;
 }
