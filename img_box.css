@@ -338,7 +338,7 @@ input[type=range]::-moz-range-thumb{
 
 @media screen and (max-width: 768px){
 .img_box{
-	top				:10vh;
+	top				:120vh;
 	width			:90vw;
 	height			:130vw;
 	border-radius	:2vw
