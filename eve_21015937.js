@@ -68,6 +68,7 @@ $(function(){
 			};
 		})(file);
 		reader.readAsDataURL(file);
+	});
 
 	$("#cvs1").draggable();
 	$("#cvs1").on("mousemove", function() {
@@ -186,7 +187,6 @@ $(function(){
 	});
 
 	$('.img_label_name').on('click',function(){
-
 		if($('#img_label').val()==1){
 			$('#img_label').val('0');
 			$('.check1').fadeOut(50);
@@ -284,9 +284,7 @@ $(function(){
 		$('#'+Tmp).fadeIn(400);
 	});
 
-
     setInterval(function(){
-//        $('.slide_shut').animate({'width':'50vw'},200).delay(100).animate({'width':'0vw'},200);
 		CT++;
         $('.slide_shut').animate({'right':'-10vw'},300,"swing").delay(100).animate({'right':'-80vw'},400);
         $('.box_slide_in').delay(200).fadeOut(0);
