@@ -287,12 +287,4 @@ $(function(){
 	});
 
 
-    setInterval(function(){
-//        $('.slide_shut').animate({'width':'50vw'},200).delay(100).animate({'width':'0vw'},200);
-		CT++;
-        $('.slide_shut').animate({'right':'-10vw'},300,"swing").delay(100).animate({'right':'-80vw'},400);
-        $('.box_slide_in').delay(200).fadeOut(0);
-        $('#sd'+CT).delay(200).fadeIn(50);
-		if(CT>3) CT=-1;
-    },6000);
 });
