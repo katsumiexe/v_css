@@ -57,6 +57,7 @@ $(function(){
 						css_l=css_W;
 						css_p=S_Base-Math.ceil((css_W-css_H)/2);
 					}				
+
 					$("#cvs1").attr({'width': cvs_A,'height': cvs_A}).css({'width': css_l,'height': css_l,'left': css_p,'top': css_p});
 					ctx.drawImage(img, 0,0, img_W, img_H, cvs_X, cvs_Y, cvs_W, cvs_H);
 					ImgCode = cvs.toDataURL("image/jpeg");
@@ -187,6 +188,7 @@ $(function(){
 	});
 
 	$('.img_label_name').on('click',function(){
+
 		if($('#img_label').val()==1){
 			$('#img_label').val('0');
 			$('.check1').fadeOut(50);
@@ -284,7 +286,9 @@ $(function(){
 		$('#'+Tmp).fadeIn(400);
 	});
 
+
     setInterval(function(){
+//        $('.slide_shut').animate({'width':'50vw'},200).delay(100).animate({'width':'0vw'},200);
 		CT++;
         $('.slide_shut').animate({'right':'-10vw'},300,"swing").delay(100).animate({'right':'-80vw'},400);
         $('.box_slide_in').delay(200).fadeOut(0);
