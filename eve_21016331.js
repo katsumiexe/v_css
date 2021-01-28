@@ -209,7 +209,7 @@ $(function(){
 			type: "POST",
 			data:{
 				'reg'			:$('#img_id').val(),
-				"idcode"		:"<?=$idcode?>",
+				"idcode"		:IdCode,
 				"submit"		:Tmp,
 			},
 
