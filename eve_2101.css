@@ -415,13 +415,14 @@
 }
 
 .info{
-	width:92vw;
+	width:86vw;
 	padding:2vw;
 	border:1px solid #303030;
 	font-size:3.2vw;
 	text-align:left:
 	line-height:4.5vw;
-	margin:0 auto;
+	margin:0 auto 2vw auto;
+	text-align:left;
 }
 
 
