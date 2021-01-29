@@ -424,14 +424,21 @@
 	margin:0 auto 2vw auto;
 }
 
-
+.i{
+	display:inline-block
+	height:4vw;
+	line-height:4vw;	
+	width:4.5vw;
+	text-align:center;
+	font-size:3.6vw;
+}
 .top_box{
 	position	:relative;
 	display		:inline-block;
 	background	:linear-gradient(135deg,#faffff,#e0efef);
 	background	:linear-gradient(135deg,#e8d8a0 0%, #f0e0a8 50%, #d8c890 100%);
-	font-size	:4.5vw;
-	line-height	:6vw;
+	font-size	:4vw;
+	line-height	:5.8vw;
 	text-align	:left;
 	width		:84vw;
 	margin		:2vw auto;
@@ -446,7 +453,7 @@
 .top_box_1{
 	display		:inline-block;
 	background	:#fafafa;
-	font-size	:3.8vw;
+	font-size	:3.6vw;
 	line-height	:5vw;
 	text-align	:left;
 	width		:76vw;
