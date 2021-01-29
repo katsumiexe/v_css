@@ -251,7 +251,7 @@ $(function(){
 			type: "POST",
 			data:{
 				'reg'		:$('#img_id').val(),
-				'idcode'	:'<?=$idcode?>',
+				'idcode'	:IdCode,
 				'img_code'	:ImgCode.replace(/^data:image\/jpeg;base64,/, ""),
 				'img_top'	:ImgTop,
 				'img_left'	:ImgLeft,
