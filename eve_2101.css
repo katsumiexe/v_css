@@ -426,7 +426,6 @@
 }
 
 
-
 .top_box{
 	position	:relative;
 	display		:inline-block;
@@ -467,9 +466,6 @@
 
 .check1{
 	display				:inline-block;
-<?if($dat_img["view"] !=1){?>
-	display				:none;
-<?}?>
 	position			:absolute;
 	left				:1vw;
 	bottom				:0;
