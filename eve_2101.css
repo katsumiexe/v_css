@@ -413,6 +413,19 @@
 	color			:#fafafa;
 	border-radius	:1vw;
 }
+
+.info{
+	width:92vw;
+	padding:2vw;
+	border:1px solid #303030;
+	font-size:3.2vw;
+	text-align:left:
+	line-height:4.5vw;
+	margin:0 auto;
+}
+
+
+
 .top_box{
 	position	:relative;
 	display		:inline-block;
@@ -429,7 +442,6 @@
 	border-left		:1vw solid #f8e8b0;
 	border-right	:1vw solid #483800;
 	border-bottom	:1vw solid #483800;
-
 }
 
 .top_box_1{
