@@ -239,7 +239,7 @@ $(function(){
 			$('.img_box	').animate({'top':'120vh'},200);
 			var cvs = document.getElementById('cvs1');
 			var ctx = cvs.getContext('2d');
-			ctx.clearRect(0, 0, cvs_A,cvs_A);
+			ctx.clearRect(0, 0, 600,600);
 			$('.zoom_box').text('100');
 			Rote=0;
 		});
