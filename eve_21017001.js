@@ -231,6 +231,7 @@ $(function(){
 				'id'	:MainId,
 			},
 		}).done(function(data, textStatus, jqXHR){
+			console.log(data);
 			$('#main_img').attr('src',"../../asset/footmark/easytalk/face/noimage.png");
 			$('#img_label').val('');
 			$('img_id').val('');
