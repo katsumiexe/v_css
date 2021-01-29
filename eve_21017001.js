@@ -228,7 +228,7 @@ $(function(){
 			url:"post_img_del.php",
 			type: "POST",
 			data:{
-				'idcode'	:IdCode,
+				'id'	:MainId,
 			},
 		}).done(function(data, textStatus, jqXHR){
 			$('#main_img').attr('src',"../../asset/footmark/easytalk/face/noimage.png");
