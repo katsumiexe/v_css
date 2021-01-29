@@ -425,7 +425,7 @@
 }
 
 .i{
-	display:inline-block
+	display:inline-block;
 	height:4vw;
 	line-height:4vw;	
 	width:4.5vw;
