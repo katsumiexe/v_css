@@ -171,7 +171,7 @@ $(function(){
 		Left=cvs_B;
 		Right=cvs_B;
 		Rote=0;
-		$("#cvs1").css({'width': cvs_A,'height': cvs_A,'left': cvs_B,'top': cvs_B, 'transform':'rotate(0deg)'});
+		$("#cvs1").css({'width': css_l,'height': css_l,'left': css_p,'top': css_p, 'transform':'rotate(0deg)'});
 
 		$('.zoom_box').text(Zoom);
 		$('#img_zoom').val(Zoom);
