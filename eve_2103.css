@@ -1,0 +1,604 @@
+*{
+	box-sizing:content-box;
+	-webkit-transition: none;
+	-moz-transition: none;
+	-ms-transition: none;
+	-o-transition: none;
+}
+
+
+.f1{
+	top:-1.5vw;
+	left:0;
+	transform:rotateY(180deg) rotateX(180deg);
+}
+.f2{
+	top:-1.5vw;
+	right:0;
+	transform: rotateX(180deg);
+}
+.f3{
+	bottom:-1.5vw;
+	left:0;
+	transform:rotateY(180deg);
+}
+.f4{
+	bottom:-1.5vw;
+	right:0;
+	transform:rotate(0deg);
+}
+
+.album{
+	display			:none;
+	position		:fixed;
+	left			:0;
+	right			:0;
+	width			:76vw;
+	margin			:auto;
+	height			:24vw;
+	background		:linear-gradient(135deg, #ffb0e0,#f1a0d0);
+}
+
+.album_in{
+	display			:flex;
+	justify-content	:space-between;
+	flex-wrap		:wrap;
+	position		:absolute;
+	width			:82vw;
+	height			:20vw;
+
+	margin			:auto;
+	left			:0;
+	right			:0;
+	top				:0;
+	bottom			:0;
+}
+
+.album_img{
+	width			:20vw;
+	height			:20vw;
+	background		:#ff0000;
+	border			:1vw silid #fafafa;
+}
+
+.album_comm{
+	font-size		:3vw;
+	color			:#ff0000;
+}
+
+.box_slide_out{
+	position		:relative;
+	width			:100%;
+	height			:66vw;
+	overflow		:hidden;
+}
+
+.box_slide_img{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	width			:100%;
+}
+
+
+
+.box_slide{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:50vw;
+	height			:45vw;
+	background		:#fffafa;
+	font-size		:0;
+	box-shadow		:-3vw -3vw 20vw rgba(240,160,200,0.3)inset, 3vw 3vw 20vw rgba(240,160,200,0.3)inset;
+	border			:1vw solid #f1a0d0;
+	border-radius	:2vw;
+	overflow		:hidden;
+}
+
+.box_slide_in{
+	display:none;
+	position		:absolute;
+	top				:0vw;
+	right			:0vw;
+	width			:50vw;
+	height			:45vw;
+}
+
+.slide_shut{
+	position		:absolute;
+	top				:-10vw;
+	right			:-80vw;
+	width			:70vw;
+	height			:70vw;
+	background		:#f1a0d0;
+	transform		:rotate(20deg);
+	transform-origin:center;
+}	
+
+.slide_out{
+	position		:absolute;
+	top				:2vw;
+	left			:2vw;
+	width			:36vw;
+	height			:36vw;
+	margin			:1vw auto;
+	background		:linear-gradient(135deg, #ffc0e0 ,#ff90a0);
+	border-top		:0.5vw solid #ffe0f0;
+    border-left		:0.5vw solid #ffe0f0;
+    border-right	:0.5vw solid #483800;
+    border-bottom	:0.5vw solid #483800;
+}
+
+.slide_img{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	width			:32vw;
+	height			:32vw;
+	border-top		:0.5vw solid #483800;
+    border-left		:0.5vw solid #483800;
+    border-right	:0.5vw solid #ffe0f0;
+    border-bottom	:0.5vw solid #ffe0f0;	
+}
+
+
+.slide_ope{
+	position		:absolute;
+	top				:30vw;
+	right			:2vw;
+	width			:14vw;
+	height			:14vw;
+}
+
+.slide_name{
+	position		:absolute;
+	top				:40vw;
+	left			:2vw;
+	width			:30vw;
+	height			:5vw;
+	font-size		:3vw;
+	color			:#403030;
+	font-weight		:600;
+	margin-right	:1vw;
+	text-align		:right;
+}
+
+.slide_date{
+	position		:absolute;
+	top				:45vw;
+	left			:2vw;
+	width			:28vw;
+	height			:5vw;
+	font-size		:3vw;
+	color			:#606060;
+	text-align:right;
+}
+
+.box_main{
+	position		:relative;
+	width			:78vw;
+	height			:60vw;
+	background		:#fffafa;
+	margin			:1vw auto;
+	font-size		:0;
+	box-shadow		:-3vw -3vw 20vw rgba(220,100,100,0.3)inset, 3vw 3vw 20vw rgba(220,100,100,0.3)inset;
+}
+
+.img_f{
+	position		:absolute;
+	top				:25vw;
+	right			:4vw;
+	width			:22vw;
+	height			:22vw;
+}
+
+.img_p{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	width			:40vw;
+	height			:40vw;
+	border-top		:0.5vw solid #483800;
+    border-left		:0.5vw solid #483800;
+    border-right	:0.5vw solid #ffe0f0;
+    border-bottom	:0.5vw solid #ffe0f0;	
+}
+
+.img_p_out{
+	position		:absolute;
+	top				:2vw;
+	left			:4vw;
+	width			:44vw;
+	height			:44vw;
+	margin			:1vw auto;
+	background		:linear-gradient(135deg, #fafafa ,#e0e0e0);
+	background		:linear-gradient(135deg, #ffc0c0 ,#ff6060);
+	border-top		:0.5vw solid #ffe0f0;
+    border-left		:0.5vw solid #ffe0f0;
+    border-right	:0.5vw solid #483800;
+    border-bottom	:0.5vw solid #483800;
+	overflow		:hidden;
+}
+
+.box_ope{
+	position		:absolute;
+	top				:49vw;
+	left			:4vw;
+	width			:70vw;
+	height			:10vw;
+	background		:#fafafa;
+}
+
+.box_name{
+	position		:absolute;
+	top				:4vw;
+	left			:1vw;
+	width			:50vw;
+	height			:6vw;
+	line-height		:6vw;
+	font-size		:4vw;
+	text-align		:left;
+	font-weight		:500;
+}
+
+.box_date{
+	position		:absolute;
+	top				:0vw;
+	left			:1vw;
+	width			:50vw;
+	height			:4vw;
+	line-height		:4vw;
+	color			:#454545;
+	text-align		:left;
+
+}
+
+.icon{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	left			:0;
+	margin			:auto;
+	height			:4vw;
+	line-height		:4vw;
+	width			:4vw;
+	text-align		:center;
+	font-size		:3.5vw;
+}
+
+.box_date_in{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	left			:0.5vw;
+	margin			:auto;
+	height			:4vw;
+	line-height		:4vw;
+	text-align		:left;
+	font-size		:3.5vw;
+}
+
+.box_iine{
+	position		:absolute;
+	top				:0.5vw;
+	right			:1.5vw;
+	height			:7vw;
+	line-height		:7vw;
+	width			:10vw;
+	text-align		:center;
+	font-size		:4.5vw;
+	background		:linear-gradient( #d0d0d0,#b0b0b0);
+	border-radius	:1vw;
+	border			:1px solid #a0a0a0;
+	box-shadow		:0 1vw 0 #a0a0a0;
+	color			:#e0e0e0;
+	text-shadow:1px 1px 0 #ffffff, -1px -1px 0 #000000;
+}
+
+.box_iine_on{
+	top				:1.5vw;
+	background		:linear-gradient( #ffc0c0,#e0a0a0);
+	border			:1px solid #ffc0c0;
+	box-shadow		:0 0.5vw 0 #903030;
+	color			:#d00000;
+}
+
+.img_p_out2{
+	content		:"";
+	position	:absolute;
+	top			:-6vw;
+	left		:-30vw;
+	width		:20vw;
+	height		:57vw;
+	transform	:rotate(20deg);
+	background	:linear-gradient(90deg,rgba(255, 255, 240, 0.1),rgba(255, 255, 240, 1));
+	background	:linear-gradient(90deg,rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 1));
+}
+
+.list_title{
+	width		:90vw;
+	font-size	:4vw;
+	color		:#330000;
+	text-shadow:1px 1px 0 #ffffff;
+	font-weight	:600;
+	background	:#ff90a0;
+	margin		: 2vw auto 0 auto;
+	height		:8vw;
+	line-height	:8vw;
+	text-align	:left;
+	padding		:0 2vw;
+}
+
+
+.list{
+	display			:flex;
+	flex-wrap		:wrap;
+	width			:94vw;
+	margin			:0 auto;
+	font-size		:0;
+}
+
+
+.list_box{
+	position	:relative;
+	display		:inline-block;
+	width		:31vw;
+	flex-basis	:31vw;
+	height		:38vw;
+}
+
+.list_box_img{
+	width		:30vw;
+	height		:30vw;
+}
+
+.list_box_name{
+	position	:relative;
+	display		:inline-block;
+	width		:30vw;
+	height		:6vw;
+	line-height	:6vw;
+	font-size	:3.2vw;
+	background	:linear-gradient(135deg,#FAEDDB,#dacdbb);
+	overflow	:hidden;
+	border-top:2px solid #cabdcb;
+}
+
+.list_box_status{
+	position		:absolute;
+	display			:inline-block;
+	top				:24vw;
+	right			:2vw;
+	width			:14vw;
+	height			:5vw;
+	line-height		:5vw;
+	font-size		:3vw;
+	border-radius	:1vw;
+	font-weight		:600;
+	color			:#fafafa;
+}
+
+.list_msg{
+	display			:inline-block;
+	width			:84vw;
+	margin			:1vw auto;
+	padding			:2vw;
+	font-size		:3.5vw;
+	line-height		:5vw;
+	background		:#fafafa;
+	text-align		:left;
+}
+
+
+.list_open{
+	display			:inline-block;
+	width			:60vw;
+	height			:12vw;
+	line-height		:12vw;
+	margin			:1vw auto;
+	text-align		:center;
+	font-size		:4.5vw;
+	font-weight		:600;
+	background		:linear-gradient(135deg,#c00000,#000090);
+	color			:#fafafa;
+	border-radius	:1vw;
+}
+
+.info{
+	width:86vw;
+	padding:2vw;
+	border:1px solid #303030;
+	font-size:3.2vw;
+	text-align:left;
+	line-height:4.5vw;
+	margin:0 auto 2vw auto;
+}
+
+.i{
+	display:inline-block;
+	height:4vw;
+	line-height:4vw;	
+	width:4.5vw;
+	text-align:center;
+	font-size:3.6vw;
+}
+.top_box{
+	position	:relative;
+	display		:inline-block;
+	background	:linear-gradient(135deg,#faffff,#e0efef);
+	background	:linear-gradient(135deg,#e8d8a0 0%, #f0e0a8 50%, #d8c890 100%);
+	font-size	:4vw;
+	line-height	:5.8vw;
+	text-align	:left;
+	width		:84vw;
+	margin		:2vw auto;
+	padding		:5vw;
+	color		:#302520;
+	border-top		:1vw solid #f8e8b0;
+	border-left		:1vw solid #f8e8b0;
+	border-right	:1vw solid #483800;
+	border-bottom	:1vw solid #483800;
+}
+
+.top_box_1{
+	display		:inline-block;
+	background	:#fafafa;
+	font-size	:3.6vw;
+	line-height	:5vw;
+	text-align	:left;
+	width		:76vw;
+	margin		:1.5vw;
+	padding		:2vw;
+	color		:#303030;
+	border:1px solid #303030;
+	max-height:
+}
+
+.main_img{
+	margin		:5vw auto;
+	width		:50vw;
+	height		:50vw;
+}
+
+.check1{
+	position			:absolute;
+	left				:1vw;
+	bottom				:0;
+	width				:4vw;
+	height				:2vw;
+	border-bottom		:1vw solid #a00000;
+	border-left			:1vw solid #a00000;
+	transform			:rotate(-50deg);
+	transform-origin	:left bottom
+}
+
+.check2{
+	display				:inline-block;
+	position			:absolute;
+	left				:0.5vw;
+	top					:0;
+	bottom				:0;
+	margin				:auto;
+	width				:3vw;
+	height				:3vw;
+	border				:2px solid #303030;
+	background			:#fafafa;
+}
+
+.img_label_name{
+	display				:inline-block;
+	position			:relative;
+	width				:65vw;
+	height				:6vw;
+	color				:#fafafa;
+	border-bottom		:0.5vw solid #fafafa;
+	cursor				:pointer;
+	margin				:3vw auto 0 auto; 
+}
+
+.img_label_comm{
+	display				:inline-block;
+	position			:relative;
+	width				:62vw;
+	color				:#303030;
+	border-bottom		:0.5vw solid #303030;
+	margin				:2vw auto; 
+	font-size:			3.5vw;
+	background			:#fafafa;
+	text-align			:left;
+	padding				:1.5vw;
+	border-radius		:1vw;
+}
+
+.img_label_text{
+	position			:absolute;
+	display				:inline-block;
+	font-size			:3.5vw;
+	left				:5vw;
+	top					:0;
+	bottom				:0;
+	margin				:auto;
+	height				:8vw;
+	line-height			:8vw;
+	width				:60vw;
+	text-align			:left;
+}
+
+.title_0{
+	display			:flex;
+	height			:6vw;
+	width			:94vw;
+	margin			:0 auto;
+}
+
+.title_1{
+	display			:inline-block;
+	height			:8vw;
+	line-height		:8vw;
+	flex			:1;
+	border			:1px solid #303030;
+	background		:linear-gradient(#fafafa,#e0e0e0);
+	border-radius	:1vw 1vw 0 0;
+	cursor			:pointer;
+	font-size		:4vw;
+	text-align		:center;
+}
+
+.content{
+	display			:none;
+	width			:94vw;
+	margin			:0 auto 3vw auto;
+	min-height		:88vw;
+}
+
+#page1{
+	background		:#ffe0f0;
+}
+
+.tag_on{
+	background		:linear-gradient(#fae0e0,#fac0c0);
+}
+
+
+.btns{
+	display			:inline-block;
+	margin			:2vw;
+	width			:30vw;
+	height			:8vw;
+	line-height		:8vw;
+	font-size		:4vw;
+	font-weight		:600;
+	color			:#555555;
+	border-radius	:1vw;
+	cursor			:pointer;
+}
+
+#img_chg{
+	background		:linear-gradient(#ffe0e0,#ffd0d0);
+}
+
+#img_del{
+	background		:linear-gradient(#e0e0ff,#d0d0ff);
+}
+.btns:active{
+	background		:linear-gradient(#e0e0e0,#d0d0d0);
+}
+
+#sd0{
+	display:block;
+}
+
+#toggle_btn_head{
+    box-sizing: border-box;
+}
+
