@@ -349,11 +349,19 @@
 }
 
 
-.list_box{
+.list_box_a{
 	position	:relative;
 	display		:inline-block;
-	width		:31vw;
-	flex-basis	:31vw;
+	width		:94vw;
+	flex-basis	:94vw;
+	height		:38vw;
+}
+
+.list_box_b{
+	position	:relative;
+	display		:inline-block;
+	width		:46vw;
+	flex-basis	:46vw;
 	height		:38vw;
 }
 
