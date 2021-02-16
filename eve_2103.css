@@ -363,12 +363,27 @@
 	width		:46vw;
 	flex-basis	:46vw;
 	height		:38vw;
+	background:#f0e0ff;
 }
 
-.list_box_img{
-	width		:18vw;
-	height		:18vw;
+.list_box_b_p{
+	position	:absolute;
+	top			:0.5vw;
+	left		:0.5vw;
+	width		:20vw;
+	height		:20vw;
+
 }
+
+.list_box_b_img{
+	position	:absolute;
+	bottom		:0.5vw;
+	right		:0.5vw;
+	width		:16vw;
+	height		:16vw;
+
+}
+
 
 .list_box_name{
 	position	:relative;
