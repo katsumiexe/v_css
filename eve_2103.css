@@ -362,8 +362,9 @@
 	display		:inline-block;
 	width		:46vw;
 	flex-basis	:46vw;
-	height		:38vw;
+	height		:25vw;
 	background:#f0e0ff;
+	margin:0.5vw;
 }
 
 .list_box_b_p{
