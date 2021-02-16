@@ -362,14 +362,14 @@
 	display		:inline-block;
 	width		:46vw;
 	flex-basis	:46vw;
-	height		:25vw;
+	height		:32vw;
 	background:#f0e0ff;
 	margin:0.5vw;
 }
 
 .list_box_b_p{
 	position	:absolute;
-	top			:0.5vw;
+	top			:7.5vw;
 	left		:0.5vw;
 	width		:20vw;
 	height		:20vw;
@@ -382,7 +382,17 @@
 	right		:0.5vw;
 	width		:16vw;
 	height		:16vw;
+}
 
+.list_box_b_item{
+	position	:absolute;
+	display		:inline-block;
+	top			:0vw;
+	left		:0vw;
+	width		:46vw;
+	height		:6.5vw;
+	line-height	:6.5vw;
+	font-size	:4vw;
 }
 
 
