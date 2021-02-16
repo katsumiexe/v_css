@@ -364,7 +364,7 @@
 	flex-basis	:46vw;
 	height		:32vw;
 	background:#f0e0ff;
-	margin:0.5vw;
+	margin		:0.5vw;
 }
 
 .list_box_b_p{
@@ -390,9 +390,10 @@
 	top			:0vw;
 	left		:0vw;
 	width		:46vw;
-	height		:6.5vw;
-	line-height	:6.5vw;
-	font-size	:4vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:3.5vw;
+	text-align:left;
 }
 
 
@@ -407,7 +408,7 @@
 	font-size	:3vw;
 	background	:linear-gradient(135deg,#FAEDDB,#dacdbb);
 	overflow	:hidden;
-	text-align:left;
+	text-align	:right;
 }
 
 .list_box_status{
