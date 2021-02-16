@@ -385,16 +385,18 @@
 }
 
 
-.list_box_name{
-	position	:relative;
+.list_box_b_name{
 	display		:inline-block;
-	width		:30vw;
-	height		:6vw;
-	line-height	:6vw;
-	font-size	:3.2vw;
+	position	:absolute;
+	bottom		:0.5vw;
+	right		:17vw;
+	width		:28vw;
+	height		:4vw;
+	line-height	:4vw;
+	font-size	:3vw;
 	background	:linear-gradient(135deg,#FAEDDB,#dacdbb);
 	overflow	:hidden;
-	border-top:2px solid #cabdcb;
+	text-align:left;
 }
 
 .list_box_status{
