@@ -362,7 +362,7 @@
 	display		:inline-block;
 	width		:46vw;
 	flex-basis	:46vw;
-	height		:32vw;
+	height		:29vw;
 	background:#f0e0ff;
 	margin		:0.5vw;
 }
@@ -390,10 +390,11 @@
 	top			:0vw;
 	left		:0vw;
 	width		:46vw;
-	height		:5vw;
-	line-height	:5vw;
+	height		:4.5vw;
+	line-height	:4.5vw;
 	font-size	:3.5vw;
-	text-align:left;
+	text-align	:left;
+	overflow	:hidden;
 }
 
 
