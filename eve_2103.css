@@ -369,8 +369,8 @@
 
 .list_box_b_p{
 	position	:absolute;
-	top			:9.5vw;
-	left		:1vw;
+	top			:10vw;
+	left		:2vw;
 	width		:22vw;
 	height		:22vw;
 
@@ -379,7 +379,7 @@
 .list_box_b_img{
 	position	:absolute;
 	top			:17vw;
-	right		:1vw;
+	right		:2vw;
 	width		:15vw;
 	height		:15vw;
 }
@@ -400,7 +400,7 @@
 .list_box_b_name{
 	display		:inline-block;
 	position	:absolute;
-	top			:34vw;
+	top			:33vw;
 	left		:1vw;
 	width		:26vw;
 	height		:4vw;
