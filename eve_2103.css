@@ -354,7 +354,8 @@
 	display		:inline-block;
 	width		:94vw;
 	flex-basis	:94vw;
-	height		:38vw;
+	height		:60vw;
+	background	:#d060aa;
 }
 
 .list_box_b{
@@ -633,6 +634,7 @@ a:hover{
 	color			:#555555;
 	cursor			:pointer;
 	background		:linear-gradient(#ffe0e0,#ffd0d0);
+	box-shadow:2px 2px 0 202020;
 }
 
 
