@@ -411,8 +411,14 @@
 	overflow	:hidden;
 	text-align	:left;
 	border-bottom:1px solid #0000d0;
-	padding: 0.5vw 1vw;
-	margin:auto;
+	padding		: 0.5vw 1vw;
+	margin		:auto;
+	color:#606060;
+}
+
+a:hover{
+	color:#606060 !important;
+	text-decoration:none;
 }
 
 .list_box_status{
