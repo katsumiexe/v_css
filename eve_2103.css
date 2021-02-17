@@ -348,15 +348,23 @@
 	font-size		:0;
 }
 
+.list_box_a_comm{
+	display		:block;
+	margin		:40vw auto 1vw auto;
+	background	:#fafafa;
+	padding		:2vw;
+	width		:86vw;
+	font-size:3.5vw;
+}
 
 .list_box_a{
 	position	:relative;
 	display		:inline-block;
 	width		:94vw;
 	flex-basis	:94vw;
-	height		:60vw;
+	min-height	:60vw;
 	background	:#d060aa;
-	margin:1vw auto;
+	margin		:1vw auto;
 }
 
 .list_box_a_p{
