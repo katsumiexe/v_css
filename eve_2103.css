@@ -356,7 +356,26 @@
 	flex-basis	:94vw;
 	height		:60vw;
 	background	:#d060aa;
+	margin:1vw auto;
 }
+
+
+.list_box_b_p{
+	position	:absolute;
+	top			:10vw;
+	left		:2vw;
+	width		:30vw;
+	height		:30vw;
+}
+
+.list_box_b_img{
+	position	:absolute;
+	top			:25vw;
+	right		:2vw;
+	width		:15vw;
+	height		:15vw;
+}
+
 
 .list_box_b{
 	position	:relative;
@@ -374,7 +393,6 @@
 	left		:2vw;
 	width		:22vw;
 	height		:22vw;
-
 }
 
 .list_box_b_img{
