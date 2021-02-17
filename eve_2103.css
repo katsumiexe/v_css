@@ -359,8 +359,7 @@
 	margin:1vw auto;
 }
 
-
-.list_box_b_p{
+.list_box_a_p{
 	position	:absolute;
 	top			:10vw;
 	left		:2vw;
@@ -368,7 +367,7 @@
 	height		:30vw;
 }
 
-.list_box_b_img{
+.list_box_a_img{
 	position	:absolute;
 	top			:25vw;
 	right		:2vw;
@@ -376,6 +375,38 @@
 	height		:15vw;
 }
 
+.list_box_a_item{
+	position	:absolute;
+	display		:inline-block;
+	top			:1vw;
+	left		:1vw;
+	width		:44vw;
+	height		:6.5vw;
+	line-height	:4vw;
+	font-size	:3.5vw;
+	text-align	:left;
+	color		:#606060;
+}
+
+
+.list_box_a_name{
+	display		:block;
+	position	:absolute;
+	top			:33vw;
+	left		:0vw;
+	right		:0vw;
+	width		:34vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:4vw;
+	overflow	:hidden;
+	text-align	:center;
+	border-bottom:1px solid #0000d0;
+	padding		: 0.5vw 1vw;
+	margin		:auto;
+	color		:#303030;
+	font-weight:600;
+}
 
 .list_box_b{
 	position	:relative;
@@ -413,7 +444,7 @@
 	line-height	:4vw;
 	font-size	:3.5vw;
 	text-align	:left;
-	color:#606060;
+	color		:#606060;
 }
 
 
