@@ -612,22 +612,17 @@
 	display			:inline-block;
 	margin			:2vw;
 	width			:30vw;
-	height			:8vw;
-	line-height		:8vw;
-	font-size		:4vw;
+	height			:6vw;
+	line-height		:6vw;
+	font-size		:3.5vw;
 	font-weight		:600;
 	color			:#555555;
 	border-radius	:1vw;
 	cursor			:pointer;
-}
-
-#img_chg{
 	background		:linear-gradient(#ffe0e0,#ffd0d0);
 }
 
-#img_del{
-	background		:linear-gradient(#e0e0ff,#d0d0ff);
-}
+
 .btns:active{
 	background		:linear-gradient(#e0e0e0,#d0d0d0);
 }
