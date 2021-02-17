@@ -362,7 +362,7 @@
 	display		:inline-block;
 	width		:46vw;
 	flex-basis	:46vw;
-	height		:46vw;
+	height		:50vw;
 	background:#f0e0ff;
 	margin		:0.5vw;
 }
@@ -405,11 +405,11 @@
 	left		:0vw;
 	right		:0vw;
 	width		:28vw;
-	height		:4vw;
-	line-height	:4vw;
-	font-size	:3vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:4vw;
 	overflow	:hidden;
-	text-align	:left;
+	text-align	:center;
 	border-bottom:1px solid #0000d0;
 	padding		: 0.5vw 1vw;
 	margin		:auto;
@@ -619,7 +619,7 @@ a:hover{
 
 .btns{
 	position		:absolute;
-	bottom			:1vw;
+	bottom			:3vw;
 	left			:0;
 	right			:0;
 	margin			:auto;
