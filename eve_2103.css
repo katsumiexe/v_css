@@ -627,6 +627,9 @@
 }
 
 .btnline_l,.btnline_r{
+	top				:0;
+	bottom			:0;
+	margin			:auto;
 	position		:absolute;
 	display			:inline-block;
 	width			:4vw;
@@ -637,15 +640,13 @@
 }
 
 .btnline_l{
-	top:-1.5vw;
-	left:0;
-	transform:rotaterotateX(45deg);
+	left:0.5;
+	transform:rotateX(135deg);
 }
 
 .btnline_r{
-	top:-1.5vw;
-	right:0;
-	transform:rotaterotateX(315deg);
+	right:0.5vw;
+	transform:rotateX(315deg);
 }
 
 
