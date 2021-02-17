@@ -369,7 +369,7 @@
 
 .list_box_a_img{
 	position	:absolute;
-	top			:25vw;
+	top			:28vw;
 	right		:2vw;
 	width		:15vw;
 	height		:15vw;
@@ -392,18 +392,16 @@
 .list_box_a_name{
 	display		:block;
 	position	:absolute;
-	top			:33vw;
-	left		:0vw;
-	right		:0vw;
+	top			:37vw;
+	left		:40vw;
 	width		:34vw;
 	height		:5vw;
 	line-height	:5vw;
 	font-size	:4vw;
 	overflow	:hidden;
-	text-align	:center;
+	text-align	:left;
 	border-bottom:1px solid #0000d0;
 	padding		: 0.5vw 1vw;
-	margin		:auto;
 	color		:#303030;
 	font-weight:600;
 }
