@@ -404,7 +404,7 @@
 	top			:33vw;
 	left		:0vw;
 	right		:0vw;
-	width		:28vw;
+	width		:34vw;
 	height		:5vw;
 	line-height	:5vw;
 	font-size	:4vw;
@@ -630,7 +630,6 @@ a:hover{
 	font-size		:3.2vw;
 	font-weight		:600;
 	color			:#555555;
-	border-radius	:2vw;
 	cursor			:pointer;
 	background		:linear-gradient(#ffe0e0,#ffd0d0);
 }
