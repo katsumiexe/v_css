@@ -362,15 +362,15 @@
 	display		:inline-block;
 	width		:46vw;
 	flex-basis	:46vw;
-	height		:29vw;
+	height		:35vw;
 	background:#f0e0ff;
 	margin		:0.5vw;
 }
 
 .list_box_b_p{
 	position	:absolute;
-	top			:7.5vw;
-	left		:0.5vw;
+	top			:9.5vw;
+	left		:1vw;
 	width		:20vw;
 	height		:20vw;
 
@@ -378,20 +378,20 @@
 
 .list_box_b_img{
 	position	:absolute;
-	bottom		:0.5vw;
-	right		:0.5vw;
-	width		:16vw;
-	height		:16vw;
+	bottom		:1vw;
+	right		:1vw;
+	width		:15vw;
+	height		:15vw;
 }
 
 .list_box_b_item{
 	position	:absolute;
 	display		:inline-block;
-	top			:0vw;
-	left		:0vw;
-	width		:46vw;
-	height		:4.5vw;
-	line-height	:4.5vw;
+	top			:1vw;
+	left		:1vw;
+	width		:44vw;
+	height		:6.5vw;
+	line-height	:4vw;
 	font-size	:3.5vw;
 	text-align	:left;
 	overflow	:hidden;
@@ -403,13 +403,14 @@
 	position	:absolute;
 	bottom		:0.5vw;
 	right		:17vw;
-	width		:28vw;
+	width		:26vw;
 	height		:4vw;
 	line-height	:4vw;
 	font-size	:3vw;
-	background	:linear-gradient(135deg,#FAEDDB,#dacdbb);
 	overflow	:hidden;
 	text-align	:right;
+	border-bottom:1vw solid #0000d0;
+	padding 0.5vw 1vw;
 }
 
 .list_box_status{
