@@ -632,11 +632,13 @@
 	margin			:auto;
 	position		:absolute;
 	display			:inline-block;
-	width			:3vw;
-	height			:3vw;
+	width			:4vw;
+	height			:4vw;
+	line-height		:4vw;
 	font-family		:at_frame2;
 	font-size		:3vw;
 	transform-origin:center;
+	text-align		:center;
 }
 
 .btnline_l{
