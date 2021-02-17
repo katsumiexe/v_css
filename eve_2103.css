@@ -379,8 +379,8 @@
 	position	:absolute;
 	display		:inline-block;
 	top			:1vw;
-	left		:3vw;
-	width		:90vw;
+	left		:2vw;
+	width		:91vw;
 	height		:5vw;
 	line-height	:5vw;
 	font-size	:3.5vw;
@@ -699,13 +699,20 @@ a:hover{
 	font-weight		:600;
 	color			:#555555;
 	cursor			:pointer;
-	background		:linear-gradient(#ffe0e0,#ffd0d0);
+	background		:linear-gradient(#ffd0d0,#ffc0b0);
 	box-shadow:2px 2px 0 #202020;
 }
 
 
 .btns:active,.btns_a:active{
-	background		:linear-gradient(#e0e0e0,#d0d0d0);
+	background		:linear-gradient(#ffe0e0,#ffd0c0);
+
+  -webkit-transform: translateY(2px);
+  transform: translateY(2px);
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2);
+  border-bottom: none;
+
+
 }
 
 #sd0{
