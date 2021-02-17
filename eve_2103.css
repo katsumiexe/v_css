@@ -350,11 +350,12 @@
 
 .list_box_a_comm{
 	display		:block;
-	margin		:40vw auto 1vw auto;
+	margin		:53vw auto 1vw auto;
 	background	:#fafafa;
 	padding		:2vw;
 	width		:86vw;
 	font-size	:3.5vw;
+	text-align:left;
 }
 
 .list_box_a{
