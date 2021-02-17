@@ -609,6 +609,11 @@
 
 
 .btns{
+	position		:absolute;
+	bottom			:1vw;
+	left			:0;
+	right			:0;
+	margin			:auto;
 	display			:inline-block;
 	margin			:2vw;
 	width			:30vw;
