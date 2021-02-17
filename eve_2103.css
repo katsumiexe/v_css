@@ -348,16 +348,6 @@
 	font-size		:0;
 }
 
-#ck{
-	display:none;
-	font-size:20px;
-	position:fixed;
-	bottom:50px;
-	right:20px;
-	z-index:99999;
-}
-
-
 .list_box_a_comm{
 	display		:block;
 	margin		:53vw auto 2vw auto;
@@ -426,15 +416,33 @@
 	font-weight:600;
 }
 
-.list_box_b{
+.sbox{
 	position	:relative;
+	display		:block;
+	width		:94vw;
+	flex-basis	:94vw;
+	height		:50vw;
+	background	:#0000d0;
+	margin		:0.5vw auto;
+}
+
+.list_box_b{
+	position	:absolute;
+	top			:0;
 	display		:inline-block;
 	width		:46vw;
-	flex-basis	:46vw;
 	height		:50vw;
-	background:#f0e0ff;
-	margin		:0.5vw;
+	background	:#f0e0ff;
 }
+
+.pg1{
+	left:0;
+}
+
+.pg0{
+	right:0;
+}
+
 
 .list_box_b_p{
 	position	:absolute;
