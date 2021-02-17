@@ -666,6 +666,24 @@ a:hover{
 }
 
 
+.btns_a{
+	position		:absolute;
+	top				:45vw;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	display			:inline-block;
+	width			:28vw;
+	height			:6vw;
+	line-height		:6vw;
+	font-size		:3.2vw;
+	font-weight		:600;
+	color			:#555555;
+	cursor			:pointer;
+	background		:linear-gradient(#ffe0e0,#ffd0d0);
+	box-shadow:2px 2px 0 202020;
+}
+
 .btns{
 	position		:absolute;
 	bottom			:3vw;
@@ -685,7 +703,7 @@ a:hover{
 }
 
 
-.btns:active{
+.btns:active,.btns_a:active{
 	background		:linear-gradient(#e0e0e0,#d0d0d0);
 }
 
