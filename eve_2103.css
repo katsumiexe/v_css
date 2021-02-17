@@ -348,6 +348,15 @@
 	font-size		:0;
 }
 
+#ck{
+	display:none;
+	font-size:20px;
+	posisiton:fixed;
+	bottom:50px;
+	right:20px;
+}
+
+
 .list_box_a_comm{
 	display		:block;
 	margin		:53vw auto 2vw auto;
