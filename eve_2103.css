@@ -362,7 +362,7 @@
 	display		:inline-block;
 	width		:46vw;
 	flex-basis	:46vw;
-	height		:45vw;
+	height		:42vw;
 	background:#f0e0ff;
 	margin		:0.5vw;
 }
@@ -378,7 +378,7 @@
 
 .list_box_b_img{
 	position	:absolute;
-	bottom		:1vw;
+	top			:10vw;
 	right		:1vw;
 	width		:15vw;
 	height		:15vw;
@@ -402,14 +402,14 @@
 	position	:absolute;
 	top			:30vw;
 	left		:1vw;
-	width		:28vw;
+	width		:26vw;
 	height		:4vw;
 	line-height	:4vw;
 	font-size	:3vw;
 	overflow	:hidden;
 	text-align	:left;
 	border-bottom:1px solid #0000d0;
-	padding 0.5vw 1vw;
+	padding: 0.5vw 1vw;
 }
 
 .list_box_status{
