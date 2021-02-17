@@ -628,33 +628,6 @@
 	background		:linear-gradient(#ffe0e0,#ffd0d0);
 }
 
-.btnline_l,.btnline_r{
-	top				:0;
-	bottom			:0;
-	margin			:auto;
-	position		:absolute;
-	display			:inline-block;
-	width			:3vw;
-	height			:3vw;
-	line-height		:3vw;
-	font-family		:at_frame2;
-	font-size		:3vw;
-	transform-origin:center;
-	text-align		:center;
-}
-
-.btnline_l{
-	left:0.5vw;
-	transform:rotate(135deg);
-}
-
-.btnline_r{
-	right:0.5vw;
-	transform:rotate(315deg);
-}
-
-
-
 
 .btns:active{
 	background		:linear-gradient(#e0e0e0,#d0d0d0);
