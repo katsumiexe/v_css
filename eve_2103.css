@@ -398,11 +398,12 @@
 
 
 .list_box_b_name{
-	display		:inline-block;
+	display		:block;
 	position	:absolute;
 	top			:33vw;
-	left		:1vw;
-	width		:26vw;
+	left		:0vw;
+	right		:0vw;
+	width		:28vw;
 	height		:4vw;
 	line-height	:4vw;
 	font-size	:3vw;
@@ -410,6 +411,7 @@
 	text-align	:left;
 	border-bottom:1px solid #0000d0;
 	padding: 0.5vw 1vw;
+	margin:auto;
 }
 
 .list_box_status{
