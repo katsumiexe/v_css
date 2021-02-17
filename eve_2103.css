@@ -632,9 +632,9 @@
 	margin			:auto;
 	position		:absolute;
 	display			:inline-block;
-	width			:4vw;
-	height			:4vw;
-	line-height		:4vw;
+	width			:3vw;
+	height			:3vw;
+	line-height		:3vw;
 	font-family		:at_frame2;
 	font-size		:3vw;
 	transform-origin:center;
