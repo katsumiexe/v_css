@@ -626,7 +626,7 @@
 	background		:linear-gradient(#ffe0e0,#ffd0d0);
 }
 
-.btnline_l{
+.btnline_l,.btnline_r{
 	display			:inline-block;
 	width			:10vw;
 	height			:10vw;
