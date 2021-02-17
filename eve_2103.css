@@ -394,7 +394,7 @@
 	line-height	:4vw;
 	font-size	:3.5vw;
 	text-align	:left;
-	overflow	:hidden;
+	overflow-x	:hidden;
 }
 
 
@@ -409,7 +409,7 @@
 	font-size	:3vw;
 	overflow	:hidden;
 	text-align	:right;
-	border-bottom:1vw solid #0000d0;
+	border-bottom:1px solid #0000d0;
 	padding 0.5vw 1vw;
 }
 
