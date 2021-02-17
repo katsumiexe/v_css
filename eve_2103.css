@@ -363,8 +363,8 @@
 	position	:absolute;
 	top			:10vw;
 	left		:2vw;
-	width		:30vw;
-	height		:30vw;
+	width		:36vw;
+	height		:36vw;
 }
 
 .list_box_a_img{
@@ -380,10 +380,10 @@
 	display		:inline-block;
 	top			:1vw;
 	left		:1vw;
-	width		:44vw;
+	width		:90vw;
 	height		:6.5vw;
-	line-height	:4vw;
-	font-size	:3.5vw;
+	line-height	:6.5vw;
+	font-size	:4vw;
 	text-align	:left;
 	color		:#606060;
 }
