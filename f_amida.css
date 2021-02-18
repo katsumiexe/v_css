@@ -610,22 +610,22 @@
 }
 
 .a_line{
-	display:inline-block;
-	position:absolute;
-	width:20vw;
-	height:12vw;
-	border-left:1vw solid #909090;
-	box-sizing:border-box;
-	z-index:1;
+	display			:inline-block;
+	position		:absolute;
+	width			:20vw;
+	height			:12vw;
+	border-left		:1vw solid #909090;
+	box-sizing		:border-box;
+	z-index			:1;
 }
 .a_line_end{
-	border-right:1vw solid #909090;
-	z-index:1;
+	border-right	:1vw solid #909090;
+	z-index			:1;
 }
 
 .a_line_on{
-	border-bottom:1vw solid #909090;
-	z-index:1;
+	border-bottom	:1vw solid #909090;
+	z-index			:1;
 }
 
 .discover{
