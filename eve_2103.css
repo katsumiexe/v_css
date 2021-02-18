@@ -434,8 +434,8 @@
 .sbox{
 	position	:relative;
 	display		:block;
-	width		:97vw;
-	flex-basis	:97vw;
+	width		:96vw;
+	flex-basis	:96vw;
 	height		:52vw;
 	margin		:0.5vw auto;
 }
@@ -444,7 +444,7 @@
 	position	:absolute;
 	top			:20vw;
 	display		:inline-block;
-	width		:46vw;
+	width		:45vw;
 	height		:50vw;
 	background	:linear-gradient(135deg,#f0e5e0,#e0d5d0);
 	opacity		:0;
