@@ -437,7 +437,6 @@
 	width		:94vw;
 	flex-basis	:94vw;
 	height		:50vw;
-	background	:#0000d0;
 	margin		:0.5vw auto;
 }
 
@@ -447,6 +446,7 @@
 	display		:inline-block;
 	width		:46vw;
 	height		:50vw;
+	background	:linear-gradient(135deg,#f0e5e0,#e0d5d0);
 	opacity		:0;
 }
 
