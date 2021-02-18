@@ -695,7 +695,7 @@ a:hover{
 }
 
 
-.btns_a,.btns_b{
+.btns_a,.btns_an{
 	position		:absolute;
 	top				:45vw;
 	left			:0;
@@ -713,11 +713,8 @@ a:hover{
 	box-shadow:2px 2px 0 #202020;
 }
 
-.btns_b{
-	background		:linear-gradient(#e0e0e0,#dddddd);
-}
 
-.btns{
+.btns_n,.btns{
 	position		:absolute;
 	bottom			:3vw;
 	left			:0;
@@ -743,9 +740,12 @@ a:hover{
   transform: translateY(2px);
   box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2);
   border-bottom: none;
-
-
 }
+
+.btns_n,.btns_an{
+	background		:linear-gradient(#e0e0e0,#dddddd);
+}
+
 
 #sd0{
 	display:block;
