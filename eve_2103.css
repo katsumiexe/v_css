@@ -695,7 +695,7 @@ a:hover{
 }
 
 
-.btns_a{
+.btns_a,.btns_b{
 	position		:absolute;
 	top				:45vw;
 	left			:0;
@@ -711,6 +711,10 @@ a:hover{
 	cursor			:pointer;
 	background		:linear-gradient(#ffe0e0,#ffd0d0);
 	box-shadow:2px 2px 0 #202020;
+}
+
+.btns_b{
+	background		:linear-gradient(#e0e0e0,#dddddd);
 }
 
 .btns{
