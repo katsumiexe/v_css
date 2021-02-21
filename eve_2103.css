@@ -361,6 +361,19 @@
 	box-shadow		:2px 2px 0 #003000;
 }
 
+.list_box_a_cnt{
+	position		:absolute;
+	top				:1vw;
+	left			:1vw;
+	background		:linear-gradient(135deg,#00a000,#008000);
+	color			:#fafafa;
+	font-weight		:600;
+	font-size		:4vw;
+	padding			:0.5vw 1vw;
+	border-radius	:1vw;
+	box-shadow		:2px 2px 0 #003000;
+}
+
 
 
 .list_box_a_comm{
