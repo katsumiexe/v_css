@@ -439,12 +439,22 @@
 }
 
 .sch_tl,.sch_tr,.sch_bl,.sch_br{
-	display:block;
-	position	:absolute;
-	background	:#0000d0;
-	height		:1vw;
-	width		:1vw;
-	border-radius:50%;
+	display			:block;
+	position		:absolute;
+	background		:#0000d0;
+	height			:1vw;
+	width			:1vw;
+	border-radius	:50%;
+}
+
+.sch_title{
+	display			:block;
+	height			:5vw;
+	line-height		:5vw;
+	width			:30vw;
+	border-bottom	:0.5vw solid #000090;
+	text-align		:center;
+	margin			:0 auto;
 }
 
 .sch_tl{
