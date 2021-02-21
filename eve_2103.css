@@ -425,6 +425,16 @@
 }
 
 
+.list_box_a_sch{
+	display		:block;
+	position	:absolute;
+	top			:23vw;
+	left		:40vw;
+	width		:46vw;
+	height		:20vw;
+	background	:#fafafa;
+}
+
 .list_box_a_name{
 	display		:block;
 	position	:absolute;
