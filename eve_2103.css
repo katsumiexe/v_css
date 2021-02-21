@@ -429,9 +429,9 @@
 	display		:flex;
 	flex-wrap	:wrap;
 	position	:absolute;
-	top			:22vw;
-	left		:44vw;
-	width		:36vw;
+	top			:20.5vw;
+	left		:42vw;
+	width		:40vw;
 	height		:19vw;
 	background	:#fafafa;
 	border		:1vw solid #a0c0ff;
