@@ -455,6 +455,9 @@
 	border-bottom	:0.5vw solid #000090;
 	text-align		:center;
 	margin			:0 auto;
+	font-size		:4vw;
+	color			:#0000c0;
+	font-weight		:600;
 }
 
 .sch_tl{
