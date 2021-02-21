@@ -406,8 +406,8 @@
 	position	:absolute;
 	top			:6vw;
 	right		:2vw;
-	width		:15vw;
-	height		:15vw;
+	width		:13vw;
+	height		:13vw;
 }
 
 .list_box_a_item{
@@ -499,9 +499,9 @@
 .list_box_a_name{
 	display		:block;
 	position	:absolute;
-	top			:15vw;
+	top			:13vw;
 	left		:40vw;
-	width		:34vw;
+	width		:35vw;
 	height		:4.5vw;
 	line-height	:4.5vw;
 	font-size	:3.8vw;
@@ -600,7 +600,7 @@ a:hover{
 .list_box_status{
 	position		:absolute;
 	display			:inline-block;
-	top				:9vw;
+	top				:7vw;
 	right			:40vw;
 	width			:14vw;
 	height			:5vw;
@@ -799,7 +799,7 @@ a:hover{
 	left			:2vw;
 	margin			:auto;
 	display			:inline-block;
-	width			:30vw;
+	width			:32vw;
 	height			:6vw;
 	line-height		:6vw;
 	font-size		:3.2vw;
