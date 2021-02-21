@@ -430,9 +430,10 @@
 	position	:absolute;
 	top			:23vw;
 	left		:40vw;
-	width		:46vw;
-	height		:20vw;
+	width		:50vw;
+	height		:18vw;
 	background	:#fafafa;
+	border		:1vw solid #a0c0ff;
 }
 
 .list_box_a_name{
