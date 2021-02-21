@@ -436,6 +436,8 @@
 	background	:#fafafa;
 	border		:1vw solid #a0c0ff;
 	padding		:1vw 3vw 
+	box-shadow:5vw 5vw 10vw rgba(200,220,255,0.5) inset,-5vw -5vw 10vw rgba(200,220,255,0.5) inset;
+
 }
 
 .sch_tl,.sch_tr,.sch_bl,.sch_br{
