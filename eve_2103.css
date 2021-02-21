@@ -350,13 +350,13 @@
 
 .list_box_cnt{
 	position		:absolute;
-	top				:7vw;
-	right			:2vw;
+	top				:9vw;
+	right			:2.5vw;
 	background		:linear-gradient(135deg,#00a000,#008000);
 	color			:#fafafa;
 	font-weight		:600;
 	font-size		:4vw;
-	padding			:0.5vw 1vw;
+	padding			:0.5vw 1.5vw;
 	border-radius	:1vw;
 	box-shadow		:2px 2px 0 #003000;
 }
