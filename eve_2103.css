@@ -426,15 +426,48 @@
 
 
 .list_box_a_sch{
-	display		:block;
+	display		:flex;
+	flex-wrap	:wrap;
 	position	:absolute;
 	top			:23vw;
 	left		:40vw;
-	width		:50vw;
-	height		:18vw;
+	width		:44vw;
+	height		:16vw;
 	background	:#fafafa;
 	border		:1vw solid #a0c0ff;
+	padding		:1vw 3vw 
 }
+
+.sch_tl,.sch_tr,.sch_bl,.sch_br{
+	display:block;
+	position	:absolute;
+	background	:#0000d0;
+	height		:1vw;
+	width		:1vw;
+	border-radius:50%;
+}
+
+.sch_tl{
+	top			:1vw;
+	left		:1vw;
+}
+
+.sch_tr{
+	top			:1vw;
+	right		:1vw;
+}
+
+.sch_bl{
+	bottom		:1vw;
+	left		:1vw;
+}
+
+.sch_br{
+	bottom		:1vw;
+	right		:1vw;
+}
+
+
 
 .list_box_a_name{
 	display		:block;
