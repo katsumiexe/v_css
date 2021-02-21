@@ -453,12 +453,12 @@
 	display			:block;
 	height			:4vw;
 	line-height		:4vw;
-	width			:44vw;
+	width			:46vw;
 	text-align		:left;
 	margin			:0 auto;
-	font-size		:3.5vw;
-	color			:#303030;
-	font-weight		:600;
+	font-size		:3.2vw;
+	color			:#000000;
+	font-weight		:500;
 }
 
 .sch_list{
@@ -466,8 +466,8 @@
 	width			:44vw;
 	color			:#454545;
 	text-align		:left;
-	font-size		:3.5vw;
-	margin			:0 auto;
+	font-size		:3.2vw;
+	margin			:0 auto 0.5vw auto;;
 
 }
 
