@@ -428,7 +428,7 @@
 .list_box_a_name{
 	display		:block;
 	position	:absolute;
-	top			:13vw;
+	top			:15vw;
 	left		:40vw;
 	width		:34vw;
 	height		:4.5vw;
@@ -529,7 +529,7 @@ a:hover{
 .list_box_status{
 	position		:absolute;
 	display			:inline-block;
-	top				:7vw;
+	top				:9vw;
 	right			:40vw;
 	width			:14vw;
 	height			:5vw;
