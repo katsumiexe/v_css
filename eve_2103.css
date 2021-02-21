@@ -430,8 +430,8 @@
 	flex-wrap	:wrap;
 	position	:absolute;
 	top			:23vw;
-	left		:40vw;
-	width		:44vw;
+	left		:44vw;
+	width		:36vw;
 	height		:16vw;
 	background	:#fafafa;
 	border		:1vw solid #a0c0ff;
@@ -451,7 +451,7 @@
 	display			:block;
 	height			:4vw;
 	line-height		:4vw;
-	width			:38vw;
+	width			:32vw;
 	border-bottom	:0.5vw solid #000090;
 	text-align		:center;
 	margin			:0 auto;
@@ -462,7 +462,7 @@
 
 .sch_list{
 	display			:block;
-	width			:38vw;
+	width			:32vw;
 	color			:#303030;
 	height			:4vw;
 	line-height		:4vw;
