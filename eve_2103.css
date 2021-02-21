@@ -429,10 +429,10 @@
 	display		:flex;
 	flex-wrap	:wrap;
 	position	:absolute;
-	top			:21vw;
+	top			:22vw;
 	left		:44vw;
 	width		:36vw;
-	height		:18vw;
+	height		:19vw;
 	background	:#fafafa;
 	border		:1vw solid #a0c0ff;
 	padding		:1vw 3vw 
@@ -470,6 +470,8 @@
 	line-height		:4.5vw;
 	text-align		:left;
 	font-size		:3.5vw;
+	margin			:0 auto;
+
 }
 
 .sch_tl{
