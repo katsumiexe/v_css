@@ -404,7 +404,7 @@
 
 .list_box_a_img{
 	position	:absolute;
-	top			:28vw;
+	top			:6vw;
 	right		:2vw;
 	width		:15vw;
 	height		:15vw;
@@ -414,10 +414,10 @@
 	position	:absolute;
 	display		:inline-block;
 	top			:1vw;
-	left		:16vw;
+	left		:15vw;
 	width		:76vw;
-	height		:6vw;
-	line-height	:7vw;
+	height		:5vw;
+	line-height	:5vw;
 	font-size	:3.5vw;
 	text-align	:left;
 	color		:#151516;
