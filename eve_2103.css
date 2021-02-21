@@ -436,7 +436,7 @@
 	background	:#fafafa;
 	border		:1vw solid #a0c0ff;
 	padding		:1vw 3vw; 
-	box-shadow:5vw 5vw 10vw rgba(200,220,255,0.5) inset,-5vw -5vw 10vw rgba(200,220,255,0.5) inset;
+	box-shadow:5vw 5vw 10vw rgba(200,220,255,0.2) inset,-5vw -5vw 10vw rgba(200,220,255,0.2) inset;
 
 }
 
@@ -457,14 +457,14 @@
 	text-align		:left;
 	margin			:0 auto;
 	font-size		:3.5vw;
-	color			:#3060d0;
+	color			:#303030;
 	font-weight		:600;
 }
 
 .sch_list{
 	display			:block;
 	width			:44vw;
-	color			:#6090ff;
+	color			:#454545;
 	text-align		:left;
 	font-size		:3.5vw;
 	margin			:0 auto;
