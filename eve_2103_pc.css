@@ -317,8 +317,8 @@
 .list_box_a{
 	position	:relative;
 	display		:inline-block;
-	width		:1200px;
-	flex-basis	:1200px;
+	width		:900px;
+	flex-basis	:900px;
 	min-height	:300px;
 	background	:#e5f5ff;
 	margin		:1vw auto;
