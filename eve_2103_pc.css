@@ -317,8 +317,8 @@
 .list_box_a{
 	position	:relative;
 	display		:inline-block;
-	width		:900px;
-	flex-basis	:900px;
+	width		:1000px;
+	flex-basis	:1000px;
 	min-height	:300px;
 	background	:#e5f5ff;
 	margin		:1vw auto;
@@ -344,7 +344,7 @@
 	margin		:200px auto 20px auto;
 	background	:#fafafa;
 	padding		:20px;
-	width		:1000px;
+	width		:900px;
 	font-size	:20px;
 	line-height	:30px;
 	text-align	:left;
@@ -465,8 +465,91 @@
 	text-align		:left;
 	font-size		:16px;
 	margin			:0 auto 15px auto;
-
 }
+
+.sbox{
+	position	:relative;
+	display		:block;
+	width		:96vw;
+	flex-basis	:96vw;
+	height		:52vw;
+	margin		:0.5vw auto;
+}
+
+
+
+.list_box_b{
+	position	:absolute;
+	top			:20vw;
+	display		:inline-block;
+	width		:45vw;
+	height		:50vw;
+	background	:linear-gradient(135deg,#fff5f0,#efe5e0);
+	opacity		:0;
+	border:2px solid #906000;
+}
+
+.pg1{
+	left:-60vw;
+}
+
+.pg0{
+	right:-60vw;
+}
+
+
+.list_box_b_p{
+	position	:absolute;
+	top			:10vw;
+	left		:2vw;
+	width		:22vw;
+	height		:22vw;
+}
+
+.list_box_b_img{
+	position	:absolute;
+	top			:17vw;
+	right		:2vw;
+	width		:15vw;
+	height		:15vw;
+}
+
+.list_box_b_item{
+	position	:absolute;
+	display		:inline-block;
+	top			:1vw;
+	left		:1vw;
+	width		:44vw;
+	height		:6.5vw;
+	line-height	:4vw;
+	font-size	:3.5vw;
+	text-align	:left;
+	color		:#000000;
+	font-weight	:600;
+}
+
+
+.list_box_b_name{
+	display		:block;
+	position	:absolute;
+	top			:33vw;
+	left		:0vw;
+	right		:0vw;
+	width		:34vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:4vw;
+	overflow	:hidden;
+	text-align	:center;
+	border-bottom:1px solid #0000d0;
+	padding		: 0.5vw 1vw;
+	margin		:auto;
+	color		:#303030;
+	font-weight:600;
+}
+
+
+
 
 
 .list_box{
