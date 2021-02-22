@@ -129,9 +129,9 @@
 }
 
 .img_slide_in{
-	position:absolute;
+	position	:absolute;
 	top			:0;
-	left		:-22vw;
+	left		:-11vw;
 	display		:flex;
 	width		:529vw;
 	height		:23vw;
