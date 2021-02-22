@@ -340,6 +340,20 @@
 }
 
 
+.list_title_2{
+	width		:90vw;
+	font-size	:3.5vw;
+	color		:#202020;
+	font-weight	:600;
+	background	:#d0d0d0;
+	margin		:1vw auto 0 auto;
+	height		:6vw;
+	line-height	:6vw;
+	text-align	:left;
+	padding		:0 2vw;
+}
+
+
 .list{
 	display			:flex;
 	flex-wrap		:wrap;
