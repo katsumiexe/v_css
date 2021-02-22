@@ -480,38 +480,38 @@
 
 .list_box_b{
 	position	:absolute;
-	top			:20vw;
+	top			:100px;
 	display		:inline-block;
-	width		:45vw;
-	height		:50vw;
+	width		:450px;
+	height		:200px;
 	background	:linear-gradient(135deg,#fff5f0,#efe5e0);
 	opacity		:0;
 	border:2px solid #906000;
 }
 
 .pg1{
-	left:-60vw;
+	left:-200px;
 }
 
 .pg0{
-	right:-60vw;
+	right:-200px;
 }
 
 
 .list_box_b_p{
 	position	:absolute;
-	top			:10vw;
-	left		:2vw;
-	width		:22vw;
-	height		:22vw;
+	top			:10px;
+	left		:10px;
+	width		:180px;
+	height		:180px;
 }
 
 .list_box_b_img{
 	position	:absolute;
-	top			:17vw;
-	right		:2vw;
-	width		:15vw;
-	height		:15vw;
+	top			:70px;
+	right		:10px;
+	width		:120px;
+	height		:120px;
 }
 
 .list_box_b_item{
