@@ -131,10 +131,10 @@
 .img_slide_in{
 	position	:absolute;
 	top			:0;
-	left		:-11vw;
+	left		:-11.5vw;
 	display		:flex;
 	width		:529vw;
-	height		:22.5vw;
+	height		:23vw;
 	overflow	:hidden;
 }
 
