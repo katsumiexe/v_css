@@ -470,12 +470,11 @@
 .sbox{
 	position	:relative;
 	display		:block;
-	width		:96vw;
-	flex-basis	:96vw;
-	height		:52vw;
-	margin		:0.5vw auto;
+	width		:1000px;
+	flex-basis	:1000px;
+	height		:200px;
+	margin		:10px auto;
 }
-
 
 
 .list_box_b{
