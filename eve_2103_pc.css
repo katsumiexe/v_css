@@ -326,14 +326,15 @@
 
 .list_box_a_cnt{
 	position		:absolute;
+	display			:inline-block;
 	top				:10px;
-	left			:10px;
+	left			:210px;
 	background		:linear-gradient(135deg,#00a000,#008000);
 	color			:#fafafa;
 	font-weight		:600;
-	font-size		:16px;
-	padding			:5x 15px;
-	border-radius	:10px;
+	font-size		:18px;
+	padding			:20px;
+	border-radius	:5px;
 	box-shadow		:2px 2px 0 #003000;
 }
 
@@ -369,11 +370,11 @@
 	position	:absolute;
 	display		:inline-block;
 	top			:10px;
-	left		:120px;
+	left		:260px;
 	width		:1000px;
-	height		:24px;
-	line-height	:24px;
-	font-size	:18px;
+	height		:28px;
+	line-height	:28px;
+	font-size	:22px;
 	text-align	:left;
 	color		:#151516;
 	font-weight	:600;
