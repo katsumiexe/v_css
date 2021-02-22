@@ -517,12 +517,12 @@
 .list_box_b_item{
 	position	:absolute;
 	display		:inline-block;
-	top			:1vw;
-	left		:1vw;
-	width		:44vw;
-	height		:6.5vw;
-	line-height	:4vw;
-	font-size	:3.5vw;
+	top			:10px;
+	left		:200px;
+	width		:220px;
+	height		:30px;
+	line-height	:30px;
+	font-size	:20px;
 	text-align	:left;
 	color		:#000000;
 	font-weight	:600;
@@ -533,17 +533,15 @@
 	display		:block;
 	position	:absolute;
 	top			:33vw;
-	left		:0vw;
-	right		:0vw;
-	width		:34vw;
-	height		:5vw;
-	line-height	:5vw;
-	font-size	:4vw;
+	left		:200px;
+	width		:150px;
+	height		:20px;
+	line-height	:20px;
+	font-size	:16px;
 	overflow	:hidden;
 	text-align	:center;
 	border-bottom:1px solid #0000d0;
-	padding		: 0.5vw 1vw;
-	margin		:auto;
+	padding		: 5px 10px;
 	color		:#303030;
 	font-weight:600;
 }
