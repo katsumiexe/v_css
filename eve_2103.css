@@ -119,13 +119,26 @@
 	transform-origin:center;
 }	
 
+.img_slide_in{
+	position:relative;
+	display		:block;
+	width		:92vw;
+	height		:24vw;
+	overflow	:hidden;
+}
+
+.img_slide_in{
+	display		:flex;
+	width		:529vw;
+	height		:23vw;
+	overflow	:hidden;
+}
+
 .slide_out{
-	position		:absolute;
-	top				:2vw;
-	left			:2vw;
-	width			:36vw;
-	height			:36vw;
-	margin			:1vw auto;
+	position		:relative;
+	width			:22vw;
+	height			:22vw;
+	margin			:0;
 	background		:linear-gradient(135deg, #ffc0e0 ,#ff90a0);
 	border-top		:0.5vw solid #ffe0f0;
     border-left		:0.5vw solid #ffe0f0;
@@ -140,8 +153,8 @@
 	left			:0;
 	right			:0;
 	margin			:auto;
-	width			:32vw;
-	height			:32vw;
+	width			:18vw;
+	height			:18vw;
 	border-top		:0.5vw solid #483800;
     border-left		:0.5vw solid #483800;
     border-right	:0.5vw solid #ffe0f0;
