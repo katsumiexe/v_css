@@ -335,7 +335,8 @@
 	font-size		:16px;
 	padding			:5px;
 	border-radius	:5px;
-	box-shadow		:2px 2px 0 #003000;
+	box-shadow		:5px 5px 5px #003000;
+	
 }
 
 .list_box_a_comm{
@@ -359,10 +360,10 @@
 
 .list_box_a_img{
 	position	:absolute;
-	top			:10px;
-	right		:10px;
-	width		:160px;
-	height		:160px;
+	top			:90px;
+	right		:320px;
+	width		:120px;
+	height		:120px;
 }
 
 .list_box_a_item{
