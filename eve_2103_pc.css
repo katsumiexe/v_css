@@ -549,6 +549,42 @@
 }
 
 
+btns_a,.btns_an{
+	position		:absolute;
+	top				:85px;
+	left			:220px;
+	margin			:auto;
+	display			:inline-block;
+	width			:180px;
+	height			:30px;
+	line-height		:30px;
+	font-size		:20px;
+	font-weight		:600;
+	color			:#555555;
+	cursor			:pointer;
+	background		:linear-gradient(#ffe0e0,#ffd0d0);
+	box-shadow:2px 2px 0 #202020;
+}
+
+
+.btns_n,.btns{
+	position		:absolute;
+	bottom			:3vw;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	display			:inline-block;
+	width			:34vw;
+	height			:6vw;
+	line-height		:6vw;
+	font-size		:3.2vw;
+	font-weight		:600;
+	color			:#555555;
+	cursor			:pointer;
+	background		:linear-gradient(#ffd0d0,#ffc0b0);
+	box-shadow:2px 2px 0 #202020;
+}
+
 
 
 
