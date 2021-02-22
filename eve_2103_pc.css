@@ -328,22 +328,22 @@
 	position		:absolute;
 	display			:inline-block;
 	top				:10px;
-	left			:210px;
+	left			:220px;
 	background		:linear-gradient(135deg,#00a000,#008000);
 	color			:#fafafa;
 	font-weight		:600;
-	font-size		:18px;
-	padding			:20px;
+	font-size		:16px;
+	padding			:5px;
 	border-radius	:5px;
 	box-shadow		:2px 2px 0 #003000;
 }
 
 .list_box_a_comm{
 	display		:block;
-	margin		:280px auto 20px auto;
+	margin		:200px auto 20px auto;
 	background	:#fafafa;
 	padding		:20px;
-	width		:800px;
+	width		:1000px;
 	font-size	:20px;
 	text-align	:left;
 }
@@ -372,9 +372,9 @@
 	top			:10px;
 	left		:260px;
 	width		:1000px;
-	height		:28px;
-	line-height	:28px;
-	font-size	:22px;
+	height		:32px;
+	line-height	:32px;
+	font-size	:24px;
 	text-align	:left;
 	color		:#151516;
 	font-weight	:600;
