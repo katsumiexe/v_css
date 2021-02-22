@@ -351,8 +351,8 @@
 
 .list_box_a_p{
 	position	:absolute;
-	top			:10px;
-	left		:10px;
+	top			:80px;
+	left		:80px;
 	width		:160px;
 	height		:160px;
 }
@@ -368,12 +368,12 @@
 .list_box_a_item{
 	position	:absolute;
 	display		:inline-block;
-	top			:1vw;
-	left		:15vw;
-	width		:76vw;
-	height		:5vw;
-	line-height	:5vw;
-	font-size	:3.5vw;
+	top			:10px;
+	left		:120px;
+	width		:1000px;
+	height		:24px;
+	line-height	:24px;
+	font-size	:18px;
 	text-align	:left;
 	color		:#151516;
 	font-weight:600;
