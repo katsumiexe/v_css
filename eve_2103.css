@@ -119,8 +119,8 @@
 	transform-origin:center;
 }	
 
-.img_slide_in{
-	position:relative;
+.img_slide{
+	position	:relative;
 	display		:block;
 	width		:92vw;
 	height		:24vw;
