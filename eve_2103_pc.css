@@ -351,7 +351,7 @@
 
 .list_box_a_p{
 	position	:absolute;
-	top			:80px;
+	top			:10px;
 	left		:10px;
 	width		:200px;
 	height		:200px;
@@ -391,7 +391,7 @@
 	background	:#fafafa;
 	border		:5px solid #a0c0ff;
 	padding		:10px; 
-	box-shadow:50px 50px 100px rgba(200,220,255,0.2) inset,-50px -50px 100px rgba(200,220,255,0.2) inset;
+	box-shadow	:50px 50px 100px rgba(200,220,255,0.2) inset,-50px -50px 100px rgba(200,220,255,0.2) inset;
 
 }
 
