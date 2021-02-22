@@ -312,16 +312,7 @@
 	text-align:center;
 	color:#202020;
 }
-.info{
-	width			:74vw;
-	padding			:2vw;
-	border			:1px solid #303030;
-	font-size		:3vw;
-	text-align		:left;
-	line-height		:4.5vw;
-	margin			:1vw auto 2vw auto;
-	background		:#fafafa;
-}
+
 
 .box_iine_on{
 	top				:1.5vw;
@@ -674,14 +665,16 @@ a:hover{
 }
 
 .info{
-	width:86vw;
-	padding:2vw;
-	border:1px solid #303030;
-	font-size:3.2vw;
-	text-align:left;
-	line-height:4.5vw;
-	margin:0 auto 2vw auto;
+	width			:74vw;
+	padding			:2vw;
+	border			:1px solid #303030;
+	font-size		:3vw;
+	text-align		:left;
+	line-height		:4.5vw;
+	margin			:1vw auto 2vw auto;
+	background		:#fafafa;
 }
+
 
 .i{
 	display:inline-block;
