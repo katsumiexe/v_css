@@ -125,9 +125,13 @@
 	width		:92vw;
 	height		:24vw;
 	overflow	:hidden;
+	margin:0 auto;
 }
 
 .img_slide_in{
+	position:absolute;
+	top			:0;
+	left		:-22vw;
 	display		:flex;
 	width		:529vw;
 	height		:23vw;
