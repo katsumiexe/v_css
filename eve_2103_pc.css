@@ -314,6 +314,90 @@
 }
 
 
+.list_box_a{
+	position	:relative;
+	display		:inline-block;
+	width		:1200px;
+	flex-basis	:1200px;
+	min-height	:300px;
+	background	:#e5f5ff;
+	margin		:1vw auto;
+}
+
+.list_box_a_cnt{
+	position		:absolute;
+	top				:1vw;
+	left			:1vw;
+	background		:linear-gradient(135deg,#00a000,#008000);
+	color			:#fafafa;
+	font-weight		:600;
+	font-size		:3.5vw;
+	padding			:0.5vw 1vw;
+	border-radius	:1vw;
+	box-shadow		:2px 2px 0 #003000;
+}
+
+.list_box_a_comm{
+	display		:block;
+	margin		:53vw auto 2vw auto;
+	background	:#fafafa;
+	padding		:2vw;
+	width		:86vw;
+	font-size	:3.5vw;
+	text-align	:left;
+}
+
+
+
+.list_box_a_p{
+	position	:absolute;
+	top			:10px;
+	left		:10px;
+	width		:160px;
+	height		:160px;
+}
+
+.list_box_a_img{
+	position	:absolute;
+	top			:10px;
+	right		:10px;
+	width		:80px;
+	height		:80px;
+}
+
+.list_box_a_item{
+	position	:absolute;
+	display		:inline-block;
+	top			:1vw;
+	left		:15vw;
+	width		:76vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:3.5vw;
+	text-align	:left;
+	color		:#151516;
+	font-weight:600;
+}
+
+
+.list_box_a_sch{
+	display		:flex;
+	flex-wrap	:wrap;
+	position	:absolute;
+	top			:20.5vw;
+	left		:40vw;
+	width		:48vw;
+	height		:27vw;
+	background	:#fafafa;
+	border		:1vw solid #a0c0ff;
+	padding		:1vw; 
+	box-shadow:5vw 5vw 10vw rgba(200,220,255,0.2) inset,-5vw -5vw 10vw rgba(200,220,255,0.2) inset;
+
+}
+
+
+
+
 .list_box{
 	position	:relative;
 	display		:inline-block;
@@ -570,3 +654,7 @@
 	text-align:center;
 	background-repeat: repeat;
 }
+
+
+
+
