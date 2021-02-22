@@ -313,14 +313,14 @@
 	color:#202020;
 }
 .info{
-	width:66vw;
-	padding:2vw;
-	border:1px solid #303030;
-	font-size:3vw;
-	text-align:left;
-	line-height:4.5vw;
-	margin:0 auto 2vw auto;
-	background:#fafafa;
+	width			:74vw;
+	padding			:2vw;
+	border			:1px solid #303030;
+	font-size		:3vw;
+	text-align		:left;
+	line-height		:4.5vw;
+	margin			:1vw auto 2vw auto;
+	background		:#fafafa;
 }
 
 .box_iine_on{
