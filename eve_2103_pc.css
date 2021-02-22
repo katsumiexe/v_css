@@ -344,7 +344,7 @@
 
 .list_box_a_comm{
 	display		:block;
-	margin		:200px auto 20px auto;
+	margin		:220px auto 20px auto;
 	background	:#fafafa;
 	padding		:20px;
 	width		:900px;
@@ -552,15 +552,15 @@
 .btns_a,.btns_an{
 	position		:absolute;
 	top				:85px;
-	left			:220px;
+	left			:260px;
 	margin			:auto;
 	display			:inline-block;
-	width			:180px;
+	width			:220px;
 	height			:30px;
 	line-height		:30px;
-	font-size		:20px;
+	font-size		:24px;
 	font-weight		:600;
-	color			:#555555;
+	color			:#202020;
 	cursor			:pointer;
 	background		:linear-gradient(#ffe0e0,#ffd0d0);
 	box-shadow:2px 2px 0 #202020;
