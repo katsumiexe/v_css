@@ -348,8 +348,6 @@
 	text-align	:left;
 }
 
-
-
 .list_box_a_p{
 	position	:absolute;
 	top			:10px;
@@ -370,8 +368,8 @@
 	position	:absolute;
 	display		:inline-block;
 	top			:10px;
-	left		:260px;
-	width		:1000px;
+	left		:280px;
+	width		:450px;
 	height		:32px;
 	line-height	:32px;
 	font-size	:24px;
@@ -387,8 +385,8 @@
 	position	:absolute;
 	top			:10px;
 	right		:10px;
-	width		:400px;
-	height		:200px;
+	width		:300px;
+	height		:170px;
 	background	:#fafafa;
 	border		:5px solid #a0c0ff;
 	padding		:10px; 
