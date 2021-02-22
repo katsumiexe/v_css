@@ -326,20 +326,20 @@
 
 .list_box_a_cnt{
 	position		:absolute;
-	top				:1vw;
-	left			:1vw;
+	top				:10px;
+	left			:10px;
 	background		:linear-gradient(135deg,#00a000,#008000);
 	color			:#fafafa;
 	font-weight		:600;
-	font-size		:3.5vw;
-	padding			:0.5vw 1vw;
-	border-radius	:1vw;
+	font-size		:16px;
+	padding			:5x 15px;
+	border-radius	:10px;
 	box-shadow		:2px 2px 0 #003000;
 }
 
 .list_box_a_comm{
 	display		:block;
-	margin		:300px auto 10px auto;
+	margin		:280px auto 20px auto;
 	background	:#fafafa;
 	padding		:20px;
 	width		:800px;
