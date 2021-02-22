@@ -335,7 +335,7 @@
 	font-size		:16px;
 	padding			:5px;
 	border-radius	:5px;
-	box-shadow		:5px 5px 5px #003000;
+	box-shadow		:3px 3px 0 #003000;
 	
 }
 
@@ -348,6 +348,7 @@
 	font-size	:20px;
 	line-height	:30px;
 	text-align	:left;
+	box-shadow		:5px 5px 5px #303030;
 }
 
 .list_box_a_p{
@@ -395,7 +396,7 @@
 	border-bottom:1px solid #0000d0;
 	padding		: 5px;
 	color		:#303030;
-	font-weight:600;
+	font-weight	:600;
 }
 
 
