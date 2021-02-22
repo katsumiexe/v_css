@@ -305,6 +305,14 @@
 	text-shadow:1px 1px 0 #ffffff, -1px -1px 0 #000000;
 }
 
+.kikan{
+	display:block;
+	font-weight:600;
+	font-size:3.2vw;
+	text-align:center;
+	color:#202020;
+}
+
 .box_iine_on{
 	top				:1.5vw;
 	background		:linear-gradient( #ffc0c0,#e0a0a0);
