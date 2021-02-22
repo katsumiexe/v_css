@@ -339,11 +339,11 @@
 
 .list_box_a_comm{
 	display		:block;
-	margin		:53vw auto 2vw auto;
+	margin		:300px auto 10px auto;
 	background	:#fafafa;
-	padding		:2vw;
-	width		:86vw;
-	font-size	:3.5vw;
+	padding		:20px;
+	width		:800px;
+	font-size	:20px;
 	text-align	:left;
 }
 
@@ -393,6 +393,15 @@
 	padding		:10px; 
 	box-shadow:50px 50px 100px rgba(200,220,255,0.2) inset,-50px -50px 100px rgba(200,220,255,0.2) inset;
 
+}
+
+.sch_tl,.sch_tr,.sch_bl,.sch_br{
+	display			:block;
+	position		:absolute;
+	background		:#0000d0;
+	height			:10px;
+	width			:10px;
+	border-radius	:50%;
 }
 
 
