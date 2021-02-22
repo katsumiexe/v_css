@@ -381,6 +381,24 @@
 }
 
 
+.list_box_a_name{
+	display		:block;
+	position	:absolute;
+	top			:180px;
+	left		:220px;
+	width		:300px;
+	height		:30px;
+	line-height	:30px;
+	font-size	:20px;
+	overflow	:hidden;
+	text-align	:left;
+	border-bottom:1px solid #0000d0;
+	padding		: 5px;
+	color		:#303030;
+	font-weight:600;
+}
+
+
 .list_box_a_sch{
 	display		:flex;
 	flex-wrap	:wrap;
