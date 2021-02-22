@@ -549,7 +549,7 @@
 }
 
 
-btns_a,.btns_an{
+.btns_a,.btns_an{
 	position		:absolute;
 	top				:85px;
 	left			:220px;
