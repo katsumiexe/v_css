@@ -339,6 +339,15 @@
 	padding		:0 2vw;
 }
 
+.no_member{
+	margin:2vw auto;
+	width:60vw;
+	border:1px solid #c00000;
+	padding:2vw;
+	font-size:4vw;
+	text-align:left;
+}
+
 
 .list_title_2{
 	width		:90vw;
