@@ -361,8 +361,8 @@
 
 .list_box_a_img{
 	position	:absolute;
-	top			:30px;
-	right		:350px;
+	top			:50px;
+	right		:540px;
 	width		:120px;
 	height		:120px;
 }
@@ -499,8 +499,8 @@
 .list_box_status{
 	position		:absolute;
 	display			:inline-block;
-	top				:160px;
-	right			:350px;
+	top				:180px;
+	right			:540px;
 	width			:120px;
 	height			:30px;
 	line-height		:30px;
