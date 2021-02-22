@@ -569,10 +569,11 @@ btns_a,.btns_an{
 
 .btns_n,.btns{
 	position		:absolute;
+	right:120px;
 	bottom			:50px;
 	margin			:auto;
 	display			:inline-block;
-	width			:160px;
+	width			:180px;
 	height			:50px;
 	line-height		:50px;
 	font-size		:20px;
@@ -582,8 +583,6 @@ btns_a,.btns_an{
 	background		:linear-gradient(#ffd0d0,#ffc0b0);
 	box-shadow:2px 2px 0 #202020;
 }
-
-
 
 
 .list_box{
@@ -796,18 +795,6 @@ btns_a,.btns_an{
 }
 
 
-.btns{
-	display			:inline-block;
-	margin			:5px auto;
-	width			:200px;
-	height			:50px;
-	line-height		:50px;
-	font-size		:24px;
-	font-weight		:600;
-	color			:#555555;
-	border-radius	:5px;
-	cursor			:pointer;
-}
 
 #img_chg{
 	background		:linear-gradient(#ffe0e0,#ffd0d0);
