@@ -536,6 +536,15 @@
 	margin			:0 auto 0.5vw auto;;
 
 }
+.sch_main_list{
+	display			:block;
+	color			:#454545;
+	text-align		:left;
+	font-size		:3.2vw;
+	line-height		:4.5vw;
+	margin			:0.5vw auto;;
+
+}
 
 .sch_tl{
 	top			:1vw;
