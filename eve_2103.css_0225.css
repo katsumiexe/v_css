@@ -494,14 +494,7 @@
 	border		:1vw solid #a0c0ff;
 	padding		:1vw; 
 	box-shadow:5vw 5vw 10vw rgba(200,220,255,0.2) inset,-5vw -5vw 10vw rgba(200,220,255,0.2) inset;
-}
 
-.list_box_a_sch_1{
-	display		:block;
-	width		:91vw;
-	background	:#fafafa;
-	border		:0.5vw solid #a0c0ff;
-	padding		:1vw; 
 }
 
 .sch_tl,.sch_tr,.sch_bl,.sch_br{
