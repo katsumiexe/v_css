@@ -143,11 +143,11 @@
 	width			:22vw;
 	height			:22vw;
 	margin			:0;
-	background		:linear-gradient(135deg, #ffc0e0 ,#ff90a0);
-	border-top		:0.5vw solid #ffe0f0;
-    border-left		:0.5vw solid #ffe0f0;
-    border-right	:0.5vw solid #483800;
-    border-bottom	:0.5vw solid #483800;
+	background		:linear-gradient(135deg, #ffd0f0 ,#ffa0c0);
+	border-top		:0.5vw solid #fff0f5;
+    border-left		:0.5vw solid #fff0f5;
+    border-right	:0.5vw solid #a06080;
+    border-bottom	:0.5vw solid #a06080;
 }
 
 .slide_img{
@@ -173,6 +173,7 @@
 	width			:14vw;
 	height			:14vw;
 }
+
 
 .slide_name{
 	position		:absolute;
@@ -481,7 +482,6 @@
 	top			:20.5vw;
 	left		:40vw;
 	width		:48vw;
-	height		:27vw;
 	background	:#fafafa;
 	border		:1vw solid #a0c0ff;
 	padding		:1vw; 
@@ -505,7 +505,7 @@
 	width			:50vw;
 	text-align		:left;
 	margin			:0 auto;
-	font-size		:3.2vw;
+	font-size		:3vw;
 	color			:#000000;
 	font-weight		:500;
 }
@@ -515,7 +515,8 @@
 	width			:44vw;
 	color			:#454545;
 	text-align		:left;
-	font-size		:3.2vw;
+	font-size		:3vw;
+	line-height		:4.2vw;
 	margin			:0 auto 0.5vw auto;;
 
 }
@@ -620,13 +621,13 @@
 .list_box_b_name{
 	display		:block;
 	position	:absolute;
-	top			:33vw;
+	top			:34vw;
 	left		:0vw;
 	right		:0vw;
-	width		:34vw;
-	height		:5vw;
-	line-height	:5vw;
-	font-size	:4vw;
+	width		:36vw;
+	height		:4vw;
+	line-height	:4vw;
+	font-size	:3.8vw;
 	overflow	:hidden;
 	text-align	:center;
 	border-bottom:1px solid #0000d0;
