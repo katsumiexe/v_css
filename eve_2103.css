@@ -447,7 +447,7 @@
 	position	:relative;
 	display		:inline-block;
 	width		:94vw;
-	height		:72vw;
+	height		:45vw;
 }
 
 
@@ -498,10 +498,11 @@
 
 .list_box_a_sch_1{
 	display		:block;
-	width		:91vw;
+	width		:88vw;
 	background	:#fafafa;
 	border		:0.5vw solid #a0c0ff;
 	padding		:1vw; 
+	margin		:0.5vw auto;
 }
 
 .sch_tl,.sch_tr,.sch_bl,.sch_br{
@@ -517,7 +518,7 @@
 	display			:block;
 	height			:4vw;
 	line-height		:4vw;
-	width			:50vw;
+	width			:88vw;
 	text-align		:left;
 	margin			:0 auto;
 	font-size		:3vw;
@@ -527,7 +528,7 @@
 
 .sch_list{
 	display			:block;
-	width			:44vw;
+	width			:88vw;
 	color			:#454545;
 	text-align		:left;
 	font-size		:3vw;
