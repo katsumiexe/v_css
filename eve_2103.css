@@ -500,9 +500,9 @@
 	display		:block;
 	width		:88vw;
 	background	:#fafafa;
-	border		:0.5vw solid #a0c0ff;
+	border		:0.5vw solid #3060ff;
 	padding		:1vw; 
-	margin		:0.5vw auto;
+	margin		:1vw auto;
 }
 
 .sch_tl,.sch_tr,.sch_bl,.sch_br{
@@ -799,7 +799,7 @@ a:hover{
 	color				:#303030;
 	border-bottom		:0.5vw solid #303030;
 	margin				:2vw auto; 
-	font-size:			3.5vw;
+	font-size:			3.8vw;
 	background			:#fafafa;
 	text-align			:left;
 	padding				:1.5vw;
