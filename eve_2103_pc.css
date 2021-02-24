@@ -351,7 +351,7 @@
 
 .list_box_a_comm{
 	display		:block;
-	margin		:20px auto;
+	margin		:0 auto 20px auto;
 	background	:#fafafa;
 	padding		:20px;
 	width		:900px;
