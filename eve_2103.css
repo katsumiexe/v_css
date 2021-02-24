@@ -584,14 +584,22 @@
 }
 
 .list_box_b{
-	position	:absolute;
-	top			:20vw;
-	display		:inline-block;
-	width		:45vw;
-	height		:50vw;
-	background	:linear-gradient(135deg,#fff5f0,#efe5e0);
-	opacity		:0;
-	border:2px solid #906000;
+	position		:absolute;
+	top				:20vw;
+	display			:inline-block;
+	width			:45vw;
+	height			:50vw;
+	background		:linear-gradient(135deg,#fff5f0,#efe5e0);
+	opacity			:0;
+	border			:2px solid #906000;
+}
+
+.list_box_blank{
+	position		:absolute;
+	top				:0vw;
+	display			:inline-block;
+	width			:45vw;
+	height			:50vw;
 }
 
 .pg1{
