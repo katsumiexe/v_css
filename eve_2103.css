@@ -439,10 +439,17 @@
 	display		:inline-block;
 	width		:94vw;
 	flex-basis	:94vw;
-	min-height	:60vw;
 	background	:#e5f5ff;
 	margin		:1vw auto;
 }
+
+.list_box_a_top{
+	position	:relative;
+	display		:inline-block;
+	width		:94vw;
+}
+
+
 
 .list_box_a_p{
 	position	:absolute;
