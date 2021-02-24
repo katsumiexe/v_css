@@ -375,7 +375,7 @@
 	display		:inline-block;
 	top			:10px;
 	left		:280px;
-	width		:450px;
+	width		:700px;
 	height		:32px;
 	line-height	:32px;
 	font-size	:24px;
@@ -390,7 +390,7 @@
 	position	:absolute;
 	top			:170px;
 	left		:220px;
-	width		:300px;
+	width		:250px;
 	height		:30px;
 	line-height	:30px;
 	font-size	:20px;
@@ -553,7 +553,7 @@
 .btns_a,.btns_an{
 	position		:absolute;
 	top				:85px;
-	left			:260px;
+	left			:230px;
 	margin			:auto;
 	display			:inline-block;
 	width			:240px;
