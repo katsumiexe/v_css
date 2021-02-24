@@ -327,6 +327,15 @@
 	background		:linear-gradient(135deg,#e0f0ff,#A8E0EF);
 }
 
+.list_box_a{
+	position	:relative;
+	display		:inline-block;
+	width		:1000px;
+	min-height	:300px;
+}
+
+
+
 .list_box_a_cnt{
 	position		:absolute;
 	display			:inline-block;
