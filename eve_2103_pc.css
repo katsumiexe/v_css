@@ -510,7 +510,7 @@
 
 .list_box_b_img{
 	position	:absolute;
-	top			:70px;
+	top			:60px;
 	right		:10px;
 	width		:90px;
 	height		:90px;
@@ -521,10 +521,10 @@
 	display		:inline-block;
 	top			:10px;
 	left		:200px;
-	width		:220px;
+	width		:270px;
 	height		:30px;
-	line-height	:30px;
-	font-size	:20px;
+	line-height	:24px;
+	font-size	:18px;
 	text-align	:left;
 	color		:#000000;
 	font-weight	:600;
@@ -539,7 +539,7 @@
 	width			:240px;
 	height			:20px;
 	line-height		:20px;
-	font-size		:16px;
+	font-size		:18px;
 	overflow		:hidden;
 	text-align		:right;
 	border-bottom	:1px solid #0000d0;
@@ -569,14 +569,14 @@
 
 .btns_n,.btns{
 	position		:absolute;
-	right:120px;
-	bottom			:40px;
+	right			:110px;
+	bottom			:50px;
 	margin			:auto;
 	display			:inline-block;
-	width			:150px;
-	height			:50px;
-	line-height		:50px;
-	font-size		:18px;
+	width			:170px;
+	height			:40px;
+	line-height		:40px;
+	font-size		:17px;
 	font-weight		:600;
 	color			:#555555;
 	cursor			:pointer;
