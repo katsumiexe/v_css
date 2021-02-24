@@ -617,24 +617,24 @@
 	font-weight	:600;
 }
 
-
 .list_box_b_name{
-	display		:block;
-	position	:absolute;
-	top			:34vw;
-	left		:0vw;
-	right		:0vw;
-	width		:36vw;
-	height		:4vw;
-	line-height	:4vw;
-	font-size	:3.8vw;
-	overflow	:hidden;
-	text-align	:center;
-	border-bottom:1px solid #0000d0;
-	padding		: 0.5vw 1vw;
-	margin		:auto;
-	color		:#303030;
-	font-weight:600;
+	display			:block;
+	position		:absolute;
+	top				:34vw;
+	left			:0vw;
+	right			:0vw;
+	width			:36vw;
+	height			:7vw;
+	line-height		:4vw;
+	font-size		:3.8vw;
+	overflow		:hidden;
+	text-align		:center;
+	border-bottom	:1px solid #0000d0;
+	padding			: 0.5vw 1vw;
+	margin			:auto;
+	color			:#303030;
+	font-weight		:600;
+	overflow		:hidden;
 }
 
 a:hover{
