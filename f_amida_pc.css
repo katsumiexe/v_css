@@ -485,10 +485,10 @@
 
 .discover{
 	position:absolute;
-	bottom:190px;
+	bottom:90px;
 	left:-24px;
 	width:552px;
-	height:200px;
+	height:300px;
 	z-index:5;
 	background:linear-gradient(#c0e0ff,#a0c0ff);
 	box-shadow:3px 3px 6px rgba(60,60,60,0.8);
