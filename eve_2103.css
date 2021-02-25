@@ -745,8 +745,9 @@ a:hover{
 	text-align	:left;
 	width		:90vw;
 	margin		:2vw auto;
-	padding		:2vw;
+	padding		:5vw 2vw;
 	color		:#202020;
+	overflow	:hidden;
 }
 
 .top_box{
