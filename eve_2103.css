@@ -749,18 +749,6 @@ a:hover{
 	color		:#202020;
 }
 
-.line_top{
-	position	:absolute;
-	display		:block;
-	top			:0;
-	left		:0;
-	width		:90vw;
-	height		:10vw;
-	background:url("../asset/image/event/202103/line2_s.png") repeat-x;
-}
- 
-
-
 .top_box{
 	position	:relative;
 	display		:inline-block;
