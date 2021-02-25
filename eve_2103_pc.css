@@ -694,7 +694,7 @@
 .top_box_in{
 	position	:relative;
 	display		:block;
-	font-size	:18px;
+	font-size	:20px;
 	line-height	:35px;
 	text-align	:left;
 	width		:900px;
@@ -704,13 +704,13 @@
 }
 
 .top_box_2{
-	position	:relative;
-	display		:inline-block;
-	background	:linear-gradient(135deg,#faffff,#e0efff);
-	width		:980px;
-	margin		:30px auto;
-	overflow	:hidden;
-	border-top	:2px solid #B3EEF9;
+	position		:relative;
+	display			:inline-block;
+	background		:linear-gradient(135deg,#faffff,#e0efff);
+	width			:980px;
+	margin			:40px auto;
+	overflow		:hidden;
+	border-top		:2px solid #B3EEF9;
 	border-bottom	:2px solid #B3EEF9;
 }
 
