@@ -735,6 +735,32 @@ a:hover{
 	text-align:center;
 	font-size:3.6vw;
 }
+
+.top_box_2{
+	position	:relative;
+	display		:inline-block;
+	background	:linear-gradient(135deg,#faffff,#e0efff);
+	font-size	:4vw;
+	line-height	:5.8vw;
+	text-align	:left;
+	width		:90vw;
+	margin		:2vw auto;
+	padding		:2vw;
+	color		:#202020;
+}
+
+.line_top{
+	position	:absolute;
+	display		:block;
+	top			:0;
+	left		:0;
+	width		:90vw;
+	height		:10vw;
+	background:url("../asset/image/event/202103/line2_s.png") repeat-x;
+}
+ 
+
+
 .top_box{
 	position	:relative;
 	display		:inline-block;
