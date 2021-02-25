@@ -355,24 +355,26 @@
 .list_title{
 	width		:90vw;
 	font-size	:4vw;
-	color		:#330000;
-	text-shadow:1px 1px 0 #ffffff;
+	color		:#202030;
 	font-weight	:600;
-	background	:#ff90a0;
+	background	:#fafafa;
 	margin		: 2vw auto 0 auto;
 	height		:8vw;
 	line-height	:8vw;
 	text-align	:left;
 	padding		:0 2vw;
+	position	:relative;
+	overflow	:hidden;
+	border-bottom	:1px solid #B3EEF9;
 }
 
 .no_member{
-	margin:2vw auto;
-	width:60vw;
-	border:1px solid #c00000;
-	padding:2vw;
-	font-size:4vw;
-	text-align:left;
+	margin		:2vw auto;
+	width		:60vw;
+	border		:1px solid #c00000;
+	padding		:2vw;
+	font-size	:4vw;
+	text-align	:left;
 }
 
 
