@@ -226,10 +226,10 @@
 	margin			:auto;
 	width			:40vw;
 	height			:40vw;
-	border-top		:0.5vw solid #483800;
-    border-left		:0.5vw solid #483800;
-    border-right	:0.5vw solid #ffe0f0;
-    border-bottom	:0.5vw solid #ffe0f0;	
+	border-top		:0.5vw solid #0000d0;
+    border-left		:0.5vw solid #0000d0;
+    border-right	:0.5vw solid #e0f0ff;
+    border-bottom	:0.5vw solid #e0f0ff;	
 }
 
 .img_p_out{
@@ -241,10 +241,10 @@
 	margin			:1vw auto;
 	background		:linear-gradient(135deg, #fafafa ,#e0e0e0);
 	background		:linear-gradient(135deg, #ffc0c0 ,#ff6060);
-	border-top		:0.5vw solid #ffe0f0;
-    border-left		:0.5vw solid #ffe0f0;
-    border-right	:0.5vw solid #483800;
-    border-bottom	:0.5vw solid #483800;
+	border-top		:0.5vw solid #e0f0ff;
+    border-left		:0.5vw solid #e0f0ff;
+    border-right	:0.5vw solid #0000d0;
+    border-bottom	:0.5vw solid #0000d0;
 	overflow		:hidden;
 }
 
@@ -668,8 +668,8 @@
 	left			:0vw;
 	right			:0vw;
 	width			:36vw;
-	height			:7vw;
-	line-height		:4vw;
+	height			:5vw;
+	line-height		:5vw;
 	font-size		:3.8vw;
 	overflow		:hidden;
 	text-align		:center;
