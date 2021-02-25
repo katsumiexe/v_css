@@ -354,7 +354,7 @@
 
 
 .list_title{
-	width		:90vw;
+	width		:94vw;
 	background	:#fafafa;
 	margin		: 2vw auto 0 auto;
 	height		:8vw;
@@ -365,7 +365,7 @@
 }
 
 .list_title_in{
-	width		:88vw;
+	width		:90vw;
 	font-size	:4vw;
 	color		:#202030;
 	font-weight	:600;
