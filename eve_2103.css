@@ -736,17 +736,24 @@ a:hover{
 	font-size:3.6vw;
 }
 
-.top_box_2{
+.top_box_in{
 	position	:relative;
 	display		:inline-block;
-	background	:linear-gradient(135deg,#faffff,#e0efff);
 	font-size	:4vw;
 	line-height	:5.8vw;
 	text-align	:left;
 	width		:89vw;
-	margin		:2vw auto;
-	padding		:5vw 2vw;
+	margin		:5vw auto;
+	padding		:0;
 	color		:#202020;
+}
+
+.top_box_2{
+	position	:relative;
+	display		:inline-block;
+	background	:linear-gradient(135deg,#faffff,#e0efff);
+	width		:89vw;
+	margin		:2vw auto;
 	overflow	:hidden;
 	border-top	:0.5vw solid #B3EEF9;
 	border-bottom	:0.5vw solid #B3EEF9;
