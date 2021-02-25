@@ -743,11 +743,12 @@ a:hover{
 	font-size	:4vw;
 	line-height	:5.8vw;
 	text-align	:left;
-	width		:90vw;
+	width		:89vw;
 	margin		:2vw auto;
 	padding		:5vw 2vw;
 	color		:#202020;
 	overflow	:hidden;
+	border:0.5vw solid #c0d0e0;
 }
 
 .top_box{
