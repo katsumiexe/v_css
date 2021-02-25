@@ -352,20 +352,29 @@
 	background	:linear-gradient(90deg,rgba(255, 255, 255, 0.1),rgba(255, 255, 255, 1));
 }
 
+
 .list_title{
 	width		:90vw;
-	font-size	:4vw;
-	color		:#202030;
-	font-weight	:600;
 	background	:#fafafa;
 	margin		: 2vw auto 0 auto;
 	height		:8vw;
-	line-height	:8vw;
 	text-align	:left;
-	padding		:0 2vw;
 	position	:relative;
 	overflow	:hidden;
 	border-bottom	:1px solid #B3EEF9;
+}
+
+.list_title_in{
+	width		:88vw;
+	font-size	:4vw;
+	color		:#202030;
+	font-weight	:600;
+	margin		: 2vw auto 0 auto;
+	height		:6vw;
+	line-height	:6vw;
+	text-align	:left;
+	position	:relative;
+	overflow	:hidden;
 }
 
 .no_member{
