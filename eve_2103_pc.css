@@ -357,6 +357,21 @@
 
 }
 
+.list_box_cnt{
+	position		:absolute;
+	display			:inline-block;
+	top				:10px;
+	left			:220px;
+	background		:linear-gradient(135deg,#00a000,#008000);
+	color			:#fafafa;
+	font-weight		:600;
+	font-size		:16px;
+	padding			:5px;
+	border-radius	:5px;
+	box-shadow		:3px 3px 0 #003000;
+
+}
+
 .list_box_a_comm{
 	display		:block;
 	margin		:0 auto 20px auto;
