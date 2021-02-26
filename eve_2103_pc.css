@@ -360,8 +360,8 @@
 .list_box_cnt{
 	position		:absolute;
 	display			:inline-block;
-	top				:10px;
-	left			:220px;
+	top				:5px;
+	left			:5px;
 	background		:linear-gradient(135deg,#00a000,#008000);
 	color			:#fafafa;
 	font-weight		:600;
