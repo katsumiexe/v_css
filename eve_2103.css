@@ -144,10 +144,10 @@
 	height			:22vw;
 	margin			:0;
 	background		:linear-gradient(135deg, #f0faff ,#e0eaef);
-	border-top		:0.5vw solid #fff0f5;
-    border-left		:0.5vw solid #fff0f5;
-    border-right	:0.5vw solid #a06080;
-    border-bottom	:0.5vw solid #a06080;
+	border-top		:0.5vw solid #f0f5ff;
+    border-left		:0.5vw solid #f0f5ff;
+    border-right	:0.5vw solid #000090;
+    border-bottom	:0.5vw solid #000090;
 }
 
 .slide_img{
@@ -159,10 +159,10 @@
 	margin			:auto;
 	width			:18vw;
 	height			:18vw;
-	border-top		:0.5vw solid #483800;
-    border-left		:0.5vw solid #483800;
-    border-right	:0.5vw solid #ffe0f0;
-    border-bottom	:0.5vw solid #ffe0f0;	
+	border-top		:0.5vw solid #000090;
+    border-left		:0.5vw solid #000090;
+    border-right	:0.5vw solid #f0f5ff;
+    border-bottom	:0.5vw solid #f0f5ff;	
 }
 
 
