@@ -6,6 +6,7 @@
 .box_00{
 	display		:block;
 	font-size	:30px;
+	line-height	:60px;
 	margin		:30px auto;
 	color		:#303030;
 	padding		:50px;
