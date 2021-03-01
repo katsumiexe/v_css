@@ -506,7 +506,7 @@
 	width		:48vw;
 	background	:#fafafa;
 	border		:1vw solid #a0c0ff;
-	padding		:1vw; 
+	padding		:0.5vw 1vw; 
 	box-shadow:5vw 5vw 10vw rgba(200,220,255,0.2) inset,-5vw -5vw 10vw rgba(200,220,255,0.2) inset;
 }
 
@@ -911,7 +911,7 @@ a:hover{
 
 .btns_a,.btns_an{
 	position		:absolute;
-	top				:35vw;
+	top				:38vw;
 	left			:48vw;
 	margin			:auto;
 	display			:inline-block;
