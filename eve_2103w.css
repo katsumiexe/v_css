@@ -938,26 +938,33 @@ input[type=range]::-moz-range-thumb{
 
 @media screen and (max-width: 768px){
 
+.img_box_name_out{
+	position		:absolute;
+	top				:150vw;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	height			:10vw;
+	width			:80vw;	
+	
+}
+
+
 .text_box{
-	top:100vw;
-	left:0;
-	right:0;
-	margin:auto;
+	top				:115vw;
+	left			:0;
+	right			:0;
+	margin			:auto;
 	width			:80vw;
-	border-radius	:2vw;
 	display			:block;
-	margin			:1vw auto;
 	font-size		:4vw;
 	position		:absolute;
 	text-align		:center;
-	border-radius	:10px;
-	border			:2px solid #303030;
-	box-shadow		:3px 3px 2px rgba(30,30,30,0.5); 
 }
 
 .img_box{
 	width			:90vw;
-	height			:130vw;
+	height			:180vw;
 	border-radius	:2vw;
 }
 
