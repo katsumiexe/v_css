@@ -971,7 +971,9 @@ input[type=range]::-moz-range-thumb{
 	border-radius	:2vw;
 	margin			:0 auto 2vw auto;
 	display			:block;
-}
+	left			:0;
+	right			:0;
+	}
 
 .img_box_in{
 	top				:5vw;
