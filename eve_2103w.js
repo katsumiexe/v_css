@@ -1,4 +1,8 @@
 $(function(){
+	W_Base	=$('.img_box_out2').width();
+	S_Base	=$('.img_box_out1').width();
+
+
 	$('#upd').on('change', function(e){
 		var file = e.target.files[0];	
 		var reader = new FileReader();
@@ -57,6 +61,7 @@ $(function(){
 						css_l=css_W;
 						css_p=S_Base-Math.ceil((css_W-css_H)/2);
 					}				
+
 					$("#cvs1").attr({'width': cvs_A,'height': cvs_A}).css({'width': css_l,'height': css_l,'left': css_p,'top': css_p});
 					ctx.drawImage(img, 0,0, img_W, img_H, cvs_X, cvs_Y, cvs_W, cvs_H);
 					ImgCode = cvs.toDataURL("image/jpeg");
@@ -68,6 +73,7 @@ $(function(){
 			};
 		})(file);
 		reader.readAsDataURL(file);
+	});
 
 	$("#cvs1").draggable();
 	$("#cvs1").on("mousemove", function() {
@@ -165,7 +171,7 @@ $(function(){
 		Left=cvs_B;
 		Right=cvs_B;
 		Rote=0;
-		$("#cvs1").css({'width': cvs_A,'height': cvs_A,'left': cvs_B,'top': cvs_B, 'transform':'rotate(0deg)'});
+		$("#cvs1").css({'width': css_l,'height': css_l,'left': css_p,'top': css_p, 'transform':'rotate(0deg)'});
 
 		$('.zoom_box').text(Zoom);
 		$('#img_zoom').val(Zoom);
@@ -203,7 +209,7 @@ $(function(){
 			type: "POST",
 			data:{
 				'reg'			:$('#img_id').val(),
-				"idcode"		:"<?=$idcode?>",
+				"idcode"		:IdCode,
 				"submit"		:Tmp,
 			},
 
@@ -222,9 +228,10 @@ $(function(){
 			url:"post_img_del.php",
 			type: "POST",
 			data:{
-				'idcode'	:'<?=$idcode?>',
+				'id'	:MainId,
 			},
 		}).done(function(data, textStatus, jqXHR){
+			console.log(data);
 			$('#main_img').attr('src',"../../asset/footmark/easytalk/face/noimage.png");
 			$('#img_label').val('');
 			$('img_id').val('');
@@ -232,7 +239,7 @@ $(function(){
 			$('.img_box	').animate({'top':'120vh'},200);
 			var cvs = document.getElementById('cvs1');
 			var ctx = cvs.getContext('2d');
-			ctx.clearRect(0, 0, cvs_A,cvs_A);
+			ctx.clearRect(0, 0, 900,900);
 			$('.zoom_box').text('100');
 			Rote=0;
 		});
@@ -245,7 +252,7 @@ $(function(){
 			type: "POST",
 			data:{
 				'reg'		:$('#img_id').val(),
-				'idcode'	:'<?=$idcode?>',
+				'idcode'	:IdCode,
 				'img_code'	:ImgCode.replace(/^data:image\/jpeg;base64,/, ""),
 				'img_top'	:ImgTop,
 				'img_left'	:ImgLeft,
@@ -285,12 +292,4 @@ $(function(){
 	});
 
 
-    setInterval(function(){
-//        $('.slide_shut').animate({'width':'50vw'},200).delay(100).animate({'width':'0vw'},200);
-		CT++;
-        $('.slide_shut').animate({'right':'-10vw'},300,"swing").delay(100).animate({'right':'-80vw'},400);
-        $('.box_slide_in').delay(200).fadeOut(0);
-        $('#sd'+CT).delay(200).fadeIn(50);
-		if(CT>3) CT=-1;
-    },6000);
 });
