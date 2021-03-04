@@ -969,7 +969,7 @@ input[type=range]::-moz-range-thumb{
 	width			:90vw;
 	height			:180vw;
 	border-radius	:2vw;
-	margin			:0 auto 2vw auto;
+	margin			:0 auto 3vw auto;
 	display			:block;
 	left			:0;
 	right			:0;
