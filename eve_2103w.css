@@ -448,6 +448,8 @@
 	border-left		:1vw solid #f8e8b0;
 	border-right	:1vw solid #483800;
 	border-bottom	:1vw solid #483800;
+
+	border			:2px solid #483800;
 }
 
 .top_box_1{
@@ -951,7 +953,6 @@ input[type=range]::-moz-range-thumb{
 	width			:80vw;	
 	
 }
-
 
 .text_box{
 	top				:115vw;
