@@ -266,16 +266,7 @@ $(function(){
 			},
 
 		}).done(function(data, textStatus, jqXHR){
-
-			$('#img_id').val(1);
-			$('#main_img').attr('src',data);
-			$('.set_back').fadeOut(200);
-			$('.img_box	').animate({'top':'120vh'},200);
-			var cvs = document.getElementById('cvs1');
-			var ctx = cvs.getContext('2d');
-			ctx.clearRect(0, 0, cvs_A,cvs_A);
-			$('.zoom_box').text('100');
-			Rote=0;
+			$('#ret').submit();
 
 		}).fail(function(jqXHR, textStatus, errorThrown){
 			console.log(textStatus);
