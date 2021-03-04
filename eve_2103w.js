@@ -246,9 +246,11 @@ $(function(){
 	});
 
 
+
+
 	$('#img_set').on('click',function(){	
 		$.ajax({
-			url:"post_img_set.php",
+			url:"post_set_2103w.php",
 			type: "POST",
 			data:{
 				'reg'		:$('#img_id').val(),
@@ -259,6 +261,7 @@ $(function(){
 				'img_width'	:cvs_W,
 				'img_height':cvs_H,
 				'img_zoom'	:$('.zoom_box').text(),
+				'text'		:$('.set_text').val();
 				'img_rote'	:Rote,
 			},
 
