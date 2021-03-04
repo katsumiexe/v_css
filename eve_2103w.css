@@ -448,7 +448,6 @@
 	border-left		:1vw solid #f8e8b0;
 	border-right	:1vw solid #483800;
 	border-bottom	:1vw solid #483800;
-
 	border			:2px solid #483800;
 }
 
@@ -617,7 +616,6 @@
 	background		:#ffffff;
 	text-align		:center;
 	border-radius	:10px;
-	z-index			:2000000;
 	border			:2px solid #303030;
 	box-shadow		:3px 3px 2px rgba(30,30,30,0.5); 
 	font-size:0;
