@@ -939,14 +939,16 @@ input[type=range]::-moz-range-thumb{
 @media screen and (max-width: 768px){
 
 .text_box{
-	width			:90vw;
+	top:100vw;
+	left:0;
+	right:0;
+	margin:auto;
+	width			:80vw;
 	border-radius	:2vw;
-	display:block;
-	margin:1vw auto;
-	font-size:4vw;
-
-	position		:relative;
-	background		:#ffffff;
+	display			:block;
+	margin			:1vw auto;
+	font-size		:4vw;
+	position		:absolute;
 	text-align		:center;
 	border-radius	:10px;
 	border			:2px solid #303030;
@@ -970,7 +972,7 @@ input[type=range]::-moz-range-thumb{
 .img_box_in2{
 	top				:88vw;
 	width			:80vw;
-	height			:36vw;
+	height			:24vw;
 }
 
 .img_box_in3{
