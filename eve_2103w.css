@@ -937,10 +937,19 @@ input[type=range]::-moz-range-thumb{
 }
 
 @media screen and (max-width: 768px){
+
+.text_box{
+	width			:90vw;
+	height			:130vw;
+	border-radius	:2vw;
+	display:block;
+	margin:1vw auto;
+	font-size:4vw;
+}
 .img_box{
 	width			:90vw;
 	height			:130vw;
-	border-radius	:2vw
+	border-radius	:2vw;
 }
 
 .img_box_in{
