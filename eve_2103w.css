@@ -604,8 +604,11 @@
 
 
 .img_box{
-	position		:relative;
-	display:block;
+	position		:absolute;
+	top				:10px;
+	left			:10px;
+
+	display			:block;
 	margin			:auto;
 	width			:500px;
 	height			:665px;
@@ -963,6 +966,7 @@ input[type=range]::-moz-range-thumb{
 }
 
 .img_box{
+	position		:relative;
 	width			:90vw;
 	height			:180vw;
 	border-radius	:2vw;
