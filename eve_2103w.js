@@ -261,7 +261,7 @@ $(function(){
 				'img_width'	:cvs_W,
 				'img_height':cvs_H,
 				'img_zoom'	:$('.zoom_box').text(),
-				'text'		:$('.set_text').val();
+				'text'		:$('.set_text').val(),
 				'img_rote'	:Rote,
 			},
 
