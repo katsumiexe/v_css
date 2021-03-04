@@ -940,7 +940,7 @@ input[type=range]::-moz-range-thumb{
 
 .img_box_name_out{
 	position		:absolute;
-	top				:150vw;
+	top				:165vw;
 	left			:0;
 	right			:0;
 	margin			:auto;
