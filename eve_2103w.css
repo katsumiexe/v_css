@@ -604,10 +604,8 @@
 
 
 .img_box{
-	position		:fixed;
-	top				:120vh;
-	left			:0;
-	right			:0;
+	position		:relative;
+	display:block;
 	margin			:auto;
 	width			:500px;
 	height			:665px;
@@ -940,7 +938,6 @@ input[type=range]::-moz-range-thumb{
 
 @media screen and (max-width: 768px){
 .img_box{
-	top				:120vh;
 	width			:90vw;
 	height			:130vw;
 	border-radius	:2vw
