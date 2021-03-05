@@ -196,17 +196,17 @@
 }
 
 .ope_box{
-	width		:90vw;
-	margin		:0.5vw auto;	
+	width		:84vw;
+	margin		:1vw auto;	
 }
 
 
 .ope_date{
 	width			:60vw;
 	margin			:0 auto;
-	font-size		:4vw;
-	line-height		:6vw;
-	height			:6vw;
+	font-size		:3.5vw;
+	line-height		:4vw;
+	height			:4vw;
 }
 
 .ope_comm,.ope_comm2{
@@ -233,7 +233,7 @@
 
 .ope_l{
 	vertical-align:bottom;
-	width:60vw;
+	width:62vw;
 }
 .ope_r{
 	vertical-align:bottom;
