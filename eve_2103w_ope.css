@@ -202,11 +202,12 @@
 
 
 .ope_date{
-	width			:60vw;
-	margin			:0 auto;
+	width			:56vw;
+	margin			:2vw auto 0 auto;
 	font-size		:3.5vw;
 	line-height		:4vw;
 	height			:4vw;
+
 }
 
 .ope_comm,.ope_comm2{
