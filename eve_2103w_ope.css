@@ -246,7 +246,7 @@
 	border-top	:2px solid #303030;
 	position	:relative;
 	display		:block;
-	width		:60vw;
+	width		:84vw;
 	height		:20vw;
 	background	:#add8e6;
 	padding		:2vx auto;
@@ -254,25 +254,25 @@
 
 .write_notice{
 	position	:absolute;
-	bottom		:1vw;
+	bottom		:0.5vw;
 	left		:0;
 	right		:0;
 	margin		:auto;
-	font-size:4vw;
-	width:500vw;
-	display:inline-block;
-	text-align:center;
+	font-size	:3.5vw;
+	width		:60vw;
+	display		:inline-block;
+	text-align	:center;
 }
 
 .textarea{
-	width		:300vwx;
-	height		:5vww;
+	width		:60vw;
+	height		:15vw;
 	resize		:none;
 	position	:absolute;
-	top			:2vw;
-	left		:2vw;
+	top			:1vw;
+	left		:1vw;
 	padding		:1vw;
-	font-size	:17px;
+	font-size	:4.5vw;
 }
 
 .write_cnt{
