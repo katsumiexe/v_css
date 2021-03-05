@@ -265,18 +265,18 @@
 
 .write_cnt{
 	width		:10vw;
-	height		:8vw;
-	line-height	:8vw;
+	height		:6vw;
+	line-height	:6vw;
 	top			:1vw;
-	right		:1vw;
+	right		:2vw;
 	padding-right:1vw;
 	font-size	:4vw;
 }
 
 .write_btn{
-	width		:14vw;
-	height		:10vw;
-	bottom		:3vw;
+	width		:16vw;
+	height		:6vw;
+	bottom		:5.5vw;
 	right		:2vw;
 }
 }
