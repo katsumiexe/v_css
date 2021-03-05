@@ -160,18 +160,18 @@
 .box{
 	width		:90vw;
 	padding		:1vw;
-	margin-bottom:10vw;
+	margin		:0 auto 5vw auto;
 }
 
 .list{
-	width		:80vw;
+	width		:84vw;
 	margin		:2vw auto;
 	padding		:2vw;
 }	
 
 .list_img{
-	width		:40vw;
-	height		:40vw;
+	width		:36vw;
+	height		:36vw;
 	margin		:2vw;	
 }
 
@@ -186,17 +186,17 @@
 }
 
 .comm{
-	width		:73vw;
-	margin		:1vw auto 2wv auto;	
+	width		:84vw;
+	margin		:0vw auto 2vw auto;	
 	font-size	:4vw;
 	line-height	:5.5vw;
 	text-align	:left;
-	min-height	:50vw;
-	padding		:1vw;
+	min-height	:40vw;
+	padding		:1.5vw;
 }
 
 .ope_box{
-	width		:76vw;
+	width		:90vw;
 	margin		:0.5vw auto;	
 }
 
@@ -233,11 +233,12 @@
 
 .ope_l{
 	vertical-align:bottom;
-	height:30vw;
+	width:60vw;
 }
 .ope_r{
 	vertical-align:bottom;
-	height:30vw;
+	width:20vw;
+	height:20vw;
 }
 
 .write{
