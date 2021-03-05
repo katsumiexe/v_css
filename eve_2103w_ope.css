@@ -158,13 +158,13 @@
 @media screen and (max-width: 764px){
 
 .box{
-	width		:90vw;
+	width		:92vw;
 	padding		:1vw;
 	margin		:0 auto 5vw auto;
 }
 
 .list{
-	width		:84vw;
+	width		:88vw;
 	margin		:2vw auto;
 	padding		:2vw;
 }	
@@ -202,7 +202,7 @@
 
 
 .ope_date{
-	width			:60vwx;
+	width			:60vw;
 	margin			:0 auto;
 	font-size		:4vw;
 	line-height		:6vw;
