@@ -244,31 +244,19 @@
 .write{
 	margin		:0 auto;
 	border-top	:2px solid #303030;
-	position	:relative;
-	display		:block;
 	width		:84vw;
 	height		:22vw;
-	background	:#add8e6;
-	padding		:2vx auto;
 }
 
 .write_notice{
-	position	:absolute;
 	bottom		:0.5vw;
-	left		:0;
-	right		:0;
-	margin		:auto;
 	font-size	:3vw;
 	width		:82vw;
-	display		:inline-block;
-	text-align	:center;
 }
 
 .textarea{
 	width		:60vw;
 	height		:15vw;
-	resize		:none;
-	position	:absolute;
 	top			:1vw;
 	left		:1vw;
 	padding		:1vw;
@@ -276,24 +264,19 @@
 }
 
 .write_cnt{
-	width		:60px;
-	height		:30px;
-	line-height	:30px;
-	position	:absolute;
-	top			:10px;
-	right		:10px;
-	background	:#f0f0f0;
-	padding-right:10px;
-	text-align	:right;
-	font-weight	:600;
-	font-size	:15px;
+	width		:10vw;
+	height		:8vw;
+	line-height	:8vw;
+	top			:1vw;
+	right		:1vw;
+	padding-right:1vw;
+	font-size	:4vw;
 }
 
 .write_btn{
-	width		:120px;
-	height		:40px;
-	position	:absolute;
-	bottom		:30px;
-	right		:10px;
+	width		:14vw;
+	height		:10vw;
+	bottom		:3vw;
+	right		:2vw;
 }
 }
