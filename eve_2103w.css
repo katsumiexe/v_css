@@ -432,38 +432,6 @@
 	text-align:center;
 	font-size:3.6vw;
 }
-.top_box{
-	position	:relative;
-	display		:inline-block;
-	background	:linear-gradient(135deg,#faffff,#e0efef);
-	background	:linear-gradient(135deg,#e8d8a0 0%, #f0e0a8 50%, #d8c890 100%);
-	font-size	:4vw;
-	line-height	:5.8vw;
-	text-align	:left;
-	width		:84vw;
-	margin		:2vw auto;
-	padding		:5vw;
-	color		:#302520;
-	border-top		:1vw solid #f8e8b0;
-	border-left		:1vw solid #f8e8b0;
-	border-right	:1vw solid #483800;
-	border-bottom	:1vw solid #483800;
-	border			:2px solid #483800;
-}
-
-.top_box_1{
-	display		:inline-block;
-	background	:#fafafa;
-	font-size	:3.6vw;
-	line-height	:5vw;
-	text-align	:left;
-	width		:76vw;
-	margin		:1.5vw;
-	padding		:2vw;
-	color		:#303030;
-	border:1px solid #303030;
-	max-height:
-}
 
 .main_img{
 	margin		:5vw auto;
