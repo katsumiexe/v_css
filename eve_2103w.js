@@ -237,8 +237,8 @@ $(function(){
 			},
 		}).done(function(data, textStatus, jqXHR){
 			console.log(data);
-			$('ld_'+Tmp).slideUp(200);
-			$('md_'+Tmp).hide();
+			$('#ld_'+Tmp).slideUp(200);
+			$('#md_'+Tmp).hide();
 		});
 	});
 
