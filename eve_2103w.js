@@ -2,7 +2,7 @@ $(function(){
 	W_Base	=$('.img_box_out2').width();
 	S_Base	=$('.img_box_out1').width();
 	var Err='';
-
+	var ImgCode='';
 	$('#upd').on('change', function(e){
 		var file = e.target.files[0];	
 		var reader = new FileReader();
@@ -255,7 +255,7 @@ $(function(){
 			Err+="説明文がありません<br>";
 		}
 		if(Err){
-			$('#err').html(Err);
+			$('.err').html(Err);
 			return false;
 		}else{
 
