@@ -224,25 +224,20 @@ $(function(){
 		$('.img_box	').animate({'top':'10vh'},200);
 	});
 
-	$('#img_del').on('click', function(){
+	$('.del').on('click', function(){
+
+		Tmp=$(this).attr('id').replace('d_','');
+
 		$.ajax({
 			url:"post_img_del.php",
 			type: "POST",
 			data:{
-				'id'	:MainId,
+				'id'	:Tmp,
 			},
 		}).done(function(data, textStatus, jqXHR){
 			console.log(data);
-			$('#main_img').attr('src',"../../asset/footmark/easytalk/face/noimage.png");
-			$('#img_label').val('');
-			$('img_id').val('');
-
-			$('.img_box	').animate({'top':'120vh'},200);
-			var cvs = document.getElementById('cvs1');
-			var ctx = cvs.getContext('2d');
-			ctx.clearRect(0, 0, 900,900);
-			$('.zoom_box').text('100');
-			Rote=0;
+			$('ld_'+Tmp).slideUp(200);
+			$('md_'+Tmp).hide();
 		});
 	});
 
