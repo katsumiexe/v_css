@@ -227,6 +227,7 @@ $(function(){
 	$('.del').on('click', function(){
 
 		Tmp=$(this).attr('id').replace('d_','');
+		console.log(Tmp);
 
 		$.ajax({
 			url:"post_img_del.php",
