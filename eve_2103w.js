@@ -1,7 +1,7 @@
 $(function(){
 	W_Base	=$('.img_box_out2').width();
 	S_Base	=$('.img_box_out1').width();
-
+	var Err='';
 
 	$('#upd').on('change', function(e){
 		var file = e.target.files[0];	
@@ -246,32 +246,43 @@ $(function(){
 	});
 
 
-
-
 	$('#img_set').on('click',function(){	
-		$.ajax({
-			url:"post_set_2103w.php",
-			type: "POST",
-			data:{
-				'reg'		:$('#img_id').val(),
-				'idcode'	:IdCode,
-				'img_code'	:ImgCode.replace(/^data:image\/jpeg;base64,/, ""),
-				'img_top'	:ImgTop,
-				'img_left'	:ImgLeft,
-				'img_width'	:cvs_W,
-				'img_height':cvs_H,
-				'img_zoom'	:$('.zoom_box').text(),
-				'text'		:$('.set_text').val(),
-				'img_rote'	:Rote,
-			},
+		if(ImgCode==''){
+			Err.="画像がありません<br>";
+		}
 
-		}).done(function(data, textStatus, jqXHR){
-			$('#ret').submit();
+		if($('.set_text').val()==''){
+			Err.="説明文がありません<br>";
+		}
+		if(Err){
+			$('#err').html(Err);
+			return false;
+		}else{
 
-		}).fail(function(jqXHR, textStatus, errorThrown){
-			console.log(textStatus);
-			console.log(errorThrown);
-		});
+			$.ajax({
+				url:"post_set_2103w.php",
+				type: "POST",
+				data:{
+					'reg'		:$('#img_id').val(),
+					'idcode'	:IdCode,
+					'img_code'	:ImgCode.replace(/^data:image\/jpeg;base64,/, ""),
+					'img_top'	:ImgTop,
+					'img_left'	:ImgLeft,
+					'img_width'	:cvs_W,
+					'img_height':cvs_H,
+					'img_zoom'	:$('.zoom_box').text(),
+					'text'		:$('.set_text').val(),
+					'img_rote'	:Rote,
+				},
+
+			}).done(function(data, textStatus, jqXHR){
+				$('#ret').submit();
+
+			}).fail(function(jqXHR, textStatus, errorThrown){
+				console.log(textStatus);
+				console.log(errorThrown);
+			});
+		}
 	});
 
 	$('.title_1').on('click',function(){	
