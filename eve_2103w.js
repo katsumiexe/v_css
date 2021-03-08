@@ -6,7 +6,7 @@ $(function(){
 	$('#upd').on('change', function(e){
 		var file = e.target.files[0];	
 		var reader = new FileReader();
-
+		Err="";
 		if(file.type.indexOf("image") < 0){
 			alert("NO IMAGE FILES");
 			return false;
@@ -167,6 +167,7 @@ $(function(){
 	});
 
 	$('#img_reset').on( 'click', function () {
+		Err="";
 		Zoom=100;
 		Left=cvs_B;
 		Right=cvs_B;
