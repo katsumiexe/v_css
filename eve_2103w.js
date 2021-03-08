@@ -219,7 +219,6 @@ $(function(){
 		});
 	});
 
-
 	$('#img_chg').on('click', function(){
 		$('.img_box	').animate({'top':'10vh'},200);
 	});

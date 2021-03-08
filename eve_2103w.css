@@ -957,6 +957,7 @@ input[type=range]::-moz-range-thumb{
 	height			:24vw;
 }
 
+
 .img_box_in3{
 	display			:flex;
 	flex-wrap		:nowrap;
