@@ -248,11 +248,11 @@ $(function(){
 
 	$('#img_set').on('click',function(){	
 		if(ImgCode==''){
-			Err.="画像がありません<br>";
+			Err+="画像がありません<br>";
 		}
 
 		if($('.set_text').val()==''){
-			Err.="説明文がありません<br>";
+			Err+="説明文がありません<br>";
 		}
 		if(Err){
 			$('#err').html(Err);
