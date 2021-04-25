@@ -218,7 +218,7 @@ a{
 	position	:relative;
 	display		:inline-block;
 	flex-basis	:47vw;
-	height		:26vw;
+	height		:27vw;
 	text-align	:center;
 	margin		:1vw;
 	background	:#e0e0e0;
@@ -237,15 +237,16 @@ a{
 	position	:absolute;
 	top			:21vw;
 	left		:1vw;
-	width		:45vw;
-	height		:4vw;
+	width		:37vw;
+	height		:5vw;
 	margin		:auto;
 	background	:#031F4C;
 	color		:#fafafa;
 	font-size	:3vw;
-	line-height	:4vw;
-	text-align	:center;
+	line-height	:5vw;
+	text-align	:left;
 	overflow	:hidden;
+	padding-left:8vw;
 }
 
 .flex_s_w{
