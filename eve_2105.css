@@ -237,7 +237,7 @@ a{
 	position	:absolute;
 	top			:21vw;
 	left		:1vw;
-	width		:37vw;
+	width		:45vw;
 	height		:5vw;
 	margin		:auto;
 	background	:#031F4C;
@@ -251,8 +251,8 @@ a{
 
 .flex_s_w{
 	position	:absolute;
-	bottom		:5vw;
-	right		:2vw;
+	top			:1vw;
+	right		:1vw;
 	display		:inline-block;
 	width		:12vw;
 	height		:5vw;
