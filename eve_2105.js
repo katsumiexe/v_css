@@ -1,5 +1,5 @@
 $(function(){ 
-	$('.flex_box').hide();
+	$('.flex_box,.flex_box_w').hide();
 	$('.group0').show();
 	$('#p0').css('background','linear-gradient(#c0a000,#a09000)');
 
@@ -8,7 +8,7 @@ $(function(){
 		$(this).css('background','linear-gradient(#c0a000,#a09000)');
 
 		Tmp =$(this).attr('id').replace("p", "");
-		$('.flex_box').hide();
+		$('.flex_box,.flex_box_w').hide();
 		$('.group'+Tmp).show();
 	});
 
