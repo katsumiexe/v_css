@@ -12,10 +12,6 @@ $(function(){
 		$('.group'+Tmp).show();
 	});
 
-    $('.now_use').on('click',function(){
-		$('.sorry').stop().fadeIn(200).delay(1500).fadeOut(1500);
-	});
-
     $('#connect').on('click',function(){
 		console.log(Ope_Id);
 
