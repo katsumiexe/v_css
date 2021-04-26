@@ -415,7 +415,7 @@ a{
 .pg_box_flex{
 	position	:relative;
 	display		:flex;
-	width		:98vw;
+	width		:70vw;
 	margin		:0 auto;
 	background	:#300060;
 }
@@ -423,8 +423,8 @@ a{
 .pg_box{
 	display		:block;
 	position	:relative;
-	width		:40vw;
-	flex-basis	:40vw;
+	width		:50vw;
+	flex-basis	:50vw;
 	margin		:0 auto;
 	background	:#fafafa;
 	overflow	:hidden;	
