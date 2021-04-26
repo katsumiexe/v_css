@@ -236,10 +236,10 @@ a{
 .flex_d_w{
 	display		:inline-block;
 	position	:absolute;
-	top			:8vw;
-	left		:20vw;
-	width		:22vw;
-	height		:10vw;
+	top			:7vw;
+	left		:21vw;
+	width		:25vw;
+	height		:13vw;
 	margin		:auto;
 	background	:#ff00ff;
 	color		:#fafafa;
