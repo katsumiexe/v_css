@@ -417,10 +417,10 @@ a{
 	display		:flex;
 	width		:68vw;
 	margin		:2vw auto;
-	background	:#300060;
+	background	:#fafafa;
 	font-size	:0;
-	border-top	:0.5vw solid #fafafa;	
-	border-bottom:0.5vw solid #fafafa;	
+	border-top	:0.5vw solid #b08000;	
+	border-bottom:0.5vw solid #b08000;	
 }
 
 .pg_box{
