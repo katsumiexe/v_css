@@ -241,10 +241,9 @@ a{
 	width		:25vw;
 	height		:13vw;
 	margin		:auto;
-	background	:#ff00ff;
-	color		:#fafafa;
-	font-size	:4vw;
-	line-height	:6vw;
+	color		:#303030;
+	font-size	:3vw;
+	line-height	:4.5vw;
 	text-align	:left;
 	overflow	:hidden;
 }
