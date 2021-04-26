@@ -1,7 +1,7 @@
 
 $(function(){ 
 	var Pg=0;
-	var PgMax=$('.page').length-4;
+	var PgMax=$('.page').length-6;
 	$('.flex_box,.flex_box_w').hide();
 	$('.group0').show();
 	$('#p0').css('background','linear-gradient(#c0a000,#a09000)');
@@ -36,7 +36,7 @@ $(function(){
 
  
     $('#page_n').on('click',function(){
-		if(Pg<PgMax){
+		if(PgMax+Pg>0){
 			Pg--;
 			$('.pg_box_in').animate({'left':Pg*8 +"vw"},100);
 		}
@@ -53,6 +53,7 @@ console.log(Pg);
 
 
 });
+
 
 
 
