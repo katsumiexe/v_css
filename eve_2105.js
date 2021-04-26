@@ -38,7 +38,7 @@ $(function(){
     $('#page_n').on('click',function(){
 		if(PgMax+Pg>0){
 			Pg--;
-			$('.pg_box_in').animate({'left':Pg*8 +"vw"},100);
+			$('.pg_box_in').animate({'left':Pg*8 +"vw"},200,"swing");
 		}
 console.log(PgMax);
 console.log(Pg);
@@ -47,7 +47,7 @@ console.log(Pg);
     $('#page_p').on('click',function(){
 		if(Pg<0){
 			Pg++;
-			$('.pg_box_in').animate({'left':Pg*8 +"vw"},100);
+			$('.pg_box_in').animate({'left':Pg*8 +"vw"},200,"swing");
 		}
 	});
 
