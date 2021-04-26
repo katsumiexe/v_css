@@ -33,7 +33,6 @@ $(function(){
 			}		
 		});
 	});
-
  
     $('#page_n').on('click',function(){
 		if(PgMax+Pg>0){
