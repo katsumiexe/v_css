@@ -428,6 +428,7 @@ a{
 	margin		:0 auto;
 	background	:#fafafa;
 	overflow	:hidden;	
+	height		:8vw;
 }
 
 .pg_box_in{
@@ -438,5 +439,6 @@ a{
 	left		:0;
 	margin		:auto;
 	background	:#00a0c0;
+	height		:8vw;
 }
 

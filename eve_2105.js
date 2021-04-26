@@ -1,4 +1,6 @@
 var Pg=0;
+var PgMax=$('.page').length-4;
+
 $(function(){ 
 	$('.flex_box,.flex_box_w').hide();
 	$('.group0').show();
@@ -34,8 +36,9 @@ $(function(){
 
  
     $('#page_p').on('click',function(){
-		var PgMax=$('.page').length-4;
+
 console.log(PgMax);
+console.log(Pg);
 
 		if(Pg<PgMax){
 			Pg--;
