@@ -463,7 +463,7 @@ a{
 
 .fav_m{
 	position	:absolute;
-	top			:20vw;
+	top			:19vw;
 	left		:0;
 	right		:0;
 	margin		:auto;
@@ -475,10 +475,8 @@ a{
 .fav_s{
 	position	:absolute;
 	top			:14vw;
-	left		:0;
-	right		:0;
-	margin		:auto;
-	width		:4vw;
+	left		:2;
+	width		:8vw;
 	height		:3vw;
 	background:#ff0000;
 }
