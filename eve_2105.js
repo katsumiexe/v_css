@@ -45,7 +45,6 @@ $(function(){
 	});
 
     $('#page_p').on('click',function(){
-
 		if(Pg<0){
 			Pg++;
 			$('.pg_box_in').animate({'left':Pg*8 +"vw"},200,"swing");
