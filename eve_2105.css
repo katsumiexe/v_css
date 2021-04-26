@@ -378,7 +378,7 @@ a{
 }
 
 
-.to_top_n, .to_top_n2,.to_top_p, .to_top_p2,{
+.to_top_n, .to_top_n2,.to_top_p, .to_top_p2{
 	display			:block;
 	position		:absolute;
 	top				:0;
