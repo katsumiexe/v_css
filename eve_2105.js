@@ -47,7 +47,7 @@ console.log(Pg);
     $('#page_p').on('click',function(){
 console.log(PgMax);
 console.log(Pg);
-		if(Pg>0){
+		if(Pg<0){
 			Pg++;
 			$('.pg_box_in').animate({'left':Pg*8 +"vw"},500);
 		}
