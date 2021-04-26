@@ -452,6 +452,7 @@ a{
 	margin:0.3vw;
 	text-decoration:none !important;
 	color:#fafafa !important;
+	transition-property:none !important;
 }
 
 .fav_p{
