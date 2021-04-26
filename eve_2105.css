@@ -385,30 +385,30 @@ a{
 	bottom			:0;
 	height			:3vw;
 	width			:3vw;
-	border-top		:1vw solid #101510;
-	border-right	:1vw solid #101510;
+	border-top		:1vw solid #b08000;
+	border-right	:1vw solid #b08000;
 	transform-origin:center;
 	margin			:auto;
 }
 
 .to_top_n{
 	right			:1vw;
-	transform		:rotate(45deg);
+	transform		:rotate(225deg);
 }
 
 .to_top_n2{
 	right			:3vw;
-	transform		:rotate(45deg);
+	transform		:rotate(225deg);
 }
 
 .to_top_p{
 	left			:1vw;
-	transform		:rotate(225deg);
+	transform		:rotate(45deg);
 }
 
 .to_top_p2{
 	left			:3vw;
-	transform		:rotate(225deg);
+	transform		:rotate(45deg);
 }
 
 
@@ -423,8 +423,8 @@ a{
 .pg_box{
 	display		:block;
 	position	:relative;
-	width		:88vw;
-	flex-basis	:88vw;
+	width		:40vw;
+	flex-basis	:40vw;
 	margin		:0 auto;
 	background	:#fafafa;
 	overflow	:hidden;	
