@@ -378,23 +378,37 @@ a{
 }
 
 
-.to_top_in, .to_top_in2{
+.to_top_n, .to_top_n2,.to_top_p, .to_top_p2,{
 	display			:block;
 	position		:absolute;
 	top				:0;
 	bottom			:0;
-	right			:1vw;
 	height			:3vw;
 	width			:3vw;
 	border-top		:1vw solid #101510;
 	border-right	:1vw solid #101510;
 	transform-origin:center;
-	transform		:rotate(45deg);
 	margin			:auto;
 }
 
-.to_top_in2{
-	right			:2.5vw;
+.to_top_n{
+	right			:1vw;
+	transform		:rotate(45deg);
+}
+
+.to_top_n2{
+	right			:3vw;
+	transform		:rotate(45deg);
+}
+
+.to_top_p{
+	left			:1vw;
+	transform		:rotate(225deg);
+}
+
+.to_top_p2{
+	left			:3vw;
+	transform		:rotate(225deg);
 }
 
 
