@@ -468,7 +468,7 @@ a{
 
 .fav_m{
 	position	:absolute;
-	top			:17vw;
+	top			:19vw;
 	left		:0;
 	right		:0;
 	margin		:auto;
@@ -484,7 +484,7 @@ a{
 .fav_s{
 	display		:inline-block;
 	position	:absolute;
-	top			:15vw;
+	top			:14vw;
 	right		:1vw;
 	padding		:0.2vw 1vw;
 	font-weight	:600;
