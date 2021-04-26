@@ -40,7 +40,7 @@ console.log(PgMax);
 console.log(Pg);
 		if(Pg<PgMax){
 			Pg--;
-			$('.pg_box_in').animate({'left':Pg*8 +"vw"},500);
+			$('.pg_box_in').animate({'left':Pg*8 +"vw"},100);
 		}
 	});
 
@@ -49,7 +49,7 @@ console.log(PgMax);
 console.log(Pg);
 		if(Pg<0){
 			Pg++;
-			$('.pg_box_in').animate({'left':Pg*8 +"vw"},500);
+			$('.pg_box_in').animate({'left':Pg*8 +"vw"},100);
 		}
 	});
 
