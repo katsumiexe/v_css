@@ -307,17 +307,18 @@ a{
 
 .page{
 	display		:inline-block;
+	position:relative;
 	background	:linear-gradient(#d0d0d0,#c0c0c0);
-	font-size	:4.5vw;
+	font-size	:4vw;
 	font-weight	:800;
 	color		:#fafafa;
-	height		:8vw;
-	line-height	:8vw;
-	width		:8vw;
+	height		:6vw;
+	line-height	:6vw;
+	width		:6vw;
 	text-align	:center;
 	text-shadow	:2px 2px 0px #303030;
 	margin		:1vw;
-	border-radius:2vw;
+	border-radius:1vw;
 	cursor		:pointer;
 }
 
@@ -365,13 +366,63 @@ a{
 }
 
 .tel_set{
-	display		:inline-block;
-	margin		:1vw auto;
-	padding		:1vw 3vw;
-	background	:linear-gradient(#00a000,#008000);
-	color		:#fafafa;
-	font-weight	:700;
-	border-radius:1vw;
-	font-size	:4vw;
-	text-decoration:none;
+	display			:inline-block;
+	margin			:1vw auto;
+	padding			:1vw 3vw;
+	background		:linear-gradient(#00a000,#008000);
+	color			:#fafafa;
+	font-weight		:700;
+	border-radius	:1vw;
+	font-size		:4vw;
+	text-decoration	:none;
 }
+
+
+.to_top_in, .to_top_in2{
+	display			:block;
+	position		:absolute;
+	bottom			:0px;
+	right			:0;
+	left			:0;
+	height			:4vw;
+	width			:4vw;
+	border-top		:1vw solid #101510;
+	border-right	:1vw solid #101510;
+	transform-origin:center;
+	transform		:rotate(45deg);
+	margin			:auto;
+}
+
+.to_top_in2{
+	bottom			:2vw;
+}
+
+
+.pg_box_flex{
+	position	:relative;
+	display		:flex;
+	width		:98vw;
+	margin		:0 auto;
+	background	:#300060;
+}
+
+.pg_box{
+	display		:block;
+	position	:relative;
+	width		:88vw;
+	flex-basis	:88vw;
+	margin		:0 auto;
+	background	:#fafafa;
+	overflow	:hidden;	
+}
+
+.pg_box_in{
+	display		:inline-block;
+	position	:absolute;
+	top			:0;
+	bottom		:0;
+	left		:0;
+	margin		:auto;
+	background	:#00a0c0;
+}
+
