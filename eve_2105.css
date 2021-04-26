@@ -5,6 +5,7 @@
 
 a{
 	text-decoration:none !important;
+	transition-property:none !important;
 }
 
 .p1_box_a{
@@ -445,15 +446,13 @@ a{
 	font-size:0;
 }
 .fav{
-	position:relative;
-	display:inline-block;
-	flex-basis:19vw;
-	height:24vw;
-	background:#009000;
-	margin:0.3vw;
-	text-decoration:none !important;
+	position	:relative;
+	display		:inline-block;
+	flex-basis	:19vw;
+	height		:24vw;
+	background	:#0000d0;
+	margin		:0.3vw;
 	color:#fafafa !important;
-	transition-property:none !important;
 }
 
 .fav_p{
@@ -462,8 +461,8 @@ a{
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width:18vw;
-	height:18vw;
+	width		:18vw;
+	height		:18vw;
 }
 
 .fav_m{
@@ -478,14 +477,15 @@ a{
 	background	:#fafafa;
 	font-size	:2.8vw;
 	overflow	:hidden;
-	color:#202020;
+	color		:#202020;
+	text-align	:left;
 }
 
 .fav_s{
 	display		:inline-block;
 	position	:absolute;
-	top			:14vw;
-	right		:1vw;
+	top			:13.5vw;
+	right		:1.5vw;
 	padding		:0.2vw 1vw;
 	font-weight	:600;
 	font-size	:2.8vw;
