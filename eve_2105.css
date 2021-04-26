@@ -233,6 +233,22 @@ a{
 	height		:19vw;
 }
 
+.flex_d_w{
+	display		:inline-block;
+	position	:absolute;
+	top			:8vw;
+	left		:20vw;
+	width		:22vw;
+	height		:10vw;
+	margin		:auto;
+	background	:#ff00ff;
+	color		:#fafafa;
+	font-size	:4vw;
+	line-height	:6vw;
+	text-align	:left;
+	overflow	:hidden;
+}
+
 .flex_m_w{
 	display		:inline-block;
 	position	:absolute;
@@ -471,7 +487,7 @@ a{
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:18vw;
+	width		:17vw;
 	height		:4vw;
 	line-height	:4vw;
 	background	:#fafafa;
@@ -479,6 +495,7 @@ a{
 	overflow	:hidden;
 	color		:#202020;
 	text-align	:left;
+	padding-left:1vw;
 }
 
 .fav_s{
