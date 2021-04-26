@@ -384,8 +384,8 @@ a{
 	top				:0;
 	bottom			:0;
 	right			:1vw;
-	height			:3.5vw;
-	width			:3.5vw;
+	height			:3vw;
+	width			:3vw;
 	border-top		:1vw solid #101510;
 	border-right	:1vw solid #101510;
 	transform-origin:center;
