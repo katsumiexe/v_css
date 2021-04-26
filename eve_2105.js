@@ -1,3 +1,4 @@
+var Pg=0;
 $(function(){ 
 	$('.flex_box,.flex_box_w').hide();
 	$('.group0').show();
@@ -31,12 +32,16 @@ $(function(){
 		});
 	});
 
+ 
     $('#page_p').on('click',function(){
-	if($('.pg_box_in').css('left') > 0 ){
-		$('.pg_box_in').animate({'left':-=8vw},500);
-	}
-	});
+		var PgMax=$('.page').length-4;
+console.log(PgMax);
 
+		if(Pg<PgMax){
+			Pg--;
+			$('.pg_box_in').animate({'left':Pg*8 +"vw"},500);
+		}
+	});
 });
 
 
