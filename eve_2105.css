@@ -470,15 +470,17 @@ a{
 	margin		:auto;
 	width		:18vw;
 	height		:4vw;
-	background:#fafafa;
+	line-height	:4vw;
+	background	:#fafafa;
+	font-size	:2.8vw;
+	overflow	:hidden;
 }
 
 .fav_s{
+	display		:inline-block;
 	position	:absolute;
-	top			:14vw;
-	left		:2;
-	width		:8vw;
-	height		:3vw;
-	background:#ff0000;
+	top			:15vw;
+	right		:1vw;
+	padding		:0.2vw;
 }
 
