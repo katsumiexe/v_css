@@ -30,4 +30,14 @@ $(function(){
 			}		
 		});
 	});
+
+    $('#page_p').on('click',function(){
+	if($('.pg_box_in').css('left') > 0 ){
+		$('.pg_box_in').animate({'left':-=8vw},500);
+	}
+	});
+
 });
+
+
+

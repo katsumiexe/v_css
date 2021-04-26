@@ -392,22 +392,22 @@ a{
 }
 
 .to_top_n{
-	right			:1vw;
+	right			:0vw;
 	transform		:rotate(225deg);
 }
 
 .to_top_n2{
-	right			:3vw;
+	right			:2vw;
 	transform		:rotate(225deg);
 }
 
 .to_top_p{
-	left			:1vw;
+	left			:0vw;
 	transform		:rotate(45deg);
 }
 
 .to_top_p2{
-	left			:3vw;
+	left			:2vw;
 	transform		:rotate(45deg);
 }
 
