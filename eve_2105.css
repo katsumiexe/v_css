@@ -416,8 +416,10 @@ a{
 	position	:relative;
 	display		:flex;
 	width		:70vw;
-	margin		:0 auto;
+	margin		:2vw auto;
 	background	:#300060;
+	font-size:0;
+	border:0.5vw solid #fafafa;	
 }
 
 .pg_box{
@@ -426,7 +428,6 @@ a{
 	width		:50vw;
 	flex-basis	:50vw;
 	margin		:0 auto;
-	background	:#fafafa;
 	overflow	:hidden;	
 	height		:8vw;
 }
@@ -438,7 +439,6 @@ a{
 	bottom		:0;
 	left		:0;
 	margin		:auto;
-	background	:#00a0c0;
 	height		:8vw;
 	font-size:0;
 }
