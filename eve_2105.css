@@ -450,6 +450,8 @@ a{
 	height:24vw;
 	background:#009000;
 	margin:0.3vw;
+	text-decoration:none !important;
+	color:#fafafa !important;
 }
 
 .fav_p{
@@ -482,5 +484,7 @@ a{
 	top			:15vw;
 	right		:1vw;
 	padding		:0.2vw;
+	font-weight	:600;
+	font-size	:2.8vw;
 }
 
