@@ -403,6 +403,8 @@ a{
 	width			:3vw;
 	border-top		:1vw solid #b08000;
 	border-right	:1vw solid #b08000;
+	border-top		:1vw solid #fafafa;
+	border-right	:1vw solid #fafafa;
 	transform-origin:center;
 	margin			:auto;
 }
