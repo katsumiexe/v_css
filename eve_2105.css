@@ -443,4 +443,43 @@ a{
 	height		:8vw;
 	font-size:0;
 }
+.fav{
+	position:relative;
+	display:inline-block;
+	flex-basis:19vw;
+	height:24vw;
+	background:#009000;
+}
+
+.fav_p{
+	position	:absolute;
+	top			:0.5vw;
+	left		:0;
+	right		:0;
+	margin		:auto;
+	width:18vw;
+	height:18vw;
+}
+
+.fav_m{
+	position	:absolute;
+	top			:20vw;
+	left		:0;
+	right		:0;
+	margin		:auto;
+	width		:18vw;
+	height		:4vw;
+	background:#fafafa;
+}
+
+.fav_s{
+	position	:absolute;
+	top			:14vw;
+	left		:0;
+	right		:0;
+	margin		:auto;
+	width		:4vw;
+	height		:3vw;
+	background:#ff0000;
+}
 

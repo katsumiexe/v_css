@@ -1,4 +1,3 @@
-
 $(function(){ 
 	var Pg=0;
 	var PgMax=$('.page').length-6;
@@ -38,21 +37,22 @@ $(function(){
 		if(PgMax+Pg>0){
 			Pg--;
 			$('.pg_box_in').animate({'left':Pg*8 +"vw"},200,"swing");
+		    $('.to_top_p,.to_top_p2').css('border-color','#0000ff');
+
+		}else{
+		    $('.to_top_n,.to_top_n2').css('border-color','#00ff00');
 		}
-console.log(PgMax);
-console.log(Pg);
 	});
 
     $('#page_p').on('click',function(){
+
 		if(Pg<0){
 			Pg++;
 			$('.pg_box_in').animate({'left':Pg*8 +"vw"},200,"swing");
+		    $('.to_top_n,.to_top_n2').css('border-color','#b08000');
+
+		}else{
+		    $('.to_top_p,.to_top_p2').css('border-color','#fafafa');
 		}
 	});
-
-
 });
-
-
-
-
