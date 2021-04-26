@@ -1,7 +1,7 @@
-var Pg=0;
-var PgMax=$('.page').length-4;
 
 $(function(){ 
+	var Pg=0;
+	var PgMax=$('.page').length-4;
 	$('.flex_box,.flex_box_w').hide();
 	$('.group0').show();
 	$('#p0').css('background','linear-gradient(#c0a000,#a09000)');
