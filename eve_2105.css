@@ -165,7 +165,7 @@ a{
 .flex{
 	display		:inline-flex;
 	width		:99vw;
-	margin		:2vw auto;
+	margin		:2vw auto 0.5vw auto;
 	background	:#fafafa;
 	flex-wrap	:wrap;
 	justify-content: flex-start;
@@ -518,5 +518,20 @@ a{
 	padding		:0.2vw 1vw;
 	font-weight	:600;
 	font-size	:2.8vw;
+}
+
+
+.pg_box_chg{
+	display		:block;
+	width		:99vw;
+	margin		:0 auto 2vw auto;
+	background	:#e0e0ff;
+	padding		:0.5vw;
+	height		:10vw;
+	line-height	:10vw;
+	text-align	:center;
+	font-size	:4vw;
+	font-weight	:600;
+	color		:#202020;
 }
 
