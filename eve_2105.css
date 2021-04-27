@@ -237,7 +237,7 @@ a{
 	display		:inline-block;
 	position	:absolute;
 	left		:21vw;
-	width		:23.5vw;
+	width		:25vw;
 	height		:4vw;
 	margin		:auto;
 	color		:#303030;
@@ -248,15 +248,15 @@ a{
 }
 
 .w0{
-	top			:15vw;
+	top			:17vw;
 }
 
 .w1{
-	top			:11vw;
+	top			:13vw;
 }
 
 .w2{
-	top			:7vw;
+	top			:9vw;
 }
 
 .flex_m_w{
