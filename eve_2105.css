@@ -236,16 +236,27 @@ a{
 .flex_d_w{
 	display		:inline-block;
 	position	:absolute;
-	top			:7vw;
 	left		:21vw;
-	width		:25vw;
-	height		:13vw;
+	width		:23.5vw;
+	height		:4vw;
 	margin		:auto;
 	color		:#303030;
 	font-size	:3vw;
-	line-height	:4.5vw;
-	text-align	:left;
+	line-height	:4vw;
+	text-align	:right;
 	overflow	:hidden;
+}
+
+.w0{
+	top			:15vw;
+}
+
+.w1{
+	top			:11vw;
+}
+
+.w2{
+	top			:7vw;
 }
 
 .flex_m_w{
