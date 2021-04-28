@@ -610,20 +610,20 @@ a{
 }
 
 .prof_box_img_top{
-	width			:20vw;
-	margin:2vw auto 0vw auto;
-	height			:5vw;
-	line-height		:5vw;
-	font-size		:4vw;
+	width			:28vw;
+	margin			:2vw auto 0vw auto;
+	height			:4vw;
+	line-height		:4vw;
+	font-size		:3.2vw;
 	font-weight		:600;
-	color			:#483800;
+	color			:#806000;
 }
 
 
 .prof_box_img_out{
 	background		:linear-gradient(135deg,#d8c890 0%, #e0d098 50% , #c8b880 100%);
 	position		:relative;
-	width			:20vw;
+	width			:30vw;
 	height			:10vw;
 	border-top		:0.5vw solid #f8e8b0;
 	border-left		:0.5vw solid #f8e8b0;
@@ -638,7 +638,7 @@ a{
 	left			:0;
 	right			:0;
 	bottom			:0;
-	width			:18vw;
+	width			:28vw;
 	height			:8vw;
 	margin			:auto;
 	border-top		:0.5vw solid #483800;
@@ -648,7 +648,7 @@ a{
 	padding			:1vw;
 	line-height		:8vw;
 	font-size		:5vw;
-	color			:#483800;
+	color			:#c8b880;
 	font-weight		:800;
 	background		:linear-gradient(135deg,#fff8f0, #f8f0e8);
 	text-shadow		:2px 2px 0 #201000;;
