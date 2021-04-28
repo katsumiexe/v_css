@@ -106,7 +106,7 @@ a{
 	margin		:2vw auto;
 	display		:inline-block;
 	position	:relative;
-	width		:84vw;	
+	width		:90vw;	
 	height		:22vw;
 	background	:linear-gradient(135deg,#dddddd,#eeeeee);
 	box-shadow	:0.5vw 0.5vw 0.5vw rgba(30,30,30,0.5);
@@ -125,11 +125,12 @@ a{
 	position	:absolute;
 	top			:6.6vw;
 	left		:22vw;
-	width		:60vw;
+	width		:66vw;
 	height		:14.5vw;
 	font-size	:3.5vw;
 	line-height	:5vw;
 	text-align	:left;
+	overflow	:hidden;
 }
 
 .p2_box_n{
