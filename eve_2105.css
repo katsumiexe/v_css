@@ -651,6 +651,7 @@ a{
 	color			:#483800;
 	font-weight		:800;
 	background		:linear-gradient(135deg,#fff8f0, #f8f0e8);
+	text-shadow		:2px 2px 0 #201000;;
 }
 
 
