@@ -129,6 +129,7 @@ a{
 	height		:13.5vw;
 	font-size	:3.5vw;
 	line-height	:4.6vw;
+	text-align	:left;
 }
 
 .p2_box_n{
@@ -139,6 +140,7 @@ a{
 	width		:60vw;
 	height		:4vw;
 	font-size	:3.5vw;
+	text-align	:left;
 }
 
 .p2_box_c{
