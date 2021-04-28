@@ -169,6 +169,7 @@ a{
 	box-shadow	:0.5vw 0.5vw 0.5vw rgba(30,30,30,0.5);
 }
 
+
 .p2_box_e{
 	margin		:2vw auto;
 	display		:block;
@@ -177,8 +178,6 @@ a{
 	line-height	:10vw;
 	background	:linear-gradient(#f03060,#d01040);
 }
-
-
 
 .pt_btn{
 	width		:40vw;
