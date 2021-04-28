@@ -167,6 +167,7 @@ a{
 	background	:#e0e0e0;
 	box-shadow	:0.5vw 0.5vw 0.5vw rgba(30,30,30,0.5);
 	padding		:2vw;
+	font-size	:4vw;
 }
 
 
@@ -179,6 +180,7 @@ a{
 	background	:linear-gradient(#a0a0c0,#8080a0);
 	font-weight	:600;
 	color:#fafafa !important;
+	font-size	:4vw;
 }
 
 .pt_btn{
