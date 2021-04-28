@@ -609,6 +609,17 @@ a{
 	color		:#202020;
 }
 
+.prof_box_img_top{
+	width			:20vw;
+	margin:2vw auto 0vw auto;
+	height			:5vw;
+	line-height		:5vw;
+	font-size		:4vw;
+	font-weight		:600;
+	color			:#483800;
+}
+
+
 .prof_box_img_out{
 	background		:linear-gradient(135deg,#d8c890 0%, #e0d098 50% , #c8b880 100%);
 	position		:relative;
@@ -618,7 +629,7 @@ a{
 	border-left		:0.5vw solid #f8e8b0;
 	border-right	:0.5vw solid #483800;
 	border-bottom	:0.5vw solid #483800;
-	margin:2vw auto;
+	margin:0vw auto 2vw auto;
 }
 
 .prof_box_img{
