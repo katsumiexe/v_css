@@ -32,11 +32,12 @@ a{
 
 .p1_box_a_3{
 	padding			:2vw;
-	margin			:1vw 4vw;
+	margin			:0vw 2vw;
 	font-size		:3.5vw;
 	text-align		:left;
-	background		:#fafafa;
 	line-height		:5vw;
+	background		:#e0e0e0;
+	color			:#000000;
 }
 
 
