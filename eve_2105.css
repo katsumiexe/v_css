@@ -40,6 +40,16 @@ a{
 	color			:#000000;
 }
 
+.p1_box_a_4{
+	padding			:2vw;
+	margin			:0vw 2vw;
+	font-size		:3.5vw;
+	text-align		:left;
+	line-height		:5vw;
+	background		:#e0e0e0;
+	color			:#000000;
+}
+
 
 
 .p1_h3{
@@ -598,4 +608,38 @@ a{
 	font-weight	:600;
 	color		:#202020;
 }
+
+.prof_box_img_out{
+	background		:linear-gradient(135deg,#d8c890 0%, #e0d098 50% , #c8b880 100%);
+	position		:ralative;
+	width			:20vw;
+	height			:10vw;
+	border-top		:0.5vw solid #f8e8b0;
+	border-left		:0.5vw solid #f8e8b0;
+	border-right	:0.5vw solid #483800;
+	border-bottom	:0.5vw solid #483800;
+}
+
+.prof_box_img{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	width			:18vw;
+	height			:8vw;
+	margin			:auto;
+	border-top		:0.5vw solid #483800;
+	border-left		:0.5vw solid #483800;
+	border-right	:0.5vw solid #f8e8b0;
+	border-bottom	:0.5vw solid #f8e8b0;
+	padding			:1vw;
+	line-height		:8vw;
+	font-size		:5vw;
+	color			:#483800;
+	font-weight		:800;
+	background		:linear-gradient(135deg,#fff8f0, #f8f0e8);
+}
+
+
 
