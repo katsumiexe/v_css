@@ -23,6 +23,7 @@ $(function(){
 			'ope_id':Ope_Id
 		},
 		function(data){
+		console.log(data);
 			if(data == 2){
 				$('.bottun_box').hide();
 				$('.call_box').fadeIn(500);
