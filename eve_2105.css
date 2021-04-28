@@ -123,11 +123,22 @@ a{
 .p2_box_b{
 	display		:inline-block;
 	position	:absolute;
+	top			:4.5vw;
+	left		:20vw;
+	width		:60vw;
+	height		:13.5vw;
+	font-size	:3.5vw;
+	line-height	:4.6vw;
+}
+
+.p2_box_n{
+	display		:inline-block;
+	position	:absolute;
 	top			:1vw;
 	left		:20vw;
 	width		:60vw;
-	height		:18vw;
-	font-size	:4vw;
+	height		:4vw;
+	font-size	:3.5vw;
 }
 
 .p2_box_c{
