@@ -610,7 +610,7 @@ a{
 }
 
 .prof_box_img_top{
-	width			:28vw;
+	width			:25vw;
 	margin			:2vw auto 0vw auto;
 	height			:4vw;
 	line-height		:4vw;
@@ -623,8 +623,8 @@ a{
 .prof_box_img_out{
 	background		:linear-gradient(135deg,#d8c890 0%, #e0d098 50% , #c8b880 100%);
 	position		:relative;
-	width			:30vw;
-	height			:10vw;
+	width			:26vw;
+	height			:12vw;
 	border-top		:0.5vw solid #f8e8b0;
 	border-left		:0.5vw solid #f8e8b0;
 	border-right	:0.5vw solid #483800;
@@ -638,21 +638,18 @@ a{
 	left			:0;
 	right			:0;
 	bottom			:0;
-	width			:28vw;
+	width			:22vw;
 	height			:8vw;
 	margin			:auto;
 	border-top		:0.5vw solid #483800;
 	border-left		:0.5vw solid #483800;
 	border-right	:0.5vw solid #f8e8b0;
 	border-bottom	:0.5vw solid #f8e8b0;
-	padding			:1vw;
+	text-align		:center;
 	line-height		:8vw;
 	font-size		:5vw;
 	color			:#c8b880;
 	font-weight		:800;
 	background		:linear-gradient(135deg,#fff8f0, #f8f0e8);
-	text-shadow		:2px 2px 0 #201000;;
+	text-shadow		:2px 2px 0 #201000;
 }
-
-
-
