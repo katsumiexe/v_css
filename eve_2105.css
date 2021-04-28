@@ -611,13 +611,14 @@ a{
 
 .prof_box_img_out{
 	background		:linear-gradient(135deg,#d8c890 0%, #e0d098 50% , #c8b880 100%);
-	position		:ralative;
+	position		:relative;
 	width			:20vw;
 	height			:10vw;
 	border-top		:0.5vw solid #f8e8b0;
 	border-left		:0.5vw solid #f8e8b0;
 	border-right	:0.5vw solid #483800;
 	border-bottom	:0.5vw solid #483800;
+	margin:2vw auto;
 }
 
 .prof_box_img{
