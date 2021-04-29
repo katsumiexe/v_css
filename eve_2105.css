@@ -619,7 +619,6 @@ a{
 	color			:#806000;
 }
 
-
 .prof_box_img_out{
 	background		:linear-gradient(135deg,#d8c890 0%, #e0d098 50% , #c8b880 100%);
 	position		:relative;
@@ -629,7 +628,7 @@ a{
 	border-left		:0.5vw solid #f8e8b0;
 	border-right	:0.5vw solid #483800;
 	border-bottom	:0.5vw solid #483800;
-	margin:0vw auto 2vw auto;
+	margin			:0vw auto 2vw auto;
 }
 
 .prof_box_img{
@@ -638,8 +637,8 @@ a{
 	left			:0;
 	right			:0;
 	bottom			:0;
-	width			:24vw;
-	height			:9vw;
+	width			:23vw;
+	height			:8vw;
 	margin			:auto;
 	border-top		:0.5vw solid #483800;
 	border-left		:0.5vw solid #483800;
@@ -651,5 +650,5 @@ a{
 	color			:#c8b880;
 	font-weight		:800;
 	background		:linear-gradient(135deg,#fff8f0, #f8f0e8);
-	text-shadow		:2px 2px 0 #201000;
+	text-shadow		:1px 1px 0 #201000;
 }
