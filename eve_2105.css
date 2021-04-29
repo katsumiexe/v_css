@@ -395,6 +395,7 @@ a{
 	margin		:0 auto;
 	text-align	:left;
 	font-weight	:600;
+	font-size	:3.5vw;
 }
 .box_a_1{
 	width		:90vw;
@@ -403,6 +404,7 @@ a{
 //	border		:1vw solid #0000d0;
 	margin		:0 auto 3vw auto;
 	text-align	:left;
+	font-size	:3.5vw;
 }
 
 
