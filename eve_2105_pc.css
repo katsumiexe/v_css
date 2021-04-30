@@ -288,7 +288,7 @@ a{
 
 .flex_s{
 	position		:absolute;
-	top				:170px;
+	top				:150px;
 	right			:10px;
 	display			:inline-block;
 	width			:80px;
@@ -301,11 +301,6 @@ a{
 	font-weight		:600;
 	border-radius	:5px;
 }
-
-
-
-}
-
 
 .flex_box_ww{
 	position	:relative;
