@@ -204,15 +204,15 @@ a{
 
 
 .p2_box_d{
-	margin		:2vw auto;
+	margin		:10px auto;
 	display		:block;
 	position	:relative;
-	width		:84vw;	
-	line-height	:5vw;
+	width		:400px;	
+	line-height	:30px;
 	background	:#e0e0e0;
 	box-shadow	:0.5vw 0.5vw 0.5vw rgba(30,30,30,0.5);
-	padding		:2vw;
-	font-size	:4vw;
+	padding		:10px;
+	font-size	:18px;
 }
 
 
