@@ -10,11 +10,11 @@ a{
 
 .button_box{
 	margin			:5px auto;
-	display			:inline-block;
+	display			:block;
 	position		:relative;
-	width			:400px;	
+	width			:1000px;	
 	height			:200px;
-	text-align:center;
+	text-align		:center;
 }
 
 
@@ -231,9 +231,10 @@ a{
 }
 
 .pt_btn{
-	width		:40vw;
-	height		:8vw;
-	font-size	:4vw;
+	display		:block;
+	width		:300px;
+	height		:30px;
+	font-size	:20px;
 	font-weight	:700;	
 	color		:#fafafa;
 	text-shadow	:2px 2px 2px #303030;
