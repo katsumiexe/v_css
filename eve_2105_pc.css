@@ -238,9 +238,9 @@ a{
 }
 
 .flex{
-	display		:inline-flex;
-	width		:99vw;
-	margin		:2vw auto 0.5vw auto;
+	display		:flex;
+	width		:1200px;
+	margin		:10px auto 5px auto;
 	background	:#fafafa;
 	flex-wrap	:wrap;
 	justify-content: flex-start;
