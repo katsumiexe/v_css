@@ -9,24 +9,24 @@ a{
 }
 
 .p1_box_a{
-	padding			:1vw;
-	margin			:8vw;
+	padding			:5px;
+	margin			:30px;
 	background		:#fafafa;
-	box-shadow		:#fafafa 0 0 3vw 3vw;
-	font-size		:3.8vw;
+	box-shadow		:#fafafa 0 0 10px 10px;
+	font-size		:18px;
 	text-align		:left;
 }
 
 .p1_box_a_1{
 
-	padding			:1vw;
-	font-size		:5vw;
+	padding			:5px
+	font-size		:18px;
 	text-align		:left;
 }
 
 .p1_box_a_2{
-	padding			:2vw;
-	font-size		:4vw;
+	padding			:10px;
+	font-size		:16px;
 	text-align		:left;
 }
 
