@@ -31,21 +31,21 @@ a{
 }
 
 .p1_box_a_3{
-	padding			:2vw;
-	margin			:0vw 2vw;
-	font-size		:3.5vw;
+	padding			:10px;
+	margin			:0 10px;
+	font-size		:16px;
 	text-align		:left;
-	line-height		:5vw;
+	line-height		:24px;
 	background		:#e0e0e0;
 	color			:#000000;
 }
 
 .p1_box_a_4{
-	padding			:2vw;
-	margin			:0vw 2vw;
-	font-size		:3.5vw;
+	padding			:10@x;
+	margin			:0vw 10px;
+	font-size		:16px;
 	text-align		:left;
-	line-height		:5vw;
+	line-height		:24px;
 	background		:#e0e0e0;
 	color			:#000000;
 }
