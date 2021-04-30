@@ -54,14 +54,14 @@ a{
 
 .p1_h3{
 	display			:block;
-	width			:99vw;
+	width			:1200px;
 	background		:#fafafa;
 	font-weight		:600;
 	color			:#00004d;
-	padding			:2vw;
-	font-size		:4vw;
+	padding			:10px;
+	font-size		:20px;
 	text-align		:left;
-	border-left		:5vw solid #ff6060;
+	border-left		:20px solid #000090;
 }
 
 .box_0{
