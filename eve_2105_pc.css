@@ -239,12 +239,12 @@ a{
 
 .flex{
 	display		:flex;
-	width		:1200px;
+	width		:1190px;
 	margin		:10px auto 5px auto;
 	background	:#fafafa;
 	flex-wrap	:wrap;
 	justify-content: flex-start;
-	padding		:0.5vw;
+	padding		:5px;
 }
 
 .flex_box{
@@ -553,8 +553,8 @@ a{
 .fav{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:220px;
-	height		:250px;
+	flex-basis	:230px;
+	height		:260px;
 	background	:#0000d0;
 	margin		:5px;
 	color		:#fafafa !important;
@@ -576,9 +576,9 @@ a{
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:210px;
-	height		:30px;
-	line-height	:30px;
+	width		:205px;
+	height		:40px;
+	line-height	:40px;
 	background	:#fafafa;
 	font-size	:18px;
 	overflow	:hidden;
