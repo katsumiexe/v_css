@@ -158,12 +158,12 @@ a{
 .p2_box_b{
 	display		:inline-block;
 	position	:absolute;
-	top			:6.6vw;
-	left		:22vw;
-	width		:66vw;
-	height		:14.5vw;
-	font-size	:3.5vw;
-	line-height	:5vw;
+	top			:65px;
+	left		:200px;
+	width		:900px;
+	height		:130px;
+	font-size	:20px;
+	line-height	:32px;
 	text-align	:left;
 	overflow	:hidden;
 }
