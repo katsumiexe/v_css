@@ -293,19 +293,19 @@ a{
 .flex_box_w{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:47vw;
-	height		:27vw;
+	flex-basis	:585px;
+	height		:320px;
 	text-align	:center;
-	margin		:1vw;
+	margin		:5px;
 	background	:#e0e0e0;
 }
 
 .flex_p_w{
 	position	:absolute;
-	top			:1vw;
-	left		:1vw;
-	width		:19vw;
-	height		:19vw;
+	top			:5px;
+	left		:5px;
+	width		:200px;
+	height		:200px;
 }
 
 .flex_d_w{
@@ -554,7 +554,7 @@ a{
 	position	:relative;
 	display		:inline-block;
 	flex-basis	:230px;
-	height		:270px;
+	height		:275px;
 	background	:#0000d0;
 	margin		:4px;
 	color		:#fafafa !important;
