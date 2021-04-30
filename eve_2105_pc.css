@@ -554,15 +554,15 @@ a{
 	position	:relative;
 	display		:inline-block;
 	flex-basis	:230px;
-	height		:260px;
+	height		:270px;
 	background	:#0000d0;
-	margin		:5px;
+	margin		:4px;
 	color		:#fafafa !important;
 }
 
 .fav_p{
 	position	:absolute;
-	top			:5px;
+	top			:10px;
 	left		:0;
 	right		:0;
 	margin		:auto;
@@ -572,7 +572,7 @@ a{
 
 .fav_m{
 	position	:absolute;
-	top			:220px;
+	top			:225px;
 	left		:0;
 	right		:0;
 	margin		:auto;
