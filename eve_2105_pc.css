@@ -643,10 +643,10 @@ a{
 	width			:190px;
 	height			:60px;
 	margin			:auto;
-	border-top		:5px solid #483800;
-	border-left		:5px solid #483800;
-	border-right	:5px solid #f8e8b0;
-	border-bottom	:5px solid #f8e8b0;
+	border-top		:3px solid #483800;
+	border-left		:3px solid #483800;
+	border-right	:3px solid #f8e8b0;
+	border-bottom	:3px solid #f8e8b0;
 	text-align		:center;
 	line-height		:60px;
 	font-size		:40px;
