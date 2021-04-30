@@ -12,8 +12,7 @@ a{
 	margin			:5px auto;
 	display			:block;
 	position		:relative;
-	width			:1000px;	
-	height			:200px;
+	width			:300px;	
 	text-align		:center;
 }
 
@@ -218,15 +217,15 @@ a{
 
 
 .p2_box_e{
-	margin		:2vw auto;
+	margin		:10px auto;
 	display		:block;
-	width		:40vw;	
-	height		:8vw;
-	line-height	:8vw;
+	width		:280px;	
+	height		:45px;
+	line-height	:45px;
 	background	:linear-gradient(#a0a0c0,#8080a0);
 	font-weight	:600;
 	color:#fafafa !important;
-	font-size	:4vw;
+	font-size	:20px;
 }
 
 .pt_btn{
