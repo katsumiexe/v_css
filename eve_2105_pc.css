@@ -360,8 +360,8 @@ a{
 	width		:100px;
 	height		:40px;
 	color		:#fafafa;
-	font-size	:3.5vw;
-	line-height	:5vw;
+	font-size	:20px;
+	line-height	:40px;
 	text-align	:center;
 	box-shadow	:1px 1px 0 rgba(0,0,0,1); 
 	font-weight	:600;
@@ -591,14 +591,20 @@ a{
 .fav_s{
 	display		:inline-block;
 	position	:absolute;
-	top			:180px;
-	right		:10px;
+	top			:175px;
+	right		:15px;
 	width		:100px;
 	height		:40px;
-	line-hight	:40px;
+	font-size	:20px;
+	line-height	:40px;
+	text-align	:center;
+	box-shadow	:1px 1px 0 rgba(0,0,0,1); 
 	font-weight	:600;
-	font-size	:18px;
+	border-radius:5px;
 }
+
+
+
 
 
 .pg_box_chg{
