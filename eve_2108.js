@@ -45,7 +45,7 @@ $(function(){
 		}
 
 		if($('.up_link_out').offset().top>$('#canvas2').offset().top){
-			$('.up_link_out').removeClass('out_e');
+			$('.up_link_out').css({'top':$('#canvas2').offset().top}).removeClass('out_e');
 
 		}else{
 			$('.up_link_out').addClass('out_e');
