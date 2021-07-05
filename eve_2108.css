@@ -233,11 +233,11 @@
 
 .up_link_ar,.up_link_ar2{
 	position	:absolute;
-	top			:5.5vw;
+	top			:5.2vw;
 	left		:0;
 	right		:0;
-	width		:2.5vw;
-	height		:2.5vw;
+	width		:2.8vw;
+	height		:2.8vw;
 	margin		:auto;
 	font-weight	:700;
 	border-top	:1vw solid #404550;
@@ -247,8 +247,8 @@
 
 .up_link_ar2{
 	top			:7vw;
-	width		:3vw;
-	height		:3vw;
+	width		:2.8vw;
+	height		:2.8vw;
 }
 
 .up_link_in{
