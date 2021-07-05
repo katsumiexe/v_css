@@ -1,10 +1,10 @@
 .main{
-	width		:100vw;
+	width		:600px;
 	min-height	:100vh;
 	font-size	:0;
 }
 .back{
-	width		:100vw;
+	width		:600px;
 	position	:fixed;
 	z-index		:-2;
 	top			:0;
@@ -13,7 +13,7 @@
 }
 
 .img_back2,.img_back1{
-	width		:100vw;
+	width		:600px;
 	height		:100vh;
 	position	:absolute;
 	left		:0;
@@ -22,7 +22,7 @@
 }
 
 .img_back3{
-	width		:100vw;
+	width		:600px;
 	position	:fixed;
 	left		:0;
 	right		:0;
@@ -38,13 +38,13 @@
 	position	:relative;
 	min-height	:80vh;
 	background	:#ffffff;
-	font-size	:4vw;
+	font-size	:16px;
 	z-index:1;
 }
 
 .box_2{
 	position	:relative;
-	width		:100vw;
+	width		:600px;
 	background	:#ffffff;
 	min-height	:10vh;
 	z-index:1;
@@ -52,7 +52,7 @@
 
 .box_3{
 	position	:relative;
-	width		:100vw;
+	width		:600px;
 	text-align	:left;
 	display		:flex;
 	flex-wrap	:wrap;
@@ -62,107 +62,107 @@
 }
 
 .top_1{
-	width		:80vw;
-	height		:12vh;
-	margin		:3vh 100px;
-	border		:2px solid #ffffff;
+	width:400px;
+	height:12vh;
+	margin:3vh 100px;
+	border:2px solid #ffffff;
 }
 
 .top_2{
-	width		:70vw;
-	height		:16vh;
-	margin		:3vh auto;
-	border		:2px solid #ffffff;
-	background	:rgba(255,255,255,0.6);
+	width:360px;
+	height:16vh;
+	margin:3vh auto;
+	border:2px solid #ffffff;
+	background:rgba(255,255,255,0.6);
 
 }
 
 .skew_btm{
-	width		:100vw;
-	height		:20vw;
+	width		:600px;
+	height		:80px;
 	transform	:skewY(5deg);
 	background	:#ffffff;
-	position	:relative;
 	transform-origin:right top;
+	position:relative;
 }
 
 .blank{
 	position	:relative;
-	width		:100vw;
+	width		:600px;
 	text-align	:center;
 	display		:flex;
 	flex-wrap	:wrap;
-	padding:1vw 0 5vw 0;
 	justify-content:space-around;
+	padding:5px 0 30px 0;
 }
 
 
 .blank_title{
 	position	:relative;
-	width		:90vw;
+	width		:570px;
 	text-align	:left;
-	padding-left:2vw;
-	height		:10vw;
-	padding		:1vw 0 0 0;
-	border-bottom:1vw solid #ffffff;
-	font-size	:5vw;
-	color		:#ffffff;
-	margin		: 0 auto;	
+	padding-left:10px;
+	height		:40px;
+	padding		:5px 0 0 0;
+	border-bottom:5px solid #ffffff;
+	font-size:24px;
+	color:#ffffff;
+	margin: 0 auto;	
 }
 
 
 
 .blank_2{
 	position	:relative;
-	width		:100vw;
+	width		:600px;
 	height		:20vh;
 }
 
 .pick{
 	position	:relative;
 	display		:inline-block;
-	width		:45vw;
-	flex-basis	:45vw;
-	height		:60vw;
+	width		:260px;
+	flex-basis	:260px;
+	height		:360px;
 	background	:#ffffff;
-	margin		:2vw;
-	box-shadow:2vw 2vw 0 #83CCD2; 
+	margin		:15px;
+	box-shadow:10px 10px 0 #83CCD2; 
 }
 
 .pick_in{
 	position	:absolute;
-	top			:45vw;
-	left		:2vw;
-	width		:41vw;
-	height		:13vw;
+	top			:260px;
+	left		:10px;
+	width		:240px;
+	height		:90px;
 	background	:linear-gradient(135deg,#F7C8CE,#d7a8aE);
 	}
 
 
 .img_pick{
 	position	:absolute;
-	top			:2vw;
-	left		:2vw;
-	width		:41vw;
-	height		:41vw;
+	top			:10px;
+	left		:10px;
+	width		:240px;
+	height		:240px;
 }
 
 .face{
 	position	:relative;
 	display		:inline-block;
-	width		:20vw;
-	flex-basis	:20vw;
-	height		:24vw;
+	width		:140px;
+	flex-basis	:140px;
+	height		:170px;
 	background	:#9080d0;
-	margin		:1vw;
+	margin		:5px;
 }
 
 .img_face{
 	position	:absolute;
-	top			:1vw;
-	left		:1vw;
-	width		:18vw;
-	height		:18vw;
+	top			:5px;
+	left		:5px;
+	width		:130px;
+	height		:130px;
 }
 
 
@@ -178,10 +178,10 @@
 
 .p_box{
 	display		:block;
-	width		:60vw;
-	height		:60vw;
+	width		:320px;
+	height		:320px;
 	position	:relative;
-	box-shadow	:1vw 1vw 1vw rgba(10,10,10,0.8);
+	box-shadow	:5px 5px 5px rgba(10,10,10,0.8);
 	background	:#d0e0ff;
 }
 
