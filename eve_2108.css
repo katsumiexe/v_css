@@ -150,11 +150,11 @@
 .face{
 	position	:relative;
 	display		:inline-block;
-	width		:23vw;
-	flex-basis	:23vw;
-	height		:35vw;
+	width		:24vw;
+	flex-basis	:24vw;
+	height		:32vw;
 	background	:#9080d0;
-	margin		:1vw;
+	margin		:0.5vw;
 }
 
 .img_face{
