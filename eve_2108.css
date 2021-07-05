@@ -185,15 +185,16 @@
 	background	:#d0e0ff;
 }
 
+
 .p_img{
-	position	:absolute;	
-	top			:0;
-	left		:0;
-	right		:0;
-	bottom		:0;
-	margin		:auto;
-	width		:54vw;
-	height		:54vw;
+	position		:absolute;	
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:54vw;
+	height			:54vw;
 	border-top		:1vw solid #000000;
 	border-left		:1vw solid #000000;
 	border-right	:1vw solid #fafafa;
