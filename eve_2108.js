@@ -53,11 +53,11 @@ $(function(){
 	});
 });
 
+
 window.addEventListener('load', draw, false);
 function draw(){
-	var Width = $('.main').width();
-	var r = math.floor(Width/30);
-	var T  = Width;
+	var r = 20;
+	var T  = 600;
 	var degree = 0;
 	    
 	var canvas = document.getElementById('canvas');
@@ -66,12 +66,12 @@ function draw(){
 	function loop(){
 		ctx.clearRect(0, 0, canvas.width, canvas.height);
 		ctx.beginPath();
-		ctx.strokeStyle = '#ffffff';
+		ctx.strokeStyle = '#ff0fff';
 		ctx.lineWidth = 2;
 		drawWave(degree);
 
 		ctx.stroke();
-		ctx.fillStyle = '#ffffff';
+		ctx.fillStyle = '#ff0fff';
 		ctx.globalAlpha = 1;
 		ctx.lineTo(canvas.width, canvas.height);
 		ctx.lineTo(0, canvas.height);
@@ -94,12 +94,9 @@ function draw(){
 
 window.addEventListener('load', draw2, false);
 function draw2(){
-	var Width = $('.main').width();
-	var r = Math.floor(Width/30);
-	var T  = Width;
-	var degree = 0;
-	var Width_s = Math.floor(Width/4)
-
+	var r = 20;
+	var T  = 600;
+	var degree2 = 0;
 	    
 	var canvas2 = document.getElementById('canvas2');
 	var ctx = canvas2.getContext('2d');
@@ -107,12 +104,12 @@ function draw2(){
 	function loop(){
 		ctx.clearRect(0, 0, canvas2.width, canvas2.height);
 		ctx.beginPath();
-		ctx.strokeStyle = '#ffffff';
+		ctx.strokeStyle = '#ff0000';
 		ctx.lineWidth = 2;
 		drawWave(degree2);
 
 		ctx.stroke();
-		ctx.fillStyle = '#ffffff';
+		ctx.fillStyle = '#0000ff';
 		ctx.globalAlpha = 1;
 
 		ctx.lineTo(canvas2.width, 0);
@@ -127,14 +124,13 @@ function draw2(){
 	function drawWave(degree2) {
 		ctx.moveTo(0, -r*Math.sin((2*Math.PI/T)*degree2)+(canvas2.height/2)); //始点
 		for (var x=1; x <= canvas2.width; x+= 1) {
-			if(x<Width_s){
-				var y =-50*Math.cos((Math.PI/Width_s)*(x*2));
+			if(x<400){
+				var y =-50*Math.cos((Math.PI/800)*(x*2));
 
 			}else{
-				var y =-50*Math.cos((Math.PI/Width_s)*(x*2-(x-400/100)));
+				var y =-50*Math.cos((Math.PI/400)*(x*2-(x-400/100)));
 			}
 				ctx.lineTo(x, y+(canvas2.height/2));
 		}
 	}
 }
-
