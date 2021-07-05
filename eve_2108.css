@@ -150,9 +150,9 @@
 .face{
 	position	:relative;
 	display		:inline-block;
-	width		:20vw;
-	flex-basis	:20vw;
-	height		:24vw;
+	width		:23vw;
+	flex-basis	:23vw;
+	height		:35vw;
 	background	:#9080d0;
 	margin		:1vw;
 }
@@ -161,8 +161,8 @@
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:18vw;
-	height		:18vw;
+	width		:21vw;
+	height		:21vw;
 }
 
 
