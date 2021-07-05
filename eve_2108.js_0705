@@ -5,7 +5,7 @@ $(function(){
 	});
 
 	$(window).scroll(function() {
-		var Width = $('.main').width();
+		var Width = $(document).innerHeight();
 
 		var HIGHT = $(document).innerHeight();
 		Tmp=$(this).scrollTop();
@@ -21,7 +21,7 @@ $(function(){
 		}
 
 		Base_w=$(window).width()+Tmp;
-		Base_w=Width+Tmp;
+		Base_w=600+Tmp;
 		Base_y=(-450)+Tmp;
 
 		S0=Math.floor(Tmp/20);
@@ -55,9 +55,8 @@ $(function(){
 
 window.addEventListener('load', draw, false);
 function draw(){
-	var Width = $('.main').width();
-	var r = math.floor(Width/30);
-	var T  = Width;
+	var r = 20;
+	var T  = 600;
 	var degree = 0;
 	    
 	var canvas = document.getElementById('canvas');
@@ -94,12 +93,9 @@ function draw(){
 
 window.addEventListener('load', draw2, false);
 function draw2(){
-	var Width = $('.main').width();
-	var r = math.floor(Width/30);
-	var T  = Width;
-	var degree = 0;
-	var Width_s = math.floor(Width/4)
-
+	var r = 20;
+	var T  = 600;
+	var degree2 = 0;
 	    
 	var canvas2 = document.getElementById('canvas2');
 	var ctx = canvas2.getContext('2d');
@@ -127,11 +123,11 @@ function draw2(){
 	function drawWave(degree2) {
 		ctx.moveTo(0, -r*Math.sin((2*Math.PI/T)*degree2)+(canvas2.height/2)); //始点
 		for (var x=1; x <= canvas2.width; x+= 1) {
-			if(x<Width_s){
-				var y =-50*Math.cos((Math.PI/Width_s)*(x*2));
+			if(x<400){
+				var y =-50*Math.cos((Math.PI/800)*(x*2));
 
 			}else{
-				var y =-50*Math.cos((Math.PI/Width_s)*(x*2-(x-400/100)));
+				var y =-50*Math.cos((Math.PI/400)*(x*2-(x-400/100)));
 			}
 				ctx.lineTo(x, y+(canvas2.height/2));
 		}
