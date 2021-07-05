@@ -219,8 +219,8 @@
 	position	:absolute;
 	bottom		:0;
 	right		:0;
-	width		:20vw;
-	height		:20vw;
+	width		:16vw;
+	height		:16vw;
 }
 
 
@@ -253,8 +253,8 @@
 .up_link_in{
 	position	:absolute;
 	display		:inline-block;
-	width		:20vw;
-	height		:20vw;
+	width		:8vw;
+	height		:8vw;
 }
 
 .in1{
