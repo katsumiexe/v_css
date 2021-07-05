@@ -152,7 +152,7 @@
 	display		:inline-block;
 	width		:24vw;
 	flex-basis	:24vw;
-	height		:32vw;
+	height		:35vw;
 	background	:#9080d0;
 	margin		:0.5vw;
 }
@@ -161,8 +161,8 @@
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:21vw;
-	height		:21vw;
+	width		:22vw;
+	height		:22vw;
 }
 
 
