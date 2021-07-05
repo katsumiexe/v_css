@@ -95,10 +95,10 @@ function draw(){
 window.addEventListener('load', draw2, false);
 function draw2(){
 	var Width = $('.main').width();
-	var r = math.floor(Width/30);
+	var r = Math.floor(Width/30);
 	var T  = Width;
 	var degree = 0;
-	var Width_s = math.floor(Width/4)
+	var Width_s = Math.floor(Width/4)
 
 	    
 	var canvas2 = document.getElementById('canvas2');
