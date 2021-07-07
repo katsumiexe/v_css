@@ -115,7 +115,7 @@
 .blank_2{
 	position	:relative;
 	width		:100vw;
-	height		:20vh;
+	height		:30vw;
 }
 
 .pick{
@@ -168,7 +168,7 @@
 
 .bn_btm{
 	position	:absolute;
-	bottom		:1vh;
+	bottom		:5vw;
 	left		:0;
 	right		:0;
 	margin		:auto;
