@@ -31,7 +31,7 @@ $(function(){
 
 console.log($('#canvas2').offset().top+"◆"+Tmp+"◆"+$(window).height())
 
-		if(Tmp>$('#canvas2').offset().top){
+		if(Tmp>$('#canvas2').offset().top-$(window).height()){
 			$('.up_link_out').removeClass('out_e').css({'position':'absolute','top':$('#canvas2').offset().top});
 
 		}else{
