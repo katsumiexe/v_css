@@ -26,10 +26,10 @@ $(function(){
 
 		S0=Math.floor(Tmp/20);
 
-	console.log($('.bn_btm').offset().top+"▼"+$('.up_link_out').offset().top+"▼"+$(window).height()+"▼"+Tmp);
+		Tmp_b=$('.bn_btm').offset().top-$('.up_link_out').offset().top;
+	console.log(Tmp_b+"▼"+Tmp);
 
-
-		if($('.bn_btm').offset().top-$('.up_link_out').offset().top < Tmp){
+		if( Tmp_b < Tmp){
 			$('.up_link_out').removeClass('out_e');
 	console.log("★");
 		}
