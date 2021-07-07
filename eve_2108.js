@@ -29,17 +29,17 @@ $(function(){
 
 
 
-		Tmp_b=$('.bn_btm').offset().top-$('.up_link_out').offset().top;
+		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
-	console.log("○"+$('.bn_btm').offset().top);
+	console.log("○"+$('#canvas2').offset().top);
 	console.log("●"+$('.up_link_out').offset().top);
 
 
 	console.log(Tmp_b+"▼"+Tmp);
 
 		if( Tmp_b < 0){
-			$('.up_link_out').removeClass('out_e');
-	console.log("★");
+			$('.up_link_out').removeClass('out_e').css({'position','absolute'});
+	console.log("☆");
 		}
 
 
