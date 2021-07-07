@@ -30,7 +30,7 @@ $(function(){
 
 
 		if($('.bn_btm').offset().top-$('.up_link_out').offset().top < Tmp){
-			$('.up_link_out').removeclass('out_e')
+			$('.up_link_out').removeClass('out_e')
 	console.log("★");
 		}
 
