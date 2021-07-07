@@ -31,7 +31,7 @@
 }
 
 .img_back1{
-	top:-450px;
+	top:calc(10vh * (-1));
 }
 
 .box_1{

@@ -6,8 +6,8 @@ $(function(){
 
 	$(window).scroll(function() {
 		var Width = $('.main').width();
+		var Height = $('.main').height();
 
-		var HIGHT = $(document).innerHeight();
 		Tmp=$(this).scrollTop();
 
 		if(Tmp < 0){
@@ -20,16 +20,15 @@ $(function(){
 			$('.up_link_out').fadeOut(200);
 		}
 
-		Base_w=$(window).width()+Tmp;
-		Base_w=Width+Tmp;
-		Base_y=(-450)+Tmp;
+		Base_y=Tmp-Height/10;
+
+
 
 		S0=Math.floor(Tmp/20);
 
 
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
-console.log($('#canvas2').offset().top+"◆"+Tmp+"◆"+$(window).height())
 
 		if(Tmp>$('#canvas2').offset().top-$(window).height()+110){
 			$('.up_link_out').removeClass('out_e').css({'position':'absolute','top':$('#canvas2').offset().top+10});
