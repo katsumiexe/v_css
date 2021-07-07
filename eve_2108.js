@@ -32,7 +32,7 @@ $(function(){
 		Tmp_b=$('.bn_btm').offset().top-$('.up_link_out').offset().top;
 
 	console.log("○"+$('.bn_btm').offset().top);
-	console.log($("●"+'.up_link_out').offset().top);
+	console.log("●"+$('.up_link_out').offset().top);
 
 
 	console.log(Tmp_b+"▼"+Tmp);
