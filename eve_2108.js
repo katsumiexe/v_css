@@ -69,14 +69,14 @@ $(function(){
 			$('.up_link_out').css({'position':'fixed','top':'auto'}).addClass('out_e');
 		}
 */
-
+/*
 		if(Tmp>$('#canvas2').offset().top){
 			$('.up_link_out').css({'position':'absolute','top':$('#canvas2').offset().top}).removeClass('out_e');
 
 		}else{
 			$('.up_link_out').css({'position':'fixed','top':'auto'}).addClass('out_e');
 		}
-
+*/
 
 
 	});
