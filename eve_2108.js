@@ -26,6 +26,8 @@ $(function(){
 
 		S0=Math.floor(Tmp/20);
 
+	console.log(Tmp);
+
 
 		$('.up_link').css({'transform':'rotate('+S0+'deg)'});
 
