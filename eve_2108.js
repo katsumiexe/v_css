@@ -29,8 +29,11 @@ $(function(){
 
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
+console.log($('#canvas2').offset().top)
+console.log(Tmp)
 
-		if( Tmp_b < 0){
+
+		if(Tmp>$('#canvas2').offset().top){
 			$('.up_link_out').removeClass('out_e').css({'position':'absolute','top':$('#canvas2').offset().top});
 
 		}else{
