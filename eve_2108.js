@@ -20,7 +20,7 @@ $(function(){
 			$('.up_link_out').fadeOut(200);
 		}
 
-		Base_y=Tmp-Height/10;
+		Base_y= -1 * Tmp/10;
 
 
 
@@ -40,12 +40,9 @@ $(function(){
 		}
 
 
-
-
 		$('.up_link').css({'transform':'rotate('+S0+'deg)'});
 
 		$('.img_back1').stop(false, true).animate({'top':Base_y},100);
-
 		if(Tmp > $('.box_3').offset().top){
 			$('.img_back3').css('z-index','0');
 			$('.img_back2,.img_back1').css('z-index','-1');
