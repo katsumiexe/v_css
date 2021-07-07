@@ -32,7 +32,11 @@ $(function(){
 
 		if( Tmp_b < 0){
 			$('.up_link_out').removeClass('out_e').css({'position':'absolute','top':$('#canvas2').offset().top});
-	console.log("☆");
+
+		}else{
+			$('.up_link_out').addClass('out_e').css({'position':'fixed','top':'auto'});
+		
+		
 		}
 
 
