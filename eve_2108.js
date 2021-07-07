@@ -38,7 +38,7 @@ $(function(){
 	console.log(Tmp_b+"▼"+Tmp);
 
 		if( Tmp_b < 0){
-			$('.up_link_out').removeClass('out_e').css({'position','absolute'});
+			$('.up_link_out').removeClass('out_e').css({'position':'absolute'});
 	console.log("☆");
 		}
 
