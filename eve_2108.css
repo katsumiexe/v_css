@@ -59,6 +59,7 @@
 	background	:#ffffff;
 	min-height	:100vh;
 	z-index:1;
+	padding:2vw;
 }
 
 .top_1{
@@ -150,19 +151,19 @@
 .face{
 	position	:relative;
 	display		:inline-block;
-	width		:24vw;
-	flex-basis	:24vw;
+	width		:22vw;
+	flex-basis	:22vw;
 	height		:35vw;
 	background	:#9080d0;
-	margin		:0.5vw;
+	margin		:1vw;
 }
 
 .img_face{
 	position	:absolute;
-	top			:1vw;
-	left		:1vw;
-	width		:22vw;
-	height		:22vw;
+	top			:0.5vw;
+	left		:0.5vw;
+	width		:21vw;
+	height		:21vw;
 }
 
 
