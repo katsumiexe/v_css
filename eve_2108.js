@@ -26,7 +26,15 @@ $(function(){
 
 		S0=Math.floor(Tmp/20);
 
+
+
+
 		Tmp_b=$('.bn_btm').offset().top-$('.up_link_out').offset().top;
+
+	console.log($('.bn_btm').offset().top);
+	console.log($('.up_link_out').offset().top);
+
+
 	console.log(Tmp_b+"▼"+Tmp);
 
 		if( Tmp_b < Tmp){
