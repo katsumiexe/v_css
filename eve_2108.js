@@ -29,6 +29,11 @@ $(function(){
 	console.log($('.bn_btm').offset().top+"▼"+$('.up_link_out').offset().top+"▼"+$(window).height()+"▼"+Tmp);
 
 
+		if($('.bn_btm').offset().top-$('.up_link_out').offset().top >+Tmp){
+			$('.up_link_out').removeclass('out_e')
+	console.log("★");
+		}
+
 
 
 
