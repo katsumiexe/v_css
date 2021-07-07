@@ -37,7 +37,7 @@ $(function(){
 
 	console.log(Tmp_b+"▼"+Tmp);
 
-		if( Tmp_b < Tmp){
+		if( Tmp_b < 0){
 			$('.up_link_out').removeClass('out_e');
 	console.log("★");
 		}
