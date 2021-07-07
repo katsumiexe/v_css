@@ -27,18 +27,11 @@ $(function(){
 		S0=Math.floor(Tmp/20);
 
 
-
-
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
-	console.log("○"+$('#canvas2').offset().top);
-	console.log("●"+$('.up_link_out').offset().top);
-
-
-	console.log(Tmp_b+"▼"+Tmp);
 
 		if( Tmp_b < 0){
-			$('.up_link_out').removeClass('out_e').css({'position':'absolute'});
+			$('.up_link_out').removeClass('out_e').css({'position':'absolute','top':$('#canvas2').offset().top});
 	console.log("☆");
 		}
 
