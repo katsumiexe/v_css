@@ -26,7 +26,10 @@ $(function(){
 
 		S0=Math.floor(Tmp/20);
 
-	console.log(Tmp);
+	console.log($('.bn_btm').offset().top+"▼"+$('.up_link_out').offset().top+"▼"+$(window).height()+"▼"+Tmp);
+
+
+
 
 
 		$('.up_link').css({'transform':'rotate('+S0+'deg)'});
