@@ -29,7 +29,7 @@ $(function(){
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
 
-		if(Tmp>$('#canvas2').offset().top-$(window).height()+110){
+		if(Tmp>$('#canvas2').offset().top-$(window).height()+$('.up_link_out').height()){
 			$('.up_link_out').removeClass('out_e').css({'position':'absolute','top':$('#canvas2').offset().top+10});
 
 		}else{
@@ -92,7 +92,6 @@ function draw(){
 		}
 	}
 }
-
 
 window.addEventListener('load', draw2, false);
 function draw2(){
