@@ -116,11 +116,15 @@
 }
 
 .notice{
-	width	:80vw;
-	border	:1px solid #303030;
-	font-size:3.5vw;
-	color:303030;
+	width		:80vw;
+	line-height	:4.5vw;
+	border		:1px solid #303030;
+	font-size	:3.2vw;
+	color		:303030;
+	padding		:1vw;
+	margin		:1vw auto;
 }
+
 
 
 .box_title{
