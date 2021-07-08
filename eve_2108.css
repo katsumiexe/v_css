@@ -197,7 +197,7 @@
 	display		:inline-block;
 	width		:22vw;
 	flex-basis	:22vw;
-	height		:35vw;
+	height		:28vw;
 	background	:#9080d0;
 	margin		:1vw;
 }
@@ -363,7 +363,7 @@
 }
 .wave{
 	width:100vw;
-	z-index:1000;
+	z-index:10;
 }
 
 #mainmenu{
