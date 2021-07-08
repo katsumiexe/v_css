@@ -5,6 +5,7 @@ $(function(){
 	});
 
 	$('.img_back1').delay(100).fadeIn(1000);
+	$('.img_back2').delay(1100).fadeIn(10);
 
 	$(window).scroll(function() {
 		var Width = $(window).width();
