@@ -48,7 +48,7 @@
 	position	:relative;
 	width		:100vw;
 	background	:#ffffff;
-	min-height	:10vh;
+	min-height	:15vw;
 	z-index:1;
 }
 
@@ -103,29 +103,28 @@
 
 
 .box_title{
-	position	:relative;
-	width		:90vw;
-	text-align	:left;
-	padding-left:2vw;
-	height		:10vw;
-	padding		:1vw 0 0 0;
-	border-bottom:0.5vw solid #ffffff;
-	font-size	:6vw;
-	color		:#ffffff;
-	margin		: 0 auto;	
+	position		:relative;
+	width			:90vw;
+	text-align		:left;
+	height			:10vw;
+	padding			:1vw 0 0 0;
+	border-bottom	:0.5vw solid #ffffff;
+	font-size		:6vw;
+	color			:#ffffff;
+	margin			: 0 auto;	
 }
 
 .box_title2{
-	position	:relative;
-	width		:90vw;
-	text-align	:left;
-	padding-left:2vw;
-	height		:10vw;
-	padding		:1vw 0 0 0;
-	border-bottom:0.5vw solid #80a0ff;
-	font-size	:6vw;
-	color		:#80a0ff;
-	margin		: 0 auto;	
+	position		:relative;
+	width			:90vw;
+	text-align		:left;
+	padding-left	:2vw;
+	height			:10vw;
+	padding			:1vw 0 0 0;
+	border-bottom	:0.5vw solid #4060ff;
+	font-size		:5vw;
+	color			:#4060ff;
+	margin			:3vw auto;	
 }
 
 
