@@ -20,7 +20,7 @@ $(function(){
 			$('.up_link_out').fadeOut(200);
 		}
 
-		Base_y= (Height*0.4)*(-1)+ Tmp*1.3;
+		Base_y= (Height*0.45)*(-1)+ Tmp*1.3;
 
 console.log(Height);
 console.log(Tmp);
