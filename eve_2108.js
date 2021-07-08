@@ -20,7 +20,7 @@ $(function(){
 			$('.up_link_out').fadeOut(200);
 		}
 
-		Base_y= -1 * Tmp;
+		Base_y= -1 * Tmp*1.5;
 
 
 
