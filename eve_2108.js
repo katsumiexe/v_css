@@ -22,11 +22,10 @@ $(function(){
 
 		Base_y= (Height/20)*(-1)+ Tmp*1.5;
 
-
+console.log(Height);
+console.log(Tmp);
 
 		S0=Math.floor(Tmp/10);
-
-
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
 
