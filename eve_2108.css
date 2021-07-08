@@ -67,7 +67,7 @@
 .top_1{
 	width		:80vw;
 	height		:12vh;
-	margin		:3vh auto;0 auto;
+	margin		:10vw auto 0 auto;
 	border		:2px solid #ffffff;
 	font-size	:4.5vw;
 	padding		:2vw;
@@ -75,9 +75,9 @@
 }
 .top_1a{
 	width		:78vw;
-	height		:4vw;
-	line-height	:4vw;
-	margin		:0 auto 3vh auto;
+	height		:5vw;
+	line-height	:5vw;
+	margin		:0 auto 10vw auto;
 	font-size	:3.8vw;
 	color:#ffffff;
 	font-weight	:700;
