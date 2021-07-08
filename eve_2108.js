@@ -24,7 +24,7 @@ $(function(){
 
 
 
-		S0=Math.floor(Tmp/20);
+		S0=Math.floor(Tmp/10);
 
 
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
