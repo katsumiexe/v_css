@@ -17,8 +17,6 @@ $(function(){
 			Tmp=0;
 		}
 
-	$('.top_1').text(Tmp);
-
 		if(Tmp>500){
 			$('.up_link_out').fadeIn(200);
 		}else{
