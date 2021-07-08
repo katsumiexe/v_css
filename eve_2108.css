@@ -94,7 +94,6 @@
 	font-size	:3.5vw;
 	padding		:1vw;
 	color		:#202830;
-
 }
 
 .skew_btm{
@@ -114,6 +113,13 @@
 	flex-wrap	:wrap;
 	padding:1vw 1vw 5vw 1vw;
 //	justify-content:space-around;
+}
+
+.notice{
+	width	:80vw;
+	border	:1px solid #303030;
+	font-size:3.5vw;
+	color:303030;
 }
 
 
