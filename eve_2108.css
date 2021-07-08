@@ -71,6 +71,7 @@
 	border		:2px solid #ffffff;
 	font-size	:4.5vw;
 	padding		:2vw;
+	color:#ffffff;
 }
 .top_1a{
 	width		:78vw;
@@ -78,6 +79,7 @@
 	line-height	:4vw;
 	margin		:0 auto 3vh auto;
 	font-size	:3.8vw;
+	color:#ffffff;
 	font-weight	:700;
 	text-align:right;
 }
