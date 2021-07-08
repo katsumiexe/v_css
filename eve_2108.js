@@ -25,7 +25,7 @@ $(function(){
 
 		Base_y= (Height*0.45)*(-1)+ Tmp*1.3;
 
-		S0=Math.floor(Tmp/10);
+		S0=Math.floor(Tmp/5);
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
 
@@ -52,24 +52,6 @@ $(function(){
 			$('.img_back1').css('z-index','0');
 			$('.img_back2,.img_back3').css('z-index','-1');
 		}
-/*
-		if($('.up_link_out').offset().top>$('#canvas2').offset().top){
-			$('.up_link_out').css({'position':'absolute','top':$('#canvas2').offset().top}).removeClass('out_e');
-
-		}else{
-			$('.up_link_out').css({'position':'fixed','top':'auto'}).addClass('out_e');
-		}
-*/
-/*
-		if(Tmp>$('#canvas2').offset().top){
-			$('.up_link_out').css({'position':'absolute','top':$('#canvas2').offset().top}).removeClass('out_e');
-
-		}else{
-			$('.up_link_out').css({'position':'fixed','top':'auto'}).addClass('out_e');
-		}
-*/
-
-
 	});
 });
 
