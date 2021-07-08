@@ -95,7 +95,7 @@
 	text-align	:center;
 	display		:flex;
 	flex-wrap	:wrap;
-	padding:1vw 0vw 5vw 2vw;
+	padding:1vw 1vw 5vw 1vw;
 //	justify-content:space-around;
 }
 
@@ -128,7 +128,7 @@
 	flex-basis	:45vw;
 	height		:60vw;
 	background	:#ffffff;
-	margin		:2vw;
+	margin		:1vw;
 	box-shadow:2vw 2vw 0 #83CCD2; 
 }
 
