@@ -20,6 +20,7 @@
 	left		:0;
 	right		:0;
 	margin		:auto;
+	display:none;
 }
 
 .img_back3{
@@ -32,7 +33,6 @@
 }
 
 .img_back1{
-	display:none;
 	top:calc(45vh * (-1));
 }
 
