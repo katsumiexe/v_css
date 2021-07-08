@@ -5,8 +5,8 @@ $(function(){
 	});
 
 	$(window).scroll(function() {
-		var Width = $('.main').width();
-		var Height = $('.main').height();
+		var Width = $(window).width();
+		var Height = $(window).height();
 
 		Tmp=$(this).scrollTop();
 
