@@ -10,6 +10,7 @@
 	top			:0;
 	height		:100vh;
 	overflow	:hidden;
+	background	:#e0f0ff;
 }
 
 .img_back2,.img_back1{
@@ -31,6 +32,7 @@
 }
 
 .img_back1{
+	display:none;
 	top:calc(45vh * (-1));
 }
 

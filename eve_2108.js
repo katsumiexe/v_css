@@ -4,6 +4,8 @@ $(function(){
 	     return false;
 	});
 
+	$('.img_back1').delay(100).fadeIn(1000);
+
 	$(window).scroll(function() {
 		var Width = $(window).width();
 		var Height = $(window).height();
