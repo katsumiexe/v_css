@@ -124,11 +124,11 @@
 .pick{
 	position	:relative;
 	display		:inline-block;
-	width		:45vw;
-	flex-basis	:45vw;
+	width		:44vw;
+	flex-basis	:44vw;
 	height		:60vw;
 	background	:#ffffff;
-	margin		:1vw;
+	margin		:2vw;
 	box-shadow:2vw 2vw 0 #83CCD2; 
 }
 
