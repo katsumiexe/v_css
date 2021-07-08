@@ -119,12 +119,13 @@
 	position		:relative;
 	width			:90vw;
 	text-align		:left;
-	height			:10vw;
+	height			:8vw;
 	padding			:1vw 0 0 0;
 	border-bottom	:0.5vw solid #ffffff;
 	font-size		:6vw;
 	color			:#ffffff;
 	margin			: 0 auto;	
+	font-weight		:600;
 }
 
 .box_title2{
@@ -136,10 +137,11 @@
 	margin			:auto;
 	width			:90vw;
 	text-align		:left;
-	height			:10vw;
+	height			:7.5vw;
 	border-bottom	:0.5vw solid #4060ff;
 	font-size		:5vw;
 	color			:#4060ff;
+	font-weight		:600;
 }
 
 
