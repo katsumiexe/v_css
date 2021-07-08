@@ -91,12 +91,12 @@
 
 .blank{
 	position	:relative;
-	width		:100vw;
+	width		:98vw;
 	text-align	:center;
 	display		:flex;
 	flex-wrap	:wrap;
-	padding:1vw 0 5vw 0;
-	justify-content:space-around;
+	padding:1vw 0vw 5vw 2vw;
+//	justify-content:space-around;
 }
 
 
