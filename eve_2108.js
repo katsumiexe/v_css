@@ -22,9 +22,6 @@ $(function(){
 
 		Base_y= (Height*0.45)*(-1)+ Tmp*1.3;
 
-console.log(Height);
-console.log(Tmp);
-
 		S0=Math.floor(Tmp/10);
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
@@ -86,12 +83,12 @@ function draw(){
 	function loop(){
 		ctx.clearRect(0, 0, canvas.width, canvas.height);
 		ctx.beginPath();
-		ctx.strokeStyle = '#ff0fff';
+		ctx.strokeStyle = '#ffffff';
 		ctx.lineWidth = 2;
 		drawWave(degree);
 
 		ctx.stroke();
-		ctx.fillStyle = '#ff0fff';
+		ctx.fillStyle = '#ffffff';
 		ctx.globalAlpha = 1;
 		ctx.lineTo(canvas.width, canvas.height);
 		ctx.lineTo(0, canvas.height);
@@ -124,12 +121,12 @@ function draw2(){
 	function loop(){
 		ctx.clearRect(0, 0, canvas2.width, canvas2.height);
 		ctx.beginPath();
-		ctx.strokeStyle = '#ff0000';
+		ctx.strokeStyle = '#ffffff';
 		ctx.lineWidth = 2;
 		drawWave(degree2);
 
 		ctx.stroke();
-		ctx.fillStyle = '#0000ff';
+		ctx.fillStyle = '#ffffff';
 		ctx.globalAlpha = 1;
 
 		ctx.lineTo(canvas2.width, 0);
