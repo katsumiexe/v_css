@@ -244,8 +244,8 @@
 	position		:absolute;	
 	top				:1vw;
 	left			:2vw;
-	width			:40vw;
-	height			:30vw;
+	width			:45vw;
+	height			:35vw;
 	font-size		:3.5vw;
 	line-height		:5.5vw;
 	padding			:2vw;
@@ -256,10 +256,11 @@
 
 .p_img{
 	position		:absolute;	
-	top				:15vw;
+	top				:10vw;
 	right			:5vw;
 	width			:40vw;
 	height			:40vw;
+	box-shadow:0 0 1vw 1vw rgba(255,255,255,0.5) inset; 
 }
 
 
