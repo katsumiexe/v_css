@@ -232,21 +232,34 @@
 	background	:#d0e0ff;
 }
 
+.p_box_out{
+	position	:retative;
+	display		:block;
+	width		:100vw;
+}
+
+.p_comm{
+	position		:absolute;	
+	top				:1vw;
+	left			:2vw;
+	width			:40vw;
+	height			:30vw;
+	font-size		:3.5vw;
+	line-height		:5.5vw;
+	padding			:2vw;
+	text-align		:left;
+	background		:#d00000;
+	color			:#303030;
+}
 
 .p_img{
 	position		:absolute;	
-	top				:0;
-	left			:0;
-	right			:0;
-	bottom			:0;
-	margin			:auto;
-	width			:54vw;
-	height			:54vw;
-	border-top		:1vw solid #000000;
-	border-left		:1vw solid #000000;
-	border-right	:1vw solid #fafafa;
-	border-bottom	:1vw solid #fafafa;
+	top				:25;
+	right			:5;
+	width			:40vw;
+	height			:40vw;
 }
+
 
 .up_link_out{
 	position		:fixed;
