@@ -236,6 +236,8 @@
 	position	:retative;
 	display		:block;
 	width		:100vw;
+	height		:50vw;
+	background		:#008000;
 }
 
 .p_comm{
@@ -254,8 +256,8 @@
 
 .p_img{
 	position		:absolute;	
-	top				:25;
-	right			:5;
+	top				:25vw;
+	right			:5vw;
 	width			:40vw;
 	height			:40vw;
 }
