@@ -39,7 +39,7 @@
 
 .box_1{
 	position	:relative;
-	min-height	:80vh;
+//	min-height	:80vh;
 	background	:#ffffff;
 	font-size	:4vw;
 	z-index:1;
@@ -233,10 +233,10 @@
 }
 
 .p_box_out{
-	position	:relative;
-	display		:block;
-	width		:100vw;
-	height		:60vw;
+	position		:relative;
+	display			:block;
+	width			:100vw;
+	height			:60vw;
 	background		:#008000;
 }
 
