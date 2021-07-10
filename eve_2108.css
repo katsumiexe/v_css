@@ -116,14 +116,27 @@
 //	justify-content:space-around;
 }
 
+.notice_a{
+	width		:82vw;
+	height		:2vw;
+	margin		:1vw auto 0 auto;
+	background	:#ff00ff;
+}
+
+.notice_b{
+	width		:82vw;
+	margin		: 0 auto 1vw auto;
+	background	:#0000ff;
+	height		:2vw;
+}
+
+
 .notice{
 	width		:80vw;
 	line-height	:4.5vw;
-	border		:1px solid #303030;
 	font-size	:3.5vw;
 	color		:303030;
 	padding		:0vw;
-	margin		:1vw auto;
 }
 
 .p{
