@@ -135,8 +135,9 @@
 	width		:80vw;
 	line-height	:4.5vw;
 	font-size	:3.5vw;
-	color		:303030;
+	color		:#303030;
 	padding		:0vw;
+	margin		:1vw auto;
 }
 
 .p{
