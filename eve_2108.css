@@ -257,16 +257,16 @@
 	position		:absolute;	
 	top				:10vw;
 	right			:5vw;
-	width			:38vw;
-	height			:38vw;
+	width			:42vw;
+	height			:42vw;
 }
 
 .p_img_out{
 	position		:absolute;	
 	top				:10vw;
 	right			:5vw;
-	width			:38vw;
-	height			:38vw;
+	width			:42vw;
+	height			:42vw;
 	box-shadow:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
 }
 
