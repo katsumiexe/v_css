@@ -266,7 +266,7 @@
 	right			:5vw;
 	width			:38vw;
 	height			:38vw;
-	box-shadow:2vw 2vw 2vw 2vw rgba(255,255,255,0.7) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,0.7) inset; 
+	box-shadow:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
 }
 
 
