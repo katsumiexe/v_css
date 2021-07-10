@@ -41,8 +41,8 @@
 	position	:relative;
 //	min-height	:80vh;
 	background	:#ffffff;
-	font-size	:4vw;
 	z-index:1;
+	padding-bottom:2vw;
 }
 
 .box_2{
