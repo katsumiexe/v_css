@@ -117,19 +117,19 @@
 }
 
 .notice_a{
-	width		:82vw;
+	width		:84vw;
 	height		:2px;
 	margin		:1vw auto 0 auto;
 	background	:#ff00ff;
-	background:linear-gradient(90deg,#fafafa 0%,#e0e0ff 50%,#fafafa 100%);
+	background:linear-gradient(90deg,#fafafa 0%,#9090ff 50%,#fafafa 100%);
 }
 
 .notice_b{
-	width		:82vw;
+	width		:84vw;
 	margin		:0 auto 1vw auto;
 	background	:#0000ff;
 	height		:2px;
-	background:linear-gradient(90deg,#fafafa 0%,#e0e0ff 50%,#fafafa 100%);
+	background:linear-gradient(90deg,#fafafa 0%,#9090ff 50%,#fafafa 100%);
 }
 
 
