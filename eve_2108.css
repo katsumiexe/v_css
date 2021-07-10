@@ -122,10 +122,14 @@
 	border		:1px solid #303030;
 	font-size	:3.5vw;
 	color		:303030;
-	padding		:1vw;
+	padding		:0vw;
 	margin		:1vw auto;
 }
 
+.p{
+	display:block;
+	padding:0.5vw 1vw;
+}
 
 
 .box_title{
