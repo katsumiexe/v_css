@@ -61,8 +61,9 @@
 	flex-wrap	:wrap;
 	background	:#ffffff;
 	min-height	:100vh;
-	z-index:1;
-	padding:2vw;
+	z-index		:1;
+	padding		:2vw;
+	font-size:0;
 }
 
 .top_1{
