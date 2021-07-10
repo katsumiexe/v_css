@@ -256,6 +256,7 @@
 
 .p_img{
 	width			:100%;
+	box-shadow:2vw 2vw 2vw 2vw rgba(0,0,255,1) inset; 
 }
 
 .p_img_out{
