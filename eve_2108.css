@@ -233,7 +233,7 @@
 }
 
 .p_box_out{
-	position	:reltative;
+	position	:relative;
 	display		:block;
 	width		:100vw;
 	height		:50vw;
