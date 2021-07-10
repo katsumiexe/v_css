@@ -236,7 +236,7 @@
 	position	:relative;
 	display		:block;
 	width		:100vw;
-	height		:50vw;
+	height		:60vw;
 	background		:#008000;
 }
 
@@ -256,7 +256,7 @@
 
 .p_img{
 	position		:absolute;	
-	top				:25vw;
+	top				:15vw;
 	right			:5vw;
 	width			:40vw;
 	height			:40vw;
