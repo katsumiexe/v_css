@@ -98,8 +98,8 @@
 
 .skew_btm{
 	width		:100vw;
-	height		:20vw;
-	transform	:skewY(5deg);
+	height		:15vw;
+	transform	:skewY(4deg);
 	background	:#ffffff;
 	position	:relative;
 	transform-origin:right top;
