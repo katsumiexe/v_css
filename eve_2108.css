@@ -173,7 +173,7 @@
 	height		:60vw;
 	background	:#ffffff;
 	margin		:2vw;
-	box-shadow:2vw 2vw 0 #83CCD2; 
+	box-shadow:2vw 2vw 0 rgba(60,90,255,0.5); 
 }
 
 .pick_in{
