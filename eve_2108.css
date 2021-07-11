@@ -346,8 +346,11 @@
 }
 
 .name_face{
+	position	:absolute;
+	top			:22vw;
+	left		:0.5vw;
 	display		:inline-block;
-	width		:22vw;
+	width		:21vw;
 	height		:6vw;
 	line-height	:6vw;
 	font-size	:3vw;
