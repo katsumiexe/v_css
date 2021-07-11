@@ -48,8 +48,8 @@
 	position	:relative;
 	width		:100vw;
 	background	:#ffffff;
-	min-height	:15vw;
-	z-index:1;
+	height		:12vw;
+	z-index		:1;
 }
 
 .box_3{
