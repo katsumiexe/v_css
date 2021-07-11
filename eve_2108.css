@@ -302,7 +302,6 @@
 
 .out_e{
 	animation	:anime 2s ease infinite;
-
 }
 
 .up_link{
@@ -312,6 +311,47 @@
 	width		:14vw;
 	height		:14vw;
 }
+
+.flex_m_w{
+	display		:inline-block;
+	position	:absolute;
+	top			:21vw;
+	left		:1vw;
+	width		:45vw;
+	height		:6vw;
+	margin		:auto;
+	background	:#031F4C;
+	color		:#fafafa;
+	font-size	:4vw;
+	line-height	:6vw;
+	text-align	:left;
+	overflow	:hidden;
+	padding-left:2vw;
+}
+
+.flex_s_w{
+	position	:absolute;
+	top			:1vw;
+	right		:1vw;
+	display		:inline-block;
+	width		:12vw;
+	height		:5vw;
+	color		:#fafafa;
+	font-size	:3.5vw;
+	line-height	:5vw;
+	text-align	:center;
+	box-shadow	:1px 1px 0 rgba(0,0,0,1); 
+	font-weight	:600;
+	border-radius:0.5vw;
+}
+
+.flex_s1{background:linear-gradient(#00c000,#008000);}
+.flex_s2{background:linear-gradient(#d0d0d0,#c0c0c0);}
+.flex_s3{background:linear-gradient(#c0a000,#a09000);}
+.flex_s4{background:linear-gradient(#c0c0c0,#a0a0a0);}
+.flex_s5{background:linear-gradient(#ffb6c1,#ff90a0);}
+
+
 
 
 @keyframes anime {
