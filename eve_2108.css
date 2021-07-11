@@ -357,6 +357,7 @@
 	overflow	:hidden;
 	color		:#fafafa;
 	font-weight	:600;
+	text-align	:center;
 }
 
 .flex_s1{background:linear-gradient(#00c000,#008000);}
