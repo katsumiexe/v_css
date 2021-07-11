@@ -315,16 +315,18 @@
 .flex_m_w{
 	display		:inline-block;
 	position	:absolute;
-	top			:-2vw;
+	top			:-3vw;
 	left		:1vw;
-	width		:15vw;
+	width		:16vw;
 	height		:6vw;
+	line-height	:6vw;
 	margin		:auto;
 	color		:#fafafa;
 	font-size	:4vw;
 	line-height	:4vw;
-	text-align	:left;
+	text-align	:center;
 	overflow	:hidden;
+	border-radius:1vw;
 }
 
 .name_pick{
@@ -372,7 +374,7 @@
 }
 
 .flex_s1{background:linear-gradient(#00c000,#008000);}
-.flex_s2{background:linear-gradient(#d0d0d0,#c0c0c0);}
+.flex_s2{background:linear-gradient(#c0c0c0,#aaaaaa);}
 .flex_s3{background:linear-gradient(#c0a000,#a09000);}
 .flex_s4{background:linear-gradient(#c0c0c0,#a0a0a0);}
 .flex_s5{background:linear-gradient(#ffb6c1,#ff90a0);}
