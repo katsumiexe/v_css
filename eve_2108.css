@@ -201,7 +201,8 @@
 	width		:41vw;
 	height		:13vw;
 	background	:linear-gradient(135deg,#F7C8CE,#d7a8aE);
-	}
+	z-index:2;
+}
 
 
 .img_pick{
@@ -324,6 +325,19 @@
 	line-height	:4vw;
 	text-align	:left;
 	overflow	:hidden;
+}
+
+.name_pick{
+	position	:absolute;
+	top			:0;
+	right		:0;
+	left		:0;
+	font-size:4vw;
+	color:#fafafa;
+	font-weight:600;
+	margin:aruto;
+
+
 }
 
 .flex_s_w{
