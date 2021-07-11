@@ -330,30 +330,31 @@
 
 .name_pick{
 	position	:absolute;
+	height		:5vw;
+	line-height	:5vw;
 	bottom		:0vw;
 	right		:1vw;
 	font-size	:4.5vw;
 	color		:#fafafa;
 	font-weight	:600;
-	margin		:aruto;
-
 
 }
 
 .flex_s_w{
-	position	:absolute;
-	top			:16.5vw;
-	left		:1vw;
-	display		:inline-block;
-	width		:11vw;
-	height		:4.5vw;
-	color		:#fafafa;
-	font-size	:3vw;
-	line-height	:5vw;
-	text-align	:center;
-	box-shadow	:1px 1px 0 rgba(0,0,0,1); 
-	font-weight	:600;
-	border-radius:0.5vw;
+	position		:absolute;
+	top				:16.5vw;
+	left			:1vw;
+	display			:inline-block;
+	width			:11vw;
+	height			:4.5vw;
+	color			:#fafafa;
+	font-size		:3vw;
+	line-height		:5vw;
+	text-align		:center;
+	box-shadow		:1px 1px 0 rgba(0,0,0,1); 
+	font-weight		:600;
+	border-radius	:0.5vw;
+	border:1px solid #000000;
 }
 
 .name_face{
