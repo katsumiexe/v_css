@@ -331,7 +331,7 @@
 
 .flex_s_w{
 	position	:absolute;
-	top			:1vw;
+	top			:16vw;
 	right		:1vw;
 	display		:inline-block;
 	width		:12vw;
@@ -350,9 +350,6 @@
 .flex_s3{background:linear-gradient(#c0a000,#a09000);}
 .flex_s4{background:linear-gradient(#c0c0c0,#a0a0a0);}
 .flex_s5{background:linear-gradient(#ffb6c1,#ff90a0);}
-
-
-
 
 @keyframes anime {
 0% { transform:translateY(0) }
