@@ -329,15 +329,16 @@
 }
 
 .pts_pick{
-	position	:absolute;
-	height		:4.5vw;
-	line-height	:4.5vw;
-	top			:1vw;
-	right		:1vw;
-	font-size	:3.5vw;
-	color		:#900060;
-	font-weight	:600;
-	border:2px solid #900060;
+	position		:absolute;
+	height			:4.5vw;
+	line-height		:4.5vw;
+	top				:1vw;
+	right			:1vw;
+	font-size		:3.5vw;
+	color			:#900060;
+	font-weight		:600;
+	border-bottom	:2px solid #900060;
+	padding			:0.5vw;
 }
 
 .name_pick{
