@@ -314,18 +314,16 @@
 .flex_m_w{
 	display		:inline-block;
 	position	:absolute;
-	top			:21vw;
+	top			:-2vw;
 	left		:1vw;
-	width		:45vw;
+	width		:15vw;
 	height		:6vw;
 	margin		:auto;
-	background	:#031F4C;
 	color		:#fafafa;
 	font-size	:4vw;
-	line-height	:6vw;
+	line-height	:4vw;
 	text-align	:left;
 	overflow	:hidden;
-	padding-left:2vw;
 }
 
 .flex_s_w{
