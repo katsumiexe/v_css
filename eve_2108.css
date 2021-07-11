@@ -326,6 +326,7 @@
 	text-align	:center;
 	overflow	:hidden;
 	border-radius:1vw;
+	border:1px solid #000000;
 }
 
 .pts_pick{
@@ -339,7 +340,6 @@
 	font-weight		:600;
 	border-bottom	:2px solid #900060;
 	padding			:0.5vw;
-	border:1px solid #000000;
 }
 
 .name_pick{
