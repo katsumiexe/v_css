@@ -345,6 +345,15 @@
 	border-radius:0.5vw;
 }
 
+.name_face{
+	display		:inline-block;
+	width		:22vw;
+	height		:6vw;
+	line-height	:6vw;
+	font-size	:3vw;
+	overflow	:hidden;
+}
+
 .flex_s1{background:linear-gradient(#00c000,#008000);}
 .flex_s2{background:linear-gradient(#d0d0d0,#c0c0c0);}
 .flex_s3{background:linear-gradient(#c0a000,#a09000);}
