@@ -152,7 +152,7 @@
 	position		:relative;
 	width			:90vw;
 	text-align		:left;
-	height			:8vw;
+	height			:10vw;
 	padding			:1vw 0 0 0;
 	border-bottom	:0.5vw solid #ffffff;
 	font-size		:6vw;
@@ -167,7 +167,7 @@
 	left			:0;
 	right			:0;
 	bottom			:0;
-	margin			:auto;
+	margin			:3vw auto 0 auto;
 	width			:90vw;
 	text-align		:left;
 	height			:7.5vw;
