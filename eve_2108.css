@@ -70,7 +70,7 @@
 	height		:18vw;
 	margin		:10vw auto 0 auto;
 	border		:2px solid #ffffff;
-	font-size	:5vw;
+	font-size	:4.7vw;
 	padding		:2vw;
 	color		:#ffffff;
 	font-weight:700;
@@ -87,13 +87,13 @@
 }
 
 .top_2{
-	width		:80vw;
+	width		:82vw;
 	line-height	:4.5vw;
 	margin		:3vh auto;
 	border		:2px solid #ffffff;
 	background	:rgba(255,255,255,0.6);
 	font-size	:3.2vw;
-	padding		:1vw;
+	padding		:2vw;
 	color		:#202830;
 }
 
