@@ -188,7 +188,7 @@
 	display		:inline-block;
 	width		:44vw;
 	flex-basis	:44vw;
-	height		:60vw;
+	height		:57vw;
 	background	:#ffffff;
 	margin		:2vw;
 	box-shadow:2vw 2vw 0 rgba(60,90,200,0.8); 
@@ -199,7 +199,7 @@
 	top			:45vw;
 	left		:2vw;
 	width		:41vw;
-	height		:13vw;
+	height		:10vw;
 	background	:linear-gradient(135deg,#F7C8CE,#d7a8aE);
 	z-index:2;
 }
@@ -331,13 +331,12 @@
 
 .name_pick{
 	position	:absolute;
-	top			:0;
-	right		:0;
-	left		:0;
-	font-size:4vw;
-	color:#fafafa;
-	font-weight:600;
-	margin:aruto;
+	bottom		:1vw;
+	right		:1vw;
+	font-size	:4.5vw;
+	color		:#fafafa;
+	font-weight	:600;
+	margin		:aruto;
 
 
 }
