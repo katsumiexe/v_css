@@ -192,6 +192,7 @@
 	background	:#ffffff;
 	margin		:2vw;
 	box-shadow:2vw 2vw 0 rgba(60,90,200,0.8); 
+	text-decoration:none;
 }
 
 .pick_in{
@@ -221,6 +222,7 @@
 	height		:27vw;
 	background	:#9080d0;
 	margin		:1vw;
+	text-decoration:none;
 }
 
 .img_face{
