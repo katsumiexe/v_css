@@ -188,7 +188,7 @@
 	display		:inline-block;
 	width		:44vw;
 	flex-basis	:44vw;
-	height		:57vw;
+	height		:58vw;
 	background	:#ffffff;
 	margin		:2vw;
 	box-shadow:2vw 2vw 0 rgba(60,90,200,0.8); 
@@ -199,7 +199,7 @@
 	top			:45vw;
 	left		:2vw;
 	width		:41vw;
-	height		:10vw;
+	height		:11vw;
 	background	:linear-gradient(135deg,#F7C8CE,#d7a8aE);
 	z-index:2;
 }
