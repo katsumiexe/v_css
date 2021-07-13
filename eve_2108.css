@@ -271,7 +271,7 @@
 	padding			:30vw 2vw 2vw 2vw;
 	text-align		:left;
 	color			:#303030;
-	background:#D9E8F3;
+	background		:#D9E8F3;
 }
 
 .p_img{
@@ -293,8 +293,8 @@
 }
 
 .p_icon{
-	width	:13.5vw;
-	height	:15vw;
+	width	:16vw;
+	height	:18vw;
 	box-shadow:2px 2px 0 rgba(20,20,20,0.8)	;
 }	
 	
@@ -303,13 +303,13 @@
 	left			:0;
 	right			:0;
 	bottom			:1vw;
-	margin:auto;
-	width			:80vw;
+	margin			:1vw auto;
+	width			:86vw;
 	display			:flex;
 	justify-content	:space-around;
 	align-items		:center;
 	background		:#006000;
-	height			:18vw;
+	height			:22vw;
 	border-top		:2px solid #0090ff;
 	border-bottom	:2px solid #0090ff;
 }	
