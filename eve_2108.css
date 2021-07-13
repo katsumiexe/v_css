@@ -316,6 +316,34 @@
 
 
 
+.p_box_detail{
+	display		:block;
+	overflow	:hidden;
+	margin		:2vw auto;
+	width		:80vw;
+	height		:50vw;
+
+}
+
+.p_box_detail_in{
+	width		:80vw;
+	height		:50vw;
+}
+
+.p_box_detail_img{
+	width		:45vw;
+	height		:50vw;
+}
+
+.p_box_detail_comm{
+	width		:35vw;
+	height		:50vw;
+	background	:#d00000;
+	font-size	:3vw;
+	line-height	:5vw;
+	color:#0090ff;
+}
+
 
 
 .up_link_out{
