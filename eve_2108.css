@@ -299,6 +299,11 @@
 }	
 	
 .p_box_flex{
+	position		:absolute;
+	left			:0;
+	right			:0;
+	bottom			:1vw;
+	margin:auto;
 	width			:80vw;
 	display			:flex;
 	justify-content	:space-between;
