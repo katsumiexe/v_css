@@ -3,6 +3,13 @@ $(function(){
 	    $('body, html').animate({ scrollTop: 0 }, 500);
 	     return false;
 	});
+	$('.p_icon').on('click',function(){
+		Tmp=$(this).attr('id');
+		$('.p_box_detail_in').hide();
+		$('#p'+Tmp).fadeIn();
+
+	});
+
 
 	$('.img_back1').delay(100).fadeIn(1000);
 	$('.img_back2,.img_back3').delay(1100).fadeIn(10);
@@ -53,6 +60,11 @@ $(function(){
 			$('.img_back2,.img_back3').css('z-index','-1');
 		}
 	});
+
+
+
+
+
 });
 
 

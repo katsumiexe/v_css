@@ -326,6 +326,8 @@
 }
 
 .p_box_detail_in{
+	display		:none;
+
 	width		:90vw;
 }
 
