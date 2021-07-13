@@ -263,26 +263,28 @@
 
 .p_comm{
 	position		:absolute;	
-	top				:1vw;
-	left			:2vw;
-	width			:50vw;
-	height			:35vw;
+	top				:30vw;
+	left			:0vw;
+	width			:70vw;
+	height			:60vw;
 	font-size		:3.2vw;
 	line-height		:5vw;
-	padding			:0;
+	padding			:30vw 2vw 2vw 2vw;
 	text-align		:left;
 	color			:#303030;
 }
 
 .p_img{
 	position		:absolute;	
-	top				:10vw;
-	right			:5vw;
+	top				:0vw;
+	right			:0vw;
 	width			:55vw;
 	height			:55vw;
+	border:1px solid #303030;
 }
 
-.p_img_out{
+
+.p_img_out2{
 	position		:absolute;	
 	top				:10vw;
 	right			:5vw;
