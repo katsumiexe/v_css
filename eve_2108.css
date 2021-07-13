@@ -336,6 +336,7 @@
 }
 
 .p_box_detail_comm{
+	display		:inline-block;
 	width		:35vw;
 	height		:50vw;
 	background	:#d00000;
