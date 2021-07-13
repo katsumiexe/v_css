@@ -315,16 +315,8 @@
 }	
 
 
-
 .p_box_detail{
-	display		:block;
-	overflow	:hidden;
 	margin		:2vw auto;
-	width		:94vw;
-	height		:50vw;
-}
-
-.p_box_detail_in{
 	display		:none;
 	width		:94vw;
 	border		:2vw solid #403080;
