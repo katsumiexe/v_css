@@ -292,6 +292,22 @@
 	box-shadow:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
 }
 
+.p_icon{
+	width	:13.5vw;
+	height	:15vw;
+	box-shadow:2px 2px 0 rgba(20,20,20,0.8)	;
+}	
+	
+.p_box_flex{
+	width:80vw;
+	display:flex;
+	justify-content:space-between;
+	background:#006000;
+}	
+
+
+
+
 
 .up_link_out{
 	position		:fixed;
