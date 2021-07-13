@@ -199,7 +199,7 @@
 	position	:absolute;
 	top			:45vw;
 	left		:2vw;
-	width		:41vw;
+	width		:40vw;
 	height		:11vw;
 	background	:linear-gradient(135deg,#F7C8CE,#d7a8aE);
 	z-index:2;
@@ -217,10 +217,11 @@
 .face{
 	position	:relative;
 	display		:inline-block;
-	width		:22vw;
-	flex-basis	:22vw;
+	width		:44vw;
+	flex-basis	:44vw;
 	height		:27vw;
 	background	:#9080d0;
+	background	:#902000;
 	margin		:1vw;
 	text-decoration:none;
 }
