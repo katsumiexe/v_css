@@ -307,6 +307,7 @@
 	width			:80vw;
 	display			:flex;
 	justify-content	:space-between;
+	align-items		:center;
 	background		:#006000;
 	height			:18vw;
 	border-top		:2px solid #0090ff;
