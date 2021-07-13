@@ -210,8 +210,8 @@
 	position	:absolute;
 	top			:2vw;
 	left		:2vw;
-	width		:40vw;
-	height		:40vw;
+	width		:41vw;
+	height		:41vw;
 }
 
 .face{
@@ -315,20 +315,20 @@
 }
 
 .flex_m_w{
-	display			:inline-block;
-	position		:absolute;
-	top				:-3vw;
-	left			:1vw;
-	width			:16vw;
-	height			:6vw;
-	line-height		:6vw;
-	margin			:auto;
-	color			:#fafafa;
-	font-size		:4vw;
-	text-align		:center;
-	overflow		:hidden;
-	border-radius	:1vw;
-	border			:1px solid #000000;
+	display		:inline-block;
+	position	:absolute;
+	top			:-3vw;
+	left		:1vw;
+	width		:16vw;
+	height		:6vw;
+	line-height	:6vw;
+	margin		:auto;
+	color		:#fafafa;
+	font-size	:4vw;
+	text-align	:center;
+	overflow	:hidden;
+	border-radius:1vw;
+	border:1px solid #000000;
 }
 
 .pts_pick{
