@@ -306,7 +306,7 @@
 	margin:auto;
 	width			:80vw;
 	display			:flex;
-	justify-content	:space-between;
+	justify-content	:space-around;
 	align-items		:center;
 	background		:#006000;
 	height			:18vw;
