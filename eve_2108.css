@@ -327,7 +327,6 @@
 
 .p_box_detail_in{
 	width		:90vw;
-	height		:50vw;
 }
 
 .p_box_detail_img{
@@ -339,9 +338,10 @@
 	display		:inline-block;
 	height		:40vw;
 	background	:#d00000;
-	font-size	:2.8vw;
-	line-height	:4.5vw;
+	font-size	:2.7vw;
+	line-height	:4vw;
 	color:#0090ff;
+	padding:1vw;
 }
 
 
