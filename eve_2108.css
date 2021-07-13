@@ -423,8 +423,8 @@
 
 .name_face{
 	position	:absolute;
-	top			:22vw;
-	left		:1vw;
+	top			:16vw;
+	right		:1vw;
 	display		:inline-block;
 	width		:20vw;
 	height		:6vw;
@@ -433,7 +433,7 @@
 	overflow	:hidden;
 	color		:#fafafa;
 	font-weight	:600;
-	text-align	:center;
+	text-align	:right;
 }
 
 .flex_s1{background:linear-gradient(#00c000,#008000);}
