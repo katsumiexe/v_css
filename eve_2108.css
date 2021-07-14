@@ -531,7 +531,7 @@
 .pop_back{
 	position		:absolute;
 	top				:-10vw;
-	right			:0;
+	right			:1vw;
 	width			:10vw;
 	height			:10vw;
 	background		:#000000;
