@@ -231,8 +231,23 @@
 
 }
 
+.face_pts{
+	display			:inline-block;
+	margin			:1vw;
+	width			:12vw;
+	height			:5vw;
+	color			:#fafafa;
+	font-size		:3vw;
+	line-height		:5vw;
+	text-align		:right;
+	padding			:1vw;
+	background		:#906000;	
+	font-weight		:600;
+	border-radius	:0.5vw;
+}
 
-.img_face{
+
+.face_face{
 	width		:28vw;
 	flex-basis	:28vw;
 	height		:28vw;
@@ -240,11 +255,9 @@
 }
 
 
-.flex_s_w{
-	position		:absolute;
-	top				:30vw;
-	left			:1vw;
+.face_st{
 	display			:inline-block;
+	margin			:1vw;
 	width			:11vw;
 	height			:5vw;
 	color			:#fafafa;
@@ -256,7 +269,7 @@
 	border-radius	:0.5vw;
 }
 
-.name_face{
+.face_name{
 	position	:absolute;
 	top			:35vw;
 	right		:1vw;
