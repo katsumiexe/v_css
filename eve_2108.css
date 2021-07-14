@@ -230,8 +230,8 @@
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:20vw;
-	height		:20vw;
+	width		:28vw;
+	height		:28vw;
 }
 
 
@@ -407,8 +407,8 @@
 
 .flex_s_w{
 	position		:absolute;
-	top				:1vw;
-	right			:1vw;
+	top				:30vw;
+	left			:1vw;
 	display			:inline-block;
 	width			:11vw;
 	height			:5vw;
@@ -423,10 +423,10 @@
 
 .name_face{
 	position	:absolute;
-	top			:16vw;
+	top			:35vw;
 	right		:1vw;
 	display		:inline-block;
-	width		:20vw;
+	width		:28vw;
 	height		:6vw;
 	line-height	:6vw;
 	font-size	:3vw;
@@ -434,6 +434,7 @@
 	color		:#fafafa;
 	font-weight	:600;
 	text-align	:right;
+	background:#903020;
 }
 
 .flex_s1{background:linear-gradient(#00c000,#008000);}
