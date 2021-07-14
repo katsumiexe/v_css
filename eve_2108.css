@@ -254,7 +254,7 @@
 .face_pts{
 	display			:inline-block;
 	margin			:0 1vw 1vw 0;
-	width			:15.5vw;
+	width			:16vw;
 	height			:5vw;
 	color			:#fafafa;
 	font-size		:3vw;
@@ -263,7 +263,6 @@
 	padding			:1vw;
 	background		:#9060ff;	
 	font-weight		:600;
-	border-radius	:0.5vw;
 	vertical-align	:top;
 	border-bottom	:2px solid #ffffff;
 }
