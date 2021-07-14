@@ -381,9 +381,9 @@
 	margin			:1vw auto;
 	border-radius	:2vw;
 	background		:linear-gradient(#e0f0ff,#c0d0ff);
-	font-weight		:800;
-	color			:#ffffff;
-	text-shadow		:-1px -1px 0 #000070;
+	font-weight		:900;
+	color			:#0000d0;
+	text-shadow		:1px 1px 0 #ffffff;
 	box-shadow		:0.5vw 0.5vw 0 #000070;
 	font-size		:4vw;
 	text-align		:center;
