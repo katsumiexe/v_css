@@ -479,14 +479,14 @@
 }
 
 .pop{
-//	display:none;
+	display		:none;
 	position	:fixed;
 	top			:-50vh;
 	left		:-10vw;
 	height		:200vh;
 	width		:120vw;
-	background:rgba(30,30,30,0.5);
-	z-index:99999999999999;
+	background	:rgba(30,30,30,0.5);
+	z-index		:999999999999999999;
 }
 
 .pop_in{
