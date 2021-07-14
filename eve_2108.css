@@ -33,8 +33,7 @@
 }
 
 .img_back1{
-	top:calc(40vh * (-1));
-	top:0;
+	top:calc(30vh * (-1));
 }
 
 .box_1{
