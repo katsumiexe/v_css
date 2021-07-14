@@ -369,7 +369,7 @@
 }
 
 .p_icon{
-	margin	:1vw;
+	margin	:0.5vw;
 	width	:17vw;
 	border:1px solid #303030;
 //	height	:18vw;
@@ -424,6 +424,7 @@
 	margin		:0 auto 0 auto;
 	width		:94vw;
 	border		:2vw solid #403080;
+	background	:#ffffff;
 }
 
 
