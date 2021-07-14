@@ -254,7 +254,7 @@
 .face_pts{
 	display			:inline-block;
 	margin			:0 1vw 1vw 0;
-	width			:16vw;
+	width			:15.5vw;
 	height			:5vw;
 	color			:#fafafa;
 	font-size		:3vw;
@@ -305,7 +305,7 @@
 	background	:#009000;
 	margin		:0 1vw 1vw 1vw;
 }
-
+	
 
 
 
