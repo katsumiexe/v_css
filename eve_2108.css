@@ -520,8 +520,8 @@
 	position	:absolute;
 	inset		: 0;
 	margin		:auto;
-	width		:90vw;
-	height		:90vw;
+	width		:95vw;
+	height		:95vw;
 }
 
 .pop_back{
@@ -535,7 +535,7 @@
 	line-height		:10vw;
 	text-align		:center;
 	font-size		:6vw;
-	border-radius	:0 50% 0 0;
+	border-radius	:3vw 3vw 0 0;
 	font-weight		:800;
 	cursor:pointer;
 
