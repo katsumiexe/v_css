@@ -202,7 +202,7 @@
 	width		:40vw;
 	height		:11vw;
 	background	:linear-gradient(135deg,#F7C8CE,#d7a8aE);
-	z-index:2;
+	z-index		:2;
 }
 
 
@@ -215,20 +215,28 @@
 }
 
 .face{
-	position	:relative;
-	display		:inline-block;
-	width		:30vw;
-	flex-basis	:30vw;
-	min-height	:40vw;
-	background	:#9080d0;
-	background	:#902000;
-	margin		:1vw;
-	text-decoration:none;
+	position		:relative;
+	display			:inline-block;
+	width			:30vw;
+	flex-basis		:30vw;
+	min-height		:40vw;
+	margin			:1vw;
+	text-decoration	:none;
 }
+
+.face_in{
+	position		:relative;
+	display			:inline-block;
+	width			:100%;
+	margin			:0;
+	text-decoration	:none;
+	background		:#904030;
+}
+
 
 .face_comm{
 	display		:inline-block;
-	width		:28vw;
+	width		:30vw;
 	margin		:0;
 	min-height	:6vw;
 	overflow	:hidden;
