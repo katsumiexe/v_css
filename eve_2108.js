@@ -3,12 +3,18 @@ $(function(){
 	    $('body, html').animate({ scrollTop: 0 }, 500);
 	     return false;
 	});
+
 	$('.p_icon').on('click',function(){
+		$('.pop').fadeIn(500);
 		Tmp=$(this).attr('id');
 		$('.p_box_detail').hide();
-		$('#p'+Tmp).fadeIn(500);
-
+		$('#p'+Tmp).show();
 	});
+
+	$('.pop_back').on('click',function(){
+		$('.pop').fadeOut(500);
+	});
+
 
 
 	$('.img_back1').delay(100).fadeIn(1000);
