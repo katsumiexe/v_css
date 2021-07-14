@@ -228,20 +228,17 @@
 
 .face_comm{
 	display		:inline-block;
-	width		:30vw;
-	background	:#902000;
+	width		:28vw;
 	margin		:0;
 	min-height	:6vw;
-}
-
-.face_comm_in{
-	width		:100%;
 	overflow	:hidden;
 	line-height	:5vw;
 	font-size	:3vw;
 	color		:#fafafa;
 	text-align	:left;
 	background	:#90f0f0;
+	border		:1vw solid #902000;
+
 }
 
 .face_pts{
