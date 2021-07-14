@@ -6,7 +6,7 @@ $(function(){
 
 	$('.p_icon').on('click',function(){
 		$('.pop').fadeIn(500);
-		Tmp=$(this).attr('id');
+		Tmp=$(this).attr('id').replace('s','i');
 		$('.p_box_detail').hide();
 		$('#p'+Tmp).show();
 	});

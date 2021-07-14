@@ -392,11 +392,19 @@
 
 
 .p_box_detail{
-	margin		:2vw auto;
+	margin		:0 auto;
 	width		:94vw;
 	border		:2vw solid #403080;
-	box-shadow	:1vw 1vw 2vw rgba(30,30,30,0.4);
+//	box-shadow	:1vw 1vw 2vw rgba(30,30,30,0.4);
 }
+
+.p_box_menu{
+	margin		:0 auto 0 auto;
+	width		:94vw;
+	border		:2vw solid #403080;
+}
+
+
 
 .p_box_detail_img{
 	width		:32vw;
