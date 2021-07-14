@@ -233,7 +233,7 @@
 
 .face_pts{
 	display			:inline-block;
-	margin			:0 1vw 1vw 1vw;
+	margin			:0 1vw 1vw 0;
 	width			:16vw;
 	height			:5vw;
 	color			:#fafafa;
