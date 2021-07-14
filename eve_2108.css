@@ -235,18 +235,20 @@
 
 
 .face_comm{
-	display		:inline-block;
-	width		:30vw;
-	margin		:0;
-	min-height	:6vw;
-	overflow	:hidden;
-	line-height	:5vw;
-	font-size	:3vw;
-	color		:#fafafa;
-	text-align	:left;
-	background	:#9040f0;
-	border		:1vw solid #902000;
-	padding:0.5vw;
+	display			:inline-block;
+	width			:30vw;
+	margin			:0;
+	min-height		:6vw;
+	overflow		:hidden;
+	line-height		:5vw;
+	font-size		:2.8vw;
+	color			:#fafafa;
+	text-align		:left;
+	background		:#9040f0;
+	padding			:0.5vw;
+	border-right	:1vw solid #902000;
+	border-left		:1vw solid #902000;
+	border-bottom	:1vw solid #902000;
 }
 
 .face_pts{
