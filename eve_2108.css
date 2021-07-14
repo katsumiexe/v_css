@@ -494,8 +494,8 @@
 	position	:absolute;
 	inset		: 0;
 	margin		: auto;
-	width		:100vw;
-	background:#908050;
+	width		:90vw;
+	height		:120vw;
 }
 
 .pop_back{
