@@ -273,9 +273,6 @@
 
 
 .face_name{
-	position	:absolute;
-	top			:35vw;
-	right		:1vw;
 	display		:inline-block;
 	width		:28vw;
 	height		:6vw;
@@ -284,8 +281,9 @@
 	overflow	:hidden;
 	color		:#fafafa;
 	font-weight	:600;
-	text-align	:right;
+	text-align	:center;
 	background	:#009000;
+	margin		:0 auto;
 }
 
 
