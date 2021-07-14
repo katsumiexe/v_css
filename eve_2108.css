@@ -216,7 +216,7 @@
 
 .face{
 	position	:relative;
-	display		:inline-block;
+	display		:inline-flex;
 	width		:30vw;
 	flex-basis	:30vw;
 	height		:45vw;
@@ -226,13 +226,54 @@
 	text-decoration:none;
 }
 
-.img_face{
-	position	:absolute;
-	top			:1vw;
-	left		:1vw;
-	width		:28vw;
-	height		:28vw;
+.face_comm{
+
+
 }
+
+
+.img_face{
+	width		:28vw;
+	flex-basis	:28vw;
+	height		:28vw;
+	margin		:1vw;
+}
+
+
+.flex_s_w{
+	position		:absolute;
+	top				:30vw;
+	left			:1vw;
+	display			:inline-block;
+	width			:11vw;
+	height			:5vw;
+	color			:#fafafa;
+	font-size		:3vw;
+	line-height		:5vw;
+	text-align		:center;
+	box-shadow		:0.5vw 0.5vw 0.5vw rgba(0,0,0,0.5); 
+	font-weight		:600;
+	border-radius	:0.5vw;
+}
+
+.name_face{
+	position	:absolute;
+	top			:35vw;
+	right		:1vw;
+	display		:inline-block;
+	width		:28vw;
+	height		:6vw;
+	line-height	:6vw;
+	font-size	:3vw;
+	overflow	:hidden;
+	color		:#fafafa;
+	font-weight	:600;
+	text-align	:right;
+	background	:#009000;
+}
+
+
+
 
 
 .bn_btm{
@@ -404,38 +445,6 @@
 	font-weight	:600;
 }
 
-
-.flex_s_w{
-	position		:absolute;
-	top				:30vw;
-	left			:1vw;
-	display			:inline-block;
-	width			:11vw;
-	height			:5vw;
-	color			:#fafafa;
-	font-size		:3vw;
-	line-height		:5vw;
-	text-align		:center;
-	box-shadow		:0.5vw 0.5vw 0.5vw rgba(0,0,0,0.5); 
-	font-weight		:600;
-	border-radius	:0.5vw;
-}
-
-.name_face{
-	position	:absolute;
-	top			:35vw;
-	right		:1vw;
-	display		:inline-block;
-	width		:28vw;
-	height		:6vw;
-	line-height	:6vw;
-	font-size	:3vw;
-	overflow	:hidden;
-	color		:#fafafa;
-	font-weight	:600;
-	text-align	:right;
-	background	:#009000;
-}
 
 .flex_s1{background:linear-gradient(#00c000,#008000);}
 .flex_s2{background:linear-gradient(#c0c0c0,#aaaaaa);}
