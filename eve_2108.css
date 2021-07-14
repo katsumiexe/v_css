@@ -369,9 +369,11 @@
 }
 
 .p_icon{
-	width	:16vw;
-	height	:18vw;
-	box-shadow:2px 2px 0 rgba(20,20,20,0.8)	;
+	margin	:1vw;
+	width	:17vw;
+	border:1px solid #303030;
+//	height	:18vw;
+//	box-shadow:2px 2px 0 rgba(20,20,20,0.8)	;
 }	
 
 .p_img_pop{
@@ -415,6 +417,7 @@
 	width		:94vw;
 	border		:2vw solid #403080;
 //	box-shadow	:1vw 1vw 2vw rgba(30,30,30,0.4);
+	background	:#ffffff;
 }
 
 .p_box_menu{
