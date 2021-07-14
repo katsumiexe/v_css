@@ -238,13 +238,14 @@
 	height			:5vw;
 	color			:#fafafa;
 	font-size		:3vw;
-	line-height		:5vw;
+	line-height		:4vw;
 	text-align		:right;
 	padding			:1vw;
 	background		:#906000;	
 	font-weight		:600;
 	border-radius	:0.5vw;
-	vertical-align:top;
+	vertical-align	:top;
+	border:2px solid #900000;
 }
 
 
