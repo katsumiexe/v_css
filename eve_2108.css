@@ -393,7 +393,6 @@
 
 .p_box_detail{
 	margin		:2vw auto;
-	display		:none;
 	width		:94vw;
 	border		:2vw solid #403080;
 	box-shadow	:1vw 1vw 2vw rgba(30,30,30,0.4);
