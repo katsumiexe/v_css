@@ -217,9 +217,9 @@
 .face{
 	position	:relative;
 	display		:inline-block;
-	width		:46vw;
-	flex-basis	:46vw;
-	height		:28vw;
+	width		:30vw;
+	flex-basis	:30vw;
+	height		:45vw;
 	background	:#9080d0;
 	background	:#902000;
 	margin		:1vw;
