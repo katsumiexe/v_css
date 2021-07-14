@@ -254,11 +254,11 @@
 .face_pts{
 	display			:inline-block;
 	margin			:0 1vw 1vw 0;
-	width			:15.5vw;
-	height			:4.5vw;
+	width			:16.5vw;
+	height			:5vw;
 	color			:#fafafa;
-	font-size		:2.6vw;
-	line-height		:4vw;
+	font-size		:3vw;
+	line-height		:3vw;
 	text-align		:right;
 	padding			:1vw;
 	background		:#9060ff;	
