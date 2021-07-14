@@ -479,6 +479,36 @@
 	font-weight	:600;
 }
 
+.pop{
+	display:none;
+	position	:fixed;
+	top			:-50vh;
+	left		:-10vw;
+	height		:200vh;
+	width		:120vw;
+	background:rgba(30,30,30,0.5);
+	z-index:9999999999;
+}
+
+.pop_in{
+	position	:absolute;
+	inset		: 0;
+	margin		: auto;
+	width		:100vw;
+	background:#908050;
+}
+
+.pop_back{
+	width:10vw;
+	height:10vw;
+	background:#000000;
+	color:#ffffff;
+	line-height:10vw;
+	text-align:center;
+}
+
+
+
 
 .flex_s1{background:linear-gradient(#00c000,#008000);}
 .flex_s2{background:linear-gradient(#c0c0c0,#aaaaaa);}
