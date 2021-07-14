@@ -94,7 +94,7 @@ function draw(){
 		drawWave(degree);
 
 		ctx.stroke();
-		ctx.fillStyle = '#ffffff';
+		ctx.fillStyle = '#ff0000';
 		ctx.globalAlpha = 1;
 		ctx.lineTo(canvas.width, canvas.height);
 		ctx.lineTo(0, canvas.height);
