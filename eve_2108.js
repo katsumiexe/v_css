@@ -40,7 +40,7 @@ $(function(){
 		}
 
 //		Base_y= (Height*0.45)*(-1)+ Tmp*1.3;
-		Base_y= Tmp*(-1.3);
+		Base_y= Tmp*1.3;
 
 		S0=Math.floor(Tmp/5);
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
