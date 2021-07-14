@@ -4,9 +4,12 @@ $(function(){
 	     return false;
 	});
 
-	$('.p_icon').on('click',function(){
+	$('.p_img_pop').on('click',function(){
 		$('.pop').fadeIn(500);
-		Tmp=$(this).attr('id').replace('s','i');
+	});
+
+	$('.p_icon').on('click',function(){
+		Tmp=$(this).attr('id');
 		$('.p_box_detail').hide();
 		$('#p'+Tmp).show();
 	});
