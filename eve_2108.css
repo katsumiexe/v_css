@@ -104,6 +104,14 @@
 	position	:relative;
 	transform-origin:right top;
 }
+.skew_btm2{
+	width		:100vw;
+	height		:10vw;
+	transform	:skewY(-4deg);
+	background	:#ffffff;
+	position	:relative;
+	transform-origin:right top;
+}
 
 .blank{
 	position	:relative;
@@ -346,7 +354,7 @@
 	padding			:30vw 2vw 2vw 2vw;
 	text-align		:left;
 	color			:#608090;
-	background		:linear-gradient(135deg,#fafaff,#D9E8F3);
+	background		:linear-gradient(135deg,#f0fffa,#D9E8F3);
 }
 
 .p_img{
@@ -365,7 +373,7 @@
 	right			:5vw;
 	width			:55vw;
 	height			:55vw;
-	box-shadow:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
+	box-shadow		:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
 }
 
 .p_icon{
@@ -378,14 +386,14 @@
 
 
 .p_img_pop{
-	width			:60vw;
+	width			:50vw;
 	height			:9vw;
 	line-height		:9vw;
 	margin			:1vw auto;
 	border-radius	:2vw;
-	background		:linear-gradient(#e0f0ff,#c0f0ff);
+	background		:linear-gradient(#e0f0f8,#d0e0e8);
 	font-weight		:900;
-	color			:#004070;
+	color			:#009088;
 	text-shadow		:1px 1px 0 #ffffff;
 	box-shadow		:0.5vw 0.5vw 0 #004070;
 	font-size		:4vw;
