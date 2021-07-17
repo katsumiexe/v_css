@@ -47,7 +47,7 @@
 	position	:relative;
 	width		:100vw;
 	background	:#ffffff;
-	height		:12vw;
+	height		:8vw;
 	z-index		:1;
 }
 
@@ -106,8 +106,8 @@
 }
 .skew_btm2{
 	width		:100vw;
-	height		:10vw;
-	transform	:skewY(-4deg);
+	height		:12vw;
+	transform	:skewY(-6deg);
 	background	:#ffffff;
 	position	:relative;
 	transform-origin:right top;
