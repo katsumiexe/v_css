@@ -435,11 +435,11 @@
 
 .p_box_detail_comm{
 	display		:inline-block;
-	height		:40vw;
-	background	:#d00000;
-	font-size	:3vw;
-	line-height	:4.2vw;
-	color		:#0090ff;
+	min-height		:40vw;
+	background	:#fafafa;
+	font-size	:3.5vw;
+	line-height	:5vw;
+	color		:#303030;
 	padding		:0.5vw;
 }
 
