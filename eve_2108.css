@@ -363,7 +363,6 @@
 	right			:5vw;
 	width			:55vw;
 	height			:55vw;
-	border-top		:0.5vw solid #0000d0;
 }
 
 
@@ -546,14 +545,14 @@
 	right			:1vw;
 	width			:10vw;
 	height			:10vw;
-	background		:#000000;
+	background		:#006090;
 	color			:#ffffff;
 	line-height		:10vw;
 	text-align		:center;
 	font-size		:6vw;
 	border-radius	:3vw 3vw 0 0;
 	font-weight		:800;
-	cursor:pointer;
+	cursor			:pointer;
 
 }
 
