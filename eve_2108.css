@@ -435,7 +435,7 @@
 
 .p_box_detail_comm{
 	display		:inline-block;
-	min-height		:40vw;
+	height		:50vw;
 	background	:#fafafa;
 	font-size	:3.5vw;
 	line-height	:5vw;
@@ -527,7 +527,7 @@
 	bottom		:0;
 	margin		:auto;
 	width		:95vw;
-	height		:95vw;
+	height		:110vw;
 }
 
 .pop_back{
