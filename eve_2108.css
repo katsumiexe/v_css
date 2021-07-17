@@ -349,7 +349,7 @@
 	top				:30vw;
 	left			:5vw;
 	width			:80vw;
-	font-size		:3.2vw;
+	font-size		:3.5vw;
 	line-height		:5vw;
 	padding			:30vw 2vw 2vw 2vw;
 	text-align		:left;
@@ -439,8 +439,8 @@
 
 
 .p_box_detail_img{
-	width		:32vw;
-	height		:40vw;
+	width		:28vw;
+	vertical-align:top;
 }
 
 .p_box_detail_comm{
