@@ -339,7 +339,7 @@
 .p_comm{
 	position		:absolute;	
 	top				:30vw;
-	left			:0vw;
+	left			:5vw;
 	width			:80vw;
 	font-size		:3.2vw;
 	line-height		:5vw;
@@ -351,10 +351,11 @@
 
 .p_img{
 	position		:absolute;	
-	top				:0vw;
-	right			:0vw;
+	top				:2vw;
+	right			:5vw;
 	width			:55vw;
 	height			:55vw;
+	border-top0.5vw solid #0000d0;
 }
 
 
