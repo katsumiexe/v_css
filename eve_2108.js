@@ -14,7 +14,7 @@ $(function(){
 		$('#p'+Tmp).show();
 	});
 
-	$('.pop_back,.pop').on('click',function(){
+	$('.pop').on('click',function(){
 		$('.pop').fadeOut(500);
 	});
 
