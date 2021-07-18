@@ -125,7 +125,7 @@
 
 .notice_a{
 	width		:84vw;
-	height		:2px;
+	height		:3px;
 	margin		:5vw auto 0 auto;
 	background	:#ff00ff;
 	background:linear-gradient(90deg,#fafafa 0%,#D9E8F3 50%,#fafafa 100%);
@@ -135,7 +135,7 @@
 	width		:84vw;
 	margin		:0 auto 2vw auto;
 	background	:#0000ff;
-	height		:2px;
+	height		:3px;
 	background:linear-gradient(90deg,#fafafa 0%,#D9E8F3 50%,#fafafa 100%);
 }
 
@@ -144,7 +144,7 @@
 	width		:80vw;
 	line-height	:4.5vw;
 	font-size	:3.5vw;
-	color		:#303030;
+	color		:#D9E8F3;
 	padding		:0vw;
 	margin		:1vw auto;
 }
