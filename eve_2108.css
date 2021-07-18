@@ -274,6 +274,7 @@
 	border-right	:1vw solid #90d0e0;
 	border-left		:1vw solid #90d0e0;
 	border-bottom	:1vw solid #90d0e0;
+	border-radius	:1vw;
 }
 
 .face_pts{
@@ -320,9 +321,9 @@
 .face_name{
 	display		:inline-block;
 	width		:28vw;
-	height		:5vw;
-	line-height	:5vw;
-	font-size	:4vw;
+	height		:4.5vw;
+	line-height	:4.5vw;
+	font-size	:3.5vw;
 	overflow	:hidden;
 	color		:#2070e0;
 	font-weight	:600;
