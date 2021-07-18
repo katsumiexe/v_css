@@ -435,12 +435,21 @@
 	background	:#ffffff;
 }
 
-
-
 .p_box_detail_img{
-	width		:28vw;
-	vertical-align:top;
+	position		:relative;
+	width			:28vw;
+	vertical-align	:top;
 }
+
+.p_box_detail_img img{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+}
+
 
 .p_box_detail_comm{
 	display		:inline-block;
