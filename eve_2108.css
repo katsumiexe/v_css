@@ -420,7 +420,7 @@
 
 
 .p_box_detail{
-	display:none;
+	display		:none;
 	margin		:0 auto;
 	width		:94vw;
 	border		:2vw solid #006090;
