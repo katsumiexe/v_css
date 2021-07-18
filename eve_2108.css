@@ -253,7 +253,7 @@
 	margin			:0;
 	text-decoration	:none;
 	background		:#904030;
-	background		:#50a0b0;
+	background		:#90d0e0;
 }
 
 
@@ -271,9 +271,9 @@
 	text-align		:left;
 	background		:#90e0f0;
 	padding			:0.5vw;
-	border-right	:1vw solid #50a0b0;
-	border-left		:1vw solid #50a0b0;
-	border-bottom	:1vw solid #50a0b0;
+	border-right	:1vw solid #90d0e0;
+	border-left		:1vw solid #90d0e0;
+	border-bottom	:1vw solid #90d0e0;
 }
 
 .face_pts{
