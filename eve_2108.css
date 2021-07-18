@@ -195,7 +195,7 @@
 	display		:inline-block;
 	width		:44vw;
 	flex-basis	:44vw;
-	height		:58vw;
+	height		:64vw;
 	background	:#ffffff;
 	margin		:2vw;
 	box-shadow:2vw 2vw 0 rgba(60,90,200,0.8); 
@@ -204,11 +204,22 @@
 
 .pick_in{
 	position	:absolute;
-	top			:45vw;
+	top			:42vw;
 	left		:2vw;
 	width		:40vw;
-	height		:11vw;
+	height		:12vw;
 	background	:linear-gradient(135deg,#F7C8CE,#d7a8aE);
+	z-index		:2;
+}
+
+
+.pick_comm{
+	position	:absolute;
+	top			:64vw;
+	left		:2vw;
+	width		:40vw;
+	height		:12vw;
+	background	:#60d080;
 	z-index		:2;
 }
 
@@ -521,7 +532,7 @@
 	position	:absolute;
 	height		:5vw;
 	line-height	:5vw;
-	bottom		:0vw;
+	bottom		:0.5vw;
 	right		:1vw;
 	font-size	:4.5vw;
 	color		:#fafafa;
