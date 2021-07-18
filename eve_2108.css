@@ -444,6 +444,7 @@
 
 .p_box_detail_comm{
 	display		:inline-block;
+	width		:62vw;
 	height		:50vw;
 	background	:#fafafa;
 	font-size	:3.5vw;
