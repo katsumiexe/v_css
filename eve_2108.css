@@ -128,7 +128,7 @@
 	height		:3px;
 	margin		:5vw auto 0 auto;
 	background	:#ff00ff;
-	background:linear-gradient(90deg,#fafafa 0%,#D9E8F3 50%,#fafafa 100%);
+	background:linear-gradient(90deg,#fafafa 0%,#004050 50%,#fafafa 100%);
 }
 
 .notice_b{
@@ -136,7 +136,7 @@
 	margin		:0 auto 2vw auto;
 	background	:#0000ff;
 	height		:3px;
-	background:linear-gradient(90deg,#fafafa 0%,#D9E8F3 50%,#fafafa 100%);
+	background:linear-gradient(90deg,#fafafa 0%,#004050 50%,#fafafa 100%);
 }
 
 
@@ -144,7 +144,7 @@
 	width		:80vw;
 	line-height	:4.5vw;
 	font-size	:3.5vw;
-	color		:#D9E8F3;
+	color		:#004060;
 	padding		:0vw;
 	margin		:1vw auto;
 }
