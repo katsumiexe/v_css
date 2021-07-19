@@ -342,16 +342,28 @@
 .face_name{
 	display		:inline-block;
 	width		:28vw;
-	height		:4.5vw;
+	height		:8vw;
 	line-height	:4.5vw;
 	font-size	:3.5vw;
 	overflow	:hidden;
-	color		:#2070e0;
-	color		:#0000e0;
 	font-weight	:600;
 	text-align	:center;
-//	background	:rgba(255,255,255,0.3);
 	margin		:0 1vw 1vw 1vw;
+}
+	
+.face_name_in2{
+	background:#ff3000;
+	font-size	:3vw;
+
+}
+.face_name_in{
+	display		:inline-block;
+	font-size	:3.5vw;
+	color		:#0000e0;
+	font-weight	:600;
+	text-align	:left;
+	margin		:0 auto;
+	background:#906000;
 }
 	
 
