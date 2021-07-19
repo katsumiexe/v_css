@@ -553,14 +553,14 @@
 
 .pts_pick{
 	position		:absolute;
-	height			:5vw;
-	line-height		:5vw;
-	top				:0vw;
+	height			:6vw;
+	line-height		:6vw;
+	top				:-1vw;
 	right			:1vw;
-	font-size		:3.5vw;
-	color			:#900060;
+	font-size		:4vw;
+	color			:#0000d0;
 	font-weight		:600;
-	border-bottom	:2px solid #900060;
+	border-bottom	:3px solid #0000d0;
 	padding			:0.5vw;
 }
 
