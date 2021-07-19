@@ -124,7 +124,7 @@
 }
 
 .notice_a{
-	width		:84vw;
+	width		:92vw;
 	height		:3px;
 	margin		:5vw auto 0 auto;
 	background	:#ff00ff;
@@ -132,7 +132,7 @@
 }
 
 .notice_b{
-	width		:84vw;
+	width		:92vw;
 	margin		:0 auto 2vw auto;
 	background	:#0000ff;
 	height		:3px;
@@ -141,7 +141,7 @@
 
 
 .notice{
-	width		:80vw;
+	width		:90vw;
 	line-height	:4.5vw;
 	font-size	:3.5vw;
 	color		:#004060;
