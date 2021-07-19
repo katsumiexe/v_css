@@ -289,7 +289,7 @@
 .face_pts{
 	display			:inline-block;
 	margin			:0 1vw 1vw 0;
-	width			:16.5vw;
+	width			:14.5vw;
 	height			:5vw;
 	line-height		:6vw;
 	color			:#0000d0;
@@ -326,7 +326,7 @@
 .face_st{
 	display			:inline-block;
 	margin			:0 1vw 1vw 1vw;
-	width			:10vw;
+	width			:12vw;
 	height			:5vw;
 	color			:#fafafa;
 	font-size		:3vw;
