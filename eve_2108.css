@@ -212,7 +212,6 @@
 	z-index		:2;
 }
 
-
 .pick_comm{
 	position	:absolute;
 	top			:54vw;
@@ -228,14 +227,23 @@
 	padding		:1vw;
 }
 
-
 .img_pick{
 	position	:absolute;
 	top			:2vw;
 	left		:2vw;
 	width		:40vw;
 	height		:40vw;
+	overflow	:hidden;
 }
+
+.img_pick{
+	position	:absolute;
+	top			:-2vw;
+	left		:-2vw;
+	width		:42vw;
+	height		:42vw;
+}
+
 
 .face{
 	position		:relative;
