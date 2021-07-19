@@ -296,10 +296,21 @@
 
 
 .face_img{
+	position	:relative;
 	width		:28vw;
 	flex-basis	:28vw;
 	height		:28vw;
 	margin		:1vw;
+	overflow	:hidden;
+}
+
+.face_img_in{
+	position	:absolute;
+	top			:1vw;
+	left		:1vw;
+	width		:30vw;
+	height		:30vw;
+
 }
 
 
