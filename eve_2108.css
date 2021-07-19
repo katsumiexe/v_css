@@ -296,6 +296,7 @@
 
 
 .face_img{
+	display		:inline-block;
 	position	:relative;
 	width		:28vw;
 	flex-basis	:28vw;
