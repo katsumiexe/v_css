@@ -209,7 +209,7 @@
 	width		:40vw;
 	height		:12vw;
 	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
-	background	:#f0f0ff;
+	background	:#ffffff;
 	z-index		:2;
 }
 
@@ -219,7 +219,7 @@
 	left		:2vw;
 	width		:40vw;
 	height		:12vw;
-	background	:#e0e8ff;
+	background	:#e0f0ff;
 	z-index		:2;
 	font-size	:4vw;
 	line-height	:5.5vw;	
