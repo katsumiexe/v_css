@@ -225,7 +225,7 @@
 	overflow	:hidden;
 	text-align	:left;
 	padding		:0.5vw;
-	box-shadow:-0.5vw -0.5vw 05vw rgba(0,0,80,0.4) inset,0.5vw 0.5vw 05vw rgba(0,0,80,0.4) inset;
+	box-shadow:-0.5vw -0.5vw 0.5vw rgba(180,200,250,0.2) inset,0.5vw 0.5vw 0.5vw rgba(180,200,250,0.2) inset;
 }
 
 .img_pick{
