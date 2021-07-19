@@ -353,9 +353,10 @@
 	
 .face_name_in2{
 	display		:block;
-	height		:3vw;
-
-	background:#ff3000;
+	text-align	:left;
+	height		:4vw;
+	line-height	:4vw;
+	background	:#ff3000;
 	font-size	:3vw;
 
 }
