@@ -191,15 +191,15 @@
 }
 
 .pick{
-	position	:relative;
-	display		:inline-block;
-	width		:44vw;
-	flex-basis	:44vw;
-	height		:68vw;
-	background	:#ffffff;
-	margin		:2vw;
-	box-shadow:2vw 2vw 0 rgba(0,60,200,0.8); 
-	text-decoration:none;
+	position		:relative;
+	display			:inline-block;
+	width			:44vw;
+	flex-basis		:44vw;
+	height			:68vw;
+	background		:#ffffff;
+	margin			:2vw;
+	box-shadow		:2vw 2vw 0 rgba(0,60,200,0.8); 
+	text-decoration	:none;
 }
 
 .pick_in{
@@ -538,7 +538,7 @@
 .flex_m_w{
 	display			:inline-block;
 	position		:absolute;
-	top				:-3vw;
+	top				:-2vw;
 	left			:1vw;
 	width			:16vw;
 	height			:6vw;
