@@ -207,7 +207,7 @@
 	top			:42vw;
 	left		:2vw;
 	width		:40vw;
-	height		:12vw;
+	height		:14vw;
 	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
 	background	:#ffffff;
 	z-index		:2;
@@ -215,7 +215,7 @@
 
 .pick_comm{
 	position	:absolute;
-	top			:54vw;
+	top			:58vw;
 	left		:2vw;
 	width		:40vw;
 	height		:16vw;
@@ -234,8 +234,8 @@
 
 .name_pick{
 	position	:absolute;
-	height		:5vw;
-	line-height	:5vw;
+	height		:8vw;
+	line-height	:8vw;
 	bottom		:0.5vw;
 	right		:1vw;
 	font-size	:4.5vw;
@@ -250,9 +250,10 @@
 }
 
 .name_pick_in2{
-	display		:inline-block;
+	display		:block;
 	font-size	:3vw;
 	background:#90a0b0;
+	text-align:left;
 }
 
 
