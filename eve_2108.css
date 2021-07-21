@@ -377,8 +377,8 @@
 	font-size	:3.8vw;
 	overflow	:hidden;
 	font-weight	:600;
-	text-align	:right;
-	margin		:0 1vw 1vw 1vw;
+	text-align	:center;
+	margin		:0 auto 1vw auto;
 }
 	
 .face_name_in2{
