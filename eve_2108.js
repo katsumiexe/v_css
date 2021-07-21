@@ -39,7 +39,9 @@ $(function(){
 			$('.up_link_out').fadeOut(200);
 		}
 
-		Base_y= (Height*0.3)*(-1)+ Tmp*1.5;
+		Base_y= (Width*0.3)*(-1)+ Tmp*1.5;
+
+console.log(Base_y)
 
 		S0=Math.floor(Tmp/5);
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
