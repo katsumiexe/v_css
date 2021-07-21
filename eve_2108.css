@@ -319,8 +319,8 @@
 
 .face_pts{
 	display			:inline-block;
-	margin			:0 1vw 1vw 0;
-	width			:14.5vw;
+	margin			:0 0.5vw 1vw 0;
+	width			:15vw;
 	height			:5vw;
 	line-height		:6vw;
 	color			:#0000d0;
