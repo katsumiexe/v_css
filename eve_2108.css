@@ -229,6 +229,19 @@
 //	box-shadow:-0.5vw -0.5vw 0.5vw rgba(180,200,250,0.2) inset,0.5vw 0.5vw 0.5vw rgba(180,200,250,0.2) inset;
 }
 
+.name_pick{
+
+	position	:absolute;
+	height		:5vw;
+	line-height	:5vw;
+	bottom		:0.5vw;
+	right		:1vw;
+	font-size	:4.5vw;
+	color		:#006090;
+	font-weight	:600;
+}
+
+
 .img_pick{
 	position	:absolute;
 	top			:2vw;
@@ -565,17 +578,6 @@
 	padding			:0.5vw;
 }
 
-.name_pick{
-
-	position	:absolute;
-	height		:5vw;
-	line-height	:5vw;
-	bottom		:0.5vw;
-	right		:1vw;
-	font-size	:4.5vw;
-	color		:#0000d0;
-	font-weight	:600;
-}
 
 .pop{
 	display		:none;
