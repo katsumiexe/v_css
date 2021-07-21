@@ -195,7 +195,7 @@
 	display			:inline-block;
 	width			:44vw;
 	flex-basis		:44vw;
-	height			:76vw;
+	height			:75vw;
 	background		:#ffffff;
 	margin			:2vw;
 	box-shadow		:2vw 2vw 0 rgba(0,60,200,0.8); 
@@ -215,7 +215,7 @@
 
 .pick_comm{
 	position	:absolute;
-	top			:58vw;
+	top			:57vw;
 	left		:2vw;
 	width		:40vw;
 	height		:16vw;
@@ -245,15 +245,13 @@
 
 .name_pick_in{
 	display		:inline-block;
-	background	:#906080;
 	height		:9vw;
-	line-height	:8vw;
+	line-height	:6vw;
 }
 
 .name_pick_in2{
 	display		:block;
 	font-size	:3vw;
-	background	:#90a0b0;
 	text-align	:left;
 	height		:3vw;
 	line-height	:3vw;
