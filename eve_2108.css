@@ -272,12 +272,12 @@
 	display			:inline-block;
 	width			:30vw;
 	margin			:0;
-	height			:9.5vw;
-	max-height		:9.5vw;
+	height			:12vw;
+	max-height		:12vw;
 
 	overflow		:hidden;
 	line-height		:4vw;
-	font-size		:3vw;
+	font-size		:2.8vw;
 	color			:#90c0d0;
 	text-align		:left;
 	background		:#ffffff;
