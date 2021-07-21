@@ -276,12 +276,12 @@
 	max-height		:12vw;
 
 	overflow		:hidden;
-	line-height		:4vw;
+	line-height		:3.5vw;
 	font-size		:2.8vw;
-	color			:#90c0d0;
+	color			:#6090d0;
 	text-align		:left;
 	background		:#ffffff;
-	padding			:0.5vw;
+	padding			:0.2vw;
 	border-right	:1vw solid #90d0e0;
 	border-left		:1vw solid #90d0e0;
 	border-bottom	:1vw solid #90d0e0;
