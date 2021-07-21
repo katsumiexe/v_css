@@ -252,8 +252,10 @@
 .name_pick_in2{
 	display		:block;
 	font-size	:3vw;
-	background:#90a0b0;
-	text-align:left;
+	background	:#90a0b0;
+	text-align	:left;
+	height		:3.5vw;
+	line-height	:3.5vw;
 }
 
 
