@@ -60,8 +60,8 @@
 	background	:#ffffff;
 	min-height	:100vh;
 	z-index		:1;
-	padding		:2vw;
-	font-size:0;
+	padding		:1vw;
+	font-size	:0;
 }
 
 .top_1{
@@ -280,10 +280,10 @@
 .face{
 	position		:relative;
 	display			:inline-block;
-	width			:30vw;
-	flex-basis		:30vw;
+	width			:31vw;
+	flex-basis		:31vw;
 	min-height		:40vw;
-	margin			:1vw;
+	margin			:0.5vw;
 	text-decoration	:none;
 }
 
