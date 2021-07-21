@@ -233,7 +233,6 @@
 }
 
 .name_pick{
-
 	position	:absolute;
 	height		:5vw;
 	line-height	:5vw;
@@ -243,6 +242,19 @@
 	color		:#006090;
 	font-weight	:600;
 }
+
+.name_pick_in{
+	display:inline-block;
+	padding:0.5vw;
+	background:#906080;
+}
+
+.name_pick_in2{
+	display		:inline-block;
+	font-size	:3vw;
+	background:#90a0b0;
+}
+
 
 
 .img_pick{
