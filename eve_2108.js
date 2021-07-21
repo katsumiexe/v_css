@@ -39,7 +39,7 @@ $(function(){
 			$('.up_link_out').fadeOut(200);
 		}
 
-		Base_y= (Width*0.3)*(-1)+ Tmp*1.3;
+		Base_y= (Width*0.4)*(-1)+ Tmp*1.3;
 
 console.log(Base_y)
 
