@@ -564,7 +564,7 @@
 	height			:14vw;
 	line-height		:14vw;
 	font-size		:12vw;
-	color			:#008000;
+	color			:#0080a0;
 	text-align		:center;
 	position		:relative;
 }
@@ -578,19 +578,19 @@
 	width	:10.5vw;
 	height	:7.5vw;
 	border-radius:50%;
-	background:linear-gradient(#e0fff0,#d0f0e0);
+	background:linear-gradient(#e0fff0,#80a090);
 }
 
 .shell_in2{
 	position:absolute;
-	top		:8vw;
+	top		:8.5vw;
 	left	:0;
 	right	:0;
 	margin	:auto;
 	width	:10.5vw;
 	height	:2.5vw;
 	border-radius:50%;
-	background:linear-gradient(#e00000,#d00000);
+	background:linear-gradient(#80a090,#e0fff0);
 }
 
 
@@ -683,19 +683,19 @@
 	top			:3.5vw;
 	left		:0;
 	right		:0;
-	width		:4vw;
-	height		:4vw;
+	width		:3vw;
+	height		:3vw;
 	margin		:auto;
 	font-weight	:700;
-	border-top	:1vw solid #404550;
-	border-left	:1vw solid #404550;
+	border-top	:1.5vw solid #404550;
+	border-left	:1.5vw solid #404550;
 	transform:rotate(45deg);
 }
 
 .up_link_ar2{
-	top			:5vw;
-	width		:4.2vw;
-	height		:4.2vw;
+	top			:6vw;
+	width		:3.5vw;
+	height		:3.5vw;
 }
 
 .up_link_in{
