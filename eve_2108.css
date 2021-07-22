@@ -408,7 +408,7 @@
 .p_box_out{
 	position		:relative;
 	display			:block;
-	width			:80vw;
+	width			:86vw;
 	height			:105vw;
 	margin			:1vw auto 5vw auto;;
 	background:#90e0f0
@@ -416,11 +416,11 @@
 
 .p_comm{
 	position		:absolute;	
-	top				:58vw;
+	top				:70vw;
 	left			:0vw;
 	right			:0;
 	margin			:auto;
-	width			:80vw;
+	width			:70vw;
 	font-size		:3.5vw;
 	line-height		:5vw;
 	padding			:2vw;
@@ -431,7 +431,7 @@
 
 .p_img{
 	position		:absolute;	
-	top				:2vw;
+	top				:5vw;
 	left			:0;
 	right			:0;
 	margin			:auto;
@@ -442,7 +442,7 @@
 
 .p_img_out{
 	position		:absolute;	
-	top				:2vw;
+	top				:5vw;
 	left			:0;
 	right			:0;
 	margin			:auto;
