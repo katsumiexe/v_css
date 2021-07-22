@@ -571,18 +571,26 @@
 
 .shell_in1{
 	position:absolute;
-	top		:0;
+	top		:1vw;
 	left	:0;
 	right	:0;
 	margin	:auto;
-	width	:13vw;
-	height	:7vw;
+	width	:10.5vw;
+	height	:7.5vw;
 	border-radius:50%;
 	background:linear-gradient(#e0fff0,#d0f0e0);
 }
 
 .shell_in2{
-
+	position:absolute;
+	top		:8vw;
+	left	:0;
+	right	:0;
+	margin	:auto;
+	width	:10.5vw;
+	height	:2.5vw;
+	border-radius:50%;
+	background:linear-gradient(#e00000,#d00000);
 }
 
 
