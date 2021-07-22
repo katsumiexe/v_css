@@ -409,8 +409,9 @@
 	position		:relative;
 	display			:block;
 	width			:80vw;
-	height:110vw;
-	margin			:2vw auto;
+	height			:105vw;
+	margin			:1vw auto 5vw auto;;
+	background:#90e0f0
 }
 
 .p_comm{
