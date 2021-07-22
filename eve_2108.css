@@ -683,19 +683,19 @@
 	top			:3.5vw;
 	left		:0;
 	right		:0;
-	width		:3vw;
-	height		:3vw;
+	width		:3.5vw;
+	height		:3.5vw;
 	margin		:auto;
 	font-weight	:700;
-	border-top	:1.5vw solid #404550;
-	border-left	:1.5vw solid #404550;
+	border-top	:1.2vw solid #404550;
+	border-left	:1.2vw solid #404550;
 	transform:rotate(45deg);
 }
 
 .up_link_ar2{
-	top			:6vw;
-	width		:3.5vw;
-	height		:3.5vw;
+	top			:6.5vw;
+	width		:3.8vw;
+	height		:3.8vw;
 }
 
 .up_link_in{
