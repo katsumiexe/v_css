@@ -568,7 +568,7 @@
 	color			:#0080a0;
 	text-align		:center;
 	position		:relative;
-	text-shadow		:0 0 1vw rgba(255,255,255,0.9);
+	text-shadow		:0 0 2vw rgba(255,255,255,1);
 }
 
 .shell_in1{
