@@ -444,6 +444,7 @@
 	top				:2vw;
 	left			:0;
 	right			:0;
+	margin			:auto;
 	width			:55vw;
 	height			:55vw;
 	box-shadow		:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
