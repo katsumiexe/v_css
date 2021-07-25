@@ -91,7 +91,7 @@
 
 .skew_btm{
 	width		:1200px;
-	height		:10vw;
+	height		:50pxvw;
 	transform	:skewY(4deg);
 	background	:#ffffff;
 	position	:relative;
@@ -99,7 +99,7 @@
 }
 .skew_btm2{
 	width		:1200px;
-	height		:12vw;
+	height		:50px;
 	transform	:skewY(-6deg);
 	background	:#ffffff;
 	position	:relative;
@@ -108,18 +108,18 @@
 
 .blank{
 	position	:relative;
-	width		:98vw;
+	width		:1100px;
 	text-align	:center;
 	display		:flex;
 	flex-wrap	:wrap;
-	padding:1vw 1vw 5vw 1vw;
+	padding:20px 50px 100px 50px ;
 //	justify-content:space-around;
 }
 
 .notice_a{
-	width		:92vw;
+	width		:1000px;
 	height		:3px;
-	margin		:5vw auto 0 auto;
+	margin		:20px auto 0 auto;
 	background	:#ff00ff;
 	background:linear-gradient(90deg,#fafafa 0%,#6090a0 50%,#fafafa 100%);
 }
