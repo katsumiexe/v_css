@@ -1,10 +1,10 @@
 .main{
-	width		:100vw;
+	width		:1200px;
 	min-height	:100vh;
 	font-size	:0;
 }
 .back{
-	width		:100vw;
+	width		:1200px;
 	position	:fixed;
 	z-index		:-2;
 	top			:0;
@@ -14,7 +14,7 @@
 }
 
 .img_back2,.img_back1{
-	width		:100vw;
+	width		:1200px;
 	position	:absolute;
 	left		:0;
 	right		:0;
@@ -23,7 +23,7 @@
 }
 
 .img_back3{
-	width		:100vw;
+	width		:1200px;
 	position	:fixed;
 	left		:0;
 	right		:0;
@@ -45,7 +45,7 @@
 
 .box_2{
 	position	:relative;
-	width		:100vw;
+	width		:1200px;
 	background	:#ffffff;
 	height		:8vw;
 	z-index		:1;
@@ -53,7 +53,7 @@
 
 .box_3{
 	position	:relative;
-	width		:100vw;
+	width		:1200px;
 	text-align	:left;
 	display		:flex;
 	flex-wrap	:wrap;
@@ -65,7 +65,7 @@
 }
 
 .top_1{
-	width		:100vw;
+	width		:1200px;
 }
 .top_1a{
 	width		:90vw;
@@ -90,7 +90,7 @@
 }
 
 .skew_btm{
-	width		:100vw;
+	width		:1200px;
 	height		:10vw;
 	transform	:skewY(4deg);
 	background	:#ffffff;
@@ -98,7 +98,7 @@
 	transform-origin:right top;
 }
 .skew_btm2{
-	width		:100vw;
+	width		:1200px;
 	height		:12vw;
 	transform	:skewY(-6deg);
 	background	:#ffffff;
@@ -179,7 +179,7 @@
 
 .blank_2{
 	position	:relative;
-	width		:100vw;
+	width		:1200px;
 	height		:30vw;
 }
 
@@ -765,7 +765,7 @@
 	margin			:0 auto;
 }
 .wave{
-	width:100vw;
+	width:1200px;
 	z-index:10;
 }
 
