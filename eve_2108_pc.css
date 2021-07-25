@@ -134,30 +134,30 @@
 
 
 .notice{
-	width		:90vw;
-	line-height	:4.5vw;
-	font-size	:3.5vw;
+	width		:1000px;
+	line-height	:30px;
+	font-size	:20px;
 	color		:#004060;
 	padding		:0vw;
-	margin		:1vw auto;
+	margin		:10px auto;
 }
 
 .p{
 	display:block;
-	padding:0.5vw 1vw;
+	padding:10px 20px;
 }
 
 
 .box_title{
 	position		:relative;
-	width			:90vw;
+	width			:1000px;
 	text-align		:left;
 	height			:10vw;
 	padding			:1vw 0 0 0;
-	border-bottom	:0.5vw solid #ffffff;
-	font-size		:6vw;
+	border-bottom	:10px solid #ffffff;
+	font-size		:30px;
 	color			:#ffffff;
-	margin			:2vw auto 0 auto;	
+	margin			:10px auto 0 auto;	
 	font-weight		:600;
 }
 
@@ -167,11 +167,11 @@
 	right			:0;
 	bottom			:0;
 	margin			:auto;
-	width			:90vw;
+	width			:1000px;
 	text-align		:left;
-	height			:7.5vw;
-	border-bottom	:0.5vw solid #004060;
-	font-size		:5vw;
+	height			:200px;
+	border-bottom	:5px solid #004060;
+	font-size		:30px;
 	color			:#004060;
 	font-weight		:600;
 }
@@ -180,15 +180,15 @@
 .blank_2{
 	position	:relative;
 	width		:1200px;
-	height		:30vw;
+	height		:30px;
 }
 
 .pick{
 	position		:relative;
 	display			:inline-block;
-	width			:44vw;
-	flex-basis		:44vw;
-	height			:75vw;
+	width			:500px;
+	flex-basis		:500px;
+	height			:800px;
 	background		:#ffffff;
 	margin			:2vw;
 	box-shadow		:2vw 2vw 0 rgba(0,60,200,0.8); 
