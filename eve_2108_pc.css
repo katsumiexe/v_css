@@ -414,6 +414,12 @@
 	background		:#55A5EA
 }
 
+.p_box_table{
+	height	:700px;
+	width	:800px;
+	background:#906000;
+}
+
 .p_comm{
 	position		:absolute;	
 	top				:550px;
