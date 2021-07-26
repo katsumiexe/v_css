@@ -7,7 +7,7 @@
 	width		:100vw;
 	position	:absolute;
 	z-index		:-2;
-	top			:0;
+	top			:-10px;
 	height		:100vh;
 	overflow	:hidden;
 	background	:#e0f0ff;
@@ -75,14 +75,14 @@
 	font-size	:20px;
 	color		:#ffffff;
 	font-weight	:700;
-	text-align:right;
-	margin:0 auto;
+	text-align	:right;
+	margin		:0 auto;
 }
 
 .top_2{
-	width		:960px;
+	width		:400px;
 	line-height	:30px;
-	margin		:3vh auto;
+	margin		:10px auto;
 	border		:2px solid #ffffff;
 	background	:rgba(255,255,255,0.6);
 	font-size	:20px;
