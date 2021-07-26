@@ -64,10 +64,11 @@
 }
 
 .top_1{
-	width		:1200px;
+	width		:400px;
+	margin:0 auto;
 }
 .top_1a{
-	width		:1000px;
+	width		:400px;
 	height		:20px;
 	line-height	:20px;
 	margin		:0 auto ;
@@ -75,6 +76,7 @@
 	color		:#ffffff;
 	font-weight	:700;
 	text-align:right;
+	margin:0 auto;
 }
 
 .top_2{
