@@ -7,7 +7,7 @@
 	width		:100vw;
 	position	:absolute;
 	z-index		:-2;
-	top			:-10px;
+	top			:-20px;
 	height		:100vh;
 	overflow	:hidden;
 	background	:#e0f0ff;
@@ -64,11 +64,11 @@
 }
 
 .top_1{
-	width		:400px;
-	margin:0 auto;
+	width		:600px;
+	margin:10px auto;
 }
 .top_1a{
-	width		:400px;
+	width		:600px;
 	height		:20px;
 	line-height	:20px;
 	margin		:0 auto ;
