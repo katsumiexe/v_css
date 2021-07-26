@@ -511,6 +511,7 @@
 }
 
 .p_box_detail_img{
+	position:relative;
 	width			:110px;
 	height			:110px;
 }
