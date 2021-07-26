@@ -428,6 +428,8 @@
 	text-align		:left;
 	color			:#608090;
 	background		:linear-gradient(135deg,#f0fffa,#D9E8F3);
+	width			:700px;
+	margin			:2px auto;
 }
 
 .p_img{
