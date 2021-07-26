@@ -433,7 +433,7 @@
 	position		:absolute;	
 	top				:0;
 	left			:0;
-	width			:500px;
+	width			:417px;
 	height			:500px;
 }
 
@@ -761,7 +761,7 @@
 	margin			:0 auto;
 }
 .wave{
-	width:1200px;
+	width:100vw;
 	z-index:10;
 }
 
