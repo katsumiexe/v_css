@@ -421,12 +421,6 @@
 }
 
 .p_comm{
-	position		:absolute;	
-	top				:550px;
-	left			:0vw;
-	right			:0;
-	margin			:auto;
-	width			:600px;
 	font-size		:18px;
 	line-height		:25px;
 	padding			:10px;
