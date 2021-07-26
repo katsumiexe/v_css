@@ -432,9 +432,6 @@
 }
 
 .p_img{
-	position		:absolute;	
-	top				:0;
-	left			:0;
 	width			:417px;
 	height			:500px;
 }
@@ -508,19 +505,9 @@
 	background	:#ffffff;
 }
 
-.p_box_detail_img{
-	position		:relative;
-	width			:28vw;
-	vertical-align	:top;
-}
-
 .p_box_detail_img img{
-	position		:absolute;
-	top				:0;
-	left			:0;
-	right			:0;
-	bottom			:0;
-	margin			:auto;
+	height	:100px;
+	width	:100px;
 }
 
 
