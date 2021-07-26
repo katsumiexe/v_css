@@ -437,10 +437,8 @@
 
 .p_img{
 	position		:absolute;	
-	top				:30px;
+	top				:0;
 	left			:0;
-	right			:0;
-	margin			:auto;
 	width			:500px;
 	height			:500px;
 }
@@ -448,10 +446,8 @@
 
 .p_img_out{
 	position		:absolute;	
-	top				:30px;
+	top				:0;
 	left			:0;
-	right			:0;
-	margin			:auto;
 	width			:500px;
 	height			:500px;
 	box-shadow		:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
