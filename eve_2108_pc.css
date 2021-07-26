@@ -108,6 +108,7 @@
 }
 
 .blank{
+	margin:0 auto;
 	position	:relative;
 	width		:1100px;
 	text-align	:center;
@@ -194,17 +195,16 @@
 	flex-basis		:300px;
 	height			:500px;
 	background		:#ffffff;
-	margin			:50px;
 //	box-shadow		:2vw 2vw 0 rgba(0,60,200,0.8); 
 	text-decoration	:none;
 }
 
 .pick_in{
 	position	:absolute;
-	top			:42vw;
-	left		:2vw;
-	width		:40vw;
-	height		:15vw;
+	top			:310px;
+	left		:10px;
+	width		:280px;
+	height		:50px;
 	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
 	background	:#ffffff;
 	z-index		:2;
@@ -212,17 +212,17 @@
 
 .pick_comm{
 	position	:absolute;
-	top			:57vw;
-	left		:2vw;
-	width		:40vw;
-	height		:16vw;
+	top			:380px;
+	left		:10px;
+	width		:280px;
+	height		:100px;
 	background	:#006090;
 	z-index		:2;
-	font-size	:3.6vw;
-	line-height	:5vw;	
+	font-size	:18px;
+	line-height	:28px;	
 	overflow	:hidden;
 	text-align	:left;
-	padding		:0.5vw;
+	padding		:5px;
 	color:#fafafa;
 
 	background	:linear-gradient(135deg,#0580b0,#0070a0);
@@ -231,11 +231,11 @@
 
 .name_pick{
 	position	:absolute;
-	height		:9vw;
-	line-height	:9vw;
-	bottom		:0.5vw;
-	right		:1vw;
-	font-size	:4.5vw;
+	height		:20px;
+	line-height	:20px;
+	bottom		:5px;
+	right		:10px;
+	font-size	:20px;
 	color		:#006090;
 	font-weight	:600;
 }
