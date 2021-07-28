@@ -323,16 +323,18 @@
 }
 
 .face_pts{
-	display			:inline-block;
-	margin			:0 0.5vw 1vw 0;
-	width			:15vw;
-	height			:5vw;
-	line-height		:6vw;
+	position		:absolute;
+	height			:17px;
+	line-height		:17px;
+	top				:-5px;
+	right			:0px;
+	font-size		:16px;
 	color			:#008020;
-	font-size		:3.1vw;
-	text-align		:right;
 	font-weight		:700;
-	vertical-align	:top;
+	border-bottom	:3px solid #008020;
+	padding			:5px;
+
+
 }
 
 
