@@ -434,7 +434,6 @@
 	box-shadow		:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
 }
 
-
 .p_box_1{
 	position		:relative;
 	width			:500px;
@@ -443,7 +442,7 @@
 
 .p_box_2{
 	position		:relative;
-	width			:180px;
+	width			:120px;
 }
 
 .p_box_3{
@@ -463,10 +462,18 @@
 }
 
 .p_box_2_img{
-	width			:120px;
-	height			:120px;
+	position		:absolute;
+	left			:10px;
+	width			:100px;
+	height			:100px;
 	border:10px solid #d00000;
 }
+
+#p1{top:10px;}
+#p2{top:110px;}
+#p3{top:210px;}
+#p4{top:310px;}
+#p5{top:410px;}
 
 
 .up_link_out{
