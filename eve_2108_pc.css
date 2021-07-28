@@ -464,16 +464,16 @@
 .p_box_2_img{
 	position		:absolute;
 	left			:10px;
-	width			:100px;
-	height			:100px;
+	width			:90px;
+	height			:90px;
 
 }
 
 #p1{top:10px;}
-#p2{top:120px;}
-#p3{top:230px;}
-#p4{top:340px;}
-#p5{top:450px;}
+#p2{top:110px;}
+#p3{top:210px;}
+#p4{top:310px;}
+#p5{top:410px;}
 
 
 .up_link_out{
