@@ -209,13 +209,13 @@
 }
 
 .pick_in{
-	position	:relative;
+	position	:absolute;
 	width		:160px;
 	height		:52px;
 	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
 	background	:#ffffff;
 	z-index		:2;
-	margin:5px;
+	margin		:5px;
 }
 
 .pick_comm{
@@ -223,14 +223,14 @@
 	top			:230px;
 	left		:0px;
 	width		:160px;
-	height		:80px;
+	height		:70px;
 	z-index		:2;
 	font-size	:16px;
 	line-height	:22px;	
 	overflow	:hidden;
 	text-align	:left;
 	padding		:5px;
-	color:#fafafa;
+	color		:#fafafa;
 	background	:linear-gradient(135deg,#0580b0,#0070a0);
 
 }
@@ -348,8 +348,18 @@
 	width		:180px;
 	max-width	:180px;
 	height		:180px;
-
 }
+
+.face_in{
+	position	:relative;
+	width		:160px;
+	height		:52px;
+	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
+	background	:#ffffff;
+	z-index		:2;
+	margin		:5px;
+}
+
 
 
 .face_st{
@@ -394,6 +404,8 @@
 	height		:40px;
 	line-height	:24px;
 }
+
+
 
 
 .bn_btm{
