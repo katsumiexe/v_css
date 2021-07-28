@@ -193,8 +193,8 @@
 
 .blank_2{
 	position	:relative;
-	width		:1200px;
-	height		:30px;
+	width		:100vw;
+	height		:120px;
 }
 
 .pick{
