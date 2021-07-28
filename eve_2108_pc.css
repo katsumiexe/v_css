@@ -260,8 +260,8 @@
 	position	:absolute;
 	top			:10px;
 	left		:10px;
-	width		:180px;
-	height		:180px;
+	width		:200px;
+	height		:200px;
 	overflow	:hidden;
 }
 
@@ -270,6 +270,7 @@
 	top			:-15px;
 	left		:-15px;
 	width		:210px;
+	max-width	:210px;
 	height		:210px;
 }
 
