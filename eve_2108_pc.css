@@ -476,11 +476,11 @@
 .p_box_2_comm{
 	position		:absolute;
 	left			:120px;
-	width			:200px;
-	height			:90px;
+	width			:300px;
+	height			:200px;
 	background		:#ff0000;
-	font-size		:16px;
-	line-height		:24px;
+	font-size		:14px;
+	line-height		:19px;
 }
 
 
