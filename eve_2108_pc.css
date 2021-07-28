@@ -191,8 +191,8 @@
 .pick{
 	position		:relative;
 	display			:inline-block;
-	width			:180px;
-	flex-basis		:180px;
+	width			:200px;
+	flex-basis		:200px;
 	height			:500px;
 	background		:#ffffff;
 	margin:10px;
@@ -201,7 +201,7 @@
 
 .pick_in{
 	position	:absolute;
-	top			:160px;
+	top			:180px;
 	left		:10px;
 	width		:280px;
 	height		:50px;
