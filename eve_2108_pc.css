@@ -477,13 +477,21 @@
 	display: block;
 }
     
+.ff{
+	position		:absolute;
+	top				:10px;
+	left			:-10px;
+	color			:#0000ff;
+	font-size		:20px;
+	transform:rotate(90deg);
+}
 
 .p_box_2_comm{
 	display			:none;
 	position		:absolute;
 	left			:115px;
 	width			:270px;
-	height			:180px;
+	height			:170px;
 	background		:linear-gradient(135deg,#e0f0ff,#d0e0ff);
 	font-size		:14px;
 	line-height		:20px;
