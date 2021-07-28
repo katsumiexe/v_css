@@ -285,10 +285,10 @@
 .face{
 	position		:relative;
 	display			:inline-block;
-	width			:31vw;
-	flex-basis		:31vw;
-	min-height		:40vw;
-	margin			:0.5vw;
+	width			:170px;
+	flex-basis		:170px;
+	min-height		:300px;
+	margin			:5px;
 	text-decoration	:none;
 }
 
@@ -338,18 +338,19 @@
 .face_img{
 	display		:inline-block;
 	position	:relative;
-	width		:29vw;
-	height		:29vw;
-	margin		:1vw 1vw 0 1vw;
+	width		:160px;
+	height		:160px;
+	margin		:5px 5px 0 5px;
 	overflow	:hidden;
 }
 
 .face_img_in{
 	position	:absolute;
-	top			:-1.5vw;
-	left		:-1.5vw;
-	width		:32vw;
-	height		:32vw;
+	top			:-10px;
+	left		:-10px;
+	width		:180px;
+	max-width	:180px;
+	height		:180px;
 
 }
 
