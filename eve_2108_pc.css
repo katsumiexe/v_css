@@ -61,6 +61,18 @@
 	font-size	:0;
 }
 
+.box_30{
+	position	:relative;
+	width		:100vw;
+	text-align	:left;
+	background	:#ffffff;
+	min-height	:100vh;
+	z-index		:1;
+	padding		:5px;
+	font-size	:0;
+}
+
+
 .top_1{
 	width		:600px;
 	margin:10px auto;
@@ -90,7 +102,7 @@
 
 .skew_btm{
 	width		:100vw;
-	height		:50px;
+	height		:100px;
 	transform	:skewY(3deg);
 	background	:#ffffff;
 	position	:relative;
