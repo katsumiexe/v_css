@@ -42,9 +42,9 @@
 
 .box_2{
 	position	:relative;
-	width		:1200px;
+	width		:100vw;
 	background	:#ffffff;
-	height		:40px;
+	height		:50px;
 	z-index		:1;
 }
 
@@ -182,7 +182,7 @@
 	margin			:auto;
 	width			:1000px;
 	text-align		:left;
-	height			:200px;
+	height			:50px;
 	border-bottom	:5px solid #004060;
 	font-size		:30px;
 	color			:#004060;
