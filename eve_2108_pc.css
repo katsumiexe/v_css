@@ -560,7 +560,6 @@
 	background:linear-gradient(#80a090,#e0fff0);
 }
 
-
 .flex_m_w{
 	display			:inline-block;
 	position		:absolute;
@@ -580,15 +579,15 @@
 
 .pts_pick{
 	position		:absolute;
-	height			:6vw;
-	line-height		:6vw;
-	top				:-1vw;
-	right			:1vw;
-	font-size		:4vw;
+	height			:24px;
+	line-height		:24px;
+	top				:-5px;
+	right			:10px;
+	font-size		:18px;
 	color			:#906500;
 	font-weight		:800;
 	border-bottom	:3px solid #906500;
-	padding			:0.5vw;
+	padding			:5px;
 }
 
 
