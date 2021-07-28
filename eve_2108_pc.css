@@ -424,17 +424,6 @@
 	margin			:2px auto;
 }
 
-.p_box_1_img{
-	position		:absolute;	
-	top				:0;
-	left			:0;
-	right			:0;
-	bottom			:0;
-	margin			:auto;
-	width			:500px;
-	height			:500px;
-}
-
 .p_img_out{
 	position		:absolute;	
 	top				:0;
@@ -444,64 +433,6 @@
 	box-shadow		:2vw 2vw 2vw 2vw rgba(255,255,255,1) inset,-2vw -2vw 2vw 2vw rgba(255,255,255,1) inset; 
 }
 
-.p_icon{
-	margin	:0.5vw;
-	width	:17vw;
-	border:1px solid #303030;
-//	height	:18vw;
-//	box-shadow:2px 2px 0 rgba(20,20,20,0.8)	;
-}	
-
-
-.p_img_pop{
-	width			:600px;
-	height			:50px;
-	line-height		:50px;
-	margin			:10px auto;
-	border-radius	:10px;
-	background		:linear-gradient(#f0e000,#d0c000);
-	font-weight		:900;
-	color			:#706000;
-	text-shadow		:1px 1px 0 #ffffff;
-	box-shadow		:5px 5px 0 #706000;
-	font-size		:30px;
-	text-align		:center;
-	cursor			:pointer;
-}	
-
-
-
-.p_box_flex{
-	position		:absolute;
-	left			:0;
-	right			:0;
-	bottom			:1vw;
-	margin			:1vw auto;
-	width			:90vw;
-	display			:flex;
-	justify-content	:space-around;
-	align-items		:center;
-	background		:#006000;
-	height			:22vw;
-	border-top		:2px solid #0090ff;
-	border-bottom	:2px solid #0090ff;
-}	
-
-
-.p_box_detail{
-	display		:none;
-	margin		:0 auto;
-	width		:94vw;
-	border		:2vw solid #006090;
-	background	:#ffffff;
-}
-
-.p_box_menu{
-	margin		:0 auto 0 auto;
-	width		:94vw;
-	border		:2vw solid #006090;
-	background	:#ffffff;
-}
 
 .p_box_1{
 	position		:relative;
@@ -519,13 +450,21 @@
 	height			:150px;
 }
 
-
+.p_box_1_img{
+	position		:absolute;	
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:500px;
+	height			:500px;
+}
 
 .p_box_2_img{
 	width			:150px;
 	height			:150px;
 }
-
 
 
 .up_link_out{
