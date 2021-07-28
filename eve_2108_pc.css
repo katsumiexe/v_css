@@ -444,6 +444,10 @@
 	height			:500px;
 }
 
+.p_img_thumb{
+	width:150px;
+	height:150px;
+}
 
 .p_img_out{
 	position		:absolute;	
