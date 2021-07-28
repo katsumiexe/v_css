@@ -436,8 +436,8 @@
 
 .p_box_1{
 	position		:relative;
-	width			:500px;
-	height			:500px;
+	width			:520px;
+	height			:520px;
 }
 
 .p_box_2{
@@ -452,13 +452,10 @@
 
 .p_box_1_img{
 	position		:absolute;	
-	top				:0;
-	left			:0;
-	right			:0;
-	bottom			:0;
-	margin			:auto;
-	width			:480px;
-	height			:480px;
+	top				:10px;
+	left			:10px;
+	width			:500px;
+	height			:500px;
 }
 
 .p_box_2_img{
