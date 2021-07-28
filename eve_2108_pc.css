@@ -484,7 +484,7 @@
 	left			:115px;
 	width			:270px;
 	height			:180px;
-	background		:#linear-gradient(135deg,#f0f0ff,#e0e0ff);
+	background		:linear-gradient(135deg,#f0f0ff,#e0e0ff);
 	font-size		:14px;
 	line-height		:20px;
 	padding			:5px;
