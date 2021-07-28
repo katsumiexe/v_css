@@ -209,14 +209,13 @@
 }
 
 .pick_in{
-	position	:absolute;
-	top			:160px;
-	left		:5px;
+	position	:relative;
 	width		:160px;
 	height		:52px;
 	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
 	background	:#ffffff;
 	z-index		:2;
+	margin:5px;
 }
 
 .pick_comm{
