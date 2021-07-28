@@ -157,8 +157,8 @@
 	position		:relative;
 	width			:1000px;
 	text-align		:left;
-	height			:10vw;
-	padding			:1vw 0 0 0;
+	height			:40px;
+	padding			:10px 0 0 0;
 	border-bottom	:10px solid #ffffff;
 	font-size		:30px;
 	color			:#ffffff;
@@ -430,7 +430,6 @@
 	text-align		:left;
 	color			:#608090;
 	background		:linear-gradient(135deg,#f0fffa,#D9E8F3);
-	width			:650px;
 	margin			:2px auto;
 }
 
@@ -514,13 +513,24 @@
 	background	:#ffffff;
 }
 
-.p_box_detail_img{
-	position:relative;
-	width			:110px;
-	height			:110px;
+.p_box_1{
+	position		:relative;
+	width			:600px;
+	height			:600px;
 }
 
-.p_box_detail_img img{
+.p_box_2{
+	position		:relative;
+}
+
+.p_box_3{
+	position		:relative;
+	height			:150px;
+}
+
+
+
+.p_box_img_thumb{
 	position		:absolute;	
 	top				:0;
 	left			:0;
