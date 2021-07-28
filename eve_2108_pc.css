@@ -473,7 +473,13 @@
 #p5,#c5{top:410px;}
 
 
+.p_box_2_img:hover + .p_box_2_comm {
+	display: block;
+}
+    
+
 .p_box_2_comm{
+	display			:none;
 	position		:absolute;
 	left			:115px;
 	width			:270px;
