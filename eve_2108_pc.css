@@ -13,7 +13,7 @@
 	background	:#e0f0ff;
 }
 
-.img_back2,.img_back1{
+.img_back1{
 	width		:100vw;
 	position	:absolute;
 	left		:0;
@@ -22,6 +22,7 @@
 }
 
 .img_back2{
+	display		:none;
 	width		:100vw;
 	position	:fixed;
 	top			:0;
