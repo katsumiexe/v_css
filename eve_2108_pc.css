@@ -21,18 +21,13 @@
 	margin		:auto;
 }
 
-.img_back3{
-	width		:1200px;
+.img_back2{
+	width		:100vw;
 	position	:fixed;
 	left		:0;
 	right		:0;
 	bottom		:-3vh;
 	margin		:auto;
-	display:none;
-}
-
-.img_back1{
-	top:-55vw;
 }
 
 .box_1{
