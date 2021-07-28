@@ -193,9 +193,9 @@
 	display			:inline-block;
 	width			:170px;
 	flex-basis		:170px;
-	height			:500px;
+	height			:340px;
 	background		:#ffffff;
-	margin:5px;
+	margin			:5px;
 	text-decoration	:none;
 }
 
@@ -213,13 +213,13 @@
 .pick_comm{
 	position	:absolute;
 	top			:220px;
-	left		:10px;
-	width		:180px;
+	left		:5px;
+	width		:160px;
 	height		:100px;
 	background	:#006090;
 	z-index		:2;
-	font-size	:18px;
-	line-height	:28px;	
+	font-size	:16px;
+	line-height	:22px;	
 	overflow	:hidden;
 	text-align	:left;
 	padding		:5px;
