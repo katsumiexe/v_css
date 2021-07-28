@@ -412,7 +412,7 @@
 .p_box_table{
 	background:#906000;
 	margin:10px auto;
-	width:650px;
+	width:620px;
 }
 
 .p_comm{
@@ -436,13 +436,13 @@
 
 .p_box_1{
 	position		:relative;
-	width			:520px;
-	height			:520px;
+	width			:510px;
+	height			:510px;
 }
 
 .p_box_2{
 	position		:relative;
-	width			:120px;
+	width			:110px;
 }
 
 .p_box_3{
@@ -454,8 +454,8 @@
 	position		:absolute;	
 	top				:10px;
 	left			:10px;
-	width			:500px;
-	height			:500px;
+	width			:490px;
+	height			:490px;
 }
 
 .p_box_2_img{
