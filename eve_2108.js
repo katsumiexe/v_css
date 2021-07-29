@@ -41,8 +41,6 @@ $(function(){
 
 		Base_y= (Width*0.55)*(-1)+ Tmp*1.3;
 
-console.log(Base_y)
-
 		S0=Math.floor(Tmp/5);
 		Tmp_b=$('#canvas2').offset().top-$('.up_link_out').offset().top;
 
