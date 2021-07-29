@@ -290,7 +290,7 @@
 	min-height		:250px;
 	margin			:5px;
 	text-decoration	:none;
-	background:#a0d0f0;
+	background		:#a0e0f0;
 }
 
 
@@ -301,7 +301,9 @@
 	background	:linear-gradient(135deg,#e0e8ff,#c0c8ff);
 	z-index		:2;
 	margin		:0 5px;
-	box-shadow:0 -5px 0 #e0e8ff;
+//	box-shadow		:0 -5px 0 #e0e8ff;
+	background		:#a0e0f0;
+
 }
 
 
@@ -380,7 +382,7 @@
 	bottom		:0px;
 	right		:5px;
 	font-size	:18px;
-	color		:#006090;
+	color		:#0000d0;
 	font-weight	:600;
 }
 	
