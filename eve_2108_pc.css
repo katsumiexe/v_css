@@ -401,6 +401,18 @@
 }
 
 
+.nts{
+	color		:#0060a0;
+	line-height	:25px;
+	font-size	:18px;
+	padding		:10px;
+	border-top	:2px solid #0060a0;
+	border-bottom:2px solid #0060a0;
+	display:inline-block;
+	width:450px;
+	margin:0 auto;
+}
+
 
 
 .bn_btm{
