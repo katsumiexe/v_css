@@ -202,7 +202,7 @@
 	display			:inline-block;
 	width			:170px;
 	flex-basis		:170px;
-	height			:320px;
+	height			:310px;
 	background		:#ffffff;
 	margin			:5px;
 	text-decoration	:none;
@@ -211,7 +211,7 @@
 .pick_in{
 	position	:absolute;
 	top			:160px;
-	left:5px;
+	left		:0;
 	width		:160px;
 	height		:65px;
 	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
@@ -239,8 +239,7 @@
 
 .name_pick{
 	position	:absolute;
-	height		:24px;
-	line-height	:24px;
+	height		:40px;
 	bottom		:0px;
 	right		:10px;
 	font-size	:20px;
