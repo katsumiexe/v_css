@@ -287,19 +287,43 @@
 	display			:inline-block;
 	width			:170px;
 	flex-basis		:170px;
-	min-height		:300px;
+	min-height		:250px;
 	margin			:5px;
 	text-decoration	:none;
 }
 
+
 .face_in{
-	position		:relative;
-	display			:inline-block;
-	width			:100%;
-	margin			:0;
-	text-decoration	:none;
-	background		:#d0f0ff;
+	position	:relative;
+	width		:160px;
+	height		:52px;
+	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
+	background	:#ffffff;
+	z-index		:2;
+	margin		:5px;
 }
+
+
+.face_img{
+	display		:inline-block;
+	position	:relative;
+	width		:160px;
+	height		:160px;
+	margin		:5px 5px 0 5px;
+	overflow	:hidden;
+}
+
+.face_img_in{
+	position	:absolute;
+	top			:-10px;
+	left		:-10px;
+	width		:180px;
+	max-width	:180px;
+	height		:180px;
+}
+
+
+
 
 
 .face_comm{
@@ -328,38 +352,8 @@
 	font-weight		:700;
 	border-bottom	:3px solid #008020;
 	padding			:5px;
-
-
 }
 
-
-.face_img{
-	display		:inline-block;
-	position	:relative;
-	width		:160px;
-	height		:160px;
-	margin		:5px 5px 0 5px;
-	overflow	:hidden;
-}
-
-.face_img_in{
-	position	:absolute;
-	top			:-10px;
-	left		:-10px;
-	width		:180px;
-	max-width	:180px;
-	height		:180px;
-}
-
-.face_in{
-	position	:relative;
-	width		:160px;
-	height		:52px;
-	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
-	background	:#ffffff;
-	z-index		:2;
-	margin		:5px;
-}
 
 
 
