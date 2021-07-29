@@ -290,7 +290,7 @@
 	min-height		:250px;
 	margin			:5px;
 	text-decoration	:none;
-	background:#d00000;
+	background:#0070a0;
 }
 
 
@@ -356,13 +356,10 @@
 	padding			:2px;
 }
 
-
-
-
 .face_st{
 	display			:inline-block;
 	position		:absolute;
-	top				:-5px;
+	top				:-15px;
 	left			:2px;
 	width			:70px;
 	height			:24px;
