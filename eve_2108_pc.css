@@ -327,8 +327,8 @@
 
 
 .face_comm{
-	display			:inline-block;
-	width		:160px;
+	display		:inline-block;
+	width		:150px;
 	height		:80px;
 	z-index		:2;
 	font-size	:16px;
