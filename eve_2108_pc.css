@@ -298,9 +298,10 @@
 	position	:relative;
 	width		:160px;
 	height		:70px;
-	background	:linear-gradient(135deg,#c0c8ff,#e0e8ff);
+	background	:linear-gradient(135deg,#e0e8ff,#c0c8ff);
 	z-index		:2;
 	margin		:0 5px;
+	box-shadow:0 -5px 0 #e0e8ff;
 }
 
 
