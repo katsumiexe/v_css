@@ -5,7 +5,7 @@ $(function(){
 	});
 
 	$('.p_img_pop').on('click',function(){
-		$('.pop').fadeIn(500);
+		$('.pop,.pop_in').fadeIn(500);
 	});
 
 	$('.p_icon').on('click',function(){
@@ -14,8 +14,8 @@ $(function(){
 		$('#p'+Tmp).show();
 	});
 
-	$('.pop_back').on('click',function(){
-		$('.pop').fadeOut(500);
+	$('.pop,.pop_back').on('click',function(){
+		$('.pop,.pop_in').fadeOut(500);
 	});
 
 
