@@ -671,3 +671,69 @@ a{
 	background		:linear-gradient(135deg,#fff8f0, #f8f0e8);
 	text-shadow		:1px 1px 0 #201000;
 }
+
+
+.box_5_out{
+	display		:flex;
+	width		:97vw;
+	padding		:0.5vw;
+	flex-wrap	:wrap;
+	margin		:0 auto;
+}
+
+.box_5{
+	display		:inline-block;
+	flex-basis	:31vw;
+	height		:42vw;
+	margin		:0.5vw;
+	position	:relative;
+	background	:#ffa160;
+	background	:linear-gradient(135deg,#e5fbff,#c5dbf4);
+}
+
+.box_5_img{
+	position	:absolute;
+	top			:1vw;
+	left		:1vw;
+	width		:29vw;
+	height		:29vw;
+}
+
+.box_5_top{
+	position	:absolute;
+	top			:30vw;
+	right		:1vw;
+	width		:16vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:3.2vw;
+	text-align	:right;
+	color		:#303030;
+}
+
+.box_5_status{
+	position	:absolute;
+	top			:28vw;
+	left		:1vw;
+	width		:13vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:3vw;
+	text-align	:center;
+	font-weight	:700;
+	color		:#fafafa;
+}
+
+.box_5_name{
+	position	:absolute;
+	top			:36vw;
+	left		:0vw;
+	width		:30vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:4vw;
+	text-align	:center;
+	font-weight	:600;
+	color		:#202020;
+}
+
