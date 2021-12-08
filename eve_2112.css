@@ -296,7 +296,7 @@ a{
 	height		:27vw;
 	text-align	:center;
 	margin		:1vw;
-	background	:#e0e0e0;
+	background	:#c09030;
 }
 
 .flex_p_w{
@@ -331,6 +331,23 @@ a{
 
 .w2{
 	top			:7.5vw;
+}
+
+.flex_m_w{
+	display		:inline-block;
+	position	:absolute;
+	top			:21vw;
+	left		:1vw;
+	width		:45vw;
+	height		:6vw;
+	margin		:auto;
+	background	:#806000;
+	color		:#fafafa;
+	font-size	:4vw;
+	line-height	:6vw;
+	text-align	:left;
+	overflow	:hidden;
+	padding-left:2vw;
 }
 
 .flex_m_w{
