@@ -17,7 +17,7 @@ $(function(){
     $('#connect').on('click',function(){
 		console.log(Ope_Id);
 
-		$.post("post_eve_2105.php",
+		$.post("post_eve_2112.php",
 		{
 			'user_id':User_Id,
 			'ope_id':Ope_Id
