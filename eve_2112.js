@@ -15,14 +15,16 @@ $(function(){
 	});
 
     $('#connect').on('click',function(){
-		console.log(Ope_Id);
 
-		$.post("post_eve_2112.php",
-		{
+		$.post({
+			url:"post_eve_2112.php",
+			data:{
 			'user_id':User_Id,
 			'ope_id':Ope_Id
-		},
-		function(data){
+			},
+
+		}).done(function(data, textStatus, jqXHR){
+			console.log(data);
 			if(data == 2){
 				$('.bottun_box').hide();
 				$('.call_box').fadeIn(500);
@@ -30,8 +32,13 @@ $(function(){
 			}else{
 				$('.call_ng').fadeIn(500);
 			}		
+		}).fail(function(jqXHR, textStatus, errorThrown){
+			console.log(textStatus);
+			console.log(errorThrown);
 		});
 	});
+
+
  
     $('#page_n').on('click',function(){
 		if(PgMax+Pg>0){
