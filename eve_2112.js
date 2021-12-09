@@ -15,8 +15,8 @@ $(function(){
 	});
 
     $('#connect').on('click',function(){
-
-		$.post({
+		$.ajax({
+			type:"post",
 			url:"post_eve_2112.php",
 			data:{
 			'user_id':User_Id,
