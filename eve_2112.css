@@ -618,14 +618,12 @@ a{
 	display		:block;
 	width		:80vw;
 	margin		:1vw auto 2vw auto;
-	background	:#e0e0ff;
-	padding		:0.5vw;
+	background	:linear-gradient(#c0c0d0,a0a0b0);
 	height		:8vw;
-	line-height	:8vw;
 	text-align	:center;
 	font-size	:4.5vw;
 	font-weight	:600;
-	color		:#202020;
+	color		:#fafafa;
 }
 
 .prof_box_img_top{
