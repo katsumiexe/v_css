@@ -435,7 +435,7 @@ a{
 	text-align	:left;
 	font-size	:3.2vw;
 	line-height	:4vw;
-	background	:linear-gradient(#f0e0b0,#d0c090);
+	background	:linear-gradient(135deg,#f8f0d0,#e8e0c0);
 	border-top	:2px solid #e0e0a0;
 	border-bottom:2px solid #e0e0a0;
 }
