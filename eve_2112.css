@@ -414,12 +414,13 @@ a{
 	font-weight	:600;
 	font-size	:3.5vw;
 }
+
 .box_a_1{
 	width		:90vw;
 	padding		:2vw;
 	background	:#fafafa;
-//	border		:1vw solid #0000d0;
-	margin		:0 auto 3vw auto;
+	border		:1vw solid #c8b880;
+	margin		:3vw auto;
 	text-align	:left;
 	font-size	:3.5vw;
 }
