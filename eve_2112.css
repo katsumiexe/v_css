@@ -416,13 +416,25 @@ a{
 }
 
 .box_a_1{
-	width		:90vw;
-	padding		:2vw;
+	width		:94vw;
+	padding		:1.5vw;
 	background	:#fafafa;
 	border		:1vw solid #c8b880;
-	margin		:3vw auto;
+	margin		:1vw auto;
 	text-align	:left;
 	font-size	:3.5vw;
+	line-height	:5vw;
+}
+
+
+.box_a_2{
+	width		:90vw;
+	padding		:1vw;
+	background	:#fafafa;
+	margin		:1vw auto 3vw auto;;
+	text-align	:left;
+	font-size	:3.2vw;
+	line-height	:4.5vw;
 }
 
 
