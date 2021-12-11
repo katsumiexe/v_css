@@ -434,7 +434,10 @@ a{
 	margin		:1vw auto 3vw auto;;
 	text-align	:left;
 	font-size	:3.2vw;
-	line-height	:4.5vw;
+	line-height	:4vw;
+	background	:linear-gradient(#f0e0b0,d0c090);
+	border-top	:1px solid #e0e0a0;
+	border-bottom:1px solid #e0e0a0;
 }
 
 
