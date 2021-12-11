@@ -58,10 +58,12 @@ a{
 	background		:#fafafa;
 	font-weight		:600;
 	color			:#00004d;
-	padding			:2vw;
+	padding			:0 2vw;
 	font-size		:4vw;
 	text-align		:left;
-	border-left		:5vw solid #ff6060;
+	height			:7vw;
+	line-height		:7vw;
+	border-left		:4vw solid #a09860;
 }
 
 .box_0{
@@ -420,7 +422,7 @@ a{
 	padding		:1.5vw;
 	background	:#fafafa;
 	border		:1vw solid #c8b880;
-	margin		:1vw auto;
+	margin		:2vw auto;
 	text-align	:left;
 	font-size	:3.5vw;
 	line-height	:5vw;
