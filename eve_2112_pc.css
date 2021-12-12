@@ -716,16 +716,14 @@ a{
 .box_5_top{
 	position	:absolute;
 	display		:inline-block;
-	padding		:5px 10px;
-	top			:165px;
-	right		:10px;
-	line-height	:24px;
+	padding		:3px 5px;
+	top			:160px;
+	right		:5px;
 	font-size	:20px;
 	text-align	:right;
 	border-radius:5px;
-	color		:#303030;
+	color		:#fafafa;
 	background:rgba(205,155,255,1);
-	border-bottom:2px solid #9060a0;
 }
 
 
