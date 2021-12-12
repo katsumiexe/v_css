@@ -66,7 +66,7 @@ a{
 
 .p1_h3{
 	display			:block;
-	width			:1200px;
+	width			:1160px;
 	background		:#f8e8a0;
 	font-weight		:600;
 	color			:#00004d;
@@ -255,7 +255,7 @@ a{
 	display		:flex;
 	width		:1190px;
 	margin		:10px auto 5px auto;
-	background	:#fafafa;
+	background	:#faf0ea;
 	flex-wrap	:wrap;
 	justify-content: flex-start;
 	padding		:5px;
