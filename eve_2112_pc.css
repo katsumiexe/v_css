@@ -723,7 +723,7 @@ a{
 	text-align	:right;
 	border-radius:5px;
 	color		:#fafafa;
-	background:rgba(205,155,255,1);
+	background:linear-gradient(135deg,#c080a0,#a06080);
 }
 
 
