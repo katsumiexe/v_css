@@ -290,8 +290,8 @@ a{
 
 .flex_s{
 	position		:absolute;
-	top				:150px;
-	right			:10px;
+	top				:10px;
+	left			:10px;
 	display			:inline-block;
 	width			:80px;
 	height			:35px;
@@ -715,28 +715,16 @@ a{
 
 .box_5_top{
 	position	:absolute;
-	top			:200px;
+	top			:150px;
 	right		:10px;
 	width		:120px;
-	height		:40px;
-	line-height	:40px;
+	height		:24px;
+	line-height	:24px;
 	font-size	:20px;
 	text-align	:right;
 	color		:#303030;
 }
 
-.box_5_status{
-	position	:absolute;
-	top			:28vw;
-	left		:1vw;
-	width		:13vw;
-	height		:5vw;
-	line-height	:5vw;
-	font-size	:3vw;
-	text-align	:center;
-	font-weight	:700;
-	color		:#fafafa;
-}
 
 .box_5_name{
 	position	:absolute;
