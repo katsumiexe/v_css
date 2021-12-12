@@ -715,14 +715,16 @@ a{
 
 .box_5_top{
 	position	:absolute;
-	top			:150px;
+	top			:165px;
 	right		:10px;
-	width		:120px;
+	width		:100px;
 	height		:24px;
 	line-height	:24px;
 	font-size	:20px;
 	text-align	:right;
 	color		:#303030;
+	background:rgba(255,255,255,0.4);
+	border-bottom:2px solid #9060a0;
 }
 
 
