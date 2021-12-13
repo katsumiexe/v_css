@@ -752,4 +752,9 @@ a{
 	color		:#202020;
 	overflow	:hidden;
 }
+.sent{
+display:inline-block;
+width:100%;
+margin:0.5vw auto;
 
+}
