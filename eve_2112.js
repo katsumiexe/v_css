@@ -41,7 +41,7 @@ $(function(){
 
  
     $('#pop,#alert').on('click',function(){
-		if($('#alert').css('display') ==='none'){
+		if($('#alert').css('display')=="none"){
 			$('#alert').slideDown(200);
 
 		}else{
