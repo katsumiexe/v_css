@@ -45,7 +45,7 @@ $(function(){
 			$('#alert').slideDown(200);
 
 		}else{
-			$('#alert').slideDUp(200);
+			$('#alert').slideUp(200);
 		}
 	});
 
