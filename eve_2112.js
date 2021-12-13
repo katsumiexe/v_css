@@ -44,7 +44,7 @@ $(function(){
 		if($('#alert').css('display') ==='none'){
 			$('#alert').slideDown(200);
 
-		]else{				
+		}else{
 			$('#alert').slideDUp(200);
 		}
 	});
