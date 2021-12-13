@@ -40,6 +40,16 @@ $(function(){
 
 
  
+    $('#pop,#alert').on('click',function(){
+		if($('#alert').css('display') ==='none'){
+			$('#alert').slideDown(200);
+
+		]else{				
+			$('#alert').slideDUp(200);
+		}
+	});
+
+
     $('#page_n').on('click',function(){
 		if(PgMax+Pg>0){
 			Pg--;
