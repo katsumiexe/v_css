@@ -46,7 +46,7 @@ function horo($n){
 	}elseif($day<1222){
 		$h=8;
 	}
-	return $ks[$h];
+	return $h;
 }
 
 ?>
