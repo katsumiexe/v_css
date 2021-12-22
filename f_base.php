@@ -7,17 +7,17 @@ function kigaku($n){
 }
 
 function suuhi($n){
-	$tmp=substr_count($n);
 
-	for($t=0;$t<$tmp;$t++){
+	for($t=0;$t<8;$t++){
 		$cnt+=substr($n,$t,1);
 	}
+	
 	if($cnt == 11 || $cnt == 22 || $cnt<10){
 		return $cnt;
 
 	}else{
 		$cnt2=substr($cnt,0,1)+substr($cnt,1,1);
-		return $cnt;
+		return $cnt2;
 	}
 }
 
