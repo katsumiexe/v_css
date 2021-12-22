@@ -7,7 +7,6 @@ function kigaku($n){
 }
 
 function suuhi($n){
-
 	for($t=0;$t<8;$t++){
 		$cnt+=substr($n,$t,1);
 	}
