@@ -17,7 +17,7 @@ function suuhi($n){
 
 	}else{
 		$cnt2=substr($cnt,0,1)+substr($cnt,1,1);
-		return $cnt2;
+		return $cnt;
 	}
 }
 
