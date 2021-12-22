@@ -6,6 +6,22 @@ function kigaku($n){
 	return $ks[$tmp2]."■".$tmp2."★";
 }
 
+function suuhi($n){
+	$tmp=substr_count($n);
+
+	for($t=0;$t<$tmp;$t++){
+		$cnt+=substr($n,$t,1);
+	}
+	if($cnt == 11 || $cnt == 22 || $cnt<10){
+		return $cnt;
+
+	}else{
+		$cnt2=substr($cnt,0,1)+substr($cnt,1,1);
+		return $cnt2;
+	}
+}
+
+
 function horo($n){
 	$ks=array("牡羊座","牡牛座","双子座","蟹座","獅子座","乙女座","天秤座","蠍座","射手座","山羊座","水瓶座","魚座");
 	$day=substr($n,4,4)+0;
