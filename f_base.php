@@ -20,7 +20,7 @@ function suuhi($n){
 		$cnt2=substr($cnt,0,1)+substr($cnt,1,1);
 		return $cnt2;
 	}
-*/
+*/	
 		$cnt2=substr($cnt,0,1)+substr($cnt,1,1);
 		return $cnt;
 
