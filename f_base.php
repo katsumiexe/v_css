@@ -18,7 +18,14 @@ function suuhi($n){
 
 	}else{
 		$cnt3=substr($cnt2,0,1)+substr($cnt2,1,1);
-		return $cnt3;
+
+		if($cnt3 <10){
+			return $cnt3;
+
+		}else{
+			$cnt4=substr($cnt3,0,1)+substr($cnt3,1,1);
+			return $cnt4;
+		}
 	}
 }
 
