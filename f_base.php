@@ -11,8 +11,10 @@ function suuhi($n){
 	$cnt=6;
 	for($t=0;$t<8;$t++){
 		$cnt+=substr($n,$t,1);
+echo $cnt;
+
 	}
-	
+/*	
 	if($cnt == 11 || $cnt == 22 || $cnt<10){
 		return $cnt;
 
@@ -20,6 +22,10 @@ function suuhi($n){
 		$cnt2=substr($cnt,0,1)+substr($cnt,1,1);
 		return $cnt2;
 	}
+*/
+		$cnt2=substr($cnt,0,1)+substr($cnt,1,1);
+		return $cnt2;
+
 }
 
 
