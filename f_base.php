@@ -10,7 +10,7 @@ function kigaku($n){
 function suuhi($n){
 	$cnt=6;
 	for($t=0;$t<8;$t++){
-		$cnt+=substr($t,$n,1);
+		$cnt+=substr($n,$t,1);
 	}
 /*	
 	if($cnt == 11 || $cnt == 22 || $cnt<10){
