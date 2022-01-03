@@ -29,11 +29,12 @@ $data7[18]["title"]="犬／Dog";
 $data7[18]["sub"]="友人、仲間、忠誠";
 $data7[18]["comm"]="自分の利益を考えた行動、嘘や隠し事はNGな年。誠実さを意識するのが開運のポイントです。";
 $data7[18]["log"]=
-"<span class=\"card_title\">≪全体運≫<span class=\"card_star\">★★★★☆</span>
+"<span class=\"card_title\">≪全体運≫<span class=\"card_star\">★★★★☆</span></span>
 <span class=\"card_log\">運気は安定傾向。自分から前に出るよりも誰かの流れに乗ったほうが上手くいく年です。今年は周りの人に助けられることが多くなります。困った時や行き詰まった時などは、友人の存在が大きな支えとなるでしょう。最近疎遠になっているという人は年始の挨拶がてら連絡を取ってみるとよさそう。</span>
-<span class=\"card_title\">≪恋愛運≫<span class=\"card_star\">★★★☆☆</span>
+<span class=\"card_title\">≪恋愛運≫<span class=\"card_star\">★★★☆☆</span></span>
 <span class=\"card_log\">信頼、安心が恋の進展のキーワードです。言い換えれば、新しい恋愛は信頼できる人とでないとなかなか進みません。今年は友人が恋の味方として大活躍する年。悩みがある時は相談してみましょう。恋人募集中の人は友人の紹介で恋が始まる可能性があります。</span>
-<span class=\"card_title\">≪仕事運≫<span class=\"card_star\">★★★☆☆</span><span class=\"card_log\">我を通すよりも会社や上司に忠実であるほうが上手くいきます。自分に求められていることは何かを考えて動きましょうまた、今年は同僚に助けられることが増えそう。普段から良い関係を築いておきましょう。</span>";
+<span class=\"card_title\">≪仕事運≫<span class=\"card_star\">★★★☆☆</span></span>
+<span class=\"card_log\">我を通すよりも会社や上司に忠実であるほうが上手くいきます。自分に求められていることは何かを考えて動きましょうまた、今年は同僚に助けられることが増えそう。普段から良い関係を築いておきましょう。</span>";
 
 $data7[21]["title"]="山／Mountain";
 $data7[21]["sub"]="障害、距離、困難、大きな挑戦";
