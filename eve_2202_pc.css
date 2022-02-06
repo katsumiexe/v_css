@@ -46,16 +46,16 @@ input, textarea {
 	display			:block;
 	margin			:10px auto;
 	height			:calc( 100vh - 20vw - 150px);
-	width			:94%;
+	width			:600px;
 	background		:#ffffff;
 	border-radius	:20px;
 }
 
 .main_1{
 	height			:100px;
-	width			:88%;
+	width			:90%;
 	background		:linear-gradient(135deg,#fafaff,#f0f0ff);
-	border			:10px solid #8AC4EE;
+	border			:5px solid #8AC4EE;
 	border-radius	:15px 15px 0 0;
 	padding			:0;
 	margin			:10px auto;
@@ -65,8 +65,8 @@ input, textarea {
 .main_1_in{
 	height			:100px;
 	width			:96%;
-	font-size		:24px;
-	line-height		:34px;
+	font-size		:20px;
+	line-height		:28px;
 	color			:#7ab4fe;
 	text-align		:left;
 	margin			:0;
@@ -89,15 +89,15 @@ input, textarea {
 .main_1_count{
 	position	:absolute;
 	bottom		:5px;
-	right		:20px;	
-	font-size	:16px;
+	right		:10px;	
+	font-size	:32px;
 	font-weight	:600;
 	color		:#fafafa;
-	height		:24px;
-	line-height	:24px;
+	height		:32px;
+	line-height	:32px;
 	text-align	:center;
 	border-radius:10px;
-	width		:100px;
+	width		:80px;
 	background	:#8AC4Ff;
 }
 
