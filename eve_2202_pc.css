@@ -78,12 +78,12 @@ input, textarea {
 	position	:absolute;
 	bottom		:0vw;
 	left		:10px;	
-	font-size	:16px;
+	font-size	:18px;
 	font-weight	:600;
 	color		:#8AC4ff;
 	height		:24px;
 	line-height	:24px;
-	padding-left:10px;
+	padding-left:15px;
 }
 
 .main_1_count{
@@ -107,10 +107,10 @@ input, textarea {
 	left		:0;	
 	top			:0;	
 	margin		:auto;
-	width		:30px;
-	height		:30px;
-	border-top	:1vw solid #8AC4ff;
-	border-left	:1vw solid #8AC4Ff;
+	width		:10px;
+	height		:10px;
+	border-top	:5px solid #8AC4ff;
+	border-left	:5px solid #8AC4Ff;
 	transform:rotate(-45deg);
 }
 
