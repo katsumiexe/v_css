@@ -152,6 +152,7 @@ input, textarea {
 	text-align		:left;
 	font-size		:20px;
 	color			:#6aa4ce;
+	overflow		:hidden;
 }
 
 .main_al{
