@@ -15,14 +15,16 @@ input, textarea {
 
 .main_section{
 	width			:100vw;
-	MAX-width		:1000px;
 	height			:100vh;
 	min-height		:100vh;
 	background		:#F68CA2;
 	font-size		:0;
 	text-align		:center;
 	z-index			:-1;
+	margin			:auto;
+	width			:100vw;
 }
+
 
 .top_img{
 	width			:1000px;
