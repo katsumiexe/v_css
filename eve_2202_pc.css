@@ -14,9 +14,6 @@ input, textarea {
 }
 
 .main_section{
-	position		:fixed;
-	top				:50px;
-	left			:0;
 	width			:100vw;
 	MAX-width		:1000px;
 	height			:100vh;
