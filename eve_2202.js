@@ -1,6 +1,7 @@
 var RANK=1;
 var Foot=Array(0,1);
 $(function(){ 
+console.log("▲");
 	$('.main_2').on('click','.main_2_1',function(){
 		RANK++;
 		Tmp=$(this).attr('id').replace('l','');
