@@ -23,7 +23,9 @@ input, textarea {
 
 .main_section{
 	position		:absolute;
-	width			:100vw;
+	top				:0;
+	left			:0;
+	right			:0;
 	height			:100vh;
 	background		:#F68CA2;
 	font-size		:0;
