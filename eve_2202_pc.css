@@ -30,7 +30,7 @@ input, textarea {
 	background		:#Ffe0f0;
 	font-size		:0;
 	text-align		:center;
-	z-index			:-2;
+	z-index			:0;
 	margin			:auto;
 	width			:100vw;
 }
