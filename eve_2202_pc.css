@@ -201,7 +201,7 @@ input, textarea {
 	bottom			:0;
 	margin			:auto;
 	width			:400px;
-	height			:300px;
+	height			:260px;
 	background		:#fffff0;
 	border-radius	:10px;	
 	border			:10px solid #F68CA2;
@@ -237,7 +237,7 @@ input, textarea {
 
 .ar_img{
 	position	:absolute;
-	top			:10px;
+	top			:50px;
 	left		:10px;	
 	width		:150px;
 	height		:150px;
@@ -254,9 +254,9 @@ input, textarea {
 
 .ar_btn{
 	position	:absolute;
-	top			:160px;
+	top			:210px;
 	left		:10px;	
-	width		:200px;
+	width		:150px;
 	height		:40px;
 	line-height	:40px;
 	font-size	:28px;
@@ -271,12 +271,12 @@ input, textarea {
 .ar_name{
 	position	:absolute;
 	top			:40px;
-	left		:150px;	
-	width		:200px;
-	height		:40px;
+	left		:170px;	
+	width		:220px;
+	height		:36px;
 	line-height	:40px;
 	border-bottom:5px solid #F68CA2;
-	padding-left:10px;
+	padding-left:5px;
 	font-size	:24px;
 	text-align	:left;
 	font-weight	:600;
@@ -286,12 +286,12 @@ input, textarea {
 .ar_box{
 	position	:absolute;
 	top			:90px;
-	left		:140px;	
-	width		:160px;
+	left		:170px;	
+	width		:205px;
 	height		:140px;
 	background	:#308050;
-	font-size	:18px;
-	line-height	:32px;
+	font-size	:20px;
+	line-height	:30px;
 	overflow	:hidden;
 	padding		:10px;
 	text-align	:left;
