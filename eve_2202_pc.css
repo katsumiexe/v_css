@@ -40,7 +40,7 @@ input, textarea {
 	left			:0;
 	right			:0;
 	height			:100vh;
-	background		:#F68CA2;
+	background		:rgba(255,100,160,0.5);
 	font-size		:0;
 	text-align		:center;
 	z-index			:1;
@@ -58,7 +58,7 @@ input, textarea {
 .main_0{
 	display			:block;
 	margin			:10px auto;
-	height			:calc( 100vh - 20vw - 10px);
+	height			:calc( 100vh - 150px);
 	width			:500px;
 	background		:#ffffff;
 	border-radius	:20px;
