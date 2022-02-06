@@ -40,7 +40,7 @@ input, textarea {
 	left			:0;
 	right			:0;
 	height			:100vh;
-	background		:rgba(255,100,160,0.5);
+	background		:rgba(255,100,160,0.3);
 	font-size		:0;
 	text-align		:center;
 	z-index			:1;
