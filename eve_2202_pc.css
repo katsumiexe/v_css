@@ -27,7 +27,7 @@ input, textarea {
 	left			:0;
 	right			:0;
 	height			:100vh;
-	background		:#F68CA2;
+	background		:#Ffe0f0;
 	font-size		:0;
 	text-align		:center;
 	z-index			:-2;
@@ -40,7 +40,7 @@ input, textarea {
 	left			:0;
 	right			:0;
 	height			:100vh;
-	background		:#Ff7090;
+	background		:#F68CA2;
 	font-size		:0;
 	text-align		:center;
 	z-index			:-1;
