@@ -23,7 +23,7 @@ input, textarea {
 
 .main_section{
 	position		:absolute;
-	top				:0;
+	top				:80px;
 	left			:0;
 	right			:0;
 	height			:100vh;
