@@ -17,6 +17,9 @@ input, textarea {
 	min-height		:100vh;
 
 }
+.container-wrap{
+	min-height		:80px;
+}
 
 .main_section{
 	position		:absolute;
