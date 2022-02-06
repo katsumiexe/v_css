@@ -30,9 +30,22 @@ input, textarea {
 	background		:#F68CA2;
 	font-size		:0;
 	text-align		:center;
-	z-index			:-1;
+	z-index			:-2;
 	margin			:auto;
 	width			:100vw;
+}
+.main_1000{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	height			:100vh;
+	background		:#Ff7090;
+	font-size		:0;
+	text-align		:center;
+	z-index			:-1;
+	margin			:auto;
+	width			:1000px;
 }
 
 
