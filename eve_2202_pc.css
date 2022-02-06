@@ -52,12 +52,12 @@ input, textarea {
 }
 
 .main_1{
-	height			:100px;
-	width			:90%;
+	height			:90px;
+	width			:70%;
 	background		:linear-gradient(135deg,#fafaff,#f0f0ff);
 	border			:5px solid #8AC4EE;
 	border-radius	:15px 15px 0 0;
-	padding			:0;
+	padding			:10px;
 	margin			:10px auto;
 	position		:relative;
 }
@@ -93,8 +93,8 @@ input, textarea {
 	font-size	:32px;
 	font-weight	:600;
 	color		:#fafafa;
-	height		:32px;
-	line-height	:32px;
+	height		:40px;
+	line-height	:40px;
 	text-align	:center;
 	border-radius:10px;
 	width		:80px;
@@ -118,7 +118,7 @@ input, textarea {
 .main_2{
 	display			:block;
 	flex-wrap		:wrap;
-	width			:90%;
+	width			:70%;
 	background		:linear-gradient(135deg,#fafaff,#f0f0ff);
 	background		:linear-gradient(135deg,#fafae0,#ffffe8);
 	border			:5px solid #8AC4EE;
@@ -157,14 +157,14 @@ input, textarea {
 .main_al_in{
 	position		:absolute;
 	top				:0;
-	left			:10px;
+	left			:5px;
 	bottom			:0;
 	margin			:auto;
-	border-top		:5px solid #8AC4EE;
-	border-right	:5px solid #8AC4EE;
+	border-top		:4px solid #8AC4EE;
+	border-right	:4px solid #8AC4EE;
 	transform		:rotate(45deg);
-	height			:25px;
-	width			:25px;
+	height			:10px;
+	width			:10px;
 }
 
 .set_back{
