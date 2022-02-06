@@ -58,7 +58,7 @@ input, textarea {
 .main_0{
 	display			:block;
 	margin			:10px auto;
-	height			:calc( 100vh - 150px);
+	height			:calc( 100vh - 280px);
 	width			:500px;
 	background		:#ffffff;
 	border-radius	:20px;
