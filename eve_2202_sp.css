@@ -36,9 +36,11 @@ input, textarea {
 	overflow-y		:scroll;
 }
 
+
 .top_img{
 	width			:100vw;
 	height			:15vw;
+	box-shadow:2px 0 2px rgba(60,60,60,0.5);
 }
 
 
