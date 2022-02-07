@@ -23,6 +23,7 @@ input, textarea {
 	font-size		:0;
 	text-align		:center;
 	min-height		:100vh;
+	overflow-y		:scroll;
 	z-index			:-1;
 }
 
@@ -33,7 +34,6 @@ input, textarea {
 	min-height		:100vh;
 	font-size		:0;
 	text-align		:center;
-	overflow-y		:scroll;
 }
 
 
@@ -46,8 +46,7 @@ input, textarea {
 
 .main_0{
 	display			:block;
-	margin			:2vw auto;
-	height			:calc( 100vh - 20vw - 150px);
+	margin			:18vw auto 2vw auto;
 	width			:94vw;
 	background		:#ffffff;
 	border-radius	:5vw;
@@ -136,7 +135,7 @@ input, textarea {
 	width			:80vw;
 	border-bottom	:0.5vw solid #8AC4EE;
 	padding-left	:2vw;
-	height			:8vw;
+	height			:9vw;
 	line-height		:9vw;
 	margin			:0;
 	text-align		:left;
