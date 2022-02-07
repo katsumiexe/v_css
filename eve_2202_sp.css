@@ -24,6 +24,13 @@ input, textarea {
 	text-align		:center;
 	min-height		:100vh;
 	z-index			:-1;
+	overflow-y:scroll;
+}
+.main_out{
+	width			:100vw;
+	min-height		:100vh;
+	font-size		:0;
+	text-align		:center;
 }
 
 .top_img{
