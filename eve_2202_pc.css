@@ -193,6 +193,7 @@ input, textarea {
 
 
 .ar_line{
+	display		:none;
 	width		:360px;
 	height		:3px;
 	background	:linear-gradient(90deg,#ff9cb2,#e67C92 50%,#ff9cb2 100%);
@@ -200,11 +201,27 @@ input, textarea {
 }
 
 .ar_ope{
-	position		:relative;
+	position		:absolute;
 	width			:400px;
 	height			:220px;
 	margin			:5px auto;
+	top:5px;
 }
+
+#ope_1{
+	left:5px;
+}
+
+#ope_2{
+	left:410px;
+
+}
+
+#ope_3{
+	left:825px;
+
+}
+
 
 .ar_pop{
 	display:none;
@@ -251,7 +268,7 @@ input, textarea {
 
 .ar_img{
 	position	:absolute;
-	top			:50px;
+	top			:5px;
 	left		:10px;	
 	width		:150px;
 	height		:150px;
@@ -268,7 +285,7 @@ input, textarea {
 
 .ar_btn{
 	position	:absolute;
-	top			:210px;
+	top			:160px;
 	left		:10px;	
 	width		:150px;
 	height		:40px;
@@ -284,7 +301,7 @@ input, textarea {
 
 .ar_name{
 	position	:absolute;
-	top			:40px;
+	top			:5px;
 	left		:170px;	
 	width		:220px;
 	height		:36px;
@@ -299,13 +316,13 @@ input, textarea {
 
 .ar_box{
 	position	:absolute;
-	top			:90px;
+	top			:55px;
 	left		:170px;	
 	width		:205px;
-	height		:140px;
+	height		:125px;
 	background	:#308050;
-	font-size	:20px;
-	line-height	:30px;
+	font-size	:18px;
+	line-height	:24px;
 	overflow	:hidden;
 	padding		:10px;
 	text-align	:left;
