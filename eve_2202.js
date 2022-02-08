@@ -11,6 +11,7 @@ $(function(){
 				data:{
 					'base':Tmp,
 					'idcode':IdCode,
+					'sp':'sp',
 				},
 				dataType: 'json'
 
@@ -41,6 +42,7 @@ $(function(){
 				data:{
 					'base':Tmp,
 					'idcode':IdCode,
+					'sp':'sp',
 				},
 
 			}).done(function(data, textStatus, jqXHR){
@@ -68,6 +70,7 @@ $(function(){
 			data:{
 				'base':Tmp,
 				'idcode':IdCode,
+				'sp':'sp',
 			},
 			dataType: 'json'
 
