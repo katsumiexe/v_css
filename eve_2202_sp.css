@@ -179,7 +179,7 @@ input, textarea {
 }
 
 .ar_pop{
-	display:none;
+	display			:none;
 	position		:fixed;
 	top				:0;
 	left			:0;
@@ -192,6 +192,12 @@ input, textarea {
 	border-radius	:2vw;	
 	border			:2vw solid #F68CA2;
 	text-align		:center;
+}
+
+.ar_pop{
+	width			:85vw;
+	height			:40vw;
+	margin			:0.5vw auto;
 }
 
 .ar_close{
