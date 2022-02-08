@@ -10,6 +10,7 @@ $(function(){
 				type: 'post',
 				data:{
 					'base':Tmp,
+					'idcode':IdCode,
 				},
 				dataType: 'json'
 
@@ -39,6 +40,7 @@ $(function(){
 				type: 'post',
 				data:{
 					'base':Tmp,
+					'idcode':IdCode,
 				},
 
 			}).done(function(data, textStatus, jqXHR){
@@ -65,6 +67,7 @@ $(function(){
 			type: 'post',
 			data:{
 				'base':Tmp,
+				'idcode':IdCode,
 			},
 			dataType: 'json'
 

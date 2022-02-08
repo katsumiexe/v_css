@@ -28,7 +28,7 @@ input, textarea {
 	height			:100vh;
 	width			:1000px;
 
-	background		:rgba(255,200,240,0.4);
+	background		:rgba(255,220,240,0.6);
 	font-size		:0;
 	text-align		:center;
 	z-index			:1;
