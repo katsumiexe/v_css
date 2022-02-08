@@ -223,19 +223,19 @@ input, textarea {
 
 .ar_img{
 	position	:absolute;
-	top			:10vw;
-	left		:2vw;	
-	width		:30vw;
-	height		:30vw;
+	top			:0vw;
+	left		:0vw;	
+	width		:26vw;
+	height		:26vw;
 	background	:#c8b880;
 }
 
 .ar_img_in{
 	position	:absolute;
-	top			:1vw;
-	left		:1vw;	
-	width		:28vw;
-	height		:28vw;
+	top			:0.5vw;
+	left		:0.5vw;	
+	width		:25vw;
+	height		:25vw;
 }
 
 .ar_btn{
@@ -256,13 +256,13 @@ input, textarea {
 
 .ar_name{
 	position	:absolute;
-	top			:8vw;
-	left		:34vw;	
-	width		:45vw;
-	height		:10vw;
-	line-height	:10vw;
+	top			:0vw;
+	left		:30vw;	
+	width		:49vw;
+	height		:8vw;
+	line-height	:8vw;
 	border-bottom:1vw solid #F68CA2;
-	padding-left:2vw;
+	padding-left:1vw;
 	font-size	:4vw;
 	text-align	:left;
 	font-weight	:600;
@@ -271,13 +271,13 @@ input, textarea {
 
 .ar_box{
 	position	:absolute;
-	top			:20vw;
-	left		:34vw;	
-	width		:45vw;
+	top			:10vw;
+	left		:30vw;	
+	width		:49vw;
 	height		:20vw;
 	background	:#308050;
-	font-size	:3.8vw;
-	line-height	:5vw;
+	font-size	:3.6vw;
+	line-height	:4.8vw;
 	overflow	:hidden;
 	padding		:1vw;
 	text-align	:left;
