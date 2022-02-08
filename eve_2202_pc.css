@@ -29,12 +29,11 @@ input, textarea {
 	height			:100vh;
 	width			:1000px;
 
-	background		:#Ffe0f0;
+	background		:rgba(255,200,240,0.4);
 	font-size		:0;
 	text-align		:center;
 	z-index			:1;
 	margin			:auto;
-	width			:100vw;
 }
 .main_back{
 	position		:fixed;
@@ -192,6 +191,21 @@ input, textarea {
 	margin		:auto;
 	z-index		:0;
 	background	:rgba(30,20,20,0.6);
+}
+
+
+.ar_line{
+	width		:360px;
+	height		:3px;
+	background	:linear-gradient(90deg,#ff9cb2,#e67C92 50%,#ff9cb2 100%);
+	margin		:20px auto;
+}
+
+.ar_ope{
+	position		:relative;
+	width			:400px;
+	height			:220px;
+	margin			:5px auto;
 }
 
 .ar_pop{
