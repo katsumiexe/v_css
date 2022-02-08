@@ -20,15 +20,8 @@ input, textarea {
 	font-size		:0;
 	text-align		:center;
 	box-shadow:0 -100px 0 #F68CA2;
+	padding-top:17vw;
 }
-
-.main_out{
-	width			:100vw;
-	min-height		:100vh;
-	font-size		:0;
-	text-align		:center;
-}
-
 
 .top_img{
 	position		:fixed;
