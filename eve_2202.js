@@ -21,9 +21,9 @@ console.log("▲");
 				console.log(data);
 
 				console.log("◇");
-				HGT=data.cnt * 8.2+5;
+				HGT=data.cnt * 9+5;
 				$('.main_1_in').fadeIn().text(data.main);
-				$('.main_2').html(data.sub).slideDown(500);
+				$('.main_2').html(data.sub).css('height', HGT +"vw").slideDown(500);
 				for(var N=0; N<data.cnt;N++){
 					$('.main_2_1').eq(N).delay(200).fadeIn(300 * N);
 				}
@@ -75,7 +75,7 @@ console.log("▲");
 			RANK=data.rank;
 			HGT=data.cnt * 9+5;
 			$('.main_1_in').fadeIn().text(data.main);
-			$('.main_2').html(data.sub).slideDown(500);
+			$('.main_2').html(data.sub).css('height', HGT +"vw").slideDown(500);
 			for(var N=0; N<data.cnt;N++){
 				$('.main_2_1').eq(N).delay(200).fadeIn(300 * N);
 			}
