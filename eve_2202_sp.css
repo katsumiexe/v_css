@@ -174,7 +174,7 @@ input, textarea {
 	height		:200vh;
 	width		:200vw;
 	margin		:auto;
-	z-index		:0;
+	z-index		:1000;
 	background	:rgba(30,20,20,0.6);
 }
 
@@ -194,7 +194,7 @@ input, textarea {
 	text-align		:center;
 }
 
-.ar_pop{
+.ar_ope{
 	width			:85vw;
 	height			:40vw;
 	margin			:0.5vw auto;
