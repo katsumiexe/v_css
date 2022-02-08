@@ -19,8 +19,8 @@ input, textarea {
 	background		:#F68CA2;
 	font-size		:0;
 	text-align		:center;
-	box-shadow:0 -100px 0 #F68CA2;
-	padding-top:17vw;
+	box-shadow		:0 -100px 0 #F68CA2;
+	padding-top		:17vw;
 }
 
 .top_img{
@@ -36,7 +36,7 @@ input, textarea {
 
 .main_0{
 	display			:block;
-	margin			:18vw auto 2vw auto;
+	margin			:15vw auto 2vw auto;
 	width			:94vw;
 	background		:#ffffff;
 	border-radius	:5vw;
