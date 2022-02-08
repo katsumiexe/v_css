@@ -40,6 +40,7 @@ input, textarea {
 	left			:0;
 	right			:0;
 	width			:100vw;
+	height			:50vw;
 	font-size		:0;
 	text-align		:center;
 	z-index			:0;
@@ -231,7 +232,7 @@ input, textarea {
 	right			:0;
 	bottom			:0;
 	margin			:auto;
-	width			:810px;
+	width			:1210px;
 	height			:270px;
 	background		:#fffff0;
 	border-radius	:10px;	
