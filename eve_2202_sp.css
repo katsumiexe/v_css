@@ -191,7 +191,7 @@ input, textarea {
 	border-radius	:2vw;	
 	border			:2vw solid #F68CA2;
 	text-align		:center;
-	z-index			:1001;
+	z-index			:10000;
 }
 
 .ar_ope{
