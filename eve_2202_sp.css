@@ -169,7 +169,7 @@ input, textarea {
 .set_back{
 	display		:none;
 	position	:fixed;
-	top			:-30vh;
+	top			:-50vh;
 	left		:-50vw;
 	height		:200vh;
 	width		:200vw;
@@ -181,10 +181,9 @@ input, textarea {
 .ar_pop{
 	display			:none;
 	position		:fixed;
-	top				:0;
 	left			:0;
 	right			:0;
-	bottom			:0;
+	bottom			:80px;
 	margin			:auto;
 	width			:85vw;
 	height			:120vw;
