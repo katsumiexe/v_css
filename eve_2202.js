@@ -16,10 +16,6 @@ $(function(){
 				dataType: 'json'
 
 			}).done(function(data, textStatus, jqXHR){
-				console.log(RANK);
-				console.log(data);
-
-				console.log("◇");
 				HGT=data.cnt * 9+5;
 				$('.main_1_in').fadeIn().text(data.main);
 				$('.main_2').html(data.sub).css('height', HGT +"vw").slideDown(500);
@@ -46,8 +42,6 @@ $(function(){
 				},
 
 			}).done(function(data, textStatus, jqXHR){
-				console.log(RANK);
-				console.log(data);
 				$('#back1').fadeOut(1000);
 				$('.set_back').fadeIn(500);
 				$('.ar_pop').html(data).delay(1000).fadeIn(1000);
