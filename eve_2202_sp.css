@@ -186,7 +186,7 @@ input, textarea {
 	bottom			:80px;
 	margin			:auto;
 	width			:85vw;
-	height			:120vw;
+	height			:110vw;
 	background		:#fffff0;
 	border-radius	:2vw;	
 	border			:2vw solid #F68CA2;
@@ -196,9 +196,9 @@ input, textarea {
 
 .ar_ope{
 	position		:relative;
-	width			:80vw;
-	height			:27vw;
-	margin			:0.5vw auto;
+	width			:79vw;
+	height			:29vw;
+	margin			:1vw auto;
 }
 
 .ar_close{
