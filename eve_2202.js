@@ -3,7 +3,7 @@ $(function(){
 		RANK++;
 		Tmp=$(this).attr('id').replace('l','');
 
-		if(RANK <6){
+		if(RANK <5){
 			$('.main_1_in,.main_2,.main_2_1').hide()
 			$.ajax({	
 				url:'./post_eve_2202.php',
