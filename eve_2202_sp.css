@@ -14,20 +14,12 @@ input, textarea {
 }
 
 .main_section{
-	position		:fixed;
-	top				:50px;
-	left			:0;
 	width			:100vw;
-	height			:100vh;
+	min-height		:100vh;
 	background		:#F68CA2;
 	font-size		:0;
 	text-align		:center;
-	min-height		:100vh;
-	overflow-y		:scroll;
-	z-index			:-1;
 }
-
-
 
 .main_out{
 	width			:100vw;
