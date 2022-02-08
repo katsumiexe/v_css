@@ -24,7 +24,7 @@ $(function(){
 				for(var N=0; N<data.cnt;N++){
 					$('.main_2_1').eq(N).delay(150).fadeIn(300 * N);
 				}
-				$('.main_1_count').text(RANK + "/5");
+				$('.main_1_count').text(RANK + "/4");
 				Foot[RANK]=Tmp;
 
 				if(RANK >1){
@@ -76,7 +76,7 @@ $(function(){
 			for(var N=0; N<data.cnt;N++){
 				$('.main_2_1').eq(N).delay(200).fadeIn(300 * N);
 			}
-			$('.main_1_count').text(RANK + "/5");
+			$('.main_1_count').text(RANK + "/4");
 			Foot[RANK]=Tmp;
 			if(RANK <2){
 				$('#back1').fadeOut(1000);
