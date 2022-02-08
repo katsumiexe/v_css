@@ -22,7 +22,7 @@ $(function(){
 				$('.main_1_in').fadeIn().text(data.main);
 				$('.main_2').html(data.sub).css('height', HGT +"vw").slideDown(500);
 				for(var N=0; N<data.cnt;N++){
-					$('.main_2_1').eq(N).delay(200).fadeIn(300 * N);
+					$('.main_2_1').eq(N).delay(150).fadeIn(300 * N);
 				}
 				$('.main_1_count').text(RANK + "/5");
 				Foot[RANK]=Tmp;
