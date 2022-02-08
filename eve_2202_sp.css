@@ -197,8 +197,8 @@ input, textarea {
 
 .ar_ope{
 	position		:relative;
-	width			:85vw;
-	height			:40vw;
+	width			:80vw;
+	height			:32vw;
 	margin			:0.5vw auto;
 }
 
@@ -250,7 +250,7 @@ input, textarea {
 	width		:76vw;
 	height		:2px;
 	background	:linear-gradient(90deg,#ff9cb2,#e67C92 50%,#ff9cb2 100%);
-	margin		:0 auto;
+	margin		:2vw auto;
 
 }
 
