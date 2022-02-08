@@ -54,6 +54,7 @@ input, textarea {
 	width			:94vw;
 	background		:#ffffff;
 	border-radius	:5vw;
+	
 }
 
 .main_1{
@@ -129,7 +130,7 @@ input, textarea {
 	background		:linear-gradient(135deg,#fafae0,#ffffe8);
 	border			:1.5vw solid #8AC4EE;
 	padding			:1vw 2vw;
-	margin			:1vw auto;
+	margin			:2vw auto;
 	text-align		:center;
 }
 
