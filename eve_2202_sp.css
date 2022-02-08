@@ -130,7 +130,7 @@ input, textarea {
 	background		:linear-gradient(135deg,#fafae0,#ffffe8);
 	border			:1.5vw solid #8AC4EE;
 	padding			:1vw 2vw;
-	margin			:2vw auto;
+	margin			:2vw auto 5vw auto;
 	text-align		:center;
 }
 
