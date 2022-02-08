@@ -205,20 +205,20 @@ input, textarea {
 	width			:400px;
 	height			:220px;
 	margin			:5px auto;
-	top:5px;
+	top				:5px;
 }
 
 #ope_1{
-	left:5px;
+	left:0px;
 }
 
 #ope_2{
-	left:410px;
+	left:400px;
 
 }
 
 #ope_3{
-	left:825px;
+	left:800px;
 
 }
 
@@ -231,7 +231,7 @@ input, textarea {
 	right			:0;
 	bottom			:0;
 	margin			:auto;
-	width			:400px;
+	width			:810px;
 	height			:260px;
 	background		:#fffff0;
 	border-radius	:10px;	
