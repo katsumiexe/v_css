@@ -36,11 +36,11 @@ input, textarea {
 
 .main_0{
 	display			:block;
-	margin			:15vw auto 2vw auto;
+	margin			:2vw auto;
 	width			:94vw;
 	background		:#ffffff;
 	border-radius	:5vw;
-	
+	padding:2vw;	
 }
 
 .main_1{
