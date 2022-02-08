@@ -43,7 +43,7 @@ input, textarea {
 	left			:0;
 	width			:100vw;
 	height			:15vw;
-	box-shadow:2px 0 2px rgba(60,60,60,0.5);
+	box-shadow:0 5px 5pxrgba(60,60,60,0.6);
 	z-index:5;
 }
 
