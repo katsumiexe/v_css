@@ -169,7 +169,7 @@ input, textarea {
 .set_back{
 	display		:none;
 	position	:fixed;
-	top			:-50vh;
+	top			:-30vh;
 	left		:-50vw;
 	height		:200vh;
 	width		:200vw;
@@ -246,14 +246,23 @@ input, textarea {
 	height		:25vw;
 }
 
+.ar_line{
+	width		:76vw;
+	height		:2vw;
+	background	:linear-gradient(135deg,#ff9cb2,#F68CA2);
+	margin		:0 auto;
+
+}
+
+
 .ar_btn{
 	position	:absolute;
-	top			:44vw;
-	left		:2vw;	
-	width		:77vw;
-	height		:10vw;
-	line-height	:10vw;
-	font-size	:5vw;
+	top			:27vw;
+	left		:0vw;	
+	width		:26vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:4vw;
 	text-align	:center;
 	font-weight	:600;
 	color		:#fafafa;
@@ -265,8 +274,8 @@ input, textarea {
 .ar_name{
 	position	:absolute;
 	top			:0vw;
-	left		:30vw;	
-	width		:49vw;
+	left		:28vw;	
+	width		:51vw;
 	height		:8vw;
 	line-height	:8vw;
 	border-bottom:1vw solid #F68CA2;
@@ -279,10 +288,10 @@ input, textarea {
 
 .ar_box{
 	position	:absolute;
-	top			:10vw;
-	left		:30vw;	
-	width		:49vw;
-	height		:20vw;
+	top			:9vw;
+	left		:28vw;	
+	width		:51vw;
+	height		:23vw;
 	background	:#308050;
 	font-size	:3.6vw;
 	line-height	:4.8vw;
