@@ -19,6 +19,7 @@ input, textarea {
 	background		:#F68CA2;
 	font-size		:0;
 	text-align		:center;
+	box-shadow:0 -100px 0 #F68CA2;
 }
 
 .main_out{
@@ -35,7 +36,7 @@ input, textarea {
 	left			:0;
 	width			:100vw;
 	height			:15vw;
-	box-shadow:0 5px 5pxrgba(60,60,60,0.6);
+	box-shadow:0 5px 5px rgba(60,60,60,0.6);
 	z-index:5;
 }
 
