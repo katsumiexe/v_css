@@ -44,6 +44,7 @@ input, textarea {
 	width			:100vw;
 	height			:15vw;
 	box-shadow:2px 0 2px rgba(60,60,60,0.5);
+	z-index:5;
 }
 
 
@@ -302,13 +303,9 @@ input, textarea {
 }
 
 
-#mainmenu,#toggle_btn_head{
+#toggle_btn_head{
 	display:none;
 }
-.footer{
-	height:25px;
-}
-
 .sen_tag{
 	font-weight	:700;
 	color		:#ffffe0;
