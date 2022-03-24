@@ -31,9 +31,8 @@
 	bottom			:0;
 	left			:1vw;
 	border			:2px solid #2D1508;
-	height			:5vw;
-	line-height		:5vw;
-	width			:5vw;
+	height			:4.5vw;
+	width			:4.5vw;
 	border-radius	:50%;
 	background		:#fafafa;
 }
@@ -42,13 +41,13 @@
 	position		:absolute;
 	top				:0;
 	bottom			:0;
-	left			:1vw;
-	height			:2vw;
-	width			:2vw;
+	right			:1.5vw;
+	height			:1.5vw;
+	width			:1.5vw;
 	margin			:auto;
 	transform		:rotate(45deg);
-	border-top		:2px solid #2D1508;
-	border-right	:2px solid #2D1508;
+	border-top		:0.5vw solid #2D1508;
+	border-right	:0.5vw solid #2D1508;
 	transform-origin:cener;
 }
 
