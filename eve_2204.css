@@ -1,6 +1,7 @@
+/*
 //#2D1508
 //#D6C6AF
-
+*/
 
 /*-----------------------------------------------------------*/
 
@@ -15,6 +16,10 @@
 	line-height		:6vw;
 	padding			:2vw;
 	background		:linear-gradient(#fafafa,#2e0e0e0);
+}
+
+.box_bold1{
+	font-weight		:700;
 }
 
 .box_1{
