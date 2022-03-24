@@ -17,6 +17,7 @@
 	position		:relative;
 	margin-right	:2vw;
 	height			:10vw;
+	width			:60vw;
 }
 
 .box_1_1{
@@ -27,6 +28,7 @@
 	border		:2px solid #2D1508;
 	height		:8vw;
 	line-height	:8vw;
+	width		:8vw;
 	border-radius:2vw 50% 50% 2vw;
 }
 
@@ -38,6 +40,7 @@
 	border		:2px solid #2D1508;
 	height		:5vw;
 	line-height	:5vw;
+	width		:5vw;
 	transform	:rotate(45deg);
 	border-top	:2px solid #2D1508;
 	border-right:2px solid #2D1508;
