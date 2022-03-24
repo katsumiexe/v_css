@@ -27,7 +27,7 @@
 	border		:2px solid #2D1508;
 	height		:8vw;
 	line-height	:8vw;
-	border-radius:50%;
+	border-radius:2vw 50% 50% 2vw;
 }
 
 .box_1_2{
