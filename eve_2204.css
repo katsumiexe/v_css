@@ -19,36 +19,37 @@
 	height			:8vw;
 	line-height		:8vw;
 	width			:60vw;
-	background		:#linear-gradient(#5D4538,#2D1508);
-	color:#fafafa;
+	background		:linear-gradient(#5D4538,#2D1508);
+	color			:#fafafa;
 
 }
 
 .box_1_1{
-	margin		:auto;
-	position	:absolute;
-	top			:0;
-	bottom		:0;
-	left		:1vw;
-	border		:2px solid #2D1508;
-	height		:5vw;
-	line-height	:5vw;
-	width		:5vw;
-	border-radius:50%;
-	background:#fafafa;
+	margin			:auto;
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	left			:1vw;
+	border			:2px solid #2D1508;
+	height			:5vw;
+	line-height		:5vw;
+	width			:5vw;
+	border-radius	:50%;
+	background		:#fafafa;
 }
 
 .box_1_2{
-	position	:absolute;
-	top			:0;
-	bottom		:0;
-	left		:1vw;
-	height		:2vw;
-	width		:2vw;
-	margin		:auto;
-	transform	:rotate(45deg);
-	border-top	:2px solid #2D1508;
-	border-right:2px solid #2D1508;
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	left			:1vw;
+	height			:2vw;
+	width			:2vw;
+	margin			:auto;
+	transform		:rotate(45deg);
+	border-top		:2px solid #2D1508;
+	border-right	:2px solid #2D1508;
+	transform-origin:cener;
 }
 
 
