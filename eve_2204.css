@@ -1,0 +1,30 @@
+//#2D1508
+//#D6C6AF
+
+
+.box_1_1{
+	position	:absolute;
+	top			:0;
+	bottom		:0;
+	left		:1vw;
+	border		:2px solid #2D1508
+	height		:8vw;
+	line-height	:8vw;
+	border-radius:50%;
+}
+
+.box_1_1{
+	position	:absolute;
+	top			:0;
+	bottom		:0;
+	left		:1vw;
+	border		:2px solid #2D1508
+	height		:5vw;
+	line-height	:5vw;
+	transform	:rotate(45deg);
+	border-top	:2px solid #2D1508
+	border-right:2px solid #2D1508
+}
+
+
+
