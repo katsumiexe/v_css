@@ -3,14 +3,16 @@
 
 
 .box_0{
-	border		:1vw solid #2D1508
-	padding		:2vw;
-	height		:10vw;
-	line-height	:90vw;
-	border-radius:3vw;
-	margin		:2vw auto;
-	font-size	:3.8vw;
-	line-height	:6vw;
+	border			:1vw solid #2D1508;
+	padding			:2vw;
+	height			:10vw;
+	line-height		:90vw;
+	border-radius	:3vw;
+	margin			:2vw auto;
+	font-size		:3.8vw;
+	line-height		:6vw;
+	padding			:2vw;
+	background		:linear-gradient(#fafafa,#2e0e0e0);
 }
 
 .box_1{
