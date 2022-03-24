@@ -14,9 +14,9 @@
 }
 
 .box_1{
-	position	:relative;
-	margin-left:2vw;
-	height:10vw;
+	position		:relative;
+	margin-right	:2vw;
+	height			:10vw;
 }
 
 .box_1_1{
@@ -24,7 +24,7 @@
 	top			:0;
 	bottom		:0;
 	left		:1vw;
-	border		:2px solid #2D1508
+	border		:2px solid #2D1508;
 	height		:8vw;
 	line-height	:8vw;
 	border-radius:50%;
@@ -35,12 +35,12 @@
 	top			:0;
 	bottom		:0;
 	left		:1vw;
-	border		:2px solid #2D1508
+	border		:2px solid #2D1508;
 	height		:5vw;
 	line-height	:5vw;
 	transform	:rotate(45deg);
-	border-top	:2px solid #2D1508
-	border-right:2px solid #2D1508
+	border-top	:2px solid #2D1508;
+	border-right:2px solid #2D1508;
 }
 
 
