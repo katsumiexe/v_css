@@ -2,6 +2,17 @@
 //#D6C6AF
 
 
+.box_0{
+	border		:1vw solid #2D1508
+	padding		:2vw;
+	height		:10vw;
+	line-height	:90vw;
+	border-radius:3vw;
+	margin		:2vw auto;
+	font-size	:3.8vw;
+	line-height	:6vw;
+}
+
 .box_1_1{
 	position	:absolute;
 	top			:0;
@@ -13,7 +24,7 @@
 	border-radius:50%;
 }
 
-.box_1_1{
+.box_1_2{
 	position	:absolute;
 	top			:0;
 	bottom		:0;
