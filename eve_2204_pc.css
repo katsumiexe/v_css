@@ -327,9 +327,10 @@
 	width			:200px;
 	background		:linear-gradient(#02C39A,#00b38A);
 	color			:#fafafa;
-	padding-left	:50px;
+	padding-right	:50px;
 	font-size		:20px;
 	text-decoration	:none;
+	text-align		:right
 }
 
 .box_1_1{
@@ -337,7 +338,7 @@
 	position		:absolute;
 	top				:0;
 	bottom			:0;
-	left			:5px;
+	right			:5px;
 	border			:2px solid #02C39A;
 	height			:30px;
 	width			:30px;
@@ -354,13 +355,13 @@
 	width			:10px;
 	margin			:auto;
 	transform		:rotate(-135deg);
-	border-top		:4px solid #02C39A;
-	border-right	:4px solid #02C39A;
+	border-bottom	:4px solid #02C39A;
+	border-left		:4px solid #02C39A;
 	transform-origin:cener;
 }
 
 .box_8{
-	width			:600px;
+	width			:515px;
 	margin			:5px auto;;
 	text-align		:right;
 }
