@@ -1,0 +1,359 @@
+.header{
+	display:none;
+}
+
+.layout{
+	min-height		:auto;
+}
+.main{
+	min-height		:auto;
+}
+
+.main_section{
+	position	:relative;
+	min-height		:800px;
+}
+
+.main_box{
+	position		:relative;
+	min-height		:800px;
+	background		:rgba(250,250,250,0.6);
+	background		:#fafafa;
+	margin			:0 auto;
+	width			:1000px;
+}
+
+.global-nav-wrap{
+	position	:fixed !important;
+    top			:0;
+    left		:0;
+}
+
+.container-wrap{
+	margin-top:80px !important;
+}
+
+.main_back{
+/*
+	background: no-repeat url("../asset/image/event/202202/eve_2202_back2.jpg");
+	background-size: cover;
+*/
+	background:linear-gradient(90deg,#fff8c0 0%, #fafafa 50%, #fff8c0 100%);
+	height		:100vh;
+	width		:100vw;
+}
+
+
+
+.box_000{
+	border			:5px solid #2D1508;
+	width			:600px;
+	border-radius	:10px;
+	margin			:20px auto;;
+	font-size		:20px;
+	line-height		:26px;
+	padding			:10px;
+	background		:linear-gradient(135deg,#faf0ea,#eae0da);
+	text-align		:left;
+}
+
+.box_001{
+	border			:1px solid #606060;
+	padding			:5px;
+	width			:500px;
+	margin			:10px auto;
+	font-size		:16px;
+	line-height		:22px;
+	background		:linear-gradient(135deg,#f0f0f0,#d0d0d0);
+	color			:#202020;
+	text-align:left;
+}
+
+.box_bold1{
+	font-weight		:700;
+}
+
+.box_1{
+	display			:inline-block;
+	position		:relative;
+	margin			:1vw 4vw 1vw 47vw;
+	height			:8vw;
+	line-height		:8vw;
+	width			:48vw;
+	background		:linear-gradient(#5D4538,#2D1508);
+	color			:#fafafa;
+	padding-left	:2vw;
+	font-size		:3.5vw;
+	text-decoration:none;
+}
+
+.box_1_1{
+	margin			:auto;
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	right			:1vw;
+	border			:2px solid #2D1508;
+	height			:4.5vw;
+	width			:4.5vw;
+	border-radius	:50%;
+	background		:#fafafa;
+}
+
+.box_1_2{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	right			:1vw;
+	height			:1.5vw;
+	width			:1.5vw;
+	margin			:auto;
+	transform		:rotate(45deg);
+	border-top		:0.5vw solid #2D1508;
+	border-right	:0.5vw solid #2D1508;
+	transform-origin:cener;
+}
+
+.flex{
+	display			:flex;
+	margin			:0 auto;
+	width			:960px;
+	justify-content	:start;
+	flex-wrap		:wrap;
+}
+
+.box_5{
+	display			:inline-block;
+	position		:relative;
+	margin			:10px 5px;
+	width			:180px;
+	flex-basis		:180px;
+	height			:300px;
+}
+
+.box_5_in{
+	display			:block;
+	border			:5px solid #2D1508;
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:160px;
+	height			:300px;
+	border-radius	:15px 15px 0 0;
+	background		:linear-gradient(135deg,#faf0ea,#eae0da);
+}
+
+.box_5_img{
+	position		:absolute;
+	top				:45px;
+	left			:5px;
+	width			:150px;
+	height			:150px;	
+}
+
+.box_5_name{
+	position		:absolute;
+	top				:-2px;
+	left			:-2px;
+	width			:154px;
+	height			:40px;	
+	line-height		:40px;	
+	font-size		:18px;
+	color			:#fafafa;
+	font-weight		:700;
+	text-align		:center;
+	background		:linear-gradient(#3D2518,#2D1508);
+	border-radius	:10px 10px 0 0;
+	padding-left	:10px;
+	overflow		:hidden;
+}
+
+.box_5_top{
+	text-align		:center;
+	font-weight		:700;
+	position		:absolute;
+	top				:198px;
+	left			:35px;
+	width			:90px;
+	height			:22px;	
+	line-height		:22px;	
+	font-size		:16px;
+	color			:#000090;
+	text-align		:center;
+	font-weight		:700;
+	border-bottom	:2px solid #000090;
+}
+
+.box_5_pts{
+	position		:absolute;
+	top				:230px;
+	left			:15px;
+	width			:150px;
+	height			:40px;	
+	line-height		:40px;	
+	font-size		:20px;
+	color			:#fafafa;
+	text-align		:center;
+	font-weight		:700;
+	box-shadow		:2px 2px 2px #202020;
+	text-shadow		:-1px -1px 0 #050505;
+	cursor			:pointer;
+}
+
+.box_5_pts_a{
+	text-align		:center;
+	position		:absolute;
+	bottom			:5px;
+	left			:15px;
+	width			:150px;
+	height			:20px;	
+	line-height		:20px;	
+	font-size		:15px;
+	color			:#050505;
+	text-align		:center;
+	font-weight:600;
+}
+
+.done0{
+	background		:linear-gradient(#d0d0d0,#b8b8b8);
+}
+.done1{
+	background		:linear-gradient(#a0c0a0,#80a080);
+}
+
+.done2{
+	background		:linear-gradient(#c8b880,#988850);
+}
+
+.done3{
+	background		:linear-gradient(#b0b0d0,#9090b0);
+}
+
+
+.box_5_status{
+	position		:absolute;
+	top				:53px;
+	right			:-20px;
+	width			:70px;
+	height			:20px;	
+	line-height		:20px;	
+	font-size		:14px;
+	color			:#fafafa;
+	text-align		:left;
+	border-top		:2px solid #fafafa;
+	border-bottom	:2px solid #fafafa;
+	padding-left:5px;
+}
+
+.box_5_status_in{
+	position		:absolute;
+	top				:50px;
+	right			:-35px;
+	width			:30px;
+	height			:30px;	
+	background		:#fafafa;
+	transform-origin:center;
+	transform:rotate(45deg);	
+}
+
+
+.flex_s1{
+	background:linear-gradient(#00c000,#008000);
+	box-shadow:0 -5px 0 #00c000,0 5px 0 #008000;
+}
+
+.flex_s2{
+	background:linear-gradient(#c0c0c0,#a0a0a0);
+	box-shadow:0 -5px 0 #c0c0c0,0 5px 0 #a0a0a0;
+}
+
+.flex_s3{
+	background:linear-gradient(#c0a000,#a09000);
+	box-shadow:0 -5px #c0a000,0 5px 0 #a09000;
+}
+
+.flex_s4{
+	background:linear-gradient(#c0c0c0,#a0a0a0);
+	box-shadow:0 -5px 0 #c0c0c0,0 5px 0 #a0a0a0;
+}
+
+.flex_s5{
+	background:linear-gradient(#ffb6c1,#ff90a0);
+	box-shadow:0 -5px 0 #ffb6c1,0 5px 0 #ff90a0;
+}
+
+.p1_h3{
+	background		:#2D1508;
+	color			:#fafafa;
+	font-weight		:700;
+	text-shadow		:-1px -1px 0 #050505;
+	height			:50px;
+	line-height		:50px;
+	font-size		:24px;
+	text-align		:left;
+	padding-left	:10px;
+}
+
+.back{
+	display:none;
+	position	:fixed;
+	top			:-5vh;
+	left		:-5vw;
+	width		:110vw;
+	height		:110vh;
+	background	:rgba(30,30,30,0.5);
+}
+
+.back_pop{
+	position	:absolute;
+	top			:110vh;
+	left		:0;
+	right		:0;
+	margin		:auto;
+	width		:400px;
+	height		:200px;
+	background	:linear-gradient(135deg,#c00000,#a00000);
+	border-top	:10px solid #fafafa;
+	border-bottom:10px solid #fafafa;
+	box-shadow:5px 5px 5px rgba(60,0,0,0.5);
+	overflow:hidden;
+}
+
+.back_pop_a{
+	position	:relative;
+	font-weight	:900;
+	font-size	:120px;
+	text-align	:center;
+	color		:#fafafa;
+	height		:140px;
+	line-height	:150px;
+	z-index		:105;
+}
+
+.back_pop_b{
+	position	:relative;
+	font-weight	:700;
+	font-size	:50px;
+	text-align	:center;
+	color		:#fafafa;
+	height		:60px;
+	line-height	:50px;
+	z-index		:105;
+}
+
+.back_pop_c{
+	position	:absolute;
+	top			:0;
+	left		:0;
+	right		:0;
+	bottom		:0;
+	margin		:auto;
+	width		:280px;
+	height		:280px;
+	border-radius:50%;
+	background	:#e03030;
+	z-index		:100;
+}
