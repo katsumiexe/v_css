@@ -5,7 +5,6 @@ $(function(){
 		Tmp=$(this).attr("id").replace("dn","");
 		$(this).removeClass("done2").addClass("done3");
 		$(this).next(".box_5_pts_a").text("óæÏ‚Å‚·");
-
 		$.ajax({
 			type:"post",
 			url:"post_eve_2204.php",
