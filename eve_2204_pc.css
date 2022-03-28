@@ -34,13 +34,17 @@
 }
 
 .main_back{
+	position	:fixed !important;
+    top			:0;
+    left		:0;
+	height		:100vh;
+	width		:100vw;
+	z-index		:-1;
 /*
 	background: no-repeat url("../asset/image/event/202202/eve_2202_back2.jpg");
 	background-size: cover;
 */
 	background:linear-gradient(90deg,#fff8c0 0%, #fafafa 50%, #fff8c0 100%);
-	height		:100vh;
-	width		:100vw;
 }
 
 
