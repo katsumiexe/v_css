@@ -38,12 +38,14 @@ body{
 	height			:8vw;
 	line-height		:8vw;
 	width			:48vw;
-	background		:linear-gradient(#5D4538,#2D1508);
+	background		:linear-gradient(#61f2d3,#41D2B3);
 	color			:#fafafa;
 	padding-left	:2vw;
 	font-size		:3.5vw;
 	text-decoration:none;
 }
+
+
 
 .box_1_1{
 	margin			:auto;
@@ -51,7 +53,7 @@ body{
 	top				:0;
 	bottom			:0;
 	right			:1vw;
-	border			:2px solid #2D1508;
+	border			:2px solid #41D2B3;
 	height			:4.5vw;
 	width			:4.5vw;
 	border-radius	:50%;
@@ -67,8 +69,8 @@ body{
 	width			:1.5vw;
 	margin			:auto;
 	transform		:rotate(45deg);
-	border-top		:0.5vw solid #2D1508;
-	border-right	:0.5vw solid #2D1508;
+	border-top		:0.5vw solid #41D2B3;
+	border-right	:0.5vw solid #41D2B3;
 	transform-origin:cener;
 }
 
