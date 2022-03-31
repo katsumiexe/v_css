@@ -88,7 +88,7 @@
 	margin			:10px 5px;
 	width			:180px;
 	flex-basis		:180px;
-	height			:270px;
+	height			:280px;
 }
 
 .box_5_in{
@@ -101,7 +101,7 @@
 	bottom			:0;
 	margin			:auto;
 	width			:160px;
-	height			:300px;
+	height			:280px;
 	border-radius	:15px 15px 0 0;
 	background		:linear-gradient(135deg,#faf0ea,#eae0da);
 }
