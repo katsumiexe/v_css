@@ -44,12 +44,12 @@
 	background: no-repeat url("../asset/image/event/202202/eve_2202_back2.jpg");
 	background-size: cover;
 */
-	background:linear-gradient(90deg,#fff8c0 0%, #fafafa 50%, #fff8c0 100%);
+	background:linear-gradient(90deg,#eae0d8 0%, #faf0e8 50%, #eae0d8 100%);
 }
 
 .box_000{
 	border			:5px solid #2D1508;
-	width			:600px;
+	width			:900px;
 	border-radius	:10px;
 	margin			:20px auto;;
 	font-size		:20px;
@@ -62,7 +62,7 @@
 .box_001{
 	border			:1px solid #606060;
 	padding			:5px;
-	width			:500px;
+	width			:800px;
 	margin			:10px auto;
 	font-size		:16px;
 	line-height		:22px;
