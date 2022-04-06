@@ -383,18 +383,19 @@ body{
 }
 
 .btn_box{
-	border	:0.5vw solid #903060;
-	width	:80vw;
-	border	:0.5vw solid #32518;
+	border		:0.5vw solid #903060;
+	width		:80vw;
+	margin		:1vw auto;
 }
+
 
 .btn_box_in{
-	display	:flex;
-	width	:78vw;
-	margin	:0.5vw auto;
+	display		:flex;
+	width		:78vw;
+	margin		:0.5vw auto;
 }
 
-.btn_box_b{
+.btn_box_in_b{
 	width		: 26vw;
 	flex-basis	: 26vw;
 	height		: 8vw;
@@ -407,7 +408,7 @@ body{
 	text-shadow	: -1px -1px 0 #050505;
 }
     
-.btn_box_c{
+.btn_box_in_c{
     flex		: 1;
     height		: 8vw;
     line-height	: 4vw;
