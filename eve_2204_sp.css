@@ -351,8 +351,8 @@ body{
 	flex-basis	:24vw;
 	background	:linear-gradient(135deg,#a3dCeD,#93CCDD);	
 	border		:1px solid #93CCDD;
-	height		:12vw;
-	line-height	:12vw;
+	height		:14vw;
+	line-height	:14vw;
 	font-size	:5vw;
 	font-weight	:800;
 	color		:#fafafa;
@@ -375,8 +375,8 @@ body{
 	flex		:1;
 	background	:#f0f0f0;	
 	border		:1px solid #202020;
-	height		:12vw:
-	line-height	:12vw;
+	height		:14vw;
+	line-height	:14vw;
 	font-size	:3.5vw;
 	color		:#202020;
 	padding		:1vw;
