@@ -391,7 +391,7 @@ body{
 
 .btn_box_in{
 	display		:flex;
-	width		:78vw;
+	width		:84vw;
 	margin		:1.5vw auto;
 }
 
@@ -415,7 +415,7 @@ body{
     font-size	: 3.5vw;
     color		: #302518;
     text-align	: left;
-	paddng-left:1vw;
+	padding-left:1vw;
 }
     
 
