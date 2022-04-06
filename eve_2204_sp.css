@@ -47,9 +47,9 @@ body{
 .box_1_a{
 	display			:block;
 	width			:50vw;
-	height			:5.5vw;
-	line-height		:5vw;
-	font-size		:4.5vw;
+	height			:7vw;
+	line-height		:7vw;
+	font-size		:5vw;
 	text-align		:center;
 	font-weight		:700;
 	color			:#008000;
@@ -62,8 +62,8 @@ body{
 	line-height		:3.4vw;
 	font-size		:3.2vw;
 	text-align		:left;
-	color			:#304030;
-	padding:1vw;
+	color			:#fafafa;
+	padding			:1vw;
 }
 
 .box_1_1{
