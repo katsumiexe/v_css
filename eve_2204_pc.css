@@ -321,9 +321,9 @@
 .box_1{
 	display			:inline-block;
 	position		:relative;
-	height			:200px;
-	line-height		:60px;
-	width			:36px;
+	height			:100px;
+	line-height		:50px;
+	width			:360px;
 	background		:linear-gradient(#02C39A,#00b38A);
 	color			:#fafafa;
 	padding-right	:50px;
