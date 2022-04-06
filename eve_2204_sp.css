@@ -39,12 +39,13 @@ body{
 	width			:40vw;
 	flex-basis		:40vw;
 	background		:linear-gradient(#61f2d3,#41D2B3);
-	text-decoration:none;
+	text-decoration	:none;
+	text-align		:left;
 }
 
 .box_1_a{
 	display			:block;
-	width			:40vw;
+	width			:34vw;
 	height			:5vw;
 	line-height		:5vw;
 	font-size		:4vw;
@@ -56,15 +57,13 @@ body{
 
 .box_1_b{
 	display			:block;
-	width			:40vw;
+	width			:34vw;
 	height			:7vw;
 	line-height		:3.4vw;
 	font-size		:3.2vw;
 	text-align		:left;
 	color			:#fafafa;
 }
-
-
 
 .box_1_1{
 	margin			:auto;
