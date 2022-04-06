@@ -34,8 +34,8 @@ body{
 .box_1{
 	display			:block;
 	position		:relative;
-	height			:12vw;
-	line-height		:12vw;
+	height			:18vw;
+	line-height		:18vw;
 	width			:40vw;
 	flex-basis		:40vw;
 	background		:linear-gradient(#61f2d3,#41D2B3);
@@ -328,13 +328,13 @@ body{
 .top2_0{
 	display			:flex;
 	margin			:1vw auto;
-	width			:90vw;
+	width			:96vw;
 	justify-content	:space-between;
 }
 
 .top2_1{
 	width			:54vw;
-	height			:12vw;
+	height			:18vw;
 	margin			:1vw;
 	flex-basis		:54vw;
 }
