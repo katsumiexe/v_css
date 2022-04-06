@@ -389,7 +389,7 @@
 .box_8{
 	display			:flex;
 	width			:920px;
-	margin			:5px auto;;
+	margin			:5px auto;
 
 }
 
@@ -436,5 +436,43 @@
 	padding		:10px;
 }
 
+
+.btn_box{
+	border		:5px solid #903060;
+	width		:800px;
+	margin		:10px auto;
+	text-align:center;
+}
+
+
+.btn_box_in{
+	display			:inline-flex;
+	width			:390px;
+	margin			:10px auto;
+	vertical-align	:top;
+}
+
+.btn_box_in_b{
+	width		: 150px;
+	flex-basis	: 150px;
+	height		: 40px;
+	line-height	: 40px;
+	font-size	: 18px;
+	color		: #fafafa;
+	text-align	: center;
+	font-weight	: 700;
+	box-shadow	: 2px 2px 2px #202020;
+	text-shadow	: -1px -1px 0 #050505;
+}
+    
+.btn_box_in_c{
+	flex-basis	: 200px;
+    height		: 40px;
+    line-height	: 20px;
+    font-size	: 16px;
+    color		: #302518;
+    text-align	: left;
+	padding-left:10px;
+}
 
 
