@@ -32,17 +32,36 @@ body{
 }
 
 .box_1{
-	display			:inline-block;
+	display			:block;
 	position		:relative;
-	margin			:1vw 4vw 1vw 55vw;
-	height			:8vw;
-	line-height		:8vw;
+	height			:12vw;
+	line-height		:12vw;
 	width			:40vw;
+	flex-basis		:40vw;
 	background		:linear-gradient(#61f2d3,#41D2B3);
-	color			:#fafafa;
-	padding-left	:2vw;
-	font-size		:3.5vw;
 	text-decoration:none;
+}
+
+.box_1_a{
+	display			:block;
+	width			:40vw;
+	height			:5vw;
+	line-height		:5vw;
+	font-size		:4vw;
+	text-align		:center;
+	font-weight		:600;
+	color			:#008000;
+	text-shadow:-1px -1px 0 #fafafa;
+}
+
+.box_1_b{
+	display			:block;
+	width			:40vw;
+	height			:7vw;
+	line-height		:3.4vw;
+	font-size		:3.2vw;
+	text-align		:left;
+	color			:#fafafa;
 }
 
 
@@ -306,6 +325,20 @@ body{
 	z-index		:100;
 }
 
+.top2_0{
+	display			:flex;
+	margin			:1vw auto;
+	width			:90vw;
+	justify-content	:space-between;
+}
+
+.top2_1{
+	width			:54vw;
+	height			:12vw;
+	margin			:1vw;
+	flex-basis		:54vw;
+}
+
 .top_0{
 	display	:flex;
 	margin	:1vw auto;
@@ -313,7 +346,7 @@ body{
 }
 
 .top_1{
-	margin		:1vw;
+	margin		:1vw auto 0 auto;
 	width		:30vw;
 	flex-basis	:30vw;
 	background	:linear-gradient(135deg,#a3dCeD,#93CCDD);	
@@ -323,6 +356,16 @@ body{
 	font-size	:5vw;
 	font-weight	:800;
 	color		:#fafafa;
+}
+
+.top_3{
+	margin		:0 auto 1vw auto;
+	width		:98vw;
+	height		:4vw
+	line-height	:4vw;
+	font-size	:3vw;
+	font-weight	:600;
+	color		:#d00000;
 }
 
 .top_2{
