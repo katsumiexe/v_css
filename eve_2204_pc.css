@@ -322,7 +322,6 @@
 	display			:inline-block;
 	position		:relative;
 	height			:100px;
-	line-height		:50px;
 	width			:360px;
 	background		:linear-gradient(#02C39A,#00b38A);
 	color			:#fafafa;
@@ -330,26 +329,25 @@
 	font-size		:20px;
 	text-decoration	:none;
 	text-align		:center;
-	margin:10px 0;
+	margin			:10px 0;
 }
 
 .box_1_a{
 	display			:inline-block;
-	height			:30px;
-	line-height		:30px;
+	height			:40px;
+	line-height		:40px;
 	width			:360px;
 	color			:#fafafa;
-	font-weight		:700;
-	font-size		:22px;
+	font-weight		:900;
+	font-size		:28px;
 	text-decoration	:none;
 	text-align		:center;
 }
 
 .box_1_b{
 	display			:inline-block;
-	height			:30px;
-	line-height		:30px;
-	width			:300px;
+	line-height		:24px;
+	width			:330px;
 	color			:#fafafa;
 	font-size		:18px;
 	text-decoration	:none;
@@ -400,7 +398,7 @@
 }
 
 .top_3{
-	display		:inline-block;
+	display		:block;
 	margin		:0 auto 10px auto;
 	width		:770px;
 	color		:#d00000;
