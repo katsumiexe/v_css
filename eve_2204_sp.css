@@ -36,8 +36,8 @@ body{
 	position		:relative;
 	height			:18vw;
 	line-height		:18vw;
-	width			:40vw;
-	flex-basis		:40vw;
+	width			:50vw;
+	flex-basis		:50vw;
 	background		:linear-gradient(#61f2d3,#41D2B3);
 	text-decoration	:none;
 	text-align		:left;
@@ -46,10 +46,10 @@ body{
 
 .box_1_a{
 	display			:block;
-	width			:34vw;
-	height			:5vw;
+	width			:50vw;
+	height			:6vw;
 	line-height		:5vw;
-	font-size		:4vw;
+	font-size		:4.5vw;
 	text-align		:center;
 	font-weight		:600;
 	color			:#008000;
@@ -58,12 +58,13 @@ body{
 
 .box_1_b{
 	display			:block;
-	width			:34vw;
-	height			:7vw;
+	width			:44vw;
+	height			:10vw;
 	line-height		:3.4vw;
 	font-size		:3.2vw;
 	text-align		:left;
 	color			:#fafafa;
+	padding:1vw;
 }
 
 .box_1_1{
@@ -333,10 +334,10 @@ body{
 }
 
 .top2_1{
-	width			:54vw;
-	height			:18vw;
+	width			:48vw;
+	height			:16vw;
 	margin			:1vw;
-	flex-basis		:54vw;
+	flex-basis		:48vw;
 }
 
 .top_0{
@@ -376,7 +377,7 @@ body{
 	background	:#f0f0f0;	
 	border		:1px solid #202020;
 	height		:14vw;
-	line-height	:14vw;
+	line-height	:6vw;
 	font-size	:3.5vw;
 	color		:#202020;
 	padding		:1vw;
