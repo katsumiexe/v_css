@@ -305,3 +305,35 @@ body{
 	background	:#e03030;
 	z-index		:100;
 }
+
+.top_0{
+	display	:flex;
+	margin	:1vw auto;
+	width	:98vw;
+}
+
+.top_1{
+	margin		:1vw;
+	width		:30vw;
+	flex-basis	:30vw;
+	background	:linear-gradient(135deg,#a3dCeD,#93CCDD);	
+	border		:1px solid #93CCDD;
+	height		:12vw
+	line-height	:12vw;
+	font-size	:5vw;
+	font-weight	:800;
+	color		:#fafafa;
+}
+
+.top_2{
+	margin		:1vw;
+	flex		:1;
+	background	:#f0f0f0;	
+	border		:1px solid #202020;
+	height		:12vw
+	line-height	:12vw;
+	font-size	:5vw;
+	font-weight	:800;
+	color		:#fafafa;
+}
+
