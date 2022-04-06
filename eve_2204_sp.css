@@ -341,7 +341,7 @@ body{
 
 .top_0{
 	display	:flex;
-	margin	:1vw auto;
+	margin	:1vw auto 0 auto;
 	width	:98vw;
 }
 
