@@ -396,8 +396,8 @@ body{
 }
 
 .btn_box_in_b{
-	width		: 26vw;
-	flex-basis	: 26vw;
+	width		: 27vw;
+	flex-basis	: 27vw;
 	height		: 8vw;
 	line-height	: 8vw;
 	font-size	: 3.5vw;
@@ -415,7 +415,7 @@ body{
     font-size	: 3.5vw;
     color		: #302518;
     text-align	: left;
-	padding-left:1vw;
+	padding-left:2vw;
 }
     
 
