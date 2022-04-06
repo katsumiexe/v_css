@@ -366,3 +366,38 @@
 
 }
 
+.top_0{
+	display	:flex;
+	margin	:10 auto 0 auto;
+	width	:920px;
+}
+
+.top_1{
+	margin		:5px;
+	width		:300px;
+	flex-basis	:300px;
+	background	:linear-gradient(135deg,#a3dCeD,#93CCDD);	
+	border		:1px solid #93CCDD;
+	height		:120px;
+	line-height	:120px;
+	font-size	:24px;
+	font-weight	:800;
+	color		:#fafafa;
+	text-align	:center;
+}
+
+
+.top_2{
+	margin		:5px;
+	flex		:1;
+	background	:#f0f0f0;	
+	border		:1px solid #202020;
+	height		:120px;
+	line-height	:35px;
+	font-size	:22ps;
+	color		:#202020;
+	padding		:10px;
+}
+
+
+
