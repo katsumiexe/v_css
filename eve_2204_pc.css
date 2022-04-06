@@ -367,9 +367,9 @@
 }
 
 .top_0{
-	display	:flex;
+	display	:inline-flex;
 	margin	:10 auto 0 auto;
-	width	:920px;
+	width	:800px;
 }
 
 .top_1{
@@ -378,8 +378,8 @@
 	flex-basis	:300px;
 	background	:linear-gradient(135deg,#a3dCeD,#93CCDD);	
 	border		:1px solid #93CCDD;
-	height		:120px;
-	line-height	:120px;
+	height		:100px;
+	line-height	:100px;
 	font-size	:24px;
 	font-weight	:800;
 	color		:#fafafa;
@@ -392,9 +392,9 @@
 	flex		:1;
 	background	:#f0f0f0;	
 	border		:1px solid #202020;
-	height		:120px;
+	height		:80px;
 	line-height	:35px;
-	font-size	:22ps;
+	font-size	:20px;
 	color		:#202020;
 	padding		:10px;
 }
