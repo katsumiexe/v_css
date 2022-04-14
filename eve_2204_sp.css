@@ -382,6 +382,21 @@ body{
 	padding		:1vw;
 }
 
+
+.top_3{
+	margin		:1vw auto;
+	width		:60vw;
+	height		:6vw;
+	line-height	:6vw;
+	font-size	:4vw;
+	font-weight	:700;
+	color		:#fafafa;
+	text-align	:center;
+	background:linear-gradient(#00c000,#00a000);
+}
+
+
+
 .btn_box{
 	border		:0.5vw solid #903060;
 	width		:90vw;
