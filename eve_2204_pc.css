@@ -431,11 +431,11 @@
 }
 
 .top_4{
-	display:inline-block;
-	margin		:10px auto;
+	display		:block;
+	margin		:20px auto;
 	width		:300px;
-	height		:40px;
-	line-height	:40px;
+	height		:60px;
+	line-height	:60px;
 	font-size	:22px;
 	font-weight	:700;
 	color		:#fafafa;
