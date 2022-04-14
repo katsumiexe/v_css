@@ -359,17 +359,6 @@ body{
 	text-align:center;
 }
 
-.top_3{
-	margin		:0 auto 1vw auto;
-	width		:94vw;
-	height		:4vw;
-	line-height	:4vw;
-	font-size	:3vw;
-	font-weight	:600;
-	color		:#d00000;
-	text-align	:right;
-}
-
 .top_2{
 	margin		:1vw;
 	flex		:1;
@@ -382,8 +371,19 @@ body{
 	padding		:1vw;
 }
 
-
 .top_3{
+	margin		:0 auto 1vw auto;
+	width		:94vw;
+	height		:4vw;
+	line-height	:4vw;
+	font-size	:3vw;
+	font-weight	:600;
+	color		:#d00000;
+	text-align	:right;
+}
+
+
+.top_4{
 	margin		:1vw auto;
 	width		:60vw;
 	height		:6vw;
