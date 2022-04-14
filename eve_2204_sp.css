@@ -384,6 +384,7 @@ body{
 
 
 .top_4{
+	display:inline-block;
 	margin		:1vw auto;
 	width		:60vw;
 	height		:6vw;

@@ -393,16 +393,6 @@
 	width		:800px;
 }
 
-.top_3{
-	display		:block;
-	margin		:0 auto 10px auto;
-	width		:770px;
-	color		:#d00000;
-	font-size	:16px;
-	font-weight	:600;
-	text-align	:right;
-}
-
 .top_1{
 	margin		:5px;
 	width		:300px;
@@ -429,6 +419,30 @@
 	color		:#202020;
 	padding		:10px;
 }
+
+.top_3{
+	display		:block;
+	margin		:0 auto 10px auto;
+	width		:770px;
+	color		:#d00000;
+	font-size	:16px;
+	font-weight	:600;
+	text-align	:right;
+}
+
+.top_4{
+	display:inline-block;
+	margin		:10px auto;
+	width		:300px;
+	height		:40px;
+	line-height	:40px;
+	font-size	:22px;
+	font-weight	:700;
+	color		:#fafafa;
+	text-align	:center;
+	background:linear-gradient(#00c000,#00a000);
+}
+
 
 
 .btn_box{
