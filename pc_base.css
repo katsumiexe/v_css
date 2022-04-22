@@ -16,11 +16,11 @@
 
 .main_box{
 	position		:relative;
-	min-height		:800px;
+	min-height		:calc (100vh - 80px);
 	background		:rgba(250,250,250,0.6);
 	background		:#fafafa;
 	margin			:0 auto;
-	width			:1000px;
+	width			:1200px;
 }
 
 .global-nav-wrap{
