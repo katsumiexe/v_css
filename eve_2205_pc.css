@@ -268,32 +268,32 @@ a{
 }
 
 .flex_box_ww{
-	position	:relative;
-	display		:inline-block;
-	flex-basis	:285px;
-	height		:190px;
-	text-align	:center;
-	margin		:6px;
-	background	:#e0e0e0;
+	position		:relative;
+	display			:inline-block;
+	flex-basis		:285px;
+	height			:190px;
+	text-align		:center;
+	margin			:6px;
+	background		:#e0e0e0;
 }
 
 
 .flex_p{
-	width		:190px;
-	height		:190px;
+	width			:190px;
+	height			:190px;
 }
 
 .flex_m{
-	display		:inline-block;
-	width		:190px;
-	height		:40px;
-	margin		:auto;
-	background	:#031F4C;
-	color		:#fafafa;
-	font-size	:16px;
-	line-height	:40px;
-	text-align	:center;
-	overflow	:hidden;
+	display			:inline-block;
+	width			:190px;
+	height			:40px;
+	margin			:auto;
+	background		:#031F4C;
+	color			:#fafafa;
+	font-size		:16px;
+	line-height		:40px;
+	text-align		:center;
+	overflow		:hidden;
 }
 
 .flex_s{
@@ -330,7 +330,7 @@ a{
 	width		:150px;
 	height		:20px;
 	margin		:auto;
-	color		:#303030;
+	color		:#000;
 	font-size	:15px;
 	line-height	:20px;
 	text-align	:right;
@@ -342,11 +342,11 @@ a{
 }
 
 .w1{
-	top			:80px;
+	top			:85px;
 }
 
 .w2{
-	top			:55px;
+	top			:65px;
 }
 
 .flex_m_w{
