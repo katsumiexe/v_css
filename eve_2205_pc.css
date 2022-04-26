@@ -261,7 +261,7 @@ a{
 .flex_box_none{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:180px;
+	flex-basis	:178px;
 	height		:255px;
 	text-align	:center;
 	margin		:5px;
@@ -279,13 +279,13 @@ a{
 
 
 .flex_p{
-	width			:190px;
-	height			:190px;
+	width			:168px;
+	height			:168px;
 }
 
 .flex_m{
 	display			:inline-block;
-	width			:190px;
+	width			:168px;
 	height			:40px;
 	margin			:auto;
 	background		:#031F4C;
