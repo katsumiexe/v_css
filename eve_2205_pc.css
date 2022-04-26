@@ -64,7 +64,7 @@ a{
 
 .p1_h3{
 	display			:block;
-	width			:1200px;
+	width			:1160px;
 	background		:#fafafa;
 	font-weight		:600;
 	color			:#00004d;
@@ -72,6 +72,9 @@ a{
 	font-size		:20px;
 	text-align		:left;
 	border-left		:20px solid #000090;
+	height			:40px;
+	line-height		:40px;
+
 }
 
 .box_0{
@@ -261,10 +264,10 @@ a{
 .flex_box_none{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:178px;
-	height		:255px;
+	flex-basis	:186px;
+	height		:235px;
 	text-align	:center;
-	margin		:5px;
+	margin		:6px;
 }
 
 .flex_box_ww{
@@ -279,13 +282,13 @@ a{
 
 
 .flex_p{
-	width			:168px;
-	height			:168px;
+	width			:178px;
+	height			:178px;
 }
 
 .flex_m{
 	display			:inline-block;
-	width			:168px;
+	width			:178px;
 	height			:40px;
 	margin			:auto;
 	background		:#031F4C;
