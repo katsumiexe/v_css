@@ -262,10 +262,10 @@ a{
 .flex_box_none{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:190px;
-	height		:230px;
+	flex-basis	:180px;
+	height		:255px;
 	text-align	:center;
-	margin		:3px;
+	margin		:5px;
 }
 
 .flex_p{

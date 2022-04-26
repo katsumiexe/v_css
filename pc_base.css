@@ -43,3 +43,7 @@
 	background:linear-gradient(90deg,#eae0d8 0%, #faf0e8 50%, #eae0d8 100%);
 }
 
+.container{
+	width:100%; !important;
+	max-width:1200px !important;
+}
