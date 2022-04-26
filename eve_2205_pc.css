@@ -268,6 +268,17 @@ a{
 	margin		:5px;
 }
 
+.flex_box_ww{
+	position	:relative;
+	display		:inline-block;
+	flex-basis	:290px;
+	height		:175px;
+	text-align	:center;
+	margin		:3px;
+	background	:#e0e0e0;
+}
+
+
 .flex_p{
 	width		:190px;
 	height		:190px;
@@ -303,15 +314,6 @@ a{
 }
 
 
-.flex_box_ww{
-	position	:relative;
-	display		:inline-block;
-	flex-basis	:290px;
-	height		:175px;
-	text-align	:center;
-	margin		:3px;
-	background	:#e0e0e0;
-}
 
 
 .flex_p_w{
