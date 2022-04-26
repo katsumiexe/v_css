@@ -253,7 +253,6 @@ a{
 	display		:flex;
 	width		:1190px;
 	margin		:10px auto 5px auto;
-	background	:#fafafa;
 	flex-wrap	:wrap;
 	justify-content: flex-start;
 	padding		:5px;
@@ -271,10 +270,10 @@ a{
 .flex_box_ww{
 	position	:relative;
 	display		:inline-block;
-	flex-basis	:290px;
-	height		:175px;
+	flex-basis	:285px;
+	height		:190px;
 	text-align	:center;
-	margin		:3px;
+	margin		:6px;
 	background	:#e0e0e0;
 }
 
@@ -327,13 +326,13 @@ a{
 .flex_d_w{
 	display		:inline-block;
 	position	:absolute;
-	right		:10px;
+	right		:5px;
 	width		:150px;
-	height		:25px;
+	height		:20px;
 	margin		:auto;
 	color		:#303030;
-	font-size	:17px;
-	line-height	:22px;
+	font-size	:15px;
+	line-height	:20px;
 	text-align	:right;
 	overflow	:hidden;
 }
@@ -355,7 +354,7 @@ a{
 	position	:absolute;
 	top			:130px;
 	left		:5px;
-	width		:275px;
+	width		:270px;
 	height		:40px;
 	margin		:auto;
 	background	:#031F4C;
