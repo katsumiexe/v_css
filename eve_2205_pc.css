@@ -22,7 +22,7 @@ a{
 	padding			:10px;
 	margin			:30px auto;
 	background		:#fafafa;
-	border			:2px solid #000090;
+	border			:2px solid #c8b880;
 	font-size		:18px;
 	line-height		:25px;
 	text-align		:left;
@@ -39,9 +39,11 @@ a{
 
 .p1_box_a_2{
 	padding			:10px;
-	font-size		:20px;
+	font-size		:24px;
 	line-height		:35px;
 	text-align		:left;
+	color:#000020;
+	font-weight:600;
 }
 
 .p1_box_a_3{
@@ -79,7 +81,8 @@ a{
 	height			:40px;
 	line-height		:40px;
 	text-align		:center;
-	margin:0 auto;
+	margin			:20px auto 0 auto;
+	background:rgba(240,240,255,0.1);
 }
 
 .box_0{
