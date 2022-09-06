@@ -45,6 +45,7 @@ a{
 	width			:99vw;
 	flex-wrap		:wrap;
 	justify-content	:space-between;
+	padding:1.5vw 0 
 }
 
 .flex_box_w{
@@ -52,8 +53,9 @@ a{
 	display			:inline-block;
 	flex-basis		:98vw;
 	text-align		:center;
-	margin			:1vw 1.5vw 3vw 1.5vw;
+	margin			:1.5vw;
 	text-decoration	:none;
+	background		:#76499A;
 }
 
 .prof_img{
