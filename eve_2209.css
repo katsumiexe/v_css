@@ -41,19 +41,20 @@ a{
 
 
 .flex{
-	display			:flex;
-	width			:99vw;
+	display			:block;
+	width			:100vw;
 	flex-wrap		:wrap;
 	justify-content	:center;
-	padding			:1.5vw; 
+	padding			:1.5vw 0 ; 
 }
 
 .flex_box_w{
 	position		:relative;
 	display			:inline-block;
+	width			:98vw;
 	flex-basis		:98vw;
 	text-align		:center;
-	margin			:1.5vw;
+	margin			:1.5vw auto;
 	text-decoration	:none;
 	background		:#76499A;
 }
