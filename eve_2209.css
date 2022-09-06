@@ -44,8 +44,8 @@ a{
 	display			:flex;
 	width			:99vw;
 	flex-wrap		:wrap;
-	justify-content	:space-between;
-	padding:1.5vw 0 
+	justify-content	:center;
+	padding			:1.5vw; 
 }
 
 .flex_box_w{
