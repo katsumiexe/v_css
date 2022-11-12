@@ -23,6 +23,11 @@ td{
 	text-align	:center;
 }
 
+.top2{
+	background	:#e0e0ef;
+	text-align	:center;
+}
+
 .center{text-align:center;}
 .right{text-align:right;}
 .left{text-align:left;}
@@ -83,5 +88,6 @@ td{
 .red{background:#fff0f0}
 .blue{background:#f0f8ff}
 .yerrow{background:#fafaea}
+.green{background:#f0fffa}
 
 
