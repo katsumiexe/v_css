@@ -297,7 +297,7 @@ a{
 	position	:relative;
 	display		:inline-block;
 	flex-basis	:47vw;
-	height		:31vw;
+	height		:26vw;
 	text-align	:center;
 	margin		:1vw;
 	background	:#dadada;
@@ -306,10 +306,10 @@ a{
 
 .flex_p_w{
 	position	:absolute;
-	top			:8vw;
-	left		:1vw;
-	width		:19vw;
-	height		:19vw;
+	top			:6vw;
+	left		:0vw;
+	width		:18vw;
+	height		:18vw;
 }
 
 .flex_d_w{
@@ -343,7 +343,7 @@ a{
 	position	:absolute;
 	top			:0vw;
 	left		:0vw;
-	width		:48vw;
+	width		:46vw;
 	height		:6vw;
 	margin		:auto;
 	background	:#031F4C;
