@@ -360,11 +360,11 @@ a{
 	top			:1vw;
 	right		:1vw;
 	display		:inline-block;
-	width		:12vw;
-	height		:5vw;
+	width		:11vw;
+	height		:4vw;
 	color		:#fafafa;
-	font-size	:3.5vw;
-	line-height	:5vw;
+	font-size	:3vw;
+	line-height	:4vw;
 	text-align	:center;
 	box-shadow	:1px 1px 0 rgba(0,0,0,1); 
 	font-weight	:600;
