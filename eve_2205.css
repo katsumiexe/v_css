@@ -269,7 +269,7 @@ a{
 	width		:23vw;
 	height		:5vw;
 	margin		:auto;
-	background	:#031F4C;
+	background	:#031F8C;
 	color		:#fafafa;
 	font-size	:3.2vw;
 	line-height	:5vw;
@@ -377,7 +377,7 @@ a{
 }
 
 .flex_s2{
-	background:linear-gradient(#d0d0d0,#c0c0c0);
+	background:linear-gradient(#b8b8b8,#a0a0a0);
 }
 
 .flex_s3{
@@ -416,7 +416,7 @@ a{
 
 .page ,.page_p{
 	display		:inline-block;
-	position:relative;
+	position	:relative;
 	background	:linear-gradient(#d0d0d0,#c0c0c0);
 	font-size	:4vw;
 	font-weight	:800;
