@@ -305,7 +305,7 @@ a{
 
 .flex_p_w{
 	position	:absolute;
-	top			:1vw;
+	top			:8vw;
 	left		:1vw;
 	width		:19vw;
 	height		:19vw;
@@ -340,7 +340,7 @@ a{
 .flex_m_w{
 	display		:inline-block;
 	position	:absolute;
-	top			:21vw;
+	top			:1vw;
 	left		:1vw;
 	width		:45vw;
 	height		:6vw;
@@ -351,7 +351,7 @@ a{
 	line-height	:6vw;
 	text-align	:left;
 	overflow	:hidden;
-	padding-left:2vw;
+	padding-left:1vw;
 }
 
 .flex_s_w{
