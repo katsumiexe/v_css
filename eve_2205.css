@@ -300,7 +300,8 @@ a{
 	height		:31vw;
 	text-align	:center;
 	margin		:1vw;
-	background	:#e0e0e0;
+	background	:#dadada;
+	border		:2px solid #ffffff;
 }
 
 .flex_p_w{
@@ -340,9 +341,9 @@ a{
 .flex_m_w{
 	display		:inline-block;
 	position	:absolute;
-	top			:1vw;
-	left		:1vw;
-	width		:45vw;
+	top			:0vw;
+	left		:0vw;
+	width		:48vw;
 	height		:6vw;
 	margin		:auto;
 	background	:#031F4C;
