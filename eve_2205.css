@@ -660,3 +660,12 @@ a{
 	background		:linear-gradient(135deg,#fff8f0, #f8f0e8);
 	text-shadow		:1px 1px 0 #201000;
 }
+
+.notice{
+	width		:90vw;
+	padding		:1vw;
+	margin		:0 auto;
+	border		:0.5vw solid #604000;
+	background	:#fafafa;
+	color		:#303030;
+}
