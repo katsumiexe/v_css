@@ -662,10 +662,12 @@ a{
 }
 
 .notice{
-	width		:90vw;
+	width		:89vw;
 	padding		:1vw;
-	margin		:0 auto;
-	border		:0.5vw solid #604000;
+	margin		:3 auto;
+	border		:1vw solid #604000;
 	background	:#fafafa;
 	color		:#303030;
+	text-align	:center;
+	font-size	:4vw:
 }
