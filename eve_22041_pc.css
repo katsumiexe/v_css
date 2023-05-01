@@ -220,7 +220,7 @@ a{
 .p2_box_e{
 	margin		:10px auto;
 	display		:block;
-	width		:280px;	
+	width		:400px;	
 	height		:45px;
 	line-height	:45px;
 	background	:linear-gradient(#a0a0c0,#8080a0);
@@ -676,4 +676,17 @@ a{
 	font-weight		:800;
 	background		:linear-gradient(135deg,#fff8f0, #f8f0e8);
 	text-shadow		:2px 2px 0 #201000;
+}
+
+
+.notice_a{
+	width			:360px;
+	padding			:20px;
+	margin			:20px auto;
+	border			:5px solid #604000;
+	background		:#fff0e8;
+	color			:#000000;
+	text-align		:center;
+	font-size		:16px;
+
 }
