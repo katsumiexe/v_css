@@ -23,11 +23,30 @@ td{
 	text-align	:center;
 }
 
+
 .top2{
 	background	:#0000d0;
 	text-align	:center;
 	color:#ffffff;
 }
+
+
+
+.top1{
+	background	:#fff0ff;
+	text-align	:center;
+}
+
+.top2{
+	background	:#f0ff0f;
+	text-align	:center;
+}
+
+.top3{
+	background	:#fff0f0;
+	text-align	:center;
+}
+
 
 .center{text-align:center;}
 .right{
