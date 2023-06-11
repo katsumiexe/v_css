@@ -1,0 +1,45 @@
+
+.popback{
+	position	:fixed;
+	top			:-10vh;
+	left		:-10vw;
+	height		:120vh;
+	width		:120vw;
+	background	:rgba(90,90,90,0.6);
+	display		:none;
+	z-index		:99999999999;
+}
+
+.popmain{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	border			:2vw solid #ffa0e8;
+	border-radius	:2vw;
+	background		:#ffe8f0;
+	color			:#403030;
+	overflow		:hidden;
+	width			:70vw;
+	height			:40vw;
+}
+
+.popmain_in{
+	font-size		:4vw;
+	line-height		:5.5vw;
+	padding			:1.5vw;
+	width			:64vw;
+	height			:20vw;
+	margin			:2vw auto;
+}
+
+.popmain_title{
+	background		:#ffa0e8;
+	height			:8vw;
+	line-height		:8vw;
+	color			:#fafafa;
+	font-size		:3.8vw;
+	font-weight		:700;
+}
