@@ -59,6 +59,22 @@ td{
 
 }
 
+
+.date_box{
+	height			:30px;
+	width			:100px;
+	padding-left	:5px;
+}
+
+.form_btn{
+	padding:5px 20px;
+
+}
+
+
+
+
+
 .w30{width:30px;}
 .w40{width:40px;}
 .w50{width:50px;}
