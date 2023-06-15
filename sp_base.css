@@ -17,7 +17,7 @@
 	right			:0;
 	bottom			:0;
 	margin			:auto;
-	border			:2vw solid #ffd0d0;
+	border			:2vw solid #F56E8A;
 	border-radius	:2vw;
 	background		:#fafafa;
 	color			:#403030;
@@ -36,7 +36,7 @@
 }
 
 .popmain_title{
-	background		:#ffd0d0;
+	background		:#F56E8A;
 	height			:8vw;
 	line-height		:8vw;
 	color			:#fafafa;
