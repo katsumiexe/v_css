@@ -65,13 +65,13 @@
 	right			:0;
 	bottom			:0;
 	margin			:auto;
-	border			:10px solid #F56E8A;
-	border-radius	:10px;
+	border			:15px solid #F56E8A;
+	border-radius	:15px;
 	background		:#fafafa;
 	color			:#403030;
 	overflow		:hidden;
 	width			:400px;
-	height			:360px;
+	height			:220px;
 }
 
 .popmain_in{
@@ -79,14 +79,14 @@
 	line-height		:25px;
 	padding			:10px;
 	width			:360px;
-	height			:200pz;
+	height			:200px;
 	margin			:0 auto;
 }
 
 .popmain_title{
 	background		:#F56E8A;
-	height			:60pz;
-	line-height		:60pz;
+	height			:40px;
+	line-height		:40px;
 	color			:#fafafa;
 	font-size		:24px;
 	font-weight		:700;
