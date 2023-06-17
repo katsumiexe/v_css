@@ -45,3 +45,50 @@
 	width:100%; !important;
 	max-width:1200px !important;
 }
+
+
+.popback{
+	position	:fixed;
+	top			:-10vh;
+	left		:-10vw;
+	height		:120vh;
+	width		:120vw;
+	background	:rgba(90,90,90,0.6);
+	display		:none;
+	z-index		:99999999999;
+}
+
+.popmain{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	border			:10px solid #F56E8A;
+	border-radius	:10px;
+	background		:#fafafa;
+	color			:#403030;
+	overflow		:hidden;
+	width			:400px;
+	height			:360px;
+}
+
+.popmain_in{
+	font-size		:18px;
+	line-height		:25px;
+	padding			:10px;
+	width			:360px;
+	height			:200pz;
+	margin			:0 auto;
+}
+
+.popmain_title{
+	background		:#F56E8A;
+	height			:60pz;
+	line-height		:60pz;
+	color			:#fafafa;
+	font-size		:24px;
+	font-weight		:700;
+}
+
