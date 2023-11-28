@@ -25,7 +25,7 @@ $(".chu_card").delay(1500).queue(function(next){
 $(".chu_card").on("click",function(){
     $('.box_block').show();
 	$(this).children('.chu_card_f').css('transform','rotateY(-180deg)');
-	$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':'url("https://katsumiexe.github.io/pages/eve_2312/img/atari.jpg")'});
+	$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':'url("https://katsumiexe.github.io/v_css/eve_2312/img/atari.jpg")'});
 });
 });
 
