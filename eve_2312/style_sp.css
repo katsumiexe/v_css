@@ -1,0 +1,72 @@
+.chu_card{
+	perspective		:150rem;
+	display			:inline-block;
+	position		:absolute;
+	height			:20vw;
+	width			:13vw;
+	border-radius	:5px;
+	transform-origin:center;
+	z-index			:10;
+	left			:5vw;
+	top				:3vw;
+}
+
+.chu_card_f,.chu_card_b,.chu_card_b_r{
+	transition		:.8s;
+	position		: absolute;
+	top				: 0;
+	left			: 0;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	border-radius	:5px;
+	height			:18vw;
+	width			:11vw;
+	border			:1vw solid #f5f5f5;
+}
+
+.chu_card_f{
+	background		:linear-gradient(#b070d0,#8040b0);
+	transform		:rotateY(180deg);
+}
+
+.chu_card_b{
+	background-size	:100% 100%;
+	background-image:url("https://katsumiexe.github.io/pages/eve_2312/img/atari.jpg");
+}
+
+.chu_card_ps{
+	display			:inline-block;
+	position		:absolute;
+	height			:140px;
+	width			:85px;
+	background		:rgba(90,60,10,0.2);
+	border-radius	:5px;
+}
+
+#b1{
+	background-image:url("https://katsumiexe.github.io/pages/eve_2312/img/atari.jpg");
+}
+
+.box_card{
+	width		:70vw;
+	margin		:0 auto;
+	border		:1vw solid #607090;
+	background	:#c0d0e0;
+	position	:relative;
+	height		:25vw;
+}
+
+.box_block{
+	position	:absolute;
+	top			:0;
+	left		:0;
+	height		:25vw;
+	width		:70vw;
+	z-index		:20;
+}
+
+
+#c0{z-index:10}
+#c1{z-index:11}
+#c2{z-index:12}
+#c3{z-index:13}
