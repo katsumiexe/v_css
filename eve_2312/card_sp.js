@@ -54,7 +54,7 @@ $(function(){
 		setTimeout(function(){
 			$('.chu_card_b').css('transform','rotateY(-180deg)');
 			$('.chu_card_f').css('transform','rotateY(0)');
-		},1400);
+		},0);
 	});
 	$(".chu_card").on("click",function(){
 	    $('.box_block').show();
