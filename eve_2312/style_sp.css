@@ -52,11 +52,12 @@
 .box_card{
 	width		:96vw;
 	margin		:0 auto;
-	border		:1vw solid #607090;
-	background	:#c0d0e0;
+	border		:1vw solid #85b671;
+	background	:#f0ffe8;
 	position	:relative;
 	height		:36vw;
 }
+
 
 .box_block{
 	position	:absolute;
