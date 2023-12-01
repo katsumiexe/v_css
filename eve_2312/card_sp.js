@@ -29,6 +29,8 @@ $(function(){
 			$('.chu_card_f').css('transform','rotateY(0)');
 		},0);
 */
+		$('#msg1').slideUp(500);
+		$('#msg2').delay(800).slideDown(500).delay3300).slideDown(500);
 
 		$('.chu_card_b').css('transform','rotateY(-180deg)');
 		$('.chu_card_f').css('transform','rotateY(0)');
@@ -56,8 +58,6 @@ $(function(){
 
 		$('#c0').delay(800).animate({"left":"38vw"}, 400).delay(4000).animate({"left":"3.5vw"}, 400);
 	    $('.box_block').fadeOut(6000);
-
-
 	});
 	$(".chu_card").on("click",function(){
 	    $('.box_block').show();
