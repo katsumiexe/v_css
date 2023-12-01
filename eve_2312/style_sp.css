@@ -61,10 +61,9 @@
 .box_card_msg{
 	width		:80vw;
 	margin		:0 auto;
-	border		:1vw solid #85b671;
 	background	:#f0ffe8;
 	position	:absolute;
-	bottom		:1vw;
+	bottom		:2vw;
 	left		:0;
 	right		:0;
 	margin		:auto;
