@@ -1,8 +1,9 @@
 $(function(){ 
-	$('#set_btn').on("click",function(){
+	$('.set_btn_out').on("click",".set_btn_on",function(){
 		$('#msg1').slideUp(500);
 		$('#msg2').delay(800).slideDown(500).delay(3300).slideUp(500);
 		$('#msg3').delay(5500).slideDown(500);
+		$(this).removeClass("set_btn_on");
 
 		$('.chu_card_b').css('transform','rotateY(-180deg)');
 		$('.chu_card_f').css('transform','rotateY(0)');
