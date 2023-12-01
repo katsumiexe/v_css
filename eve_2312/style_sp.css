@@ -60,7 +60,6 @@
 
 .box_card_msg{
 	width			:80vw;
-	margin			:0 auto;
 	background		:#fafafa;
 	border			:0.5vw solid #0090A0;
 	position		:absolute;
@@ -70,11 +69,30 @@
 	margin			:auto;
 	height			:8vw;
 	line-height		:8vw;
+	text-align		:center;
+}
+
+.box_card_msg_in{
+	display			:none;
+	width			:80vw;
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	height			:8vw;
+	line-height		:8vw;
 	color			:#0090A0;
 	font-size		:4vw;
 	text-align		:center;
-	border-radius	:4vw;
 	font-weight		:800;
+	overflow		:hidden;
+}
+
+#msg1{
+	display			:block;
+
 }
 
 .box_card_top{
