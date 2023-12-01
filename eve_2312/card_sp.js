@@ -1,12 +1,12 @@
 $(function(){ 
 	$('#set_btn').on("click",function(){
 		$('#msg1').slideUp(500);
-		$('#msg2').delay(800).slideDown(500).delay3300).slideDown(500);
+		$('#msg2').delay(800).slideDown(500).delay(3300).slideDown(500);
 
 		$('.chu_card_b').css('transform','rotateY(-180deg)');
 		$('.chu_card_f').css('transform','rotateY(0)');
 
-		$('#c3').delay(800).animate({"left":"38vw"}, 400)
+		$('#c3').delay(800).animate({"left":"38vw"}, 400);
 		.delay(500)
 		.animate({"left":"20vw"},250, function(){$(this).css({"z-index": "38"})}).delay(50).animate({"left":"56vw"},250).delay(50)
 		.animate({"left":"20vw"},250, function(){$(this).css({"z-index": "36"})}).delay(50).animate({"left":"56vw"},250).delay(50)
