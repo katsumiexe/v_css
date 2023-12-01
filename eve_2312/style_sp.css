@@ -55,8 +55,29 @@
 	border		:1vw solid #85b671;
 	background	:#f0ffe8;
 	position	:relative;
-	height		:36vw;
+	height		:46vw;
 }
+
+.box_card_msg{
+	width		:80vw;
+	margin		:0 auto;
+	border		:1vw solid #85b671;
+	background	:#f0ffe8;
+	position	:absolute;
+	bottom		:1vw;
+	left		:0;
+	right		:0;
+	margin		:auto;
+	height		:8vw;
+	line-height	:8vw;
+	background	:#0090a0;
+	color		:#ffffff;
+	font-size	:4vw;
+	text-align	:center;
+	border-radius:4vw;
+}
+
+
 
 .box_card_top{
 	width		:96vw;
