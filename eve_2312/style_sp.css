@@ -61,7 +61,7 @@
 .box_card_msg{
 	width			:80vw;
 	margin			:0 auto;
-	background		:#ffe0f0;
+	background		:#fafafa;
 	border			:0.5vw solid #0090A0;
 	position		:absolute;
 	bottom			:2vw;
@@ -76,8 +76,6 @@
 	border-radius	:4vw;
 	font-weight		:800;
 }
-
-
 
 .box_card_top{
 	width		:96vw;
