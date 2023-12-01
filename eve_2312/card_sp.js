@@ -1,7 +1,8 @@
 $(function(){ 
 	$('#set_btn').on("click",function(){
 		$('#msg1').slideUp(500);
-		$('#msg2').delay(800).slideDown(500).delay(3300).slideDown(500);
+		$('#msg2').delay(800).slideDown(500).delay(3300).slideUp(500);
+		$('#msg3').delay(6200).slideDown(500);
 
 		$('.chu_card_b').css('transform','rotateY(-180deg)');
 		$('.chu_card_f').css('transform','rotateY(0)');
@@ -34,5 +35,8 @@ $(function(){
 	    $('.box_block').show();
 		$(this).children('.chu_card_f').css('transform','rotateY(-180deg)');
 		$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':'url("https://katsumiexe.github.io/v_css/eve_2312/img/atari.jpg")'});
+		$('#msg3').slideUp(500);
+		$('#msg4').delay(600).slideDown(500);
+
 	});
 });
