@@ -109,9 +109,10 @@
 	position	:absolute;
 	top			:0;
 	left		:0;
-	height		:46vw;
+	height		:56vw;
 	width		:94vw;
 	z-index		:100;
+	background:rgba(255,0,0,0.8)
 }
 
 .set_btn{
