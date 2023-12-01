@@ -6,7 +6,7 @@ $(function(){
 		$('.chu_card_b').css('transform','rotateY(-180deg)');
 		$('.chu_card_f').css('transform','rotateY(0)');
 
-		$('#c3').delay(800).animate({"left":"38vw"}, 400);
+		$('#c3').delay(800).animate({"left":"38vw"}, 400)
 		.delay(500)
 		.animate({"left":"20vw"},250, function(){$(this).css({"z-index": "38"})}).delay(50).animate({"left":"56vw"},250).delay(50)
 		.animate({"left":"20vw"},250, function(){$(this).css({"z-index": "36"})}).delay(50).animate({"left":"56vw"},250).delay(50)
