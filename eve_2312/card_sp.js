@@ -2,7 +2,7 @@ $(function(){
 	$('#set_btn').on("click",function(){
 		$('#msg1').slideUp(500);
 		$('#msg2').delay(800).slideDown(500).delay(3300).slideUp(500);
-		$('#msg3').delay(6200).slideDown(500);
+		$('#msg3').delay(6000).slideDown(500);
 
 		$('.chu_card_b').css('transform','rotateY(-180deg)');
 		$('.chu_card_f').css('transform','rotateY(0)');
