@@ -1,0 +1,52 @@
+.ar_modal_back{
+	position	:fixed;
+	top			:-5vh;
+	left		:5vw;
+	width		:110vw;
+	height		:110vh;
+	background	:rgba()30,30,30,0.5;
+	z-index		:114514;
+}
+
+.ar_modal_main{
+	position	:absolute;
+	top			:30vw;
+	left		:0;
+	right		:0;
+	margin		:auto;
+	width		:90vw;
+	background	:#fafafa;
+	border		:1vw solid #90c080
+	border-radius:1vw;
+	box-shadow	:0.5vw 0.5vw 0.5vw rgba(30,30,30,0.5);
+	overflow	:hidden;
+	position	:relative;
+}
+
+.ar_modal_title{
+	position	:absolute;;
+	width		:90vw;
+	height		:8vw;
+	line-height	:8vw;
+	background	:#90c080;
+	font-size	:4vw;
+	text-align	:center;
+	color		:#ffffff;
+}
+
+.ar_modal_batsu{
+	width		:8vw;
+	height		:8vw;
+	line-height	:1;
+
+	border		:1vw solid #90c080
+	border-radius:50%;
+
+	background	:#90c080;
+	font-size	:4vw;
+	text-align	:center;
+	color		:#ffffff;
+}
+
+
+
