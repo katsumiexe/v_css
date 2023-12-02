@@ -39,7 +39,8 @@ $(function(){
 		$(this).children('.chu_card_f').css('transform','rotateY(-180deg)');
 		$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':Url});
 		$('#msg3').slideUp(500);
-		$('#msg4').delay(600).slideDown(500);
+		Tmp_s=Done + 3;
+		$('#msg' + Tmp_s).delay(600).slideDown(500);
 
 	});
 });
