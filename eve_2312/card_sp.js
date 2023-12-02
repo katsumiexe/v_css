@@ -36,7 +36,7 @@ $(function(){
 	});
 
 	$(".chu_card").on("click",function(){
-		var Url='url(https://katsumiexe.github.io/v_css/eve_2312/img/atari'+Done+'.jpg)';
+		var Url='url(\"https://katsumiexe.github.io/v_css/eve_2312/img/atari'+Done+'.jpg\")';
 	    $('.box_block').show();
 		$(this).children('.chu_card_f').css('transform','rotateY(-180deg)');
 		$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':Url});
