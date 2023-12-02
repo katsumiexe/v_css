@@ -32,10 +32,12 @@ $(function(){
 		$('#c0').delay(800).animate({"left":"38vw"}, 400).delay(4000).animate({"left":"3.5vw"}, 400);
 	    $('.box_block').fadeOut(6000);
 	});
+
 	$(".chu_card").on("click",function(){
+		var Url='url("https://katsumiexe.github.io/v_css/eve_2312/img/atari'+Done+'.jpg")';
 	    $('.box_block').show();
 		$(this).children('.chu_card_f').css('transform','rotateY(-180deg)');
-		$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':'url("https://katsumiexe.github.io/v_css/eve_2312/img/atari.jpg")'});
+		$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':Url});
 		$('#msg3').slideUp(500);
 		$('#msg4').delay(600).slideDown(500);
 
