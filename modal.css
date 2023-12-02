@@ -1,10 +1,10 @@
 .ar_modal_back{
 	position	:fixed;
 	top			:-5vh;
-	left		:5vw;
+	left		:-5vw;
 	width		:110vw;
 	height		:110vh;
-	background	:rgba()30,30,30,0.5;
+	background	:rgba(30,30,30,0.5);
 	z-index		:114514;
 }
 
