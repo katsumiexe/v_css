@@ -35,8 +35,8 @@
 }
 
 .ar_modal_batsu{
-	position	:absolute;;
-	top			:-10vw
+	position	:absolute;
+	top			:-10vw;
 	right		:1vw;
 	width		:8vw;
 	height		:8vw;
@@ -55,9 +55,8 @@
 .ar_modal_comm{
 	margin:1vw auto
 	width		:86vw;
-	height		:30vw;
-	line-height	:5.5vw;
-	font-size	:4vw;
+	line-height	:4.2vw;
+	font-size	:3vw;
 	text-align	:left;
 	color		:#303030;
 }
