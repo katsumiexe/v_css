@@ -25,22 +25,23 @@
 
 .ar_modal_ttl{
 	position	:relative;
-	width		:90vw;
+	width		:89vw;
 	height		:8vw;
 	line-height	:8vw;
 	background	:#90c080;
 	font-size	:4vw;
 	text-align	:center;
 	color		:#ffffff;
+	margin		:0 auto;
 }
 
 .ar_modal_batsu{
 	position	:absolute;
-	top			:-10vw;
-	right		:1vw;
-	width		:8vw;
-	height		:8vw;
-	line-height	:1;
+	top			:-12vw;
+	right		:0vw;
+	width		:10vw;
+	height		:10vw;
+	line-height	:11vw;
 	border		:1vw solid #90c080;
 	border-radius:50%;
 	background	:#fafafa;
