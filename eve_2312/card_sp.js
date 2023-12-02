@@ -29,6 +29,8 @@ $(function(){
 		.delay(300)
 		.animate({"left":"26.5vw"}, 400)
 
+
+
 		$('#c0').delay(800).animate({"left":"38vw"}, 400).delay(4000).animate({"left":"3.5vw"}, 400);
 	    $('.box_block').fadeOut(6000);
 	});
