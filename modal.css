@@ -23,7 +23,7 @@
 	overflow	:hidden;
 }
 
-.ar_modal_title{
+.ar_modal_ttl{
 	position	:relative;
 	width		:90vw;
 	flex-basist	:8vw;
@@ -37,10 +37,11 @@
 
 .ar_modal_batsu{
 	position	:absolute;;
+	top			:-10vw
+	right		:1vw;
 	width		:8vw;
 	height		:8vw;
 	line-height	:1;
-
 	border		:1vw solid #90c080;
 	border-radius:50%;
 
@@ -48,6 +49,8 @@
 	font-size	:4vw;
 	text-align	:center;
 	color		:#90c080;
+	font-size	:6vw;
+	font-weight	:800;
 }
 
 .ar_modal_comm{
