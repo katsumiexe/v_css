@@ -51,19 +51,31 @@
 
 .box_card_done{
 	width		:96vw;
+	background	:#306050;
+	margin		:0 auto 2vw auto;
+	font-size	:4vw;
+	text-align	:center;
+	color		:#ffffff;
+	font-weight	:700;
+}
+
+.box_card_done_img{
+	width		:92vw;
 	margin		:2vw auto 0 auto;
 }
 
-.box_card_done_in{
-	width		:90vw;
-	padding		:1vw 2vw;
-	margin		:1vw auto;
-	background	:#fafafa;
-	position	:relative;
-	text-align	:left;
-	font-size	:3.5vw;
-	line-height	:5vw;
+.box_card_done_id{
+	width		:92vw;
+	margin		:1vw auto 2vw auto;
+	text-align	:center;
+	height		:6vw;
+	line-height	:6vw;
+	color		:#900000;
+	font-size	:4vw;
+	background	:#fafafaf;
 }
+
+
 
 .box_card{
 	width		:96vw;
