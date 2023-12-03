@@ -1,5 +1,4 @@
 $(function(){ 
-
 	$('.set_btn_out').on("click",".set_btn_on",function(){
 		$('#msg1').slideUp(500);
 		$('#msg2').delay(800).slideDown(500).delay(3300).slideUp(500);
@@ -51,7 +50,6 @@ $(function(){
 			$('#msg5').delay(600).slideDown(500);
 			$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':'url("https://katsumiexe.github.io/v_css/eve_2312/img/card2.jpg")'});
 		}
-
 	});
 
 	$("#ar_modal_batsu").on("click",function(){
