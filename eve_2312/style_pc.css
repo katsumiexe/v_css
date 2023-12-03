@@ -81,10 +81,10 @@
 .box_card{
 	width		:900px;
 	margin		:0 auto;
-	border		:1vw solid #85b671;
+	border		:10px solid #85b671;
 	background	:#f0ffe8;
 	position	:relative;
-	height		:300px;
+	height		:360px;
 }
 
 .box_card_msg{
@@ -157,7 +157,7 @@
 }
 
 
-#c0{left:3.5vw}
-#c1{left:26.5vw}
-#c2{left:49.5vw}
-#c3{left:72.5vw}
+#c0{left:36px}
+#c1{left:252pxw}
+#c2{left:468px}
+#c3{left:684px}
