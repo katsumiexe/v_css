@@ -50,6 +50,7 @@
 }
 
 .box_card_done{
+	display		:none;
 	width		:96vw;
 	background	:#306050;
 	margin		:0 auto 2vw auto;
