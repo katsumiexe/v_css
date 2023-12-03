@@ -88,32 +88,32 @@
 }
 
 .box_card_msg{
-	width			:80vw;
+	width			:700px;
 	background		:#fafafa;
-	border			:0.5vw solid #0090A0;
+	border			:5px solid #0090A0;
 	position		:absolute;
-	bottom			:2vw;
+	bottom			:10px;
 	left			:0;
 	right			:0;
 	margin			:auto;
-	height			:8vw;
-	line-height		:8vw;
+	height			:50px;
+	line-height		:50px;
 	text-align		:center;
 }
 
 .box_card_msg_in{
 	display			:none;
-	width			:80vw;
+	width			:700px;
 	position		:absolute;
 	top				:0;
 	left			:0;
 	right			:0;
 	bottom			:0;
 	margin			:auto;
-	height			:8vw;
-	line-height		:8vw;
+	height			:50px;
+	line-height		:50px;
 	color			:#0090A0;
-	font-size		:4vw;
+	font-size		:24px;
 	text-align		:center;
 	font-weight		:800;
 	overflow		:hidden;
