@@ -53,10 +53,11 @@
 	width		:96vw;
 	background	:#306050;
 	margin		:0 auto 2vw auto;
-	font-size	:4vw;
+	font-size	:4.5vw;
 	text-align	:center;
 	color		:#ffffff;
 	font-weight	:700;
+	lien-height	:6vw;
 }
 
 .box_card_done_img{
@@ -72,7 +73,7 @@
 	line-height	:6vw;
 	color		:#900000;
 	font-size	:4vw;
-	background	:#fafafaf;
+	background	:#fafafa;
 }
 
 
