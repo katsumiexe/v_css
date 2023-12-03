@@ -125,14 +125,14 @@
 }
 
 .box_card_top{
-	width		:900px;
-	margin		:10px auto 0 auto;
-	border		:10px solid #85b671;
-	background	:#85b671;
-	position	:relative;
-	height		:32px;
-	line-height	:32px;
-	font-size	:30px;
+	width			:900px;
+	margin			:10px auto 0 auto;
+	border			:10px solid #85b671;
+	background		:#85b671;
+	position		:relative;
+	height			:32px;
+	line-height		:32px;
+	font-size		:30px;
 }
 
 
@@ -146,14 +146,14 @@
 }
 
 .set_btn{
-	width		:98vw;
-	margin		:1vw auto;
+	width		:900px;
+	margin		:10px auto;
 	background	:#009000;
 	position	:relative;
-	height		:7vw;
-	line-height	:7vw
+	height		:50px;
+	line-height	:50px
 	text-align	:center;
-	font-size	:4vw;
+	font-size	:24px;
 }
 
 
