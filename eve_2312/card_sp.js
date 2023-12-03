@@ -40,7 +40,10 @@ $(function(){
 
 	$("#ar_modal_batsu").on("click",function(){
 		$(".ar_modal_back").fadeOut();
-		$("#done_page").show();
+		$("#box_card_done").show();
+		$(".box_card_top, .box_card,.set_btn_out").hide();
+
+
 
 	});
 

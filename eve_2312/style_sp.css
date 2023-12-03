@@ -49,6 +49,21 @@
 	background-image:url("https://katsumiexe.github.io/v_css/eve_2312/img/atari.jpg");
 }
 
+.box_card_done{
+	width		:96vw;
+	margin		:2vw auto;
+	background	:#90c080;
+	position	:relative;
+}
+
+.box_card_done_in{
+	width		:90vw;
+	padding		:1vw 2vw:
+	margin		:1vw auto;
+	background	:#fafafa;
+	position	:relative;
+}
+
 .box_card{
 	width		:96vw;
 	margin		:0 auto;
