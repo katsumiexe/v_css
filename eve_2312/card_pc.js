@@ -14,7 +14,7 @@ $(function(){
 		.animate({"left":"250px"},250, function(){$(this).css({"z-index": "36"})}).delay(50).animate({"left":"610px"},250).delay(50)
 		.animate({"left":"250px"},250, function(){$(this).css({"z-index": "34"})}).delay(50).animate({"left":"610px"},250).delay(50)
 		.animate({"left":"250px"},250, function(){$(this).css({"z-index": "32"})}).delay(50).animate({"left":"610px"},250).delay(50)
-		.animate({"left":"38vw"},250)
+		.animate({"left":"360px"},250)
 		.delay(800)
 		.animate({"left":"684px"}, 400)
 
@@ -25,7 +25,7 @@ $(function(){
 		.animate({"left":"610px"},250, function(){$(this).css({"z-index": "35"})}).delay(50).animate({"left":"250px"},250).delay(50)
 		.animate({"left":"610px"},250, function(){$(this).css({"z-index": "33"})}).delay(50).animate({"left":"250px"},250).delay(50)
 		.animate({"left":"610px"},250, function(){$(this).css({"z-index": "31"})}).delay(50).animate({"left":"250px"},250).delay(50)
-		.animate({"left":"610px"},250)
+		.animate({"left":"360px"},250)
 		.delay(300)
 		.animate({"left":"252px"}, 400)
 
