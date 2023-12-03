@@ -145,17 +145,6 @@
 	z-index		:100;
 }
 
-.set_btn{
-	width		:900px;
-	margin		:10px auto;
-	background	:#009000;
-	position	:relative;
-	height		:50px;
-	line-height	:50px
-	text-align	:center;
-	font-size	:24px;
-}
-
 
 #c0{left:36px}
 #c1{left:252px}
