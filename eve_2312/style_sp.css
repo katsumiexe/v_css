@@ -51,17 +51,18 @@
 
 .box_card_done{
 	width		:96vw;
-	margin		:2vw auto;
-	background	:#90c080;
-	position	:relative;
+	margin		:2vw auto 0 auto;
 }
 
 .box_card_done_in{
 	width		:90vw;
-	padding		:1vw 2vw:
+	padding		:1vw 2vw;
 	margin		:1vw auto;
 	background	:#fafafa;
 	position	:relative;
+	text-align	:left;
+	font-size	:3.5vw;
+	line-height	:5vw;
 }
 
 .box_card{
