@@ -58,7 +58,8 @@
 	text-align	:center;
 	color		:#ffffff;
 	font-weight	:700;
-	lien-height	:6vw;
+	line-height	:6vw;
+	height		:50vw;
 }
 
 .box_card_done_img{
@@ -75,6 +76,7 @@
 	color		:#900000;
 	font-size	:4vw;
 	background	:#fafafa;
+	padding		:0;
 }
 
 
