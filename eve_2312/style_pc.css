@@ -51,7 +51,7 @@
 
 .box_card_done{
 	display		:none;
-	width		:800px;
+	width		:820px;
 	background	:#306050;
 	margin		:20px auto;
 	font-size	:22px;
@@ -126,12 +126,14 @@
 }
 
 .box_card_top{
-	width		:96vw;
-	margin		:1vw auto 0 auto;
-	border		:1vw solid #85b671;
+	width		:900px;
+	margin		:10px auto 0 auto;
+	border		:10px solid #85b671;
 	background	:#85b671;
 	position	:relative;
-	height		:8vw;
+	height		:32px;
+	line-height	:32px;
+	font-size	:30px;
 }
 
 
