@@ -37,24 +37,27 @@ $(function(){
 	});
 
 
+	$(".chu_card").on("click",function(){
+		$('#msg3').slideUp(500);
+	    $('.box_block').show();
+		$(this).children('.chu_card_f').css('transform','rotateY(-180deg)');
+
+		if(Done == 1){
+			$('#msg4').delay(600).slideDown(500);
+			$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':'url("https://katsumiexe.github.io/v_css/eve_2312/img/card1.jpg")'});
+		    $('.ar_modal_back').fadeIn(500);
+
+		}else{
+			$('#msg5').delay(600).slideDown(500);
+			$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':'url("https://katsumiexe.github.io/v_css/eve_2312/img/card2.jpg")'});
+		}
+
+	});
 
 	$("#ar_modal_batsu").on("click",function(){
 		$(".ar_modal_back").fadeOut();
 		$("#box_card_done").show();
 		$(".box_card_top, .box_card,.set_btn_out").hide();
-
-
-
-	});
-
-	$(".chu_card").on("click",function(){
-		var Url='url(\"https://katsumiexe.github.io/v_css/eve_2312/img/card'+Done+'.jpg\")';
-	    $('.box_block').show();
-		$(this).children('.chu_card_f').css('transform','rotateY(-180deg)');
-		$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':Url});
-		$('#msg3').slideUp(500);
-		Tmp_s=Done + 3;
-		$('#msg' + Tmp_s).delay(600).slideDown(500);
 
 	});
 });
