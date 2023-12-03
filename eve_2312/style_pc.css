@@ -8,7 +8,7 @@
 	border-radius	:5px;
 	transform-origin:center;
 	z-index			:10;
-	top				:10px;
+	top				:20px;
 }
 
 
@@ -158,6 +158,6 @@
 
 
 #c0{left:36px}
-#c1{left:252pxw}
+#c1{left:252px}
 #c2{left:468px}
 #c3{left:684px}
