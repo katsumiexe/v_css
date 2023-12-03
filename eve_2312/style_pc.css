@@ -140,10 +140,9 @@
 	position	:absolute;
 	top			:0;
 	left		:0;
-	height		:46vw;
-	width		:94vw;
+	height		:400px;
+	width		:900px;
 	z-index		:100;
-	background:rgba(255,50,50,0.4);
 }
 
 
