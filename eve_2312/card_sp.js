@@ -45,7 +45,7 @@ $(function(){
 		if(Done == 1){
 			$('#msg4').delay(600).slideDown(500);
 			$(this).children('.chu_card_b').css({'transform':'rotateY(0)','background-image':'url("https://katsumiexe.github.io/v_css/eve_2312/img/card1.jpg")'});
-		    $('.ar_modal_back').delay(1500).fadeIn(500);
+		    $('.ar_modal_back').delay(1000).fadeIn(500);
 
 		}else{
 			$('#msg5').delay(600).slideDown(500);
