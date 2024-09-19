@@ -10,6 +10,8 @@ html:has(.ar_modal[open]){
 	height			:8vw;
 	border-radius	:1vw;
 	background		:#303030;
+	display			:none;
+	z-index			:114516;
 }
 
 
