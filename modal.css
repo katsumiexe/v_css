@@ -1,4 +1,4 @@
-html:has(.modal[open]){
+html:has(.ar_modal[open]){
 	overflow		: hidden;
 }
 
