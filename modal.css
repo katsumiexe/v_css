@@ -4,25 +4,26 @@ html:has(.ar_modal[open]){
 
 .ar_modal_close{
 	position		:fixed;
-	top				:40vw;
-	left			:5;
+	top				:20vw;
+	right			:5vw;
 	width			:8vw;
 	height			:8vw;
-	border-radius	:0.5vw;
+	border-radius	:1vw;
 	background		:#303030;
 }
 
 
 .ar_modal_close_a,.ar_modal_close_b{
 	position		:absolute;
-	top					:1vw;
+	top				:1vw;
 	width			:1vw;
 	height			:7vw;
 	left			:0;
 	right			:0;
+	background		:#fafafa;
 	margin			:auto;
 	transform		:rotate(-45deg);
-	transform-origin:middle center;
+	transform-origin:center;
 }
 
 .ar_modal_close_b{
@@ -35,7 +36,7 @@ html:has(.ar_modal[open]){
 	display			:none;
 	text-align		:center;
 	position		:fixed;
-	top				:50vw;
+	top				:30vw;
 	left			:0;
 	right			:0;
 	margin			:auto;
