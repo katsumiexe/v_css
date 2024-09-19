@@ -3,6 +3,7 @@ html:has(.ar_modal[open]){
 }
 
 .ar_modal_base{
+	display			:none;
 	text-align		:center;
 	position		:absolute;
 	top				:30vw;
