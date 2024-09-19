@@ -15,11 +15,12 @@ html:has(.ar_modal[open]){
 
 .ar_modal_close_a,.ar_modal_close_b{
 	position		:absolute;
-	top				:1vw;
-	width			:1vw;
-	height			:7vw;
+	top				:0;
 	left			:0;
 	right			:0;
+	bottom			:0;
+	width			:1vw;
+	height			:6vw;
 	background		:#fafafa;
 	margin			:auto;
 	transform		:rotate(-45deg);
