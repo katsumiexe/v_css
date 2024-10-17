@@ -52,5 +52,18 @@
 	padding		:10px 20px;
 }
 
+.ar_modal_title{
+	margin			:10px auto;
+	width			:760px;
+	height			:40px;
+	line-height		:40px;
+	font-size		:22px;
+	text-align		:center;
+	background		:#c0f0b0;
+	color			:#303030;
+	border-bottom	:2px solid #008000;
+
+}
+
 
 
