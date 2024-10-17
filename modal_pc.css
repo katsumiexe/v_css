@@ -10,6 +10,7 @@
 }
 
 .ar_modal_main{
+	display		:none;
 	text-align	:center;
 	position	:absolute;
 	top			:20vh;
@@ -21,6 +22,7 @@
 	border		:10px solid #90c080;
 	border-radius:10px;
 	box-shadow	:5px 5px 5pxw rgba(30,30,30,0.5);
+	z-index		:114515;
 }
 
 .ar_modal_batsu{
