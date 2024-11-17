@@ -1,0 +1,209 @@
+*{
+	box-sizing:content-box;
+	-webkit-transition: none;
+	-moz-transition: none;
+	-ms-transition: none;
+	-o-transition: none;
+}
+
+
+.eve_box{
+	width:900px;
+	margin:0 10px;
+}
+.eve_box_notice{
+	width		:600px;
+	margin		:0 auto;
+	background	:#ffffe0;
+	font-size	:16px;
+	line-height	:22px;
+	padding		:15px;
+	text-align	:left;
+	border		:1px solid #202020;
+}
+
+.eve_title,.eve_title1,.eve_title2{
+	width		:100%;
+	height		:40px;
+	display		:flex;
+	background	:#fafafa;
+	font-size	:16px;
+	font-weight	:700;
+	border:1px solid #000000;
+}
+
+.eve_title1{
+	background	:#ffd0d0;
+}
+
+.eve_title2{
+	background	:#e0e0e0;
+}
+
+.eve_title_box{
+	flex-basis:		:200px;
+	height			:40px;
+	line-height		:40px;
+	text-align		:left;
+	padding-left	:5px;
+}
+
+.eve_title_no{
+	flex-basis:		:40px;
+	height			:40px;
+	line-height		:40px;
+	text-align		:left;
+	padding-left	:5px;
+}
+
+.eve_log{
+	display:none;
+}
+
+.eve_log_in{
+	display			:flex;
+	height			:40px;
+}
+
+.eve_log_name{
+	border-bottom	:1px solid #303030;
+	font-size		:16px;
+	padding			:3px;
+	width			:250px;
+	flex-basis		:250px;
+	margin			:5px 
+}
+
+.eve_log_birth{
+	border-bottom	:1px solid #303030;
+	font-size		:16px;
+	padding			:3px;
+	width			:250px;
+	flex-basis		:250px;
+	text-align		:right;
+	margin			:5px 
+}
+
+.eve_log_btn{
+	font-size		:16px;
+	height			:30px;
+	width			:100px;
+	margin			:5px;
+	display			:inline-block;
+}
+
+
+.eve_log_log{
+	font-size		:16px;
+	line-height		:23px;
+	padding			:5px;
+	background		:#e0e0e0;
+	width			:890px;
+}
+
+.eve_log_answer{
+	font-size		:16px;
+	height			:600px;
+	line-height		:23px;
+	padding			:5px;
+
+	width			:890px;
+	resize			:none;
+}
+
+
+@media screen and (max-width: 768px){
+
+
+
+.eve_box{
+	width		:100vw;
+	margin		:0;
+}
+.eve_box_notice{
+	width		:80vw;
+	margin		:0 auto;
+
+	font-size	:4vw;
+	line-height	:5.5vw;
+	padding		:1vw;
+}
+
+.eve_title,.eve_title1,.eve_title2{
+	width		:100%;
+	height		:8vw;
+	font-size	:4vw;
+}
+
+.eve_title1{
+}
+
+.eve_title2{
+}
+
+.eve_title_box{
+	flex-basis:		:30vw;
+	height			:8vw;
+	line-height		:8vw;
+	text-align		:left;
+	padding-left	:1vw;
+}
+
+.eve_title_no{
+	flex-basis:		:8vw;
+	height			:8vw;
+	line-height		:8vw;
+	text-align		:left;
+	padding-left	:1vw;
+}
+
+.eve_log{
+}
+
+.eve_log_in{
+	height			:8vw;
+}
+
+.eve_log_name{
+	font-size		:4vw;
+	padding			:0.5vw;
+	width			:25vw;
+	flex-basis		:2vw;
+	margin			:1vw; 
+}
+
+.eve_log_birth{
+	font-size		:4vw;
+	padding			:1vw;
+	width			:25vw;
+	flex-basis		:25vw;
+	margin			:1vw; 
+}
+
+.eve_log_btn{
+	font-size		:4vw;
+	height			:6vw;
+	width			:10vw;
+	margin			:1vw;
+}
+
+
+.eve_log_log{
+	font-size		:4vw;
+	line-height		:5.5vw;
+	padding			:1vw;
+	width			:96vw;
+}
+
+.eve_log_answer{
+	font-size		:4.5vw;
+	height			:60vw;
+	line-height		:6.5vw;
+	padding			:1vw;
+
+	width			:96vw;
+}
+
+
+
+}
