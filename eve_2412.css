@@ -32,14 +32,6 @@
 	border:1px solid #000000;
 }
 
-.eve_title1{
-	background	:#ffd0d0;
-}
-
-.eve_title2{
-	background	:#e0e0e0;
-}
-
 .eve_title_box{
 	flex-basis:		:200px;
 	height			:40px;
@@ -206,3 +198,19 @@
 
 
 }
+
+.eve_title1{
+	background	:#ffe0e0;
+}
+
+.eve_title2{
+	background	:#e8e8ff;
+}
+
+.eve_title3{
+	background	:#e8e8e8;
+}
+
+
+
+
