@@ -110,6 +110,7 @@
 }
 
 .img_box{
+	display			:block;
 	height			:130px;
 	flex-basis		:130px;
 	background		:#ff0000;
