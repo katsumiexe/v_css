@@ -97,11 +97,23 @@
 	height			:600px;
 	line-height		:23px;
 	padding			:5px;
-
 	width			:890px;
 	resize			:none;
 }
 
+.img_box_out{
+	display			:flex;
+	width			:900px;
+	height			:300px;
+	justfy-content	:space-between;
+}
+
+.img_box{
+	height			:290px;
+	flex-basis		:290px;
+	background		:#ff0000;
+	margin			:5px;
+}
 
 @media screen and (max-width: 768px){
 
