@@ -106,13 +106,13 @@
 .img_box_out{
 	display			:flex;
 	width			:900px;
-	height			:300px;
-	justfy-content	:space-between;
+	height			:200px;
+	justfy-content	:center;
 }
 
 .img_box{
-	height			:290px;
-	flex-basis		:290px;
+	height			:200px;
+	flex-basis		:200px;
 	background		:#ff0000;
 	margin			:5px;
 }
@@ -203,6 +203,21 @@
 
 	width			:96vw;
 }
+
+.img_box_out{
+	width			:90vw;
+	height			:22vw;
+	justfy-content	:center;
+}
+
+.img_box{
+	height			:20vw;
+	flex-basis		:20vw;
+	background		:#ff0000;
+	margin			:1vw;
+}
+
+
 
 }
 
