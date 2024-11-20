@@ -90,12 +90,14 @@
 
 
 .eve_log_log{
+	
 	font-size		:16px;
 	line-height		:23px;
 	padding			:10px;
 	background		:#fafaff;
 	width			:880px;
 	min-height		:70px;
+	margin-bottom	:5px;
 }
 
 .eve_log_answer{
@@ -114,8 +116,8 @@
 
 
 .eve_box{
-	width		:100vw;
-	margin		:0;
+	width		:98vw;
+	margin		:0 auto;
 }
 .eve_box_notice{
 	width		:80vw;
@@ -158,30 +160,30 @@
 }
 
 .eve_log_in{
-	height			:8vw;
+	height			:17vw;
+	flex-wrap		:wrap;
 }
 
 .eve_log_name{
-	font-size		:4vw;
+	font-size		:3.5vw;
+	height			:5.5vw;
 	padding			:0.5vw;
-	width			:25vw;
-	flex-basis		:2vw;
-	margin			:1vw; 
+	width			:96vw;
+	flex-basis		:96vw;
+	margin			:0.5vw; 
 }
 
 .eve_log_birth{
-	font-size		:4vw;
-	padding			:1vw;
-	width			:25vw;
-	flex-basis		:25vw;
-	margin			:1vw; 
+	font-size		:3.5vw;
+	padding			:3.5vw;
 }
 
 .eve_log_btn{
 	font-size		:4vw;
 	height			:6vw;
 	width			:10vw;
-	margin			:1vw;
+	flex-basis		:96vw;
+	margin			:0.5vw; 
 }
 
 
