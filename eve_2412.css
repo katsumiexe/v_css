@@ -105,15 +105,15 @@
 .img_box_out{
 	display			:flex;
 	width			:900px;
-	height			:200px;
+	height			:160px;
 	justfy-content	:center;
 }
 
 .img_box{
-	height			:200px;
-	flex-basis		:200px;
+	height			:140px;
+	flex-basis		:140px;
 	background		:#ff0000;
-	margin			:5px;
+	margin			:10px;
 }
 
 @media screen and (max-width: 768px){
