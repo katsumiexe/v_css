@@ -160,13 +160,13 @@
 }
 
 .eve_log_in{
-	height			:17vw;
+	height			:27vw;
 	flex-wrap		:wrap;
 }
 
 .eve_log_name{
 	font-size		:3.5vw;
-	height			:5.5vw;
+	height			:7vw;
 	padding			:0.5vw;
 	width			:96vw;
 	flex-basis		:96vw;
@@ -175,7 +175,6 @@
 
 .eve_log_birth{
 	font-size		:3.5vw;
-	padding			:3.5vw;
 }
 
 .eve_log_btn{
@@ -188,10 +187,11 @@
 
 
 .eve_log_log{
-	font-size		:4vw;
-	line-height		:5.5vw;
+	font-size		:3.5vw;
+	line-height		:5vw;
 	padding			:1vw;
 	width			:96vw;
+	mihn-height		:12vw;
 }
 
 .eve_log_answer{
