@@ -72,7 +72,7 @@
 	padding			:3px;
 }
 
-.eve_log_btn{
+.eve_log_btn1,.eve_log_btn2,.eve_log_btn3{
 	font-size		:16px;
 	height			:24px;
 	width			:80px;
@@ -169,13 +169,14 @@
 	font-size		:3.5vw;
 }
 
-.eve_log_btn{
+.eve_log_btn1,.eve_log_btn2,.eve_log_btn3{
 	font-size		:4vw;
 	height			:6vw;
 	width			:10vw;
 	flex-basis		:96vw;
 	margin			:0.5vw; 
 }
+
 
 
 .eve_log_log{
@@ -195,8 +196,15 @@
 	width			:96vw;
 }
 
+}
 
 
+.eve_log_btn1{
+	background	:#ff6060;
+}
+
+.eve_log_btn2,.eve_log_btn3{
+	background	:#d0d0d0;
 }
 
 .eve_title1{
