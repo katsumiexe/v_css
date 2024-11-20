@@ -69,26 +69,22 @@
 	border-bottom	:1px solid #303030;
 	font-size		:16px;
 	padding			:3px;
-	width			:250px;
-	flex-basis		:250px;
+	width			:400px;
+	flex-basis		:400px;
 	margin			:5px 
 }
 
 .eve_log_birth{
-	border-bottom	:1px solid #303030;
+	display			:inline-block;
 	font-size		:16px;
 	padding			:3px;
-	width			:250px;
-	flex-basis		:250px;
-	text-align		:right;
-	margin			:5px 
 }
 
 .eve_log_btn{
 	font-size		:16px;
-	height			:30px;
-	width			:100px;
-	margin			:5px;
+	height			:24px;
+	width			:80px;
+	margin			:5px 5px 5px 30px;;
 	display			:inline-block;
 }
 
