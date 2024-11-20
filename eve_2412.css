@@ -105,8 +105,8 @@
 .img_box_out{
 	display			:flex;
 	width			:900px;
-	height			:160px;
-	justfy-content	:center;
+	height			:150px;
+	margin-bottom	:10px;
 }
 
 .img_box{
