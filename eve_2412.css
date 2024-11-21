@@ -115,6 +115,7 @@
 	flex-basis		:130px;
 	background		:#ff0000;
 	margin			:10px;
+	overflow		:hidden;
 }
 
 @media screen and (max-width: 768px){
