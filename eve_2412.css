@@ -113,9 +113,10 @@
 	display			:block;
 	height			:130px;
 	flex-basis		:130px;
-	background		:#ff0000;
 	margin			:10px;
 	overflow		:hidden;
+	background-image:url("https://vernis.co.jp/asset/image/eve_2412/no_image.jpg");
+	background-size	:cover;
 }
 
 @media screen and (max-width: 768px){
