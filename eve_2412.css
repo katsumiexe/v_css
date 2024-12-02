@@ -42,7 +42,7 @@
 }
 
 .eve_title_hist{
-	flex-basis		:120px;
+	flex-basis		:110px;
 	height			:30px;
 	line-height		:30px;
 	text-align		:left;
@@ -51,6 +51,7 @@
 	background		:#20a020;
 	color			:#fafafa;
 	border-radius	:5px;
+	text-align:center;
 }
 
 .talkmemo{
