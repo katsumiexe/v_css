@@ -187,6 +187,21 @@
 	background-size	:cover;
 }
 
+.eve_2412_cnt{
+	position	:absolute;
+	top			:2px;
+	right		:2px;
+	height		:20px;
+	line-height	:20px;
+	width		:20px;
+	background	:#30a030;
+	color		:#fafafa;
+	font-weight	:600;
+	font-size	:14px;
+	text-align	:center;
+}
+
+
 @media screen and (max-width: 768px){
 
 
