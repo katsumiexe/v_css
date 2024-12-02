@@ -34,7 +34,7 @@
 }
 
 .eve_title_box{
-	flex-basis:		:200px;
+	flex-basis		:210px;
 	height			:40px;
 	line-height		:40px;
 	text-align		:left;
@@ -42,7 +42,7 @@
 }
 
 .eve_title_hist{
-	flex-basis:		:270px;
+	flex-basis		:120px;
 	height			:30px;
 	line-height		:30px;
 	text-align		:left;
