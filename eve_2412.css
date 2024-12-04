@@ -117,7 +117,8 @@
 }
 
 .eve_log{
-	display:none;
+	display			:none;
+	position		:relative;
 }
 
 .eve_log_in{
