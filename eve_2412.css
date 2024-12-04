@@ -188,6 +188,21 @@
 	background-size	:cover;
 }
 
+.eve_2412_cnt{
+	position	:absolute;
+	bottom		:-30px;
+	right		:0;
+	width		:80px;
+	height		:20px;
+	border		:3px solid #ff90e0;
+	border-raddius:5px;
+	text-align	:right;
+	padding		:5px;
+	font-size	:14px;
+	font-weight	:600;
+	background	:#fffafa;
+	color		:#000060;
+}
 
 
 @media screen and (max-width: 768px){
