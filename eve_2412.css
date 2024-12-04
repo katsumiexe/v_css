@@ -190,16 +190,16 @@
 
 .eve_2412_res{
 	position	:absolute;
-	bottom		:125px;
+	bottom		:105px;
 	right		:0;
-	width		:70px;
+	width		:75px;
 	height		:30px;
 	border		:3px solid #000090;
 	border-radius:5px;
 	text-align	:right;
 	padding		:5px;
 	font-size	:20px;
-	font-weight	:600;
+	font-weight	:800;
 	background	:#fffafa;
 	color		:#000060;
 }
