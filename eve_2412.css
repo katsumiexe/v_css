@@ -206,6 +206,13 @@
 
 
 @media screen and (max-width: 768px){
+.eve_title_hist {
+    flex-basis: 60vw;
+    height: 7vw;
+    line-height: 7vw;
+    margin: 0.5vw;
+}
+
 
 .eve_2412_res {
     bottom		:10vw;
@@ -241,21 +248,19 @@
 
 }
 
-
-
 .eve_title_box{
 	overflow		:hidden;
-	flex-basis		:46vw;
-	height			:8vw;
-	line-height		:8vw;
+	flex-basis		:44vw;
+	height			:6vw;
+	line-height		:6vw;
 	text-align		:left;
-	padding-left	:1vw;
+	padding-left	:0.5vw;
 }
 
 .eve_title_no{
 	flex-basis		:4vw;
-	height			:8vw;
-	line-height		:8vw;
+	height			:6vw;
+	line-height		:6vw;
 	text-align		:left;
 	padding-left	:1vw;
 }
