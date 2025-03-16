@@ -70,8 +70,14 @@
 	position	:relative;
 	background: linear-gradient(-70deg, rgba(255, 255, 255, 0) 0, #fafafa 30% , #fafafa 100%);
 	z-index		:1;
-	padding		:2vw;
 	box-shadow	:0 -1vw 0 #fafafa;
+	width		:98vw;
+	text-align	:center;
+	display		:flex;
+	flex-wrap	:wrap;
+	padding:1vw 1vw 5vw 1vw;
+
+
 }
 
 
