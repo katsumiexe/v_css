@@ -765,8 +765,9 @@
 	margin			:0 auto;
 }
 .wave{
-	width:100vw;
-	z-index:10;
+	position		:relative;
+	width			:100vw;
+	z-index			:10;
 }
 
 #mainmenu{
