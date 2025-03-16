@@ -118,20 +118,15 @@
 //	justify-content:space-around;
 }
 
-.notice_a{
-	width		:92vw;
+.notice_a,.notice_b{
+	width		:98vw;
 	height		:3px;
 	margin		:5vw auto 0 auto;
-	background	:#ff00ff;
-	background:linear-gradient(90deg,#fafafa 0%,#6090a0 50%,#fafafa 100%);
+	background:linear-gradient(90deg,rgba(255, 255, 255, 0) 0%,#6090a0 30%,#6090a0 70%,rgba(255, 255, 255, 0) 100%);
 }
 
 .notice_b{
-	width		:92vw;
 	margin		:0 auto 2vw auto;
-	background	:#0000ff;
-	height		:3px;
-	background:linear-gradient(90deg,#fafafa 0%,#6090a0 50%,#fafafa 100%);
 }
 
 
