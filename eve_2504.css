@@ -68,10 +68,10 @@
 
 .box_4{
 	position	:relative;
-	background: linear-gradient(-70deg, rgba(255, 255, 255, 0) 0, #fafafa 30% , #fafafa 100%);
+	background: linear-gradient(-170deg, rgba(255, 255, 255, 0) 0, #fafafa 20% , #fafafa 100%);
 	z-index		:1;
 	box-shadow	:0 -1vw 0 #fafafa;
-	width		:98vw;
+	width		:100vw;
 	text-align	:center;
 	display		:flex;
 	flex-wrap	:wrap;
@@ -140,11 +140,6 @@
 	margin		:5vw auto 0 auto;
 	background:linear-gradient(90deg,rgba(255, 255, 255, 0) 0%,#6090a0 30%,#6090a0 70%,rgba(255, 255, 255, 0) 100%);
 }
-
-.notice_b{
-	margin		:0 auto 2vw auto;
-}
-
 
 .notice{
 	width		:90vw;
