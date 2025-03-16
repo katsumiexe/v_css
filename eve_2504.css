@@ -41,7 +41,7 @@
 	background	:#fafafa;
 	background: linear-gradient(#fafafa 0%,#fafafa 60%, rgba(255, 255, 255, 0) 100%);
 	z-index		:1;
-	padding		:2vw;
+	padding		:3vw 0.5vw;
 	box-shadow	:0 -1vw 0 #fafafa;
 }
 
@@ -160,11 +160,11 @@
 	width			:92vw;
 	text-align		:left;
 	height			:10vw;
-	padding			:1vw 0 0 0;
+	padding			:3vw 0 0 0;
 	border-bottom	:0.5vw solid #004060;
 	color			:#004060;
 	font-size		:6vw;
-	margin			:1vw auto 0 auto;	
+	margin			:0 auto;	
 	font-weight		:700;
 }
 
