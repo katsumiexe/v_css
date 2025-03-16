@@ -142,12 +142,13 @@
 }
 
 .notice{
-	width		:90vw;
+	width		:92vw;
 	line-height	:4.5vw;
 	font-size	:3.5vw;
 	color		:#004060;
-	padding		:0vw;
+	padding		:1vw 2vw;
 	margin		:1vw auto;
+	background	:rgba(255,255,255,0.7);
 }
 
 .p{
