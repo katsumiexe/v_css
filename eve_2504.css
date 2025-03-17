@@ -13,13 +13,22 @@
 	background	:#e0f0ff;
 }
 
-.img_back2,.img_back1{
+.img_back1{
+	width		:100vw;
+	position	:absolute;
+	left		:0;
+	right		:0;
+	bottom		:0;
+	margin		:auto;
+}
+
+.img_back2{
 	width		:100vw;
 	position	:absolute;
 	left		:0;
 	right		:0;
 	margin		:auto;
-	display:none;
+	display		:none;
 }
 
 .img_back3{
@@ -30,10 +39,6 @@
 	bottom		:-3vh;
 	margin		:auto;
 	display:none;
-}
-
-.img_back1{
-	top:-55vw;
 }
 
 .box_1{
