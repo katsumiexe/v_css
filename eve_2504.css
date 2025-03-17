@@ -96,6 +96,20 @@
 }
 
 
+.btn_link{
+	width		:80vw;
+	height		:8vw;
+	line-height	:8vw;
+	border-radius:1vw;
+	font-size	:4vw;
+	font-weight	:700;
+	color		:#fafafa;
+	margin		:1vw auto;
+	text-decoration:none;
+	display:block;
+	background:linear-gradient(#c0a060,#a08040);
+}
+
 
 
 .top_1{
