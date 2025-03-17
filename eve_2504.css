@@ -15,20 +15,23 @@
 
 .img_back1{
 	width		:100vw;
-	position	:absolute;
+	position	:fixed;
 	left		:0;
 	right		:0;
-	bottom		:0;
+	top			:0;
 	margin		:auto;
+	z-index		:0;
 }
 
 .img_back2{
 	width		:100vw;
-	position	:absolute;
+	position	:fixed;
 	left		:0;
 	right		:0;
+	top			:0;
 	margin		:auto;
 	display		:none;
+	z-index		:0;
 }
 
 .img_back3{
@@ -38,7 +41,8 @@
 	right		:0;
 	bottom		:-3vh;
 	margin		:auto;
-	display:none;
+	display		:none;
+	z-index		:0;
 }
 
 .box_1{
