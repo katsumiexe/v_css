@@ -177,13 +177,13 @@
 	position		:relative;
 	width			:92vw;
 	text-align		:left;
-	height			:10vw;
+	height			:12vw;
 	padding			:3vw 0 0 0;
-	border-bottom	:0.5vw solid #004060;
+	border-bottom	:1vw solid #004060;
 	color			:#004060;
 	font-size		:6vw;
 	margin			:0 auto;	
-	font-weight		:700;
+	font-weight		:800;
 }
 
 .box_title2{
