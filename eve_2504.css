@@ -86,7 +86,7 @@
 
 .box_5{
 	position	:relative;
-	background: linear-gradient(#fafafa 0%,#fafafa 10%,rgba(255, 255, 255, 0) 50%, #fafafa 90%,#fafafa 100%);
+	background: linear-gradient(#fafafa 0%,#fafafa 10%,rgba(255, 255, 255, 0) 50%, #fafafa 90%,#ffffff 100%);
 	z-index		:1;
 	width		:100vw;
 	text-align	:center;
@@ -425,7 +425,7 @@
 .btm{
 	position	:relative;
 	width		:100vw;
-	height		:50vw;
+	height		:40vw;
 	margin		:0;
 	padding		:0;
 }
@@ -436,6 +436,7 @@
 	left		:0;
 	width		:100vw;
 	z-index		:-1;
+	height		:10vw;
 }
 
 .btm_image2{
