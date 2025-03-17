@@ -82,9 +82,19 @@
 	display		:flex;
 	flex-wrap	:wrap;
 	padding:1vw 1vw 5vw 1vw;
-
-
 }
+
+.box_5{
+	position	:relative;
+	background: linear-gradient(#fafafa 0%,#fafafa 10%,rgba(255, 255, 255, 0) 50%, #fafafa 90%,#fafafa 100%);
+	z-index		:1;
+	width		:100vw;
+	text-align	:center;
+	display		:flex;
+	flex-wrap	:wrap;
+	padding:1vw 1vw 5vw 1vw;
+}
+
 
 
 
