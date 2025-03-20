@@ -351,20 +351,6 @@
 	border-bottom	:0.5vw solid #d0f0ff;
 }
 
-.face_pts{
-	display			:inline-block;
-	margin			:0 0.5vw 1vw 0;
-	width			:13vw;
-	height			:5vw;
-	line-height		:6vw;
-	color			:#008020;
-	font-size		:3vw;
-	text-align		:right;
-	font-weight		:800;
-	vertical-align	:top;
-}
-
-
 .face_img{
 	display		:inline-block;
 	position	:relative;
@@ -385,9 +371,10 @@
 
 
 .face_st{
-	position		:relative;
-	display			:inline-block;
-	margin			:-1vw 2vw 1vw 0vw;
+	position		:absolute;
+	top				:30vw;
+	left			:1vw;
+	display			:block;
 	width			:11vw;
 	height			:5vw;
 	color			:#fafafa;
@@ -401,7 +388,26 @@
 	z-index			:2;
 }
 
+.face_pts{
+	position		:absolute;
+	top				:32vw;
+	right			:1vw;
+	display			:block;
+	width			:15vw;
+	height			:5vw;
+	line-height		:6vw;
+	color			:#008020;
+	font-size		:3vw;
+	text-align		:right;
+	font-weight		:800;
+	vertical-align	:top;
+	z-index			:2;
+}
 .face_name{
+	position	:absolute;
+	top			:37vw;
+	left		:0;
+	right		:0;
 	display		:block;
 	width		:25vw;
 	height		:5vw;
@@ -410,7 +416,7 @@
 	overflow	:hidden;
 	font-weight	:600;
 	text-align	:center;
-	margin		:1vw auto;
+	margin		:auto;
 	color		:#4050c0;
 }
 	
