@@ -317,20 +317,12 @@
 	display			:inline-block;
 	width			:31vw;
 	flex-basis		:31vw;
-	min-height		:40vw;
-	margin			:0.5vw;
-	text-decoration	:none;
-}
-
-.face_in{
-	position		:relative;
-	display			:inline-block;
-	width			:100%;
-	margin			:0;
+	height			:43vw;
+	margin			:1vw 0.5vw;
 	text-decoration	:none;
 	background		:#d0f0ff;
+	text-decoration	:none;
 }
-
 
 .face_comm{
 	display			:inline-block;
