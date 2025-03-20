@@ -167,7 +167,7 @@
 }
 
 .notice_a,.notice_b{
-	width		:100vw;
+	width		:98vw;
 	height		:3px;
 	margin		:3vw auto;
 	background:linear-gradient(90deg,rgba(255, 255, 255, 0) 0%,#6090a0 30%,#6090a0 70%,rgba(255, 255, 255, 0) 100%);
