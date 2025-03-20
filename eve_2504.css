@@ -357,9 +357,9 @@
 	height			:5vw;
 	line-height		:6vw;
 	color			:#008020;
-	font-size		:2.5vw;
+	font-size		:3vw;
 	text-align		:right;
-	font-weight		:700;
+	font-weight		:800;
 	vertical-align	:top;
 }
 
@@ -387,10 +387,10 @@
 	position		:relative;
 	display			:inline-block;
 	margin			:-1vw 2vw 1vw 0vw;
-	width			:12vw;
+	width			:11vw;
 	height			:5vw;
 	color			:#fafafa;
-	font-size		:2.5vw;
+	font-size		:2.8vw;
 	line-height		:5vw;
 	text-align		:center;
 	box-shadow		:0.5vw 0.5vw 0.5vw rgba(0,0,0,0.5); 
