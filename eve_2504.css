@@ -398,15 +398,15 @@
 }
 
 .face_name{
-	display		:inline-block;
-	width		:28vw;
-	height		:8vw;
-	line-height	:4.5vw;
-	font-size	:3.8vw;
+	display		:block;
+	width		:25vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-size	:4vw;
 	overflow	:hidden;
 	font-weight	:600;
 	text-align	:center;
-	margin		:0 auto 1vw auto;
+	margin		:1vw auto;
 }
 	
 .face_name_in2{
@@ -417,14 +417,7 @@
 	font-size	:2.8vw;
 
 }
-.face_name_in{
-	display		:inline-block;
-	font-size	:3.5vw;
-	color		:#0000e0;
-	font-weight	:600;
-	text-align	:left;
-	margin		:0 auto;
-}
+
 .bn_btm{
 	position	:absolute;
 	bottom		:5vw;
