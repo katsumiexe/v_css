@@ -98,16 +98,17 @@
 
 .btn_link{
 	width		:80vw;
-	height		:8vw;
-	line-height	:8vw;
+	height		:9vw;
+	line-height	:9vw;
 	border-radius:1vw;
 	font-size	:4vw;
 	font-weight	:700;
 	color		:#fafafa;
 	margin		:1vw auto;
 	text-decoration:none;
-	display:block;
-	background:linear-gradient(#c0a060,#a08040);
+	display		:block;
+	background	:linear-gradient(#90f0c0,#70f0a0);
+	text-align:center;
 }
 
 
