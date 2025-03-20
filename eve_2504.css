@@ -384,8 +384,8 @@
 
 .face_st{
 	display			:inline-block;
-	margin			:0 1vw 1vw 1vw;
-	width			:14vw;
+	margin			:-1vw 1vw 1vw 1vw;
+	width			:12vw;
 	height			:5vw;
 	color			:#fafafa;
 	font-size		:2.5vw;
@@ -395,6 +395,7 @@
 	font-weight		:600;
 	border-radius	:0.5vw;
 	vertical-align	:top;
+	z-index			:2;
 }
 
 .face_name{
