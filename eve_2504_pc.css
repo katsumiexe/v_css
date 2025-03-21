@@ -15,7 +15,8 @@
 
 .img_back1{
 	width		:100vw;
-	position	:absolute;
+	position	:fixed;
+	top			:0;
 	left		:0;
 	right		:0;
 	margin		:auto;
@@ -37,7 +38,6 @@
 	background	:#ffffff;
 	z-index		:1;
 	padding		:10px;
-	height		:600px;
 }
 
 .box_pre{
@@ -62,6 +62,7 @@
 	display		:flex;
 	flex-wrap	:wrap;
 //	background	:#9fffff;
+	background	:linear-gradient(#ffffff 0%,rgba(255,255,255,0) 100%);
 	min-height	:100vh;
 	z-index		:1;
 	padding		:20px 50px;
