@@ -37,13 +37,20 @@
 	background	:#ffffff;
 	z-index		:1;
 	padding		:10px;
-	height		:1000px;
+	height		:600px;
+}
+
+.box_pre{
+	display		:block;
+	background	:#90d0ff;
+	height		:300px;
+	width		:600px;
+	margin		:10px auto;
 }
 
 .box_2{
 	position	:relative;
 	width		:100vw;
-	background	:#ffffff;
 	height		:50px;
 	z-index		:1;
 }
@@ -54,7 +61,7 @@
 	text-align	:left;
 	display		:flex;
 	flex-wrap	:wrap;
-	background	:#9fffff;
+//	background	:#9fffff;
 	min-height	:100vh;
 	z-index		:1;
 	padding		:20px 50px;
@@ -288,7 +295,7 @@
 	width			:200px;
 	flex-basis		:200px;
 	height			:265px;
-	margin			:5px;
+	margin			:10px;
 	text-decoration	:none;
 	background		:#a0e0f0;
 }
@@ -315,7 +322,7 @@
 	position		:absolute;
 	height			:17px;
 	line-height		:17px;
-	top				:195px;
+	top				:200px;
 	right			:10px;
 	font-size		:18px;
 	color			:#008020;
@@ -329,12 +336,12 @@
 	position		:absolute;
 	top				:190px;
 	left			:8px;
-	width			:70px;
+	width			:75px;
 	height			:30px;
 	line-height		:30px;
 	margin			:auto;
 	color			:#fafafa;
-	font-size		:15px;
+	font-size		:16px;
 	text-align		:center;
 	overflow		:hidden;
 	border-radius	:5px;
