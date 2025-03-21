@@ -287,7 +287,7 @@
 	display			:inline-block;
 	width			:200px;
 	flex-basis		:200px;
-	height			:250px;
+	height			:260px;
 	margin			:5px;
 	text-decoration	:none;
 	background		:#a0e0f0;
@@ -344,7 +344,7 @@
 
 .face_name{
 	position	:absolute;
-	top			:210px;
+	top			:230px;
 	right		:15px;
 	height		:30px;
 	font-size	:20px;
