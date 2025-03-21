@@ -44,7 +44,7 @@
 .box_pre{
 	display		:block;
 	background	:#90d0ff;
-	height		:300px;
+	height		:500px;
 	width		:600px;
 	margin		:10px auto;
 }
@@ -83,8 +83,8 @@
 
 
 .top_1{
-	width		:600px;
-	margin:10px auto;
+	width		:800px;
+	margin:10px auto 60px auto;
 }
 .top_1a{
 	width		:600px;
