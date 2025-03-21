@@ -54,7 +54,7 @@
 	text-align	:left;
 	display		:flex;
 	flex-wrap	:wrap;
-	background	:#ffffff;
+	background	:#9fffff;
 	min-height	:100vh;
 	z-index		:1;
 	padding		:20px 50px;
@@ -285,34 +285,20 @@
 .face{
 	position		:relative;
 	display			:inline-block;
-	width			:170px;
-	flex-basis		:170px;
-	min-height		:250px;
+	width			:200px;
+	flex-basis		:200px;
+	height			:250px;
 	margin			:5px;
 	text-decoration	:none;
 	background		:#a0e0f0;
 }
 
-
-.face_in{
-	position	:relative;
-	width		:160px;
-	height		:70px;
-	background	:linear-gradient(135deg,#e0e8ff,#c0c8ff);
-	z-index		:2;
-	margin		:0 5px;
-//	box-shadow		:0 -5px 0 #e0e8ff;
-	background		:#a0e0f0;
-
-}
-
-
 .face_img{
 	display		:inline-block;
 	position	:relative;
-	width		:160px;
-	height		:160px;
-	margin		:5px 5px 0 5px;
+	width		:190px;
+	height		:190px;
+	margin		:5px;
 	overflow	:hidden;
 }
 
@@ -320,37 +306,16 @@
 	position	:absolute;
 	top			:-10px;
 	left		:-10px;
-	width		:180px;
-	max-width	:180px;
-	height		:180px;
+	width		:210px;
+	height		:210px;
 }
-
-
-
-
-
-.face_comm{
-	display		:inline-block;
-	width		:150px;
-	height		:70px;
-	z-index		:2;
-	font-size	:15px;
-	line-height	:22px;	
-	overflow	:hidden;
-	text-align	:left;
-	padding		:5px;
-	color		:#3060a0;
-	background	:linear-gradient(135deg,#f0faff,#e0eaff);
-	margin:0 5px;
-}
-
 
 .face_pts{
 	position		:absolute;
 	height			:17px;
 	line-height		:17px;
-	top				:-5px;
-	right			:0px;
+	top				:210px;
+	right			:5px;
 	font-size		:16px;
 	color			:#008020;
 	font-weight		:700;
@@ -361,46 +326,32 @@
 .face_st{
 	display			:inline-block;
 	position		:absolute;
-	top				:-15px;
-	left			:2px;
+	top				:200px;
+	left			:8px;
 	width			:70px;
-	height			:24px;
-	line-height		:24px;
+	height			:30px;
+	line-height		:30px;
 	margin			:auto;
 	color			:#fafafa;
-	font-size		:14px;
+	font-size		:15px;
 	text-align		:center;
 	overflow		:hidden;
 	border-radius	:5px;
 	border			:1px solid #000000;
+	font-weight		:800;
 }
 
 
 .face_name{
 	position	:absolute;
-	height		:40px;
-	bottom		:0px;
-	right		:5px;
-	font-size	:18px;
+	top			:220px;
+	right		:10px;
+	height		:30px;
+	font-size	:20px;
 	color		:#0000d0;
-	font-weight	:600;
+	font-weight	:800;
 }
 	
-.face_name_in2{
-	display		:block;
-	font-size	:13px;
-	text-align	:left;
-	height		:16px;
-	line-height	:16px;
-}
-
-.face_name_in{
-	display		:inline-block;
-	height		:40px;
-	line-height	:24px;
-}
-
-
 .nts{
 	color		:#0060a0;
 	line-height	:25px;
