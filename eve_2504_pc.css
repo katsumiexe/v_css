@@ -314,8 +314,8 @@
 	position		:absolute;
 	height			:17px;
 	line-height		:17px;
-	top				:210px;
-	right			:5px;
+	top				:200px;
+	right			:15px;
 	font-size		:16px;
 	color			:#008020;
 	font-weight		:700;
@@ -326,7 +326,7 @@
 .face_st{
 	display			:inline-block;
 	position		:absolute;
-	top				:200px;
+	top				:190px;
 	left			:8px;
 	width			:70px;
 	height			:30px;
@@ -344,8 +344,8 @@
 
 .face_name{
 	position	:absolute;
-	top			:220px;
-	right		:10px;
+	top			:210px;
+	right		:15px;
 	height		:30px;
 	font-size	:20px;
 	color		:#0000d0;
