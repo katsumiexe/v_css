@@ -16,20 +16,21 @@
 .img_back1{
 	width		:100vw;
 	position	:absolute;
-	top			:-560px;
+	top			:-920px;
 	left		:0;
 	right		:0;
 	margin		:auto;
+	z-index		:-1;
 }
 
 .img_back2{
-	display		:none;
 	width		:100vw;
 	position	:fixed;
 	left		:0;
 	right		:0;
 	bottom		:0;
 	margin		:auto;
+	z-index		:-2;
 }
 
 .box_1{
