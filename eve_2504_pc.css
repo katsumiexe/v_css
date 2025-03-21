@@ -287,7 +287,7 @@
 	display			:inline-block;
 	width			:200px;
 	flex-basis		:200px;
-	height			:260px;
+	height			:265px;
 	margin			:5px;
 	text-decoration	:none;
 	background		:#a0e0f0;
@@ -315,9 +315,9 @@
 	position		:absolute;
 	height			:17px;
 	line-height		:17px;
-	top				:200px;
-	right			:15px;
-	font-size		:16px;
+	top				:195px;
+	right			:10px;
+	font-size		:18px;
 	color			:#008020;
 	font-weight		:700;
 	border-bottom	:2px solid #008020;
@@ -345,10 +345,10 @@
 
 .face_name{
 	position	:absolute;
-	top			:230px;
+	top			:235px;
 	right		:15px;
 	height		:30px;
-	font-size	:20px;
+	font-size	:22px;
 	color		:#0000d0;
 	font-weight	:800;
 }
