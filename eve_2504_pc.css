@@ -16,7 +16,7 @@
 .img_back1{
 	width		:100vw;
 	position	:absolute;
-	top			:-920px;
+	top			:0;
 	left		:0;
 	right		:0;
 	margin		:auto;
