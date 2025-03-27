@@ -42,12 +42,20 @@
 }
 
 .box_pre{
-	display		:block;
-	background	:#90d0ff;
 	height		:280px;
 	width		:280px;
-	margin		:10px auto;
 }
+
+.box_pre2{
+	background	:#f0f8ff;
+	width		:320px;
+	padding		:15px;
+	font-size	:18px;
+	line-height	:25px;
+	vertical-align:top;
+}
+
+
 
 .box_2{
 	position	:relative;
@@ -154,10 +162,10 @@
 }
 
 .notice{
-	width		:560px;
-	line-height	:28px;
-	font-size	:20px;
-	color		:#004060;
+	width		:520px;
+	line-height	:24px;
+	font-size	:18px;
+	color		:#606060;
 	padding		:0vw;
 	margin		:10px auto;
 }
@@ -172,17 +180,6 @@
 	margin		:0 auto;
 	font-weight	:800;
 }
-
-.notice_d{
-	width		:500px;
-	line-height	:25px;
-	font-size	:18px;
-	color		:#606060;
-	padding		:15px;
-	margin		:10px auto 30px auto;
-}
-
-
 
 .nt_p{
 	display		:block;
