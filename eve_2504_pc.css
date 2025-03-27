@@ -148,7 +148,7 @@
 .notice_a{
 	width		:600px;
 	height		:3px;
-	margin		:20px auto 0 auto;
+	margin		:0 auto;
 	background	:#ff00ff;
 	background:linear-gradient(90deg,#fafafa 0%,#6090a0 50%,#fafafa 100%);
 }
@@ -171,13 +171,13 @@
 }
 
 .notice_c{
-	width		:500px;
-	height		:25px
+	width		:520px;
+	height		:25px;
 	line-height	:25px;
 	font-size	:20px;
 	color		:#171717;
 	padding		:0vw;
-	margin		:0 auto;
+	margin		:20px auto 5px auto;
 	font-weight	:800;
 }
 
