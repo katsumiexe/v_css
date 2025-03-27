@@ -185,6 +185,16 @@
 	background	:rgba(255,255,255,0.7);
 }
 
+.notice_c{
+	width		:86vw;
+	line-height	:4vw;
+	font-size	:3.2vw;
+	color		:#323232;
+	padding		:1vw;
+	margin		:1vw auto;
+	background	:rgba(250,230,245,0.7);
+}
+
 .p{
 	display:block;
 	padding:0.5vw 1vw;
