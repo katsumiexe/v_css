@@ -171,20 +171,20 @@
 }
 
 .notice_c{
-	width		:520px;
-	height		:25px;
-	line-height	:25px;
-	font-size	:20px;
-	color		:#171717;
-	padding		:0vw;
-	margin		:20px auto 5px auto;
-	font-weight	:800;
+	width			:520px;
+	height			:25px;
+	line-height		:25px;
+	font-size		:20px;
+	color			:#171717;
+	padding			:0vw;
+	margin			:20px auto 5px auto;
+	font-weight		:800;
 }
 
 .nt_p{
-	display		:block;
-	padding		:2px 10px;
-	font-size	:16px;
+	display			:block;
+	padding			:2px 10px;
+	font-size		:16px;
 }
 
 
@@ -218,9 +218,9 @@
 
 
 .blank_2{
-	position	:relative;
-	width		:100vw;
-	height		:200px;
+	position		:relative;
+	width			:100vw;
+	height			:200px;
 }
 
 .pick{
