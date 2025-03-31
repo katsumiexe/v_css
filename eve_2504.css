@@ -348,7 +348,7 @@
 
 .face_comm{
 	position		:absolute;
-	top				:17vw;
+	top				:22vw;
 	left			:1vw;
 	display			:block;
 	width			:44vw;
@@ -359,16 +359,18 @@
 	color			:#006090;
 	text-align		:left;
 	background		:#f0faff;
-	padding			:1vw 0.5vw 0.5vw 1vw;
-	box-shadow		:0.5vw 0.5vw 0.5vw rgba(17,17,27,0.8) inset;
+	padding			:0.2vw;
+	border-right	:0.5vw solid #d0f0ff;
+	border-left		:0.5vw solid #d0f0ff;
+	border-bottom	:0.5vw solid #d0f0ff;
 }
 
 .face_img{
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:16vw;
-	height		:16vw;
+	width		:20vw;
+	height		:20vw;
 	overflow	:hidden;
 }
 
@@ -376,8 +378,8 @@
 	position	:absolute;
 	top			:-1vw;
 	left		:-1vw;
-	width		:18vw;
-	height		:18vw;
+	width		:22vw;
+	height		:22vw;
 }
 
 .face_st{
@@ -407,28 +409,26 @@
 	height			:6vw;
 	line-height		:6vw;
 	color			:#008020;
-	font-size		:3.2vw;
+	font-size		:4vw;
 	text-align		:right;
 	font-weight		:800;
 	vertical-align	:top;
 	z-index			:2;
 }
 .face_name{
-	position		:absolute;
-	top				:10.5vw;
-	left			:18vw;
-	display			:block;
-	width			:25vw;
-	height			:6vw;
-	line-height		:6vw;
-	font-size		:4vw;
-	overflow		:hidden;
-	font-weight		:600;
-	text-align		:right;
-	margin			:auto;
-	color			:#4050c0;
-	padding-left	:0.5vw;
-	border-bottom	:0.5vw solid #171717;
+	position	:absolute;
+	top			:13vw;
+	left		:21vw;
+	display		:block;
+	width		:25vw;
+	height		:6vw;
+	line-height	:6vw;
+	font-size	:4vw;
+	overflow	:hidden;
+	font-weight	:600;
+	text-align	:right;
+	margin		:auto;
+	color		:#4050c0;
 }
 
 .bn_btm{
