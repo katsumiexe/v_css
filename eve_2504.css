@@ -337,7 +337,7 @@
 	display			:inline-block;
 	width			:46vw;
 	flex-basis		:46vw;
-	height			:27vw;
+	height			:30vw;
 	margin			:1vw;
 	text-decoration	:none;
 	background		:#d0f0ff;
@@ -367,8 +367,8 @@
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:15vw;
-	height		:15vw;
+	width		:14vw;
+	height		:14vw;
 	overflow	:hidden;
 }
 
@@ -415,10 +415,10 @@
 }
 .face_name{
 	position		:absolute;
-	top				:10vw;
+	top				:9vw;
 	left			:18vw;
 	display			:block;
-	width			:28w;
+	width			:29vw;
 	height			:6vw;
 	line-height		:6vw;
 	font-size		:4vw;
