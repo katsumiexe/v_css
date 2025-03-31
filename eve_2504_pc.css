@@ -373,12 +373,13 @@
 	right		:10px;
 	height		:36px;
 	line-height	:36px;
-	font-size	:26px;
+	width		:210px;
+	font-size	:24px;
 	color		:#0000d0;
 	font-weight	:800;
 	border-bottom:3px solid #0000d0;
 }
-	
+
 .face_comm{
 	position	:absolute;
 	top			:5px;
