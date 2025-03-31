@@ -382,8 +382,8 @@
 
 .face_st{
 	position		:absolute;
-	top				:1vw;
-	left			:18vw;
+	top				:0vw;
+	left			:17vw;
 	display			:block;
 	width			:11vw;
 	height			:5vw;
@@ -407,7 +407,7 @@
 	height			:5vw;
 	line-height		:5vw;
 	color			:#008020;
-	font-size		:3.2vw;
+	font-size		:3vw;
 	text-align		:right;
 	font-weight		:800;
 	vertical-align	:top;
