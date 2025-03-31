@@ -348,9 +348,9 @@
 .face_comm{
 	position		:absolute;
 	top				:16vw;
-	left			:1vw;
+	left			:0.5vw;
 	display			:block;
-	width			:45vw;
+	width			:46vw;
 	height			:13vw;
 	overflow		:hidden;
 	line-height		:4vw;
