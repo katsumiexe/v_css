@@ -347,14 +347,14 @@
 
 .face_comm{
 	position		:absolute;
-	top				:5.5vw;
-	left			:18vw;
+	top				:17vw;
+	left			:1vw;
 	display			:block;
-	width			:25vw;
-	height			:11.5vw;
+	width			:44vw;
+	height			:13vw;
 	overflow		:hidden;
-	line-height		:3.5vw;
-	font-size		:2.8vw;
+	line-height		:4vw;
+	font-size		:3.2vw;
 	color			:#006090;
 	text-align		:left;
 	background		:#f0faff;
@@ -367,8 +367,8 @@
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:16vw;
-	height		:16vw;
+	width		:15vw;
+	height		:15vw;
 	overflow	:hidden;
 }
 
@@ -376,8 +376,8 @@
 	position	:absolute;
 	top			:-1vw;
 	left		:-1vw;
-	width		:18vw;
-	height		:18vw;
+	width		:16vw;
+	height		:16vw;
 }
 
 .face_st{
@@ -415,10 +415,10 @@
 }
 .face_name{
 	position		:absolute;
-	top				:20vw;
-	left			:1vw;
+	top				:10vw;
+	left			:18vw;
 	display			:block;
-	width			:44vw;
+	width			:28w;
 	height			:6vw;
 	line-height		:6vw;
 	font-size		:4vw;
