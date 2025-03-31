@@ -15,11 +15,11 @@
 }
 
 .img_back1{
-	width		:110vw;
+	width		:120vw;
 	position	:fixed;
 	left		:0;
 	right		:0;
-	top			:0;
+	top			:50px;
 	margin		:auto;
 	z-index		:0;
 }
