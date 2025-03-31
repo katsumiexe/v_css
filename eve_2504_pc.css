@@ -319,8 +319,8 @@
 .face_img{
 	display		:inline-block;
 	position	:relative;
-	width		:160px;
-	height		:160px;
+	width		:140px;
+	height		:140px;
 	margin		:5px;
 	overflow	:hidden;
 }
@@ -329,9 +329,9 @@
 	position	:absolute;
 	top			:-10px;
 	left		:-10px;
-	width		:180px;
-	max-width	:180px;
-	height		:180px;
+	width		:160px;
+	max-width	:160px;
+	height		:160px;
 }
 
 .face_pts{
@@ -368,10 +368,11 @@
 
 .face_name{
 	position	:absolute;
-	top			:5px;
-	right		:15px;
-	height		:30px;
-	font-size	:22px;
+	bottom		:5px;
+	right		:10px;
+	height		:36px;
+	line-height	:36px;
+	font-size	:24px;
 	color		:#0000d0;
 	font-weight	:800;
 }
@@ -379,10 +380,11 @@
 .face_comm{
 	position	:absolute;
 	top			:5px;
-	right		:180px;
-	width		:250px;
+	right		:160px;
+	width		:210px;
 	height		:50px;
-	font-size	:18px;
+	font-size	:16px;
+	line-height	:22px;
 	color		:#0000d0;
 }
 	
