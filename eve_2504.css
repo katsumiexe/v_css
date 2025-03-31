@@ -381,8 +381,8 @@
 
 .face_st{
 	position		:absolute;
-	top				:14vw;
-	left			:1vw;
+	top				:1vw;
+	left			:18vw;
 	display			:block;
 	width			:11vw;
 	height			:5vw;
@@ -414,10 +414,10 @@
 }
 .face_name{
 	position		:absolute;
-	top				:10.5vw;
-	left			:19vw;
+	top				:19vw;
+	left			:1vw;
 	display			:block;
-	width			:26vw;
+	width			:44vw;
 	height			:6vw;
 	line-height		:6vw;
 	font-size		:4vw;
