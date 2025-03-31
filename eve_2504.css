@@ -369,8 +369,8 @@
 	position	:absolute;
 	top			:1vw;
 	left		:1vw;
-	width		:20vw;
-	height		:20vw;
+	width		:16vw;
+	height		:16vw;
 	overflow	:hidden;
 }
 
@@ -378,8 +378,8 @@
 	position	:absolute;
 	top			:-1vw;
 	left		:-1vw;
-	width		:22vw;
-	height		:22vw;
+	width		:18vw;
+	height		:18vw;
 }
 
 .face_st{
@@ -417,8 +417,8 @@
 }
 .face_name{
 	position	:absolute;
-	top			:13vw;
-	left		:21vw;
+	top			:9.5vw;
+	left		:18vw;
 	display		:block;
 	width		:25vw;
 	height		:6vw;
@@ -429,6 +429,8 @@
 	text-align	:right;
 	margin		:auto;
 	color		:#4050c0;
+	pdding-left	:0.5vw;
+	border-bottom:0.5vw solid #171717;
 }
 
 .bn_btm{
