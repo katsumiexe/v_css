@@ -1039,7 +1039,7 @@ ul {
 	position	:relative;
 	height		:40px;
 	border		:1px solid #303030;
-	width		:480px;
+	width		:500px;
 }
 
 .event_td_4{
@@ -1078,19 +1078,15 @@ ul {
 	height			:110px;
 	margin			:auto;
 	overflow		:hidden;
-	border			:1px solid #000000;
 }
 
 
 .info_img{
-	position		:absolute;
-	top				:5px;
-	left			:5px;
+	display			:inline-block;
+	top				:0px;
+	left			:0px;
 	width			:280px;
 	height			:70px;
-	margin			:auto;
-	overflow		:hidden;
-	border			:1px solid #000000;
 }
 
 .img_chg,.img_large{
