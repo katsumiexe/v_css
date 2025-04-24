@@ -1111,7 +1111,7 @@ ul {
 	margin			:auto;
 }
 
-.style_on{
+.styles{
 	display			:inline-block;
 	vertical-align	:top;
 	height			:30px;
@@ -1119,11 +1119,16 @@ ul {
 	font-size		:24px;
 	text-align		:center;
 	color			:#fafafa;
-	background		:#000090;
+	background		:#d8d8d8;
 	border-radius	:5px;
 	margin			:0 2px;
 	flex-basis		:38px;
 	width			:38px;
+}
+
+.style_on{
+	background		:#000090;
+
 }
 
 .info_img{
