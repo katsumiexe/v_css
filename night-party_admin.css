@@ -968,7 +968,6 @@ ul {
 }
 
 .event_table{
-	width			:790px;
 	margin			:5px;
 	border			:1px solid #303030;
 	font-size		:0;
@@ -1083,10 +1082,9 @@ ul {
 
 .info_img{
 	display			:inline-block;
-	top				:0px;
-	left			:0px;
-	width			:280px;
+	margin			:5px;
 	height			:70px;
+	width			:100%;
 }
 
 .img_chg,.img_large{
