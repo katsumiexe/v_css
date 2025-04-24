@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?xsu84h');
-  src:  url('fonts/icomoon.eot?xsu84h#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?xsu84h') format('truetype'),
-    url('fonts/icomoon.woff?xsu84h') format('woff'),
-    url('fonts/icomoon.svg?xsu84h#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?soxcw8');
+  src:  url('fonts/icomoon.eot?soxcw8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?soxcw8') format('truetype'),
+    url('fonts/icomoon.woff?soxcw8') format('woff'),
+    url('fonts/icomoon.svg?soxcw8#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,7 +25,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon2025-icon-mirror-x:before {
+.icon2025-icon2025-mirror-x:before {
   content: "\6d";
 }
 .icon2025-brightness_high:before {
@@ -1104,12 +1104,6 @@
 }
 .icon2025-new:before {
   content: "\ea5e";
-}
-.icon2025-holiday2:before {
-  content: "\ea5f";
-}
-.icon2025-vacation:before {
-  content: "\ea60";
 }
 .icon2025-office1:before {
   content: "\ea61";
@@ -2554,49 +2548,49 @@
 .icon2025-IcoMoon:before {
   content: "\ec48";
 }
-.icon2025-icon-couple:before {
+.icon2025-icon2025-couple:before {
   content: "\ec49";
 }
-.icon2025-icon-pockey:before {
+.icon2025-icon2025-pockey:before {
   content: "\ec4a";
 }
-.icon2025-icon-dish:before {
+.icon2025-icon2025-dish:before {
   content: "\ec4b";
 }
-.icon2025-icon-seq:before {
+.icon2025-icon2025-seq:before {
   content: "\ec4c";
 }
-.icon2025-icon-bottle:before {
+.icon2025-icon2025-bottle:before {
   content: "\ec4d";
 }
-.icon2025-icon-beer:before {
+.icon2025-icon2025-beer:before {
   content: "\ec4e";
 }
-.icon2025-icon-move-y:before {
+.icon2025-icon2025-move-y:before {
   content: "\ec50";
 }
-.icon2025-icon-move-xy:before {
+.icon2025-icon2025-move-xy:before {
   content: "\ec51";
 }
-.icon2025-icon-move-x:before {
+.icon2025-icon2025-move-x:before {
   content: "\ec52";
 }
-.icon2025-icon-mirror-y:before {
+.icon2025-icon2025-mirror-y:before {
   content: "\ec53";
 }
-.icon2025-icon-line:before {
+.icon2025-icon2025-line:before {
   content: "\ec54";
 }
-.icon2025-icon-down:before {
+.icon2025-icon2025-down:before {
   content: "\ec55";
 }
-.icon2025-icon-up:before {
+.icon2025-icon2025-up:before {
   content: "\ec56";
 }
-.icon2025-icon-maxdown:before {
+.icon2025-icon2025-maxdown:before {
   content: "\ec57";
 }
-.icon2025-icon-maxup:before {
+.icon2025-icon2025-maxup:before {
   content: "\ec58";
 }
 .icon2025-logout:before {
@@ -3085,12 +3079,9 @@
 .icon2025-three-bars:before {
   content: "\f05e";
 }
-.icon2025-jpg:before {
-  content: "\ea82";
+.icon2025-holiday2:before {
+  content: "\ea5f";
 }
-.icon2025-webp:before {
-  content: "\ea83";
-}
-.icon2025-png:before {
-  content: "\eab1";
+.icon2025-vacation:before {
+  content: "\ea60";
 }
