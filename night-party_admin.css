@@ -1014,8 +1014,8 @@ ul {
 	text-align		:center;
 	padding-right	:5px;
 	font-size		:16px;
-	border-right	:1px solid #303030;
-	width			:85px;
+	border			:1px solid #303030;
+	width			:93px;
 }
 
 .event_td_1{
@@ -1038,7 +1038,7 @@ ul {
 .event_td_3,.event_td_5{
 	position	:relative;
 	height		:40px;
-	border-right:1px solid #303030;
+	border		:1px solid #303030;
 	width		:480px;
 }
 
@@ -1065,7 +1065,7 @@ ul {
 
 .event_td_7{
 	position	:relative;
-	border-right:1px solid #303030;
+	border		:1px solid #303030;
 	width		:290px;
 
 }
