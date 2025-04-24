@@ -1094,10 +1094,11 @@ ul {
 	height			:80px;
 	resize			:none;
 	font-size		:15px;
-	line-height		:1px;
+	line-height		:22px;
 	padding			:10px;
 	border			:none;
-	background:#f0f0ff;
+	background		:#f0f0ff;
+	margin			:2px;
 }
 
 
