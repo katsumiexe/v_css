@@ -1065,8 +1065,16 @@ ul {
 	position	:relative;
 	border		:1px solid #303030;
 	width		:290px;
-
 }
+
+.event_td_8{
+	position	:relative;
+	border		:1px solid #303030;
+	width		:120px;
+	font-size	:14px;
+	line-height	:20px;
+}
+
 
 .event_img{
 	position		:absolute;
