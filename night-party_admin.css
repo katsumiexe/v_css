@@ -1102,7 +1102,11 @@ ul {
 }
 
 .event_style{
-	display			:inline-block;
+	position		:absolute;
+	display			:flex;
+	height			:30px;
+	top				:0;
+	right			:5px;
 }
 
 .style_on{
@@ -1110,12 +1114,14 @@ ul {
 	vertical-align	:top;
 	height			:30px;
 	line-height		:30px;
-	font-size		:22px;
+	font-size		:24px;
 	text-align		:center;
 	color			:#fafafa;
 	background		:#00a000;
 	border-radius	:5px;
 	margin			:0 5px;
+	flex-basis		:30px;
+	width			:30px;
 }
 
 .info_img{
