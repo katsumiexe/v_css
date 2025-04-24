@@ -1106,7 +1106,9 @@ ul {
 	display			:flex;
 	height			:30px;
 	top				:0;
+	bottom			:0;
 	right			:5px;
+	margin			:auto;
 }
 
 .style_on{
@@ -1117,9 +1119,9 @@ ul {
 	font-size		:24px;
 	text-align		:center;
 	color			:#fafafa;
-	background		:#00a000;
+	background		:#000090;
 	border-radius	:5px;
-	margin			:0 5px;
+	margin			:0 3px;
 	flex-basis		:30px;
 	width			:30px;
 }
