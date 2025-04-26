@@ -63,7 +63,12 @@ td{
 
 }
 
-
+.outbox{
+	display			:inline-block;
+	margin			:3px;
+	vertical-align	:top;
+	text-align		:left;
+}
 
 
 
