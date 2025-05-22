@@ -70,6 +70,11 @@ td{
 	text-align		:left;
 }
 
+.flex_case{
+	display			:inline-block;
+	vertical-align	:top;
+	margin			:5px;
+}
 
 
 .w30{width:30px;}
