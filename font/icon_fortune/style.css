@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="iconf-"], [class*=" iconf-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: never;
@@ -25,162 +25,162 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-crystal:before {
+.iconf-crystal:before {
   content: "\e900";
 }
-.icon-card_b:before {
+.iconf-card_b:before {
   content: "\e901";
 }
-.icon-ema:before {
+.iconf-ema:before {
   content: "\e902";
 }
-.icon-orion:before {
+.iconf-orion:before {
   content: "\e903";
 }
-.icon-parm_a:before {
+.iconf-parm_a:before {
   content: "\e904";
 }
-.icon-parm_b:before {
+.iconf-parm_b:before {
   content: "\e905";
 }
-.icon-amuret:before {
+.iconf-amuret:before {
   content: "\e906";
 }
-.icon-card_a:before {
+.iconf-card_a:before {
   content: "\e907";
 }
-.icon-horo12:before {
+.iconf-horo12:before {
   content: "\e908";
 }
-.icon-horo11:before {
+.iconf-horo11:before {
   content: "\e909";
 }
-.icon-horo10:before {
+.iconf-horo10:before {
   content: "\e90a";
 }
-.icon-horo09:before {
+.iconf-horo09:before {
   content: "\e90b";
 }
-.icon-horo08:before {
+.iconf-horo08:before {
   content: "\e90c";
 }
-.icon-horo07:before {
+.iconf-horo07:before {
   content: "\e90d";
 }
-.icon-horo06:before {
+.iconf-horo06:before {
   content: "\e90e";
 }
-.icon-horo05:before {
+.iconf-horo05:before {
   content: "\e90f";
 }
-.icon-horo04:before {
+.iconf-horo04:before {
   content: "\e910";
 }
-.icon-horo02:before {
+.iconf-horo02:before {
   content: "\e911";
 }
-.icon-horo01:before {
+.iconf-horo01:before {
   content: "\e912";
 }
-.icon-horo03:before {
+.iconf-horo03:before {
   content: "\e913";
 }
-.icon-mail:before {
+.iconf-mail:before {
   content: "\e914";
 }
-.icon-mail-envelope-open:before {
+.iconf-mail-envelope-open:before {
   content: "\e915";
 }
-.icon-mail-envelope-closed:before {
+.iconf-mail-envelope-closed:before {
   content: "\e916";
 }
-.icon-thumb-up:before {
+.iconf-thumb-up:before {
   content: "\e917";
 }
-.icon-thumb-up1:before {
+.iconf-thumb-up1:before {
   content: "\e918";
 }
-.icon-calendar1:before {
+.iconf-calendar1:before {
   content: "\e91c";
 }
-.icon-pictures1:before {
+.iconf-pictures1:before {
   content: "\e952";
 }
-.icon-davidstar:before {
+.iconf-davidstar:before {
   content: "\e9a1";
 }
-.icon-cross1:before {
+.iconf-cross1:before {
   content: "\e9a2";
 }
-.icon-moonandstar:before {
+.iconf-moonandstar:before {
   content: "\e9a3";
 }
-.icon-diamond:before {
+.iconf-diamond:before {
   content: "\e9bf";
 }
-.icon-chat:before {
+.iconf-chat:before {
   content: "\e9dc";
 }
-.icon-chat1:before {
+.iconf-chat1:before {
   content: "\e9de";
 }
-.icon-paperplane:before {
+.iconf-paperplane:before {
   content: "\ea2a";
 }
-.icon-globe1:before {
+.iconf-globe1:before {
   content: "\ea4b";
 }
-.icon-yingyang:before {
+.iconf-yingyang:before {
   content: "\ea4d";
 }
-.icon-image2:before {
+.iconf-image2:before {
   content: "\ea6b";
 }
-.icon-camera:before {
+.iconf-camera:before {
   content: "\ea6d";
 }
-.icon-file-text21:before {
+.iconf-file-text21:before {
   content: "\ea84";
 }
-.icon-phone4:before {
+.iconf-phone4:before {
   content: "\eaa0";
 }
-.icon-mobile:before {
+.iconf-mobile:before {
   content: "\eab6";
 }
-.icon-gift:before {
+.iconf-gift:before {
   content: "\eafd";
 }
-.icon-bin:before {
+.iconf-bin:before {
   content: "\eb0a";
 }
-.icon-smile:before {
+.iconf-smile:before {
   content: "\eb3f";
 }
-.icon-ribbon:before {
+.iconf-ribbon:before {
   content: "\ec5b";
 }
-.icon-clap:before {
+.iconf-clap:before {
   content: "\ec60";
 }
-.icon-lady:before {
+.iconf-lady:before {
   content: "\ecc3";
 }
-.icon-fortune:before {
+.iconf-fortune:before {
   content: "\ecc5";
 }
-.icon-bankasa:before {
+.iconf-bankasa:before {
   content: "\e919";
 }
-.icon-chotin:before {
+.iconf-chotin:before {
   content: "\e91a";
 }
-.icon-furin:before {
+.iconf-furin:before {
   content: "\e91b";
 }
-.icon-nasu:before {
+.iconf-nasu:before {
   content: "\e91d";
 }
-.icon-s_star:before {
+.iconf-s_star:before {
   content: "\e91e";
 }
