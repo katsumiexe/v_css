@@ -1,0 +1,171 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?1gskz2');
+  src:  url('fonts/icomoon.eot?1gskz2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1gskz2') format('truetype'),
+    url('fonts/icomoon.woff?1gskz2') format('woff'),
+    url('fonts/icomoon.svg?1gskz2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="iconf-"], [class*=" iconf-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconf-crystal:before {
+  content: "\e900";
+}
+.iconf-card_b:before {
+  content: "\e901";
+}
+.iconf-ema:before {
+  content: "\e902";
+}
+.iconf-orion:before {
+  content: "\e903";
+}
+.iconf-parm_a:before {
+  content: "\e904";
+}
+.iconf-parm_b:before {
+  content: "\e905";
+}
+.iconf-amuret:before {
+  content: "\e906";
+}
+.iconf-card_a:before {
+  content: "\e907";
+}
+.iconf-horo12:before {
+  content: "\e908";
+}
+.iconf-horo11:before {
+  content: "\e909";
+}
+.iconf-horo10:before {
+  content: "\e90a";
+}
+.iconf-horo09:before {
+  content: "\e90b";
+}
+.iconf-horo08:before {
+  content: "\e90c";
+}
+.iconf-horo07:before {
+  content: "\e90d";
+}
+.iconf-horo06:before {
+  content: "\e90e";
+}
+.iconf-horo05:before {
+  content: "\e90f";
+}
+.iconf-horo04:before {
+  content: "\e910";
+}
+.iconf-horo02:before {
+  content: "\e911";
+}
+.iconf-horo01:before {
+  content: "\e912";
+}
+.iconf-horo03:before {
+  content: "\e913";
+}
+.iconf-calendar1:before {
+  content: "\e91c";
+}
+.iconf-pictures1:before {
+  content: "\e952";
+}
+.iconf-davidstar:before {
+  content: "\e9a1";
+}
+.iconf-cross1:before {
+  content: "\e9a2";
+}
+.iconf-moonandstar:before {
+  content: "\e9a3";
+}
+.iconf-diamond:before {
+  content: "\e9bf";
+}
+.iconf-chat:before {
+  content: "\e9dc";
+}
+.iconf-chat1:before {
+  content: "\e9de";
+}
+.iconf-paperplane:before {
+  content: "\ea2a";
+}
+.iconf-globe1:before {
+  content: "\ea4b";
+}
+.iconf-yingyang:before {
+  content: "\ea4d";
+}
+.iconf-image2:before {
+  content: "\ea6b";
+}
+.iconf-camera:before {
+  content: "\ea6d";
+}
+.iconf-file-text21:before {
+  content: "\ea84";
+}
+.iconf-phone4:before {
+  content: "\eaa0";
+}
+.iconf-mobile:before {
+  content: "\eab6";
+}
+.iconf-gift:before {
+  content: "\eafd";
+}
+.iconf-bin:before {
+  content: "\eb0a";
+}
+.iconf-smile:before {
+  content: "\eb3f";
+}
+.iconf-ribbon:before {
+  content: "\ec5b";
+}
+.iconf-clap:before {
+  content: "\ec60";
+}
+.iconf-lady:before {
+  content: "\ecc3";
+}
+.iconf-fortune:before {
+  content: "\ecc5";
+}
+.iconf-mail:before {
+  content: "\e914";
+}
+.iconf-mail-envelope-open:before {
+  content: "\e915";
+}
+.iconf-mail-envelope-closed:before {
+  content: "\e916";
+}
+.iconf-thumb-up:before {
+  content: "\e917";
+}
+.iconf-thumb-up1:before {
+  content: "\e918";
+}
