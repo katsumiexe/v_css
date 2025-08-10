@@ -1,18 +1,18 @@
 @font-face {
-  font-family: 'icomoonf20250810';
-  src:  url('fonts/icomoon.eot?yscnmf');
-  src:  url('fonts/icomoon.eot?yscnmf#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?yscnmf') format('truetype'),
-    url('fonts/icomoon.woff?yscnmf') format('woff'),
-    url('fonts/icomoon.svg?yscnmf#icomoon') format('svg');
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?1gskz2');
+  src:  url('fonts/icomoon.eot?1gskz2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1gskz2') format('truetype'),
+    url('fonts/icomoon.woff?1gskz2') format('woff'),
+    url('fonts/icomoon.svg?1gskz2#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="iconf-"], [class*=" iconf-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoonf20250810' !important;
+  font-family: 'icomoon' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -85,21 +85,6 @@
 .iconf-horo03:before {
   content: "\e913";
 }
-.iconf-mail:before {
-  content: "\e914";
-}
-.iconf-mail-envelope-open:before {
-  content: "\e915";
-}
-.iconf-mail-envelope-closed:before {
-  content: "\e916";
-}
-.iconf-thumb-up:before {
-  content: "\e917";
-}
-.iconf-thumb-up1:before {
-  content: "\e918";
-}
 .iconf-calendar1:before {
   content: "\e91c";
 }
@@ -169,18 +154,18 @@
 .iconf-fortune:before {
   content: "\ecc5";
 }
-.iconf-bankasa:before {
-  content: "\e919";
+.iconf-mail:before {
+  content: "\e914";
 }
-.iconf-chotin:before {
-  content: "\e91a";
+.iconf-mail-envelope-open:before {
+  content: "\e915";
 }
-.iconf-furin:before {
-  content: "\e91b";
+.iconf-mail-envelope-closed:before {
+  content: "\e916";
 }
-.iconf-nasu:before {
-  content: "\e91d";
+.iconf-thumb-up:before {
+  content: "\e917";
 }
-.iconf-s_star:before {
-  content: "\e91e";
+.iconf-thumb-up1:before {
+  content: "\e918";
 }
