@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="iconf-"], [class*=" iconf-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoonf20250810' !important;
   speak: never;
