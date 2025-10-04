@@ -135,8 +135,8 @@ html:has(.ar_modal[open]){
 	bottom		:0;
 	margin		:auto;
 	width		:70vw;
-	height		:8vw;
-	line-height	:8vw;
+	height		:20vw;
+	line-height	:20vw;
 	text-align	:center;
 	border		:1px solid #303030;
 	background	:#fafafa;
