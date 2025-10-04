@@ -128,7 +128,8 @@ html:has(.ar_modal[open]){
 
 
 .ar_modal_s{
-	position:absolute;
+	display		:none;
+	position	:absolute;
 	top			:0;
 	left		:0;
 	right		:0;
