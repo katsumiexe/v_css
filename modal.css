@@ -139,7 +139,7 @@ html:has(.ar_modal[open]){
 	line-height	:8vw;
 	text-align	:center;
 	border		:1px solid #303030;
-	background	:#fafafa
+	background	:#fafafa;
 	color		:#303030;
 	font-size	:4.5vw;
 }
