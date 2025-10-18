@@ -156,11 +156,12 @@
 	
 	font-size		:16px;
 	line-height		:23px;
-	padding			:10px;
-	background		:#fafaff;
+	padding			:15px;
+	background		:#f0f0ff;
 	width			:880px;
 	min-height		:70px;
-	margin-bottom	:5px;
+	margin			:5px;
+	border:1px solid #303030;
 }
 
 .eve_log_answer{
