@@ -9,7 +9,7 @@
 
 .eve_box{
 	width:900px;
-	margin:0 10px;
+	margin:10px auto;
 }
 .eve_box_notice{
 	width		:600px;
@@ -235,7 +235,7 @@
 
 .eve_box{
 	width		:98vw;
-	margin		:0 auto;
+	margin		:2vw auto;
 }
 .eve_box_notice{
 	width		:80vw;
