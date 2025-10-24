@@ -211,13 +211,14 @@
 	font-weight		:800;
 	background		:#fffafa;
 	color			:#000060;
-	marfin-left:5px;
+	margin-left		:5px;
 }
 
 .eve_2412_resc{
 	flex			:1;
-	height			:25px;
-	text-align		:center;
+	height			:45px;
+	height			:60px;
+	text-align		:right;
 	font-size		:18px;
 	font-weight		:800;
 	color			:#c00000;
