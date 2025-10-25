@@ -197,8 +197,9 @@
 	margin			:0 auto;
 	overflow		:hidden;
 	background-image:url("https://vernis.co.jp/asset/image/eve_2412/no_image.jpg");
-	background-size	: contain;
+	background-size	: cover;
 	background-repeat:no-repeat;
+	background-position: center;
 
 	border			:1px solid #171717;
 	
