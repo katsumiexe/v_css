@@ -184,9 +184,9 @@
 
 .img_box_out{
 	width			:900px;
-	height			:160px;
-	margin-bottom	:10px;
+	margin-bottom	:20px;
 	text-align		:center;
+	padding			:10px;
 }
 
 .img_box{
@@ -196,7 +196,9 @@
 	margin			:0 auto;
 	overflow		:hidden;
 	background-image:url("https://vernis.co.jp/asset/image/eve_2412/no_image.jpg");
-	background-size	:contain;
+	background-size	: cover;
+	background-repeat:no-repeat;
+
 	border			:1px solid #171717;
 	
 }
