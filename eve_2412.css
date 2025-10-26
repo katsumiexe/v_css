@@ -242,6 +242,39 @@
 	color			:#c00000;
 }
 
+.wait{
+	display			:none;
+	position		:fixed;
+	top				:-10vh;
+	left			:-10vw;
+	width			:120vw;
+	height			:120vh;
+	background		:rgba(30,30,30,0.7);
+	z-index			:99999999;
+}
+
+.wait_in{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:100px;
+	height			:100px;
+	border-top		:20px solid #777777;
+	border-left		:20px solid #0000d0;
+	border-right	:20px solid #0000d0;
+	border-bottom	:20px solid #0000d0;
+	border-radius	:50%;
+	animation		:5s linear infinite wait_animation;
+}
+@keyframes wait_animation{
+	0%{ transform:rotate(0);}
+	100%{ transform:rotate(360deg); }
+}
+
+
 
 @media screen and (max-width: 768px){
 .eve_title_hist {
