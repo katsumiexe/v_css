@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?xsu84h');
-  src:  url('fonts/icomoon.eot?xsu84h#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?xsu84h') format('truetype'),
-    url('fonts/icomoon.woff?xsu84h') format('woff'),
-    url('fonts/icomoon.svg?xsu84h#icomoon') format('svg');
+  font-family: 'icon_2025';
+  src:  url('fonts/icon_2025.eot?m849ej');
+  src:  url('fonts/icon_2025.eot?m849ej#iefix') format('embedded-opentype'),
+    url('fonts/icon_2025.ttf?m849ej') format('truetype'),
+    url('fonts/icon_2025.woff?m849ej') format('woff'),
+    url('fonts/icon_2025.svg?m849ej#icon_2025') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon2025-"], [class*=" icon2025-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'icon_2025' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -1210,6 +1210,12 @@
 .icon2025-profile:before {
   content: "\ea81";
 }
+.icon2025-jpg:before {
+  content: "\ea82";
+}
+.icon2025-webp:before {
+  content: "\ea83";
+}
 .icon2025-file-text21:before {
   content: "\ea84";
 }
@@ -1344,6 +1350,9 @@
 }
 .icon2025-stopwatch:before {
   content: "\eab0";
+}
+.icon2025-png:before {
+  content: "\eab1";
 }
 .icon2025-keyboard:before {
   content: "\eab3";
@@ -3085,12 +3094,4372 @@
 .icon2025-three-bars:before {
   content: "\f05e";
 }
-.icon2025-jpg:before {
-  content: "\ea82";
+.icon2025-bluesky_qr:before {
+  content: "\eab2";
 }
-.icon2025-webp:before {
-  content: "\ea83";
+.icon2025-fantia_qr:before {
+  content: "\eac0";
 }
-.icon2025-png:before {
-  content: "\eab1";
+.icon2025-github_qr:before {
+  content: "\eb30";
+}
+.icon2025-nico_a .path1:before {
+  content: "\eb31";
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path2:before {
+  content: "\ec4f";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path3:before {
+  content: "\ec59";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path4:before {
+  content: "\ec5c";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path5:before {
+  content: "\ec61";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path6:before {
+  content: "\ec62";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path7:before {
+  content: "\ec64";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path8:before {
+  content: "\ec65";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path9:before {
+  content: "\ec67";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path10:before {
+  content: "\ec68";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path11:before {
+  content: "\ec7c";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path12:before {
+  content: "\ec80";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path13:before {
+  content: "\ec82";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path14:before {
+  content: "\ec83";
+  margin-left: -1em;
+  color: rgb(168, 166, 166);
+  opacity: 0.3529;
+}
+.icon2025-nico_a .path15:before {
+  content: "\ec86";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path16:before {
+  content: "\ec87";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path17:before {
+  content: "\ec88";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path18:before {
+  content: "\ec89";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path19:before {
+  content: "\ec8b";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path20:before {
+  content: "\ec8c";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path21:before {
+  content: "\ec97";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path22:before {
+  content: "\ec98";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path23:before {
+  content: "\eca7";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path24:before {
+  content: "\ecad";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path25:before {
+  content: "\ecaf";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path26:before {
+  content: "\ecb2";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path27:before {
+  content: "\ecb8";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path28:before {
+  content: "\ecbe";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path29:before {
+  content: "\ecbf";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path30:before {
+  content: "\ecc1";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path31:before {
+  content: "\ecc2";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path32:before {
+  content: "\ecc4";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path33:before {
+  content: "\ecc7";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path34:before {
+  content: "\ecc8";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path35:before {
+  content: "\ecca";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path36:before {
+  content: "\ecce";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path37:before {
+  content: "\eccf";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path38:before {
+  content: "\ecd6";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path39:before {
+  content: "\ecd7";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path40:before {
+  content: "\ecd8";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path41:before {
+  content: "\ecdb";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path42:before {
+  content: "\ecdc";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path43:before {
+  content: "\ecdd";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path44:before {
+  content: "\ecde";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path45:before {
+  content: "\eced";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path46:before {
+  content: "\ecee";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path47:before {
+  content: "\ecf0";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path48:before {
+  content: "\ed02";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path49:before {
+  content: "\ed03";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path50:before {
+  content: "\ed04";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path51:before {
+  content: "\ed05";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path52:before {
+  content: "\ed06";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path53:before {
+  content: "\ed07";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path54:before {
+  content: "\ed08";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path55:before {
+  content: "\ed09";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path56:before {
+  content: "\ed24";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path57:before {
+  content: "\ed30";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path58:before {
+  content: "\ed31";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path59:before {
+  content: "\ed32";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path60:before {
+  content: "\ed33";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path61:before {
+  content: "\ed34";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path62:before {
+  content: "\ed35";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path63:before {
+  content: "\ed36";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path64:before {
+  content: "\ed37";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path65:before {
+  content: "\ed38";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path66:before {
+  content: "\ed39";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path67:before {
+  content: "\ed3a";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path68:before {
+  content: "\ed3b";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path69:before {
+  content: "\ed3c";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path70:before {
+  content: "\ed3d";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path71:before {
+  content: "\ed3e";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path72:before {
+  content: "\ed3f";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path73:before {
+  content: "\ed40";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path74:before {
+  content: "\ed41";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path75:before {
+  content: "\ed42";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path76:before {
+  content: "\ed43";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path77:before {
+  content: "\ed44";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path78:before {
+  content: "\ed45";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path79:before {
+  content: "\ed46";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path80:before {
+  content: "\ed47";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path81:before {
+  content: "\ed48";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path82:before {
+  content: "\ed49";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path83:before {
+  content: "\ed4a";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path84:before {
+  content: "\ed4b";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path85:before {
+  content: "\ed4c";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path86:before {
+  content: "\ed4d";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path87:before {
+  content: "\ed4e";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path88:before {
+  content: "\ed4f";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path89:before {
+  content: "\ed50";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path90:before {
+  content: "\ed51";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path91:before {
+  content: "\ed52";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path92:before {
+  content: "\ed53";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path93:before {
+  content: "\ed54";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path94:before {
+  content: "\ed55";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path95:before {
+  content: "\ed56";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path96:before {
+  content: "\ed57";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path97:before {
+  content: "\ed58";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path98:before {
+  content: "\ed59";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path99:before {
+  content: "\ed5a";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path100:before {
+  content: "\ed5b";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path101:before {
+  content: "\ed5c";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path102:before {
+  content: "\ed5d";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path103:before {
+  content: "\ed5e";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path104:before {
+  content: "\ed5f";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path105:before {
+  content: "\ed60";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path106:before {
+  content: "\ed61";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path107:before {
+  content: "\ed62";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path108:before {
+  content: "\ed63";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path109:before {
+  content: "\ed64";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path110:before {
+  content: "\ed65";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path111:before {
+  content: "\ed66";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path112:before {
+  content: "\ed67";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path113:before {
+  content: "\ed68";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path114:before {
+  content: "\ed69";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path115:before {
+  content: "\ed6a";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path116:before {
+  content: "\ed6b";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path117:before {
+  content: "\ed6c";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path118:before {
+  content: "\ed6d";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path119:before {
+  content: "\ed6e";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path120:before {
+  content: "\ed6f";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path121:before {
+  content: "\ed70";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path122:before {
+  content: "\ed71";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path123:before {
+  content: "\ed72";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path124:before {
+  content: "\ed73";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path125:before {
+  content: "\ed74";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path126:before {
+  content: "\ed75";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path127:before {
+  content: "\ed76";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path128:before {
+  content: "\ed77";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path129:before {
+  content: "\ed78";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path130:before {
+  content: "\ed79";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path131:before {
+  content: "\ed7a";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path132:before {
+  content: "\ed7b";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path133:before {
+  content: "\ed7c";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path134:before {
+  content: "\ed7d";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path135:before {
+  content: "\ed7e";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path136:before {
+  content: "\ed7f";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path137:before {
+  content: "\ed80";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path138:before {
+  content: "\ed81";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path139:before {
+  content: "\ed82";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path140:before {
+  content: "\ed83";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path141:before {
+  content: "\ed84";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path142:before {
+  content: "\ed85";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path143:before {
+  content: "\ed86";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path144:before {
+  content: "\ed87";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path145:before {
+  content: "\ed88";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path146:before {
+  content: "\ed89";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path147:before {
+  content: "\ed8a";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path148:before {
+  content: "\ed8b";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path149:before {
+  content: "\ed8c";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path150:before {
+  content: "\ed8d";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path151:before {
+  content: "\ed8e";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path152:before {
+  content: "\ed8f";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path153:before {
+  content: "\ed90";
+  margin-left: -1em;
+  color: rgb(38, 34, 34);
+  opacity: 0.8902;
+}
+.icon2025-nico_a .path154:before {
+  content: "\ed91";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path155:before {
+  content: "\ed92";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path156:before {
+  content: "\ed93";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path157:before {
+  content: "\ed94";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path158:before {
+  content: "\ed95";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path159:before {
+  content: "\ed96";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path160:before {
+  content: "\ed97";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path161:before {
+  content: "\ed98";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path162:before {
+  content: "\ed99";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path163:before {
+  content: "\ed9a";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path164:before {
+  content: "\ed9b";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path165:before {
+  content: "\ed9c";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path166:before {
+  content: "\ed9d";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path167:before {
+  content: "\ed9e";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path168:before {
+  content: "\ed9f";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path169:before {
+  content: "\eda0";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path170:before {
+  content: "\eda1";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path171:before {
+  content: "\eda2";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path172:before {
+  content: "\eda3";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path173:before {
+  content: "\eda4";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path174:before {
+  content: "\eda5";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path175:before {
+  content: "\eda6";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path176:before {
+  content: "\eda7";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path177:before {
+  content: "\eda8";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path178:before {
+  content: "\eda9";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path179:before {
+  content: "\edaa";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path180:before {
+  content: "\edab";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path181:before {
+  content: "\edac";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path182:before {
+  content: "\edad";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path183:before {
+  content: "\edae";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path184:before {
+  content: "\edaf";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path185:before {
+  content: "\edb0";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path186:before {
+  content: "\edb1";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path187:before {
+  content: "\edb2";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path188:before {
+  content: "\edb3";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path189:before {
+  content: "\edb4";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path190:before {
+  content: "\edb5";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path191:before {
+  content: "\edb6";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path192:before {
+  content: "\edb7";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path193:before {
+  content: "\edb8";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path194:before {
+  content: "\edb9";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path195:before {
+  content: "\edba";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path196:before {
+  content: "\edbb";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path197:before {
+  content: "\edbc";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path198:before {
+  content: "\edbd";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path199:before {
+  content: "\edbe";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path200:before {
+  content: "\edbf";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path201:before {
+  content: "\edc0";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path202:before {
+  content: "\edc1";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path203:before {
+  content: "\edc2";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path204:before {
+  content: "\edc3";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path205:before {
+  content: "\edc4";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path206:before {
+  content: "\edc5";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path207:before {
+  content: "\edc6";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path208:before {
+  content: "\edc7";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path209:before {
+  content: "\edc8";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path210:before {
+  content: "\edc9";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path211:before {
+  content: "\edca";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path212:before {
+  content: "\edcb";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path213:before {
+  content: "\edcc";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path214:before {
+  content: "\edcd";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path215:before {
+  content: "\edce";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path216:before {
+  content: "\edcf";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path217:before {
+  content: "\edd0";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path218:before {
+  content: "\edd1";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path219:before {
+  content: "\edd2";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path220:before {
+  content: "\edd3";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path221:before {
+  content: "\edd4";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path222:before {
+  content: "\edd5";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path223:before {
+  content: "\edd6";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path224:before {
+  content: "\edd7";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path225:before {
+  content: "\edd8";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path226:before {
+  content: "\edd9";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path227:before {
+  content: "\edda";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path228:before {
+  content: "\eddb";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path229:before {
+  content: "\eddc";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path230:before {
+  content: "\eddd";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path231:before {
+  content: "\edde";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path232:before {
+  content: "\eddf";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path233:before {
+  content: "\ede0";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path234:before {
+  content: "\ede1";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path235:before {
+  content: "\ede2";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path236:before {
+  content: "\ede3";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path237:before {
+  content: "\ede4";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path238:before {
+  content: "\ede5";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path239:before {
+  content: "\ede6";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path240:before {
+  content: "\ede7";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path241:before {
+  content: "\ede8";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path242:before {
+  content: "\ede9";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path243:before {
+  content: "\edea";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path244:before {
+  content: "\edeb";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path245:before {
+  content: "\edec";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path246:before {
+  content: "\eded";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path247:before {
+  content: "\edee";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path248:before {
+  content: "\edef";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path249:before {
+  content: "\edf0";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path250:before {
+  content: "\edf1";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path251:before {
+  content: "\edf2";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path252:before {
+  content: "\edf3";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path253:before {
+  content: "\edf4";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path254:before {
+  content: "\edf5";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path255:before {
+  content: "\edf6";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path256:before {
+  content: "\edf7";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path257:before {
+  content: "\edf8";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path258:before {
+  content: "\edf9";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path259:before {
+  content: "\edfa";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path260:before {
+  content: "\edfb";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path261:before {
+  content: "\edfc";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path262:before {
+  content: "\edfd";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path263:before {
+  content: "\edfe";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path264:before {
+  content: "\edff";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path265:before {
+  content: "\ee00";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path266:before {
+  content: "\ee01";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path267:before {
+  content: "\ee02";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path268:before {
+  content: "\ee03";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path269:before {
+  content: "\ee04";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path270:before {
+  content: "\ee05";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path271:before {
+  content: "\ee06";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path272:before {
+  content: "\ee07";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path273:before {
+  content: "\ee08";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path274:before {
+  content: "\ee09";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path275:before {
+  content: "\ee0a";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path276:before {
+  content: "\ee0b";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path277:before {
+  content: "\ee0c";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path278:before {
+  content: "\ee0d";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path279:before {
+  content: "\ee0e";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path280:before {
+  content: "\ee0f";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path281:before {
+  content: "\ee10";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path282:before {
+  content: "\ee11";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path283:before {
+  content: "\ee12";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+  opacity: 0.9765;
+}
+.icon2025-nico_a .path284:before {
+  content: "\ee13";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+}
+.icon2025-nico_a .path285:before {
+  content: "\ee14";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+}
+.icon2025-nico_a .path286:before {
+  content: "\ee15";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+}
+.icon2025-nico_a .path287:before {
+  content: "\ee16";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+}
+.icon2025-nico_a .path288:before {
+  content: "\ee17";
+  margin-left: -1em;
+  color: rgb(8, 4, 4);
+}
+.icon2025-nico_b:before {
+  content: "\ee18";
+}
+.icon2025-nico_qr_a .path1:before {
+  content: "\ee19";
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path2:before {
+  content: "\ee1a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path3:before {
+  content: "\ee1b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path4:before {
+  content: "\ee1c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path5:before {
+  content: "\ee1d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path6:before {
+  content: "\ee1e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path7:before {
+  content: "\ee1f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path8:before {
+  content: "\ee20";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path9:before {
+  content: "\ee21";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path10:before {
+  content: "\ee22";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path11:before {
+  content: "\ee23";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path12:before {
+  content: "\ee24";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path13:before {
+  content: "\ee25";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path14:before {
+  content: "\ee26";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path15:before {
+  content: "\ee27";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path16:before {
+  content: "\ee28";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path17:before {
+  content: "\ee29";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path18:before {
+  content: "\ee2a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path19:before {
+  content: "\ee2b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path20:before {
+  content: "\ee2c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path21:before {
+  content: "\ee2d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path22:before {
+  content: "\ee2e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9529;
+}
+.icon2025-nico_qr_a .path23:before {
+  content: "\ee2f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon2025-nico_qr_a .path24:before {
+  content: "\ee30";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon2025-nico_qr_a .path25:before {
+  content: "\ee31";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon2025-nico_qr_a .path26:before {
+  content: "\ee32";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon2025-nico_qr_a .path27:before {
+  content: "\ee33";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon2025-nico_qr_a .path28:before {
+  content: "\ee34";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path29:before {
+  content: "\ee35";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path30:before {
+  content: "\ee36";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path31:before {
+  content: "\ee37";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path32:before {
+  content: "\ee38";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path33:before {
+  content: "\ee39";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path34:before {
+  content: "\ee3a";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path35:before {
+  content: "\ee3b";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path36:before {
+  content: "\ee3c";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path37:before {
+  content: "\ee3d";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path38:before {
+  content: "\ee3e";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path39:before {
+  content: "\ee3f";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path40:before {
+  content: "\ee40";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path41:before {
+  content: "\ee41";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path42:before {
+  content: "\ee42";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path43:before {
+  content: "\ee43";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path44:before {
+  content: "\ee44";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path45:before {
+  content: "\ee45";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path46:before {
+  content: "\ee46";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path47:before {
+  content: "\ee47";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path48:before {
+  content: "\ee48";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path49:before {
+  content: "\ee49";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path50:before {
+  content: "\ee4a";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path51:before {
+  content: "\ee4b";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path52:before {
+  content: "\ee4c";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path53:before {
+  content: "\ee4d";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path54:before {
+  content: "\ee4e";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path55:before {
+  content: "\ee4f";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path56:before {
+  content: "\ee50";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path57:before {
+  content: "\ee51";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path58:before {
+  content: "\ee52";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path59:before {
+  content: "\ee53";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path60:before {
+  content: "\ee54";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path61:before {
+  content: "\ee55";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path62:before {
+  content: "\ee56";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path63:before {
+  content: "\ee57";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path64:before {
+  content: "\ee58";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path65:before {
+  content: "\ee59";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path66:before {
+  content: "\ee5a";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path67:before {
+  content: "\ee5b";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path68:before {
+  content: "\ee5c";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path69:before {
+  content: "\ee5d";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path70:before {
+  content: "\ee5e";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path71:before {
+  content: "\ee5f";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path72:before {
+  content: "\ee60";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path73:before {
+  content: "\ee61";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path74:before {
+  content: "\ee62";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path75:before {
+  content: "\ee63";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path76:before {
+  content: "\ee64";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path77:before {
+  content: "\ee65";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path78:before {
+  content: "\ee66";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path79:before {
+  content: "\ee67";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path80:before {
+  content: "\ee68";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path81:before {
+  content: "\ee69";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path82:before {
+  content: "\ee6a";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path83:before {
+  content: "\ee6b";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path84:before {
+  content: "\ee6c";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path85:before {
+  content: "\ee6d";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path86:before {
+  content: "\ee6e";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path87:before {
+  content: "\ee6f";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path88:before {
+  content: "\ee70";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path89:before {
+  content: "\ee71";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path90:before {
+  content: "\ee72";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path91:before {
+  content: "\ee73";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path92:before {
+  content: "\ee74";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path93:before {
+  content: "\ee75";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path94:before {
+  content: "\ee76";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path95:before {
+  content: "\ee77";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+  opacity: 0.7294;
+}
+.icon2025-nico_qr_a .path96:before {
+  content: "\ee78";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path97:before {
+  content: "\ee79";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path98:before {
+  content: "\ee7a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path99:before {
+  content: "\ee7b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path100:before {
+  content: "\ee7c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path101:before {
+  content: "\ee7d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path102:before {
+  content: "\ee7e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path103:before {
+  content: "\ee7f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path104:before {
+  content: "\ee80";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path105:before {
+  content: "\ee81";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path106:before {
+  content: "\ee82";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path107:before {
+  content: "\ee83";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path108:before {
+  content: "\ee84";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path109:before {
+  content: "\ee85";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path110:before {
+  content: "\ee86";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path111:before {
+  content: "\ee87";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path112:before {
+  content: "\ee88";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path113:before {
+  content: "\ee89";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path114:before {
+  content: "\ee8a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path115:before {
+  content: "\ee8b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path116:before {
+  content: "\ee8c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path117:before {
+  content: "\ee8d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path118:before {
+  content: "\ee8e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path119:before {
+  content: "\ee8f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path120:before {
+  content: "\ee90";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path121:before {
+  content: "\ee91";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path122:before {
+  content: "\ee92";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path123:before {
+  content: "\ee93";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path124:before {
+  content: "\ee94";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path125:before {
+  content: "\ee95";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path126:before {
+  content: "\ee96";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path127:before {
+  content: "\ee97";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path128:before {
+  content: "\ee98";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path129:before {
+  content: "\ee99";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path130:before {
+  content: "\ee9a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path131:before {
+  content: "\ee9b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path132:before {
+  content: "\ee9c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path133:before {
+  content: "\ee9d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path134:before {
+  content: "\ee9e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path135:before {
+  content: "\ee9f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path136:before {
+  content: "\eea0";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path137:before {
+  content: "\eea1";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path138:before {
+  content: "\eea2";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path139:before {
+  content: "\eea3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path140:before {
+  content: "\eea4";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path141:before {
+  content: "\eea5";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path142:before {
+  content: "\eea6";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path143:before {
+  content: "\eea7";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path144:before {
+  content: "\eea8";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path145:before {
+  content: "\eea9";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path146:before {
+  content: "\eeaa";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path147:before {
+  content: "\eeab";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path148:before {
+  content: "\eeac";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path149:before {
+  content: "\eead";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path150:before {
+  content: "\eeae";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path151:before {
+  content: "\eeaf";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path152:before {
+  content: "\eeb0";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path153:before {
+  content: "\eeb1";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path154:before {
+  content: "\eeb2";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path155:before {
+  content: "\eeb3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path156:before {
+  content: "\eeb4";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path157:before {
+  content: "\eeb5";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path158:before {
+  content: "\eeb6";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path159:before {
+  content: "\eeb7";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path160:before {
+  content: "\eeb8";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path161:before {
+  content: "\eeb9";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path162:before {
+  content: "\eeba";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path163:before {
+  content: "\eebb";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path164:before {
+  content: "\eebc";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path165:before {
+  content: "\eebd";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path166:before {
+  content: "\eebe";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path167:before {
+  content: "\eebf";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path168:before {
+  content: "\eec0";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path169:before {
+  content: "\eec1";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path170:before {
+  content: "\eec2";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path171:before {
+  content: "\eec3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path172:before {
+  content: "\eec4";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path173:before {
+  content: "\eec5";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path174:before {
+  content: "\eec6";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path175:before {
+  content: "\eec7";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path176:before {
+  content: "\eec8";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path177:before {
+  content: "\eec9";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path178:before {
+  content: "\eeca";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path179:before {
+  content: "\eecb";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path180:before {
+  content: "\eecc";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path181:before {
+  content: "\eecd";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path182:before {
+  content: "\eece";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path183:before {
+  content: "\eecf";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path184:before {
+  content: "\eed0";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path185:before {
+  content: "\eed1";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path186:before {
+  content: "\eed2";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path187:before {
+  content: "\eed3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path188:before {
+  content: "\eed4";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path189:before {
+  content: "\eed5";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path190:before {
+  content: "\eed6";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path191:before {
+  content: "\eed7";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path192:before {
+  content: "\eed8";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path193:before {
+  content: "\eed9";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path194:before {
+  content: "\eeda";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path195:before {
+  content: "\eedb";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path196:before {
+  content: "\eedc";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path197:before {
+  content: "\eedd";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path198:before {
+  content: "\eede";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path199:before {
+  content: "\eedf";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path200:before {
+  content: "\eee0";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path201:before {
+  content: "\eee1";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path202:before {
+  content: "\eee2";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path203:before {
+  content: "\eee3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path204:before {
+  content: "\eee4";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path205:before {
+  content: "\eee5";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path206:before {
+  content: "\eee6";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path207:before {
+  content: "\eee7";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path208:before {
+  content: "\eee8";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path209:before {
+  content: "\eee9";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path210:before {
+  content: "\eeea";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path211:before {
+  content: "\eeeb";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path212:before {
+  content: "\eeec";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path213:before {
+  content: "\eeed";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path214:before {
+  content: "\eeee";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path215:before {
+  content: "\eeef";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path216:before {
+  content: "\eef0";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path217:before {
+  content: "\eef1";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path218:before {
+  content: "\eef2";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path219:before {
+  content: "\eef3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path220:before {
+  content: "\eef4";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path221:before {
+  content: "\eef5";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path222:before {
+  content: "\eef6";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path223:before {
+  content: "\eef7";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path224:before {
+  content: "\eef8";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path225:before {
+  content: "\eef9";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path226:before {
+  content: "\eefa";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path227:before {
+  content: "\eefb";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path228:before {
+  content: "\eefc";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path229:before {
+  content: "\eefd";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path230:before {
+  content: "\eefe";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path231:before {
+  content: "\eeff";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path232:before {
+  content: "\ef00";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path233:before {
+  content: "\ef01";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path234:before {
+  content: "\ef02";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path235:before {
+  content: "\ef03";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path236:before {
+  content: "\ef04";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path237:before {
+  content: "\ef05";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path238:before {
+  content: "\ef06";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path239:before {
+  content: "\ef07";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path240:before {
+  content: "\ef08";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path241:before {
+  content: "\ef09";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path242:before {
+  content: "\ef0a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path243:before {
+  content: "\ef0b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path244:before {
+  content: "\ef0c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path245:before {
+  content: "\ef0d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path246:before {
+  content: "\ef0e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path247:before {
+  content: "\ef0f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_a .path248:before {
+  content: "\ef10";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.7765;
+}
+.icon2025-nico_qr_b .path1:before {
+  content: "\ef11";
+  color: rgb(18, 18, 18);
+  opacity: 0.9412;
+}
+.icon2025-nico_qr_b .path2:before {
+  content: "\ef12";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+  opacity: 0.9412;
+}
+.icon2025-nico_qr_b .path3:before {
+  content: "\ef13";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+  opacity: 0.9412;
+}
+.icon2025-nico_qr_b .path4:before {
+  content: "\ef14";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+  opacity: 0.9412;
+}
+.icon2025-nico_qr_b .path5:before {
+  content: "\ef15";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+  opacity: 0.9412;
+}
+.icon2025-nico_qr_b .path6:before {
+  content: "\ef16";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+  opacity: 0.9412;
+}
+.icon2025-nico_qr_b .path7:before {
+  content: "\ef17";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+  opacity: 0.9412;
+}
+.icon2025-nico_qr_b .path8:before {
+  content: "\ef18";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+  opacity: 0.9412;
+}
+.icon2025-nico_qr_b .path9:before {
+  content: "\ef19";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path10:before {
+  content: "\ef1a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path11:before {
+  content: "\ef1b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path12:before {
+  content: "\ef1c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path13:before {
+  content: "\ef1d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path14:before {
+  content: "\ef1e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path15:before {
+  content: "\ef1f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path16:before {
+  content: "\ef20";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path17:before {
+  content: "\ef21";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path18:before {
+  content: "\ef22";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path19:before {
+  content: "\ef23";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path20:before {
+  content: "\ef24";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path21:before {
+  content: "\ef25";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path22:before {
+  content: "\ef26";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path23:before {
+  content: "\ef27";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path24:before {
+  content: "\ef28";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path25:before {
+  content: "\ef29";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path26:before {
+  content: "\ef2a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path27:before {
+  content: "\ef2b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path28:before {
+  content: "\ef2c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path29:before {
+  content: "\ef2d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path30:before {
+  content: "\ef2e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path31:before {
+  content: "\ef2f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path32:before {
+  content: "\ef30";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path33:before {
+  content: "\ef31";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path34:before {
+  content: "\ef32";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path35:before {
+  content: "\ef33";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path36:before {
+  content: "\ef34";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path37:before {
+  content: "\ef35";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path38:before {
+  content: "\ef36";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path39:before {
+  content: "\ef37";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path40:before {
+  content: "\ef38";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path41:before {
+  content: "\ef39";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path42:before {
+  content: "\ef3a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path43:before {
+  content: "\ef3b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path44:before {
+  content: "\ef3c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path45:before {
+  content: "\ef3d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path46:before {
+  content: "\ef3e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path47:before {
+  content: "\ef3f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path48:before {
+  content: "\ef40";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path49:before {
+  content: "\ef41";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path50:before {
+  content: "\ef42";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path51:before {
+  content: "\ef43";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path52:before {
+  content: "\ef44";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path53:before {
+  content: "\ef45";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path54:before {
+  content: "\ef46";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path55:before {
+  content: "\ef47";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path56:before {
+  content: "\ef48";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path57:before {
+  content: "\ef49";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path58:before {
+  content: "\ef4a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path59:before {
+  content: "\ef4b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path60:before {
+  content: "\ef4c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path61:before {
+  content: "\ef4d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path62:before {
+  content: "\ef4e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path63:before {
+  content: "\ef4f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path64:before {
+  content: "\ef50";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path65:before {
+  content: "\ef51";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path66:before {
+  content: "\ef52";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path67:before {
+  content: "\ef53";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path68:before {
+  content: "\ef54";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path69:before {
+  content: "\ef55";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path70:before {
+  content: "\ef56";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path71:before {
+  content: "\ef57";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path72:before {
+  content: "\ef58";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path73:before {
+  content: "\ef59";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path74:before {
+  content: "\ef5a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path75:before {
+  content: "\ef5b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path76:before {
+  content: "\ef5c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path77:before {
+  content: "\ef5d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path78:before {
+  content: "\ef5e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path79:before {
+  content: "\ef5f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path80:before {
+  content: "\ef60";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path81:before {
+  content: "\ef61";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path82:before {
+  content: "\ef62";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path83:before {
+  content: "\ef63";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path84:before {
+  content: "\ef64";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path85:before {
+  content: "\ef65";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path86:before {
+  content: "\ef66";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path87:before {
+  content: "\ef67";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path88:before {
+  content: "\ef68";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path89:before {
+  content: "\ef69";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path90:before {
+  content: "\ef6a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path91:before {
+  content: "\ef6b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path92:before {
+  content: "\ef6c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path93:before {
+  content: "\ef6d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path94:before {
+  content: "\ef6e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path95:before {
+  content: "\ef6f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path96:before {
+  content: "\ef70";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path97:before {
+  content: "\ef71";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path98:before {
+  content: "\ef72";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path99:before {
+  content: "\ef73";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path100:before {
+  content: "\ef74";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path101:before {
+  content: "\ef75";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path102:before {
+  content: "\ef76";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path103:before {
+  content: "\ef77";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path104:before {
+  content: "\ef78";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path105:before {
+  content: "\ef79";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path106:before {
+  content: "\ef7a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path107:before {
+  content: "\ef7b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path108:before {
+  content: "\ef7c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path109:before {
+  content: "\ef7d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path110:before {
+  content: "\ef7e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path111:before {
+  content: "\ef7f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path112:before {
+  content: "\ef80";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path113:before {
+  content: "\ef81";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path114:before {
+  content: "\ef82";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path115:before {
+  content: "\ef83";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path116:before {
+  content: "\ef84";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path117:before {
+  content: "\ef85";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path118:before {
+  content: "\ef86";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path119:before {
+  content: "\ef87";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path120:before {
+  content: "\ef88";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path121:before {
+  content: "\ef89";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path122:before {
+  content: "\ef8a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path123:before {
+  content: "\ef8b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path124:before {
+  content: "\ef8c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path125:before {
+  content: "\ef8d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path126:before {
+  content: "\ef8e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path127:before {
+  content: "\ef8f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path128:before {
+  content: "\ef90";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path129:before {
+  content: "\ef91";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path130:before {
+  content: "\ef92";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path131:before {
+  content: "\ef93";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path132:before {
+  content: "\ef94";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path133:before {
+  content: "\ef95";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path134:before {
+  content: "\ef96";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path135:before {
+  content: "\ef97";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path136:before {
+  content: "\ef98";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.9961;
+}
+.icon2025-nico_qr_b .path137:before {
+  content: "\ef99";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon2025-pinterest_qr:before {
+  content: "\ef9a";
+}
+.icon2025-thread_qr:before {
+  content: "\ef9b";
+}
+.icon2025-tiktok_qr:before {
+  content: "\ef9c";
+}
+.icon2025-url_qr:before {
+  content: "\ef9d";
+}
+.icon2025-wp_qr:before {
+  content: "\ef9e";
+}
+.icon2025-x_qr:before {
+  content: "\ef9f";
+}
+.icon2025-youtube_qr .path1:before {
+  content: "\efa0";
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path2:before {
+  content: "\efa1";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path3:before {
+  content: "\efa2";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path4:before {
+  content: "\efa3";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path5:before {
+  content: "\efa4";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path6:before {
+  content: "\efa5";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path7:before {
+  content: "\efa6";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path8:before {
+  content: "\efa7";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path9:before {
+  content: "\efa8";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path10:before {
+  content: "\efa9";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path11:before {
+  content: "\efaa";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path12:before {
+  content: "\efab";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path13:before {
+  content: "\efac";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path14:before {
+  content: "\efad";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path15:before {
+  content: "\efae";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path16:before {
+  content: "\efaf";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path17:before {
+  content: "\efb0";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path18:before {
+  content: "\efb1";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path19:before {
+  content: "\efb2";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path20:before {
+  content: "\efb3";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path21:before {
+  content: "\efb4";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path22:before {
+  content: "\efb5";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path23:before {
+  content: "\efb6";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path24:before {
+  content: "\efb7";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path25:before {
+  content: "\efb8";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path26:before {
+  content: "\efb9";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path27:before {
+  content: "\efba";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path28:before {
+  content: "\efbb";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path29:before {
+  content: "\efbc";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path30:before {
+  content: "\efbd";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path31:before {
+  content: "\efbe";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path32:before {
+  content: "\efbf";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path33:before {
+  content: "\efc0";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path34:before {
+  content: "\efc1";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path35:before {
+  content: "\efc2";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path36:before {
+  content: "\efc3";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path37:before {
+  content: "\efc4";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path38:before {
+  content: "\efc5";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path39:before {
+  content: "\efc6";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path40:before {
+  content: "\efc7";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path41:before {
+  content: "\efc8";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path42:before {
+  content: "\efc9";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path43:before {
+  content: "\efca";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path44:before {
+  content: "\efcb";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path45:before {
+  content: "\efcc";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path46:before {
+  content: "\efcd";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path47:before {
+  content: "\efce";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path48:before {
+  content: "\efcf";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path49:before {
+  content: "\efd0";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path50:before {
+  content: "\efd1";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path51:before {
+  content: "\efd2";
+  margin-left: -1em;
+  color: rgb(22, 22, 22);
+  opacity: 0.7804;
+}
+.icon2025-youtube_qr .path52:before {
+  content: "\efd3";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon2025-youtube_qr .path53:before {
+  content: "\efd4";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
 }
