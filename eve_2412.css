@@ -126,9 +126,9 @@
 
 .eve_log_in{
 	display			:flex;
-	height			:40px;
+	height			:60px;
 	width			:880px;
-	margin-top		:10px;
+	margin			:0 auto
 }
 
 
@@ -165,7 +165,7 @@
 	background		:#f0f0ff;
 	width			:860px;
 	min-height		:70px;
-	margin			:5px;
+	margin			:0 atuo;
 	border			:1px solid #303030;
 }
 
@@ -178,6 +178,7 @@
 	width			:860px;
 	resize			:none;
 	background		:#fafafa;
+	margin			:0 auto;
 }
 
 .eve_answer_out{
@@ -188,9 +189,9 @@
 }
 
 .img_box_out{
-	width			:900px;
+	width			:800px;
 	height			:200px;
-	margin-bottom	:20px;
+	margin			:20px auto;;
 	text-align		:center;
 	padding			:10px;
 }
@@ -208,14 +209,14 @@
 }
 
 .img_box_in{
-	position:absolute;
-	top		:0;
-	left	:0;
-	right	:0;
-	bottom	:0;
-	margin	:auto;
-	width	:100%;
-	z-index	:1;
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:100%;
+	z-index			:1;
 }
 
 
