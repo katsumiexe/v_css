@@ -126,8 +126,8 @@
 
 .eve_log_in{
 	display			:flex;
-	height			:30px;
-	line-height		:30px;
+	height			:50px;
+	line-height		:50px;
 	width			:880px;
 	margin			:20px auto 0 auto
 }
@@ -148,6 +148,7 @@
 .eve_log_btn1,.eve_log_btn2,.eve_log_btn3{
 	font-size		:20px;
 	height			:30px;
+	line-height		:30px;
 	width			:80px;
 	margin			:5px 5px 5px auto;
 	display			:inline-block;
