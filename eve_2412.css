@@ -127,7 +127,10 @@
 .eve_log_in{
 	display			:flex;
 	height			:40px;
+	width			:880px;
+	margin-top		:10px;
 }
+
 
 .eve_log_name{
 	border-bottom	:1px solid #303030;
@@ -163,7 +166,7 @@
 	width			:860px;
 	min-height		:70px;
 	margin			:5px;
-	border:1px solid #303030;
+	border			:1px solid #303030;
 }
 
 .eve_log_answer{
@@ -171,8 +174,8 @@
 	font-size		:16px;
 	height			:600px;
 	line-height		:23px;
-	padding			:5px;
-	width			:880px;
+	padding			:10px;
+	width			:860px;
 	resize			:none;
 	background		:#fafafa;
 }
