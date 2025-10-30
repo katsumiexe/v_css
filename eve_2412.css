@@ -120,7 +120,7 @@
 .eve_log{
 	display			:none;
 	position		:relative;
-	width			:900px;
+	width			:902px;
 	background		:#eaeae0;
 }
 
@@ -165,12 +165,14 @@
 	background		:#f0f0ff;
 	width			:860px;
 	min-height		:70px;
-	margin			:0 atuo;
+	margin			:0 auto;
 	border			:1px solid #303030;
 }
 
 .eve_log_answer{
 	position		:absolute;
+	left			:0;
+	right			:0;
 	font-size		:16px;
 	height			:600px;
 	line-height		:23px;
