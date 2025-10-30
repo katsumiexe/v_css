@@ -120,6 +120,7 @@
 .eve_log{
 	display			:none;
 	position		:relative;
+	width			:900px;
 }
 
 .eve_log_in{
@@ -156,7 +157,7 @@
 	
 	font-size		:16px;
 	line-height		:23px;
-	padding			:15px;
+	padding			:10px;
 	background		:#f0f0ff;
 	width			:860px;
 	min-height		:70px;
@@ -170,7 +171,7 @@
 	height			:600px;
 	line-height		:23px;
 	padding			:5px;
-	width			:890px;
+	width			:880px;
 	resize			:none;
 	background		:#fafafa;
 }
