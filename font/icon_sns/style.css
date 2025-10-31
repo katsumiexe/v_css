@@ -1,0 +1,279 @@
+@font-face {
+  font-family: 'icon_sns';
+  src:  url('fonts/icon_sns.eot?hqi40h');
+  src:  url('fonts/icon_sns.eot?hqi40h#iefix') format('embedded-opentype'),
+    url('fonts/icon_sns.ttf?hqi40h') format('truetype'),
+    url('fonts/icon_sns.woff?hqi40h') format('woff'),
+    url('fonts/icon_sns.svg?hqi40h#icon_sns') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="iconsns-"], [class*=" iconsns-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icon_sns' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconsns-coconara_qr:before {
+  content: "\e900";
+}
+.iconsns-coconara:before {
+  content: "\e901";
+}
+.iconsns-note:before {
+  content: "\e902";
+}
+.iconsns-note_qr:before {
+  content: "\e903";
+}
+.iconsns-ichinana_qr:before {
+  content: "\e904";
+}
+.iconsns-ichinana:before {
+  content: "\e905";
+}
+.iconsns-nico_a:before {
+  content: "\e906";
+}
+.iconsns-nico_b_qr:before {
+  content: "\e907";
+}
+.iconsns-nico_a_qr:before {
+  content: "\e908";
+}
+.iconsns-pixiv:before {
+  content: "\e909";
+}
+.iconsns-pixiv_qr:before {
+  content: "\e90a";
+}
+.iconsns-pixiv_qr_l:before {
+  content: "\e90b";
+}
+.iconsns-pixiv_qr_s:before {
+  content: "\e90c";
+}
+.iconsns-twicas_l:before {
+  content: "\e90d";
+}
+.iconsns-twicas_l_qr:before {
+  content: "\e90e";
+}
+.iconsns-twicas_v:before {
+  content: "\e90f";
+}
+.iconsns-twicas_v_qr:before {
+  content: "\e910";
+}
+.iconsns-youtube_qr:before {
+  content: "\e911";
+}
+.iconsns-bluesky_qr:before {
+  content: "\e912";
+}
+.iconsns-fantia_qr:before {
+  content: "\e913";
+}
+.iconsns-github_qr:before {
+  content: "\e914";
+}
+.iconsns-nico_b:before {
+  content: "\e915";
+}
+.iconsns-pinterest_qr:before {
+  content: "\e916";
+}
+.iconsns-thread_qr:before {
+  content: "\e917";
+}
+.iconsns-tiktok_qr:before {
+  content: "\e918";
+}
+.iconsns-url_qr:before {
+  content: "\e919";
+}
+.iconsns-wp_qr:before {
+  content: "\e91a";
+}
+.iconsns-x_qr:before {
+  content: "\e91b";
+}
+.iconsns-qrcode:before {
+  content: "\ea96";
+}
+.iconsns-facebook:before {
+  content: "\ebee";
+}
+.iconsns-facebook_b:before {
+  content: "\ebef";
+}
+.iconsns-youtube:before {
+  content: "\ebfb";
+}
+.iconsns-youtube_b:before {
+  content: "\ebfc";
+}
+.iconsns-github:before {
+  content: "\ec0e";
+}
+.iconsns-wordpress:before {
+  content: "\ec12";
+}
+.iconsns-tux:before {
+  content: "\ec1b";
+}
+.iconsns-appleinc:before {
+  content: "\ec1c";
+}
+.iconsns-android:before {
+  content: "\ec1e";
+}
+.iconsns-reddit:before {
+  content: "\ec24";
+}
+.iconsns-pinterest:before {
+  content: "\ec2f";
+}
+.iconsns-pinterest2:before {
+  content: "\ec30";
+}
+.iconsns-paypal:before {
+  content: "\ec36";
+}
+.iconsns-chrome:before {
+  content: "\ec37";
+}
+.iconsns-firefox:before {
+  content: "\ec38";
+}
+.iconsns-IE:before {
+  content: "\ec39";
+}
+.iconsns-edge:before {
+  content: "\ec3a";
+}
+.iconsns-safari:before {
+  content: "\ec3b";
+}
+.iconsns-opera:before {
+  content: "\ec3c";
+}
+.iconsns-line:before {
+  content: "\ec5d";
+}
+.iconsns-tiktok:before {
+  content: "\ec5e";
+}
+.iconsns-x:before {
+  content: "\ec5f";
+}
+.iconsns-clap:before {
+  content: "\ec60";
+}
+.iconsns-line_qr:before {
+  content: "\ec63";
+}
+.iconsns-cog:before {
+  content: "\ec66";
+}
+.iconsns-trashcan:before {
+  content: "\ec69";
+}
+.iconsns-attachment:before {
+  content: "\ec6a";
+}
+.iconsns-qr_logo_back:before {
+  content: "\ec6b";
+}
+.iconsns-url:before {
+  content: "\ec6c";
+}
+.iconsns-twitter:before {
+  content: "\ec6d";
+}
+.iconsns-twitter_qr:before {
+  content: "\ec6e";
+}
+.iconsns-onlyme:before {
+  content: "\ec6f";
+}
+.iconsns-insta:before {
+  content: "\ec70";
+}
+.iconsns-insta_qr:before {
+  content: "\ec71";
+}
+.iconsns-cosp:before {
+  content: "\ec72";
+}
+.iconsns-cosp_qr:before {
+  content: "\ec73";
+}
+.iconsns-onlyme_qr:before {
+  content: "\ec74";
+}
+.iconsns-logout:before {
+  content: "\ec75";
+}
+.iconsns-img_fanny:before {
+  content: "\ec76";
+}
+.iconsns-img_sexy:before {
+  content: "\ec77";
+}
+.iconsns-img_ikemen:before {
+  content: "\ec78";
+}
+.iconsns-img_kawaii:before {
+  content: "\ec79";
+}
+.iconsns-drink:before {
+  content: "\ec7b";
+}
+.iconsns-camera:before {
+  content: "\ec91";
+}
+.iconsns-onlyme_logo:before {
+  content: "\eca9";
+}
+.iconsns-onlyme_logo_2:before {
+  content: "\ecab";
+}
+.iconsns-fantia:before {
+  content: "\ecbc";
+}
+.iconsns-thread:before {
+  content: "\ecbd";
+}
+.iconsns-lady:before {
+  content: "\ecc3";
+}
+.iconsns-fortune:before {
+  content: "\ecc5";
+}
+.iconsns-bluesky:before {
+  content: "\ecc6";
+}
+.iconsns-img_ai:before {
+  content: "\ecc9";
+}
+.iconsns-home:before {
+  content: "\ed12";
+}
+.iconsns-image:before {
+  content: "\ed17";
+}
+.iconsns-play:before {
+  content: "\ed18";
+}
