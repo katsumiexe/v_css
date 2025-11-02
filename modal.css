@@ -175,7 +175,7 @@ html:has(.ar_modal[open]){
 	line-height		:5.8vw;
 }
 
-.ar_modal_back2{
+.ar_modal_btn2{
 	text-align		:center;
 	position		:absolute;
 	bottom			:2vw;
