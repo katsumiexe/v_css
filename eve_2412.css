@@ -126,8 +126,7 @@
 
 .eve_log_in{
 	display			:flex;
-	height			:50px;
-	line-height		:50px;
+	line-height		:24px;
 	width			:880px;
 	margin			:20px auto 0 auto
 }
