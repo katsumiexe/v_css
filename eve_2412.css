@@ -831,6 +831,7 @@
     height		:8vw;
     padding		:0.5vw;
     font-size	:5.5vw;
+	margin		:1vw;
 }
 
 .eve_box{
@@ -871,7 +872,7 @@
 
 .eve_log{
 	width			:99vw;
-	height			:120vw;
+	height			:155vw;
 }
 
 .eve_log_in{
@@ -882,7 +883,7 @@
 
 .eve_log_name{
 	font-size		:3.5vw;
-	height			:12vw;
+	height			:15vw;
 	line-height		:5vw;
 	padding			:0.5vw;
 	width			:92vw;
@@ -910,10 +911,24 @@
 .eve_tag {
     flex-basis		: 18vw;
     height			: 6vw;
-    font-size		: 4vw;
+    font-size		: 3.5vw;
     line-height		: 6vw;
     padding			: 0;
 }
+
+
+.eve_2412_rese {
+    height: 5vw;
+    line-height: 5vw;
+    font-size: 4vw;
+}
+
+.eve_2412_resc {
+    height: 5vw;
+    line-height: 5vw;
+    font-size: 4vw;
+}
+
 
 .asp_flex_custom {
     height: 10vw;
@@ -944,7 +959,7 @@
 	height			:60vw;
 	line-height		:6.5vw;
 	padding			:1vw;
-	width			:96vw;
+	width			:92vw;
 }
 
 
