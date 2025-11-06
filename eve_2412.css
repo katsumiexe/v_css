@@ -924,9 +924,10 @@
 }
 
 .eve_2412_resc {
-    height: 5vw;
-    line-height: 5vw;
-    font-size: 4vw;
+	top			:8vw;
+    height		: 5vw;
+    line-height	: 5vw;
+    font-size	: 4vw;
 }
 
 
@@ -939,13 +940,33 @@
 }
 
 .eve_log_flex {
-    font-size: 4.5vw;
-    height: 60vw;
-    line-height: 6vw;
+    font-size		: 4.5vw;
+    height			: 60vw;
+    line-height		: 6vw;
     padding: 1vw;
     width: 96vw;
 }
 
+.eve_month_answer_flex {
+	height: 6vw;
+}
+
+.eve_month_answer {
+    width		: 92vw;
+    height		: 20vw;
+    font-size	: 4.5vw;
+    line-height	: 6vw;
+    padding		: 1vw;
+    margin		: 1vw auto;
+}
+
+.eve_month_answer_out {
+    flex: 0 0 94vw;
+    height: 40vw;
+    margin: 1vw auto;
+    background: #fafafa;
+	
+    
 .eve_log_log{
 	font-size		:3.5vw;
 	line-height		:5vw;
@@ -1017,7 +1038,7 @@
 .eve_comm{
 	width		:90vw;
 	font-size	:4vw;
-	line-height	:5.5;
+	line-height	:5.5vw;
 	margin		:1vw auto;
 	padding:1vw;
 }
