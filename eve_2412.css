@@ -939,13 +939,14 @@
 	mihn-height		:12vw;
 }
 
-.eve_log_answer{
+.eve_log_answer,.eve_log_answer2{
 	font-size		:4.5vw;
 	height			:60vw;
 	line-height		:6.5vw;
 	padding			:1vw;
 	width			:96vw;
 }
+
 
 .eve_answer_out{
 	height			:62vw;
