@@ -918,9 +918,10 @@
 
 
 .eve_2412_rese {
-    height: 5vw;
-    line-height: 5vw;
-    font-size: 4vw;
+	flex-basis	:20vw;
+    height		:5vw;
+    line-height	:5vw;
+    font-size	:4vw;
 }
 
 .eve_2412_resc {
