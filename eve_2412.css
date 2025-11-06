@@ -872,7 +872,7 @@
 
 .eve_log{
 	width			:99vw;
-	height			:auto;
+	height			:270vw;
 }
 
 .eve_log_in{
@@ -914,10 +914,6 @@
     font-size		: 3.5vw;
     line-height		: 6vw;
     padding			: 0;
-}
-
-.out2{
-	height		:92vw;
 }
 
 .eve_2412_rese {
@@ -990,6 +986,10 @@
 .eve_answer_out{
 	height			:62vw;
 	width			:96vw;
+}
+
+.out2{
+	height		:92vw;
 }
 
 
