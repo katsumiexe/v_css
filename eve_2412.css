@@ -962,10 +962,10 @@
 }
 
 .eve_month_answer_out {
-    flex: 0 0 94vw;
-    height: 40vw;
-    margin: 1vw auto;
-    background: #fafafa;
+    flex			:0 0 94vw;
+    height			:40vw;
+    margin			:1vw auto;
+    background		:#fafafa;
 }
 .eve_log_log{
 	font-size		:3.5vw;
@@ -1004,11 +1004,11 @@
 }
 
 .stan0,.stan1{
-	height		: 7vw;
-	line-height	: 7vw;
-	font-size	: 4vw;
-	margin		:0.5vw;
-	padding		:0 1vw;
+	height			:7vw;
+	line-height		:7vw;
+	font-size		:4vw;
+	margin			:0.5vw;
+	padding			:0 1vw;
 
 }
 
