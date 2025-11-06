@@ -1012,7 +1012,7 @@
 	font-size		:4vw;
 	margin			:0.5vw;
 	padding			:0 1vw;
-
+	flex-basis		:30vw;
 }
 
 .eve_comm{
