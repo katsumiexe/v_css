@@ -932,11 +932,11 @@
 
 
 .asp_flex_custom {
-    height: 10vw;
-    width: 80vw;
-    margin: 1vw auto;
-    left: 1vw;
-    top: 60vw;
+    height		:10vw;
+    width		:80vw;
+    margin		:1vw auto;
+    left		:2vw;
+    top			:170vw;
 }
 
 .eve_log_flex {
