@@ -917,7 +917,7 @@
 }
 
 .eve_2412_rese {
-	flex-basis	:20vw;
+	flex-basis	:30vw;
     height		:5vw;
     line-height	:5vw;
     font-size	:4vw;
@@ -925,9 +925,10 @@
 
 .eve_2412_resc {
 	top			:8vw;
-    height		: 5vw;
-    line-height	: 5vw;
-    font-size	: 4vw;
+	right		:20vw;
+    height		:5vw;
+    line-height	:5vw;
+    font-size	:4vw;
 }
 
 
@@ -989,10 +990,8 @@
 }
 
 .out2{
-	height		:92vw;
+	height			:92vw;
 }
-
-
 
 .img_box_out{
 	width			:90vw;
