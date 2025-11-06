@@ -1003,6 +1003,24 @@
 	margin			:1vw;
 }
 
+.stan0,.stan1{
+	height		: 7vw;
+	line-height	: 7vw;
+	font-size	: 4vw;
+	margin		:0.5vw;
+	padding		:0 1vw;
+}
+
+.eve_comm{
+	width		:90vw;
+	font-size	:4vw;
+	line-height	:5.5vw;
+	margin		:1vw auto;
+	padding		:1vw;
+}
+
+}
+
 .eve_log_btn1{
 	background	:#ff6060;
 }
@@ -1027,20 +1045,4 @@
 	background	:#f0f0f0;
 }
 
-.stan0,.stan1{
-	height		: 7vw;
-	line-height	: 7vw;
-	font-size	: 4vw;
-	margin		:0.5vw;
-	padding		:0 1vw;
-}
 
-.eve_comm{
-	width		:90vw;
-	font-size	:4vw;
-	line-height	:5.5vw;
-	margin		:1vw auto;
-	padding:1vw;
-}
-
-}
