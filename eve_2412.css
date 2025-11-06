@@ -871,10 +871,11 @@
 }
 
 .eve_log{
+	width			:99vw;
 }
 
 .eve_log_in{
-	width			:99vw;
+	width			:98vw;
 	margin			:0 auto;
 	flex-wrap		:wrap;
 }
