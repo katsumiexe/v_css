@@ -903,15 +903,16 @@
 }
 
 .eve_tag_out{
-	width:96vw;
+	width			:96vw;
+	flex-wrap		:wrap;
 }
 
 .eve_tag {
-    flex-basis	: 18vw;
-    height: 6vw;
-    font-size: 4vw;
-    line-height: 6vw;
-    padding: 0;
+    flex-basis		: 18vw;
+    height			: 6vw;
+    font-size		: 4vw;
+    line-height		: 6vw;
+    padding			: 0;
 }
 
 .asp_flex_custom {
