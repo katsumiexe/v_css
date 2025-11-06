@@ -813,6 +813,8 @@
 
 
 @media screen and (max-width: 768px){
+
+
 .eve_title_hist {
     flex-basis: 60vw;
     height: 7vw;
@@ -1005,5 +1007,4 @@
 	padding:1vw;
 }
 
-
-
+}
