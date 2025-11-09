@@ -682,18 +682,18 @@
 }
 
 .atama_view00{
-	width:95%;
+	width:100%;
 	display:none;
 }
 .atama_view01{
-	width:95%;
+	width:100%;
 }
 
 .atama_view10{
-	width:95%;
+	width:100%;
 }
 .atama_view11{
-	width:95%;
+	width:100%;
 	display:none;
 }
 
@@ -776,8 +776,6 @@
 	line-height:30px;
 }
 
-
-
 .wait{
 	display			:none;
 	position		:fixed;
@@ -805,15 +803,14 @@
 	border-radius	:50%;
 	animation		:5s linear infinite wait_animation;
 }
+
 @keyframes wait_animation{
 	0%{ transform:rotate(0);}
 	100%{ transform:rotate(360deg); }
 }
 
 
-
 @media screen and (max-width: 768px){
-
 
 .eve_title_hist {
     flex-basis: 60vw;
@@ -822,7 +819,6 @@
     margin: 0.5vw;
 	padding-left:7vw;
 }
-
 
 .eve_2412_res {
     bottom		:13vw;
@@ -903,6 +899,24 @@
 	margin			:0.5vw; 
 }
 
+
+.eve_log_atama{
+	width			:94vw;
+    height			:25vw;
+    line-height		:6vw;
+    padding			:1vw;
+	font-size		:4.5vw;
+}
+
+.atama_tag{
+	margin			:1vw auto 0 auto;
+	font-size		:4vw;
+	height			:50px;
+	line-height		:80px;
+}
+
+
+
 .eve_tag_out{
 	width			:96vw;
 	flex-wrap		:wrap;
@@ -930,6 +944,56 @@
     line-height	:5vw;
     font-size	:4vw;
 }
+
+
+
+
+.eve_2412_res_a{
+	right			:14vw;
+	width			:12vw;
+	height			:6vw;
+	line-height		:6vw;
+	border			:3px solid #000090;
+	border-radius	:1vw;
+	text-align		:right;
+	padding			:1vw;
+	font-size		:4vw;
+	font-weight		:800;
+	background		:#fffafa;
+	color			:#000060;
+}
+
+.eve_2412_resp_a{
+	width			:12vw;
+	height			:6vw;
+	line-height		:6vw;
+	border-radius	:1vw;
+	font-size		:4vw;
+}
+
+.eve_2412_resc_a{
+	position		:absolute;
+	top				:5px;
+	right			:180px;
+	height			:20px;
+	line-height		:20px;
+	text-align		:right;
+	font-size		:18px;
+	font-weight		:800;
+	color			:#c00000;
+}
+
+.eve_2412_rese_a{
+	position		:absolute;
+	right			:1vw;
+	bottom			:0;
+	height			:4vw;
+	line-height		:4vw;
+	text-align		:right;
+	font-size		:4vw;
+	color			:#171717;
+}
+
 
 
 .asp_flex_custom {
