@@ -669,6 +669,7 @@
 }
 
 .eve_log_atama{
+	display			:block;
 	width			:890px;
 	margin			:0 auto;
 	position		:relative;
@@ -901,7 +902,7 @@
 
 
 .eve_log_atama{
-	width			:94vw;
+	width			:96vw;
     height			:25vw;
     line-height		:6vw;
     padding			:1vw;
@@ -909,10 +910,10 @@
 }
 
 .atama_tag{
-	margin			:1vw auto 0 auto;
+	margin			:1vw;
 	font-size		:4vw;
-	height			:50px;
-	line-height		:80px;
+	height			:13vw;
+	line-height		:20vw;
 }
 
 
@@ -956,7 +957,7 @@
 	border			:3px solid #000090;
 	border-radius	:1vw;
 	text-align		:right;
-	padding			:1vw;
+	padding			:0 1vw;
 	font-size		:4vw;
 	font-weight		:800;
 	background		:#fffafa;
@@ -972,27 +973,24 @@
 }
 
 .eve_2412_resc_a{
-	position		:absolute;
-	top				:5px;
-	right			:180px;
-	height			:20px;
-	line-height		:20px;
-	text-align		:right;
-	font-size		:18px;
-	font-weight		:800;
-	color			:#c00000;
+	right			:26vw;
+	height			:4vw;
+	line-height		:4vw;
+	font-size		:4vw;
 }
 
 .eve_2412_rese_a{
 	position		:absolute;
 	right			:1vw;
-	bottom			:0;
+	top				:0;
+	bottom			:auto;
 	height			:4vw;
 	line-height		:4vw;
 	text-align		:right;
 	font-size		:4vw;
 	color			:#171717;
 }
+
 
 
 
