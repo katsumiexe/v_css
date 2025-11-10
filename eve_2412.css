@@ -668,7 +668,7 @@
 	height			:20px;
 }
 
-.eve_log_atama{
+.eve_log_atama,.eve_log_atama_txt{
 	display			:block;
 	width			:890px;
 	margin			:0 auto;
@@ -680,6 +680,11 @@
     background		:#fafafa;
 	border			:1px solid #171717;
 	min-height		:100px;
+}
+
+
+.eve_log_atama_txt{
+	height		:105px;
 }
 
 .atama_view00{
@@ -901,13 +906,17 @@
 }
 
 
-.eve_log_atama{
+.eve_log_atama,.eve_log_atama_txt{
 	width			:96vw;
-    height			:25vw;
     line-height		:6vw;
     padding			:1vw;
 	font-size		:4.5vw;
 }
+
+.eve_log_atama_txt{
+    height			:25vw;
+}
+
 
 .atama_tag{
 	margin			:1vw;
