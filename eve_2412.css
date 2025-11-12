@@ -874,7 +874,7 @@
 
 .eve_log{
 	width			:99vw;
-	height			:255vw;
+	height			:265vw;
 }
 
 .eve_log_in{
@@ -1092,37 +1092,34 @@
 
 
 .mrasp_0{
-	width		:160px;
-	height		:160px;
+	width		:40vw;
+	height		:40vw;
 	margin		:20px;
 }
 
 .mrasp_1{
-	width		:108px;
-	height		:192px;
-	margin		:4px 46px;
+	width		:22.5vw;
+	height		:40vw;
+	margin		:1vw;
 }
 
 .mrasp_2{
-	width		:192px;
-	height		:108px;
-	margin		:46px 4px;
+	width		:22.5vw;
+	height		:40vw;
+	margin		:1vw;
 }
 
 .mrasp_3{
-	width		:135px;
-	height		:180px;
-	margin		:10px 32px;
+	width		:30vw;
+	height		:40vw;
+	margin		:1vw;
 }
 
 .mrasp_4{
-	width		:180px;
-	height		:135px;
-	margin		:32px 10px;
+	width		:40vw;
+	height		:30vw;
+	margin		:1vw;
 }
-
-
-
 
 .eve_log_flex {
     font-size		: 4.5vw;
