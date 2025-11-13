@@ -406,7 +406,7 @@
 }
 
 .out2{
-	height		:900px;
+	height		:auto;
 }
 
 .eve_tag_out{
@@ -1122,9 +1122,9 @@
 }
 
 .eve_log_flex {
+	position		:relative;
     font-size		: 4.5vw;
-    height			: 60vw;
-    height			: 190vw;
+    height			: auto;
     line-height		: 6vw;
     padding			: 1vw;
     width			: 96vw;
@@ -1167,7 +1167,7 @@
 
 
 .eve_answer_out{
-	height			:145vw;
+	height			:auto;
 	width			:98vw;
 }
 
