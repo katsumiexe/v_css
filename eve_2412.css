@@ -572,30 +572,35 @@
 
 .mrasp_0{
 	width		:160px;
+	flex-basis	:160px;
 	height		:160px;
 	margin		:20px;
 }
 
 .mrasp_1{
 	width		:108px;
+	flex-basis	:108px;
 	height		:192px;
 	margin		:4px 46px;
 }
 
 .mrasp_2{
 	width		:192px;
+	flex-basis	:192px;
 	height		:108px;
 	margin		:46px 4px;
 }
 
 .mrasp_3{
 	width		:135px;
+	flex-basis	:135px;
 	height		:180px;
 	margin		:10px 32px;
 }
 
 .mrasp_4{
 	width		:180px;
+	flex-basis	:180px;
 	height		:135px;
 	margin		:32px 10px;
 }
@@ -1112,30 +1117,35 @@
 
 .mrasp_0{
 	width		:20vw;
+	flex-basis	:20vw;
 	height		:20vw;
 	margin		:1vw;
 }
 
 .mrasp_1{
 	width		:13.5vw;
+	flex-basis	:13.5vw;
 	height		:24vw;
 	margin		:1vw;
 }
 
 .mrasp_2{
 	width		:19.2vw;
+	flex-basis	:19.2vw;
 	height		:10.8vw;
 	margin		:1vw;
 }
 
 .mrasp_3{
 	width		:18vw;
+	flex-basis	:18vw;
 	height		:24vw;
 	margin		:1vw;
 }
 
 .mrasp_4{
 	width		:20vw;
+	flex-basis	:20vw;
 	height		:15vw;
 	margin		:1vw;
 }
