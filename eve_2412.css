@@ -406,7 +406,7 @@
 }
 
 .out2{
-	height		:auto;
+	height		:900px;
 }
 
 .eve_tag_out{
@@ -1188,11 +1188,13 @@
 .eve_answer_out{
 	height			:auto;
 	height			:140vw;
-
 	width			:98vw;
 }
 
 
+.out2{
+	height		:auto;
+}
 
 .stan0,.stan1{
 	height			:7vw;
