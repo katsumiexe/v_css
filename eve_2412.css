@@ -1001,6 +1001,24 @@
 	color			:#171717;
 }
 
+.mimg_box_out{
+	margin			:20vw auto 1vw auto;
+	width			:98vw;
+	height			:30vw;
+}
+
+.img_box_out{
+	width			:96vw;
+	height			:22vw;
+	margin			:0 auto;
+	padding			:0;
+	justfy-content	:center;
+}
+
+.img_box{
+	margin			:1vw;
+}
+
 
 .asp_flex{
     height		:14vw;
@@ -1091,33 +1109,34 @@
 
 
 
+
 .mrasp_0{
-	width		:40vw;
-	height		:40vw;
-	margin		:20px;
+	width		:20vw;
+	height		:20vw;
+	margin		:1vw;
 }
 
 .mrasp_1{
-	width		:22.5vw;
-	height		:40vw;
+	width		:18vw;
+	height		:32vw;
 	margin		:1vw;
 }
 
 .mrasp_2{
-	width		:22.5vw;
-	height		:40vw;
+	width		:19.2vw;
+	height		:10.8vw;
 	margin		:1vw;
 }
 
 .mrasp_3{
-	width		:30vw;
-	height		:40vw;
+	width		:18vw;
+	height		:24vw;
 	margin		:1vw;
 }
 
 .mrasp_4{
-	width		:40vw;
-	height		:30vw;
+	width		:20vw;
+	height		:15vw;
 	margin		:1vw;
 }
 
@@ -1171,25 +1190,7 @@
 	width			:98vw;
 }
 
-.mimg_box_out{
-	margin			:20vw auto 1vw auto;
-	width			:98vw;
-	height			:30vw;
-}
 
-.img_box_out{
-	width			:96vw;
-	height			:22vw;
-	margin			:0 auto;
-	padding			:0;
-	justfy-content	:center;
-}
-
-.img_box{
-	height			:20vw;
-	flex-basis		:20vw;
-	margin			:1vw;
-}
 
 .stan0,.stan1{
 	height			:7vw;
