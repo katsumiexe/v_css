@@ -3,7 +3,6 @@
 	padding		:0;
 	background	:#f0e0a0;
 	background	:#fafafa;
-
 }
 
 .box2025{
@@ -36,6 +35,53 @@
 }
 
 .box2025_comm{
+	color		:#272622;
+	color		:#575757;
+	font-size	:4vw;
+	text-align	:left;
+	line-height	:6vw;
+	margin		:1vw auto;
+	width		:90vw;
+}
+
+
+.box2026_body{
+	margin		:0;
+	padding		:0;
+	background	:#f0e0a0;
+	background	:#fafafa;
+}
+
+.box2026{
+	width		:96vw;
+	border		:1.5vw solid #685820;
+	border		:1px solid #303030;
+	background	:#f0e8c0;
+	background	:radial-gradient(#FFFFEC 40%,#d8d0a0 100%);
+	box-shadow	:1vw 1vw 1vw rgba(30,30,30,0.5);
+	margin		:3vw 3vw 3vw 1vw;
+}
+
+.box2026_top{
+	color		:#311500;
+	font-size	:8vw;
+	text-align	:center;
+	font-weight	:900;
+	width		:90vw;
+	margin		:2vw auto;
+	line-height	:10vw;
+}
+
+.box2026_title{
+	color		:#311500;
+	font-size	:6vw;
+	text-align	:center;
+	font-weight	:700;
+	margin		:5vw auto 2vw auto;
+	width		:90vw;
+}
+
+.box2026_comm{
 	color		:#272622;
 	color		:#575757;
 	font-size	:4vw;
