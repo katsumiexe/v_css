@@ -100,10 +100,12 @@
 	font-size	:4vw;
 	color		:#72650f;
 	width		:35vw;
-	height:6vw;
+	height		:6vw;
+	padding		:1.5vw;
 }
 
 .box2026_td0{
 	width		:20vw;
+	text-align	:center;
 }
 
