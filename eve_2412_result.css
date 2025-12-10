@@ -54,13 +54,10 @@
 
 .box2026{
 	width			:96vw;
-	border			:1.5vw solid #685820;
 	border			:1px solid #303030;
-	background		:#f0e8c0;
-	background		:radial-gradient(#FFFFEC 40%,#d8d0a0 100%);
+	background		:radial-gradient(#FFFFEC 70%,#e8e0b0 100%);
 	box-shadow		:1vw 1vw 1vw rgba(30,30,30,0.5);
-	margin			:3vw 3vw 3vw 1vw;
-	padding-bottom	:3vw;
+	margin			:3vw auto;
 }
 
 .box2026_top{
