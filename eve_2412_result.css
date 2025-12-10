@@ -88,3 +88,16 @@
 	margin		:1vw auto 5vw auto;
 	width		:90vw;
 }
+
+.box2026_tbl{
+	margin			:2vw auto;
+	border			:3px solid #988850;
+	border-collapse	:collapse;
+}
+
+.box2026_td{
+	border		:1px solid #988850;
+	font-size	:5vw;
+	color		:#72650f;
+}
+
