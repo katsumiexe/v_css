@@ -95,9 +95,14 @@
 	border-collapse	:collapse;
 }
 
-.box2026_td{
+.box2026_td,.box2026_td0{
 	border		:1px solid #988850;
 	font-size	:5vw;
 	color		:#72650f;
+	width		:35vw;
+}
+
+.box2026_td0{
+	width		:20vw;
 }
 
