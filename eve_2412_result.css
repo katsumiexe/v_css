@@ -124,8 +124,8 @@
 	height			:12vw;
 	width			:10vw;
 	background		:#574e49;
+	color			:#fafafa;
 }
-
 
 .pdf_menu_in_icon{
 	text-align	:center;
@@ -140,4 +140,5 @@
 	width		:10vw;
 	height		:4vw;
 	line-height	:4vw;
+	font-weight	:800;
 }
