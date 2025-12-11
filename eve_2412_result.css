@@ -101,7 +101,7 @@
 	color		:#72650f;
 	width		:35vw;
 	height		:6vw;
-	padding		:1.5vw;
+	padding		:0.5vw;
 }
 
 .box2026_td0{
@@ -109,3 +109,35 @@
 	text-align	:center;
 }
 
+.pdf_menu{
+	positon			:fixed;
+	bottom			:0;
+	left			:0;
+	width			:100vw;
+	height			:12vw;
+	display			:flex;
+	justify-content	:flex-end;
+}
+
+.pdf_menu_in{
+	border			:1px solid #fafafa;
+	height			:12vw;
+	width			:10vw;
+	background		:#574e49;
+}
+
+
+.pdf_menu_in_icon{
+	text-align	:center;
+	font-size	:5vw;
+	width		:10vw;
+	height		:6vw;
+	line-height	:6vw;
+}
+.pdf_menu_in_comm{
+	text-align	:center;
+	font-size	:3vw;
+	width		:10vw;
+	height		:4vw;
+	line-height	:4vw;
+}
