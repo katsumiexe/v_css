@@ -111,12 +111,12 @@
 
 .pdf_menu{
 	position		:fixed;
-	bottom			:-56vw;
+	bottom			:-58vw;
 	left			:0;
 	right			:0;
 	margin			:auto;
 	width			:90vw;
-	height			:68vw;
+	height			:70vw;
 	border-radius	:2vw 2vw 0 0 ;
 	background		:#e0c0a0;
 	overflow		:hidden;
@@ -178,14 +178,15 @@
 
 .pdf_menu_in_at{
 	position	:absolute;
-	top			:1vw;
+	top			:2vw;
 	left		:16vw;
 	text-align	:left;
 	font-size	:3vw;
 	width		:60vw;
 	height		:4vw;
 	line-height	:4vw;
-	font-weight	:800;
+	font-weight	:700;
+	color		:#c00000;
 }
 
 
