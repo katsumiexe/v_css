@@ -123,10 +123,11 @@
 }
 
 .pdf_title{
+	text-align		:center;
 	margin			:0 auto 5vw auto;
 	width			:90vw;
-	height			:6vw;
-	line-height		:6vw;
+	height			:8vw;
+	line-height		:7vw;
 	font-size		:4vw;
 	color			:#fafafa;
 	background		:#c0a080;
