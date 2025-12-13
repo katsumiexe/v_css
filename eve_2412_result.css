@@ -146,31 +146,35 @@
 
 .m_no{
 	width		:94vw;
-	height		:10vw;
+	height		:14vw;
 	position	:relative;
 	background	:#f17766;
 	color		:#fafafa;
-	margin		:1vw auto;
+	margin		:2vw auto;
 }
 
 .m_no_icon{
-	width		:16vw;
+	width		:14vw;
+	height		:12vw;
+	line-height	:12vw;
+	position	:absolute;
+	top			:0;
+	bottom		:0;
+	left		:0;
+	margin		:auto;
+	font-size	:11vw;
+	text-align	:center;
+}
+
+.m_no_id{
 	height		:14vw;
 	line-height	:14vw;
 	position	:absolute;
 	top			:0;
-	left		:0;
-	font-size	:11vw;
-	text-align	:right;
-}
-
-.m_no_id{
-	height		:17vw;
-	line-height	:17vw;
-	position	:absolute;
-	top			:0;
-	left		:18vw;
-	font-size	:6vw;
+	bottom		:0;
+	left		:16vw;
+	margin		:auto;
+	font-size	:10vw;
 	text-align	:center;
 	font-weight	:900;
 }
@@ -185,7 +189,6 @@
 	height		:12vw;
 	line-height	:6vw;
 }
-
 
 .m_title{
 	font-size		:5vw;
