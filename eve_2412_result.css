@@ -209,10 +209,7 @@
 	width		:90vw;
 	height		:120vw;
 	background	:#d0d0d0;
-	
 }
-
-
 
 .m_no{
 	width		:90vw;
@@ -263,14 +260,15 @@
 .m_title{
 	font-size		:5vw;
 	margin			:1vw auto;
-	background		:#fafafa;
+	background		:#f17766;
 	padding			:1.5vw;
-	color			:#f17766;
-	border-bottom	:1vw solid #f17766;
-	border-left		:5vw solid #f17766;
+	color			:#fafafa;
 	height			:8vw;
+	line-height		:8vw;
+	width			:60vw;
+	border-radius	:4vw;
+	text-align		:center;
 }
-
 
 .m_guide{
 	margin			:1vw auto;
@@ -279,3 +277,31 @@
 	color			:#303030;
 	width			:90vw;
 }
+
+.m_comm_menu{
+	display			:flex;
+	margin			:1vw auto;
+	background		:#fafafa;
+	width			:40vw;
+	height			:8vw;
+	border-radius	:1vw;
+	border			:0.5vw solid #f17766;
+}
+
+.m_comm_menu{
+	flex-basis		:6vw;
+	margin			:1vw 2vw;
+	background		:#fafafa
+	text-align		:center;
+	height			:6vw;
+	line-height		:6vw;
+	font-weight		:800;
+	bordar-radius	:3vw;
+	background		:#f0d0e8;
+	color			:#fafafa;
+}
+
+.m_comm_menu_on{
+	background		:#f17766;
+}
+
