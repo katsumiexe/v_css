@@ -330,3 +330,63 @@
 	background		:#f17766;
 }
 
+.td_box{
+	padding-bottom	:1.5vw;
+}
+
+.tag{
+	font-size		:4vw;
+	height			:5vw;
+	line-height		:6vw;
+	padding			:0;
+	margin			:0;
+	text-align		:left;
+}
+
+.td_name{
+	padding-left:1vw;
+	font-size	:4.5vw !important;
+	width		:86vw;
+	border		:1px solid #050505 !important;
+	height		:8vw !important;
+	margin		:1px !important;
+}
+
+.td_zip{
+	padding-left:1vw;
+	font-size	:4.5vw !important;
+	width		:40vw;
+	border		:1px solid #050505 !important;
+	height		:8vw !important;
+	margin		:1px !important;
+}
+
+.td_area{
+	font-size	:4.5vw !important;
+	width		:86vw;
+	border		:1px solid #050505;
+	resize		:none;
+	height		:16vw;
+	line-height	:6vw;
+	padding		:2vw;
+	margin		:1px !important;
+}
+
+.submit_btn{
+	margin		:2vw;
+	font-size	:4vw;
+	font-weight	:700;
+	color		:#fafafa;
+	height		:7vw;
+	width		:30vw;
+}
+
+.snd_on{
+	background	:linear-gradient(#00a000,#008000);
+	color		:#fafafa;
+}
+
+.td_box{
+	padding-bottom	:1.5vw;
+}
+
