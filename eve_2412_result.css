@@ -177,6 +177,31 @@
 	font-weight	:900;
 }
 
+
+.dl_icon{
+	text-align	:center;
+	margin		:20vw auto 0 auto;
+	font-size	:40vw;
+	width		:50vw;
+	height		:50vw;
+	line-height	:50vw;
+}
+
+.dl_comm{
+	text-align	:center;
+	font-size	:5vw;
+	width		:60vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-weight	:900;
+}
+
+.dl_link{
+	display			:block;
+	 text-decoration:none;
+
+}
+
 .pdf_menu_in_at{
 	position	:absolute;
 	top			:2vw;
@@ -309,7 +334,7 @@
 
 .m_comm_box_out{
 	width		:90vw;
-	height		:74vw;
+	height		:72.5vw;
 	margin		:0 auto;
 	position	:relative;
 	border		:2px solid #f17766;
@@ -386,7 +411,56 @@
 	color		:#fafafa;
 }
 
-.td_box{
-	padding-bottom	:1.5vw;
+.post_table{
+	margin		:0 auto;
+	table-layout:fixed;
+	width		:89vw;
+	text-align	:left;
+	border		:none;
 }
 
+.td_box{
+	padding-bottom	:1.5vw;
+	border		:none;
+}
+
+.m_modal_title{
+	background		:#c0c0d8;
+	color			:#fafafa;
+	text-align		:center;
+	position		:relative;
+	height			:7vw;
+	width			:100%;
+	line-height		:7vw;
+	font-size		:3.5vw;
+	font-weight		:800;
+}
+
+.m_modal_close{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	right			:1vw;
+	margin			:auto;
+	background		:#c00000;
+	height			:6vw;
+	width			:6vw;
+	border-radius	:50%;
+}
+
+.m_modal_close1,.m_modal_close2{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	height			:4vw;
+	width			:1vw;
+	background		:#fafafa;
+	transform		:rotate(45deg);
+}
+
+.m_modal_close2{
+	transform		:rotate(-45deg);
+}
