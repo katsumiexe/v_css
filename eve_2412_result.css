@@ -308,6 +308,7 @@
 
 .m_comm_box_out{
 	width		:90vw;
+	height		:80vw;
 	margin		:0 auto;
 	position	:relative;
 	border		:2px solid #f17766;
@@ -316,6 +317,7 @@
 .m_comm_box{
 	position	:absolute;
 	width		:90vw;
+	
 	top			:0;
 	left		:0
 
