@@ -197,6 +197,39 @@ html:has(.ar_modal[open]){
 
 
 /*************************/
+
+.b_modal_send{
+	display			:none;
+	position		:fixed;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:78vw;
+	height			:30vw;
+	border			:1vw solid #B5D2B6;
+	border-radius	:2.5vw;
+	padding			:1vw;
+	background		:#e0f0e8;
+	text-align		:center;
+	z-index			:99999999;
+}
+
+
+.b_modal_notice{
+	margin			:3vw auto;
+	width			:72vw;
+	height			:24vw;
+	border			:1px solid #a0e0a8;
+	padding			:1.5vw;
+	background		:#fafafa;
+	color			:#050505;
+	font-size		:4vw;
+	line-height		:5.5vw;
+	text-align		:left;
+}
+
 .a_modal_send{
 	display			:none;
 	position		:fixed;
@@ -205,8 +238,8 @@ html:has(.ar_modal[open]){
 	right			:0;
 	bottom			:0;
 	margin			:auto;
-	width			:88vw;
-	height			:57vw;
+	width			:78vw;
+	height			:50vw;
 	border			:1vw solid #B5D2B6;
 	border-radius	:2.5vw;
 	padding			:1vw;
@@ -230,11 +263,11 @@ html:has(.ar_modal[open]){
 
 .a_modal_close2{
 	position	:absolute;
-	top			:-4vw;
-	right		:-4vw;
+	top			:-6vw;
+	right		:-6vw;
 	margin		:auto;
-	width		:8vw;
-	height		:8vw;
+	width		:12vw;
+	height		:12vw;
 	border		:1vw solid #B5D2B6;
 	background	:#e0f0e8;
 	border-radius:50%;
@@ -260,8 +293,8 @@ html:has(.ar_modal[open]){
 
 .a_modal_notice{
 	margin			:3vw auto;
-	width			:80vw;
-	height			:36vw;
+	width			:70vw;
+	height			:28vw;
 	border			:1px solid #a0e0a8;
 	padding			:1.5vw;
 	background		:#fafafa;
@@ -291,3 +324,6 @@ html:has(.ar_modal[open]){
 	background:linear-gradient(#b0b0b0,#909090)
 }
 
+.btn_blue{
+	background:linear-gradient(#0000c0,#0000a0)
+}
