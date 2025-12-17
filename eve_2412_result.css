@@ -298,6 +298,7 @@
 	width		:90vw;
 	margin		:0 auto;
 	position	:relative;
+	border		:1px solid #070707;
 }
 
 .m_comm_box{
