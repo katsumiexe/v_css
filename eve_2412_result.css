@@ -198,17 +198,17 @@
 	left		:-10vw;
 	width		:120vw;
 	height		:120vh;
-	background	:rgba(30,30,30,0.8);
+	background	:rgba(30,30,30,0.6);
 }
 
 .m_modal{
 	display		:none;
 	position	:fixed;
-	top			:10vh;
-	left		:5vw;
-	width		:90vw;
-	height		:120vw;
-	background	:#d0d0d0;
+	top			:8vh;
+	left		:3vw;
+	width		:94vw;
+	height		:131vw;
+	background	:#fafafa;
 }
 
 .m_no{
@@ -259,9 +259,8 @@
 
 .m_title{
 	font-size		:5vw;
-	margin			:1vw auto;
+	margin			:2vw auto;
 	background		:#f17766;
-	padding			:1.5vw;
 	color			:#fafafa;
 	height			:8vw;
 	line-height		:8vw;
@@ -273,10 +272,17 @@
 .m_guide{
 	margin			:1vw auto;
 	font-size		:3.5vw;
-	line-height		:5.5vw;
+	line-height		:5vw;
 	color			:#303030;
 	width			:90vw;
 }
+
+.m_comm_img{
+	width		:90vw;
+	margin		:0;
+	display		:block;
+}
+
 
 .m_comm_menu{
 	display			:flex;
@@ -286,6 +292,20 @@
 	height			:8vw;
 	border-radius	:1vw;
 	border			:0.5vw solid #f17766;
+}
+
+.m_comm_box_out{
+	width		:90vw;
+	margin		:0 auto;
+	position	:relative;
+}
+
+.m_comm_box{
+	position	:absolute;
+	width		:90vw;
+	top			:0;
+	left		:0
+
 }
 
 .m_comm_menu{
