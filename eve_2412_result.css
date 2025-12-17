@@ -312,6 +312,7 @@
 	margin		:0 auto;
 	position	:relative;
 	border		:2px solid #f17766;
+	box-sizing	:content-box;
 }
 
 .m_comm_box{
