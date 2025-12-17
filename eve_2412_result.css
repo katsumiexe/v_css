@@ -249,7 +249,7 @@
 .m_comm{
 	font-size	:3.5vw;
 	margin		:0 auto;
-	background	:#f0f0e0;
+	background	:#f0r8d8;
 	padding		:1.5vw;
 	color		:#906060;
 	width		:90vw;
@@ -318,6 +318,7 @@
 }
 
 .m_comm_box{
+	display:none;
 	position	:absolute;
 	width		:90vw;
 	top			:0;
