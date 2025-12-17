@@ -196,3 +196,98 @@ html:has(.ar_modal[open]){
 }
 
 
+/*************************/
+.a_modal_send{
+	display			:none;
+	position		:fixed;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:88vw;
+	height			:57vw;
+	border			:1vw solid #B5D2B6;
+	border-radius	:2.5vw;
+	padding			:1vw;
+	background		:#e0f0e8;
+	text-align		:center;
+	z-index			:99999999;
+}
+
+.a_modal_close{
+	position	:absolute;
+	top			:2vw;
+	right		:2vw;
+	margin		:auto;
+	width		:10vw;
+	height		:10vw;
+	border		:0.5vw solid #c00000;
+	background	:#fafafa;
+	border-radius:50%;
+}
+
+
+.a_modal_close2{
+	position	:absolute;
+	top			:-4vw;
+	right		:-4vw;
+	margin		:auto;
+	width		:8vw;
+	height		:8vw;
+	border		:1vw solid #B5D2B6;
+	background	:#e0f0e8;
+	border-radius:50%;
+}
+
+.a_modal_close_a2,.a_modal_close_b2{
+	position	:absolute;
+	top			:0;
+	left		:0;
+	right		:0;
+	bottom		:0;
+	margin		:auto;
+	width		:1vw;
+	height		:4vw;
+	background	:#B5D2B6;
+	transform-origin:middle center;
+	transform	:rotate(45deg);
+}
+
+.a_modal_close_b2{
+	transform	:rotate(-45deg);
+}
+
+.a_modal_notice{
+	margin			:3vw auto;
+	width			:80vw;
+	height			:36vw;
+	border			:1px solid #a0e0a8;
+	padding			:1.5vw;
+	background		:#fafafa;
+	color			:#050505;
+	font-size		:4vw;
+	line-height		:5.5vw;
+	text-align		:left;
+}
+
+.a_send_btn{
+	width			:30vw;
+	height			:8vw;
+	margin			:1vw 3vw;
+	font-size		:4vw;
+	color			:#ffffff;
+	font-weight		:900;
+	background:linear-gradient(#c00000,#a00000)
+}
+
+.a_send_btn0{
+	width			:80vw;
+	height			:10vw;
+	margin			:0vw auto 2vw auto;
+	font-size		:4vw;
+	color			:#ffffff;
+	font-weight		:900;
+	background:linear-gradient(#b0b0b0,#909090)
+}
+
