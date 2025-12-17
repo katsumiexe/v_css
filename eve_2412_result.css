@@ -294,6 +294,18 @@
 	border			:0.5vw solid #f17766;
 }
 
+.m_comm_menu_in{
+	flex-basis		:6vw;
+	margin			:1vw 2vw;
+	text-align		:center;
+	height			:6vw;
+	line-height		:6vw;
+	font-weight		:800;
+	border-radius	:3vw;
+	background		:#f0d0e8;
+	color			:#fafafa;
+}
+
 .m_comm_box_out{
 	width		:90vw;
 	margin		:0 auto;
@@ -307,19 +319,6 @@
 	top			:0;
 	left		:0
 
-}
-
-.m_comm_menu{
-	flex-basis		:6vw;
-	margin			:1vw 2vw;
-	background		:#fafafa
-	text-align		:center;
-	height			:6vw;
-	line-height		:6vw;
-	font-weight		:800;
-	bordar-radius	:3vw;
-	background		:#f0d0e8;
-	color			:#fafafa;
 }
 
 .m_comm_menu_on{
