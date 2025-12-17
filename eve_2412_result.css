@@ -425,13 +425,13 @@
 }
 
 .m_modal_title{
-	background		:#c0c0d8;
+	background		:#f17766;
 	color			:#fafafa;
 	text-align		:center;
 	position		:relative;
-	height			:7vw;
+	height			:8vw;
 	width			:100%;
-	line-height		:7vw;
+	line-height		:8vw;
 	font-size		:3.5vw;
 	font-weight		:800;
 }
