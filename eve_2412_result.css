@@ -309,11 +309,12 @@
 
 .m_comm_box_out{
 	width		:90vw;
-	height		:80vw;
+	height		:74vw;
 	margin		:0 auto;
 	position	:relative;
 	border		:2px solid #f17766;
 	box-sizing	:content-box;
+	overflow	:hidden;
 }
 
 .m_comm_box{
