@@ -207,7 +207,7 @@
 	top			:8vh;
 	left		:3vw;
 	width		:94vw;
-	height		:131vw;
+	height		:144vw;
 	background	:#fafafa;
 }
 
@@ -288,18 +288,19 @@
 	display			:flex;
 	margin			:1vw auto;
 	background		:#fafafa;
-	width			:40vw;
+	width			:34vw;
 	height			:8vw;
 	border-radius	:1vw;
 	border			:0.5vw solid #f17766;
+	justify-content	:center;
 }
 
 .m_comm_menu_in{
-	flex-basis		:6vw;
-	margin			:1vw 2vw;
+	flex-basis		:5vw;
+	margin			:1vw;
 	text-align		:center;
-	height			:6vw;
-	line-height		:6vw;
+	height			:5vw;
+	line-height		:5vw;
 	font-weight		:800;
 	border-radius	:3vw;
 	background		:#f0d0e8;
@@ -318,7 +319,6 @@
 .m_comm_box{
 	position	:absolute;
 	width		:90vw;
-	
 	top			:0;
 	left		:0
 
