@@ -182,18 +182,19 @@
 	text-align	:center;
 	margin		:20vw auto 0 auto;
 	font-size	:40vw;
-	width		:50vw;
-	height		:50vw;
-	line-height	:50vw;
+	width		:30vw;
+	height		:30vw;
+	line-height	:30vw;
 }
 
 .dl_comm{
 	text-align	:center;
 	font-size	:5vw;
-	width		:60vw;
+	width		:40vw;
 	height		:5vw;
 	line-height	:5vw;
 	font-weight	:900;
+	margin		:0 auto;
 }
 
 .dl_link{
