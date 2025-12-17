@@ -191,8 +191,31 @@
 }
 
 
+.m_modal_out{
+	display		:none;
+	position	:fixed;
+	top			:-10vh;
+	left		:-10vw;
+	width		:120vw;
+	height		:120vh;
+	background	:rgba(30,30,30,0.8);
+}
+
+.m_modal{
+	display		:none;
+	position	:fixed;
+	top			:10vh;
+	left		:5vw;
+	width		:90vw;
+	height		:120vw;
+	background	:#d0d0d0;
+	
+}
+
+
+
 .m_no{
-	width		:94vw;
+	width		:90vw;
 	height		:14vw;
 	position	:relative;
 	background	:#f17766;
@@ -221,7 +244,7 @@
 	bottom		:0;
 	left		:16vw;
 	margin		:auto;
-	font-size	:10vw;
+	font-size	:9vw;
 	text-align	:center;
 	font-weight	:900;
 }
