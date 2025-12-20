@@ -198,6 +198,38 @@ html:has(.ar_modal[open]){
 
 /*************************/
 
+.c_modal_send{
+	display			:none;
+	position		:fixed;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:78vw;
+	height			:45vw;
+	border			:1vw solid #ff9090;
+	border-radius	:2.5vw;
+	padding			:1vw;
+	background		:#fff0f0;
+	text-align		:center;
+	z-index			:99999999;
+}
+
+
+.c_modal_notice{
+	margin			:3vw auto;
+	width			:72vw;
+	height			:24vw;
+	border			:1px solid #a0e0a8;
+	padding			:1.5vw;
+	background		:#fafafa;
+	color			:#050505;
+	font-size		:4vw;
+	line-height		:5.5vw;
+	text-align		:left;
+}
+
 .b_modal_send{
 	display			:none;
 	position		:fixed;
@@ -326,4 +358,8 @@ html:has(.ar_modal[open]){
 
 .btn_blue{
 	background:linear-gradient(#0000c0,#0000a0)
+}
+
+.btn_red{
+	background:linear-gradient(#c00000,#a00000)
 }
