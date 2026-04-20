@@ -76,6 +76,17 @@ td{
 	margin			:5px;
 }
 
+.date_box{
+	height		:30px;
+	width		:90px;
+	font-size	:14px;
+}
+
+.date_submit{
+	height		:30px;
+	font-size	:14px;
+}
+
 
 .w30{width:30px;}
 .w40{width:40px;}
