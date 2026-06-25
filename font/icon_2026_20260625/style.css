@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icon2026';
-  src:  url('fonts/icon2026.eot?7k84is');
-  src:  url('fonts/icon2026.eot?7k84is#iefix') format('embedded-opentype'),
-    url('fonts/icon2026.ttf?7k84is') format('truetype'),
-    url('fonts/icon2026.woff?7k84is') format('woff'),
-    url('fonts/icon2026.svg?7k84is#icon2026') format('svg');
+  src:  url('fonts/icon2026.eot?nl0zgo');
+  src:  url('fonts/icon2026.eot?nl0zgo#iefix') format('embedded-opentype'),
+    url('fonts/icon2026.ttf?nl0zgo') format('truetype'),
+    url('fonts/icon2026.woff?nl0zgo') format('woff'),
+    url('fonts/icon2026.svg?nl0zgo#icon2026') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1495,9 +1495,6 @@
 .icon2026-spinner9:before {
   content: "\eae0";
 }
-.icon2026-crystal:before {
-  content: "\eae1";
-}
 .icon2026-spinner11:before {
   content: "\eae2";
 }
@@ -1734,9 +1731,6 @@
 }
 .icon2026-github_qr:before {
   content: "\eb30";
-}
-.icon2026-card_b:before {
-  content: "\eb31";
 }
 .icon2026-sun:before {
   content: "\eb32";
@@ -2593,9 +2587,6 @@
 .icon2026-icon-beer:before {
   content: "\ec4e";
 }
-.icon2026-ema:before {
-  content: "\ec4f";
-}
 .icon2026-icon-move-y:before {
   content: "\ec50";
 }
@@ -2623,17 +2614,11 @@
 .icon2026-icon-maxup:before {
   content: "\ec58";
 }
-.icon2026-orion:before {
-  content: "\ec59";
-}
 .icon2026-logout:before {
   content: "\ec5a";
 }
 .icon2026-ribbon:before {
   content: "\ec5b";
-}
-.icon2026-parm_a:before {
-  content: "\ec5c";
 }
 .icon2026-qr_logo_line2:before {
   content: "\ec5d";
@@ -2647,29 +2632,11 @@
 .icon2026-clap:before {
   content: "\ec60";
 }
-.icon2026-parm_b:before {
-  content: "\ec61";
-}
-.icon2026-amuret:before {
-  content: "\ec62";
-}
 .icon2026-line_icon:before {
   content: "\ec63";
 }
-.icon2026-card_a:before {
-  content: "\ec64";
-}
-.icon2026-horo12:before {
-  content: "\ec65";
-}
 .icon2026-cog3:before {
   content: "\ec66";
-}
-.icon2026-horo11:before {
-  content: "\ec67";
-}
-.icon2026-horo10:before {
-  content: "\ec68";
 }
 .icon2026-trashcan1:before {
   content: "\ec69";
@@ -2728,9 +2695,6 @@
 .icon2026-drink4:before {
   content: "\ec7b";
 }
-.icon2026-horo09:before {
-  content: "\ec7c";
-}
 .icon2026-tie1:before {
   content: "\ec7d";
 }
@@ -2740,17 +2704,8 @@
 .icon2026-pencil3:before {
   content: "\ec7f";
 }
-.icon2026-horo08:before {
-  content: "\ec80";
-}
 .icon2026-cross11:before {
   content: "\ec81";
-}
-.icon2026-horo07:before {
-  content: "\ec82";
-}
-.icon2026-horo06:before {
-  content: "\ec83";
 }
 .icon2026-layout14:before {
   content: "\ec84";
@@ -2758,26 +2713,8 @@
 .icon2026-layout15:before {
   content: "\ec85";
 }
-.icon2026-horo05:before {
-  content: "\ec86";
-}
-.icon2026-horo04:before {
-  content: "\ec87";
-}
-.icon2026-horo02:before {
-  content: "\ec88";
-}
-.icon2026-horo01:before {
-  content: "\ec89";
-}
 .icon2026-music2:before {
   content: "\ec8a";
-}
-.icon2026-horo03:before {
-  content: "\ec8b";
-}
-.icon2026-mail1:before {
-  content: "\ec8c";
 }
 .icon2026-clipboard4:before {
   content: "\ec8d";
@@ -2808,12 +2745,6 @@
 }
 .icon2026-attachment11:before {
   content: "\ec96";
-}
-.icon2026-mail-envelope-open:before {
-  content: "\ec97";
-}
-.icon2026-mail-envelope-closed:before {
-  content: "\ec98";
 }
 .icon2026-key3:before {
   content: "\ec99";
@@ -2857,9 +2788,6 @@
 .icon2026-mirror_w:before {
   content: "\eca6";
 }
-.icon2026-thumb-up:before {
-  content: "\eca7";
-}
 .icon2026-qr_logo_back:before {
   content: "\eca8";
 }
@@ -2875,23 +2803,14 @@
 .icon2026-next1:before {
   content: "\ecac";
 }
-.icon2026-thumb-up1:before {
-  content: "\ecad";
-}
 .icon2026-price-tag1:before {
   content: "\ecae";
-}
-.icon2026-bankasa:before {
-  content: "\ecaf";
 }
 .icon2026-pushpin1:before {
   content: "\ecb0";
 }
 .icon2026-coin-yen2:before {
   content: "\ecb1";
-}
-.icon2026-chotin:before {
-  content: "\ecb2";
 }
 .icon2026-lifebuoy2:before {
   content: "\ecb3";
@@ -2908,9 +2827,6 @@
 .icon2026-stopwatch1:before {
   content: "\ecb7";
 }
-.icon2026-furin:before {
-  content: "\ecb8";
-}
 .icon2026-display1:before {
   content: "\ecb9";
 }
@@ -2926,26 +2842,11 @@
 .icon2026-thread:before {
   content: "\ecbd";
 }
-.icon2026-calendar11:before {
-  content: "\ecbe";
-}
-.icon2026-nasu:before {
-  content: "\ecbf";
-}
 .icon2026-tiktok1:before {
   content: "\ecc0";
 }
-.icon2026-s_star:before {
-  content: "\ecc1";
-}
-.icon2026-pictures11:before {
-  content: "\ecc2";
-}
 .icon2026-lady:before {
   content: "\ecc3";
-}
-.icon2026-davidstar1:before {
-  content: "\ecc4";
 }
 .icon2026-fortune:before {
   content: "\ecc5";
@@ -2953,17 +2854,8 @@
 .icon2026-bluesky:before {
   content: "\ecc6";
 }
-.icon2026-cross12:before {
-  content: "\ecc7";
-}
-.icon2026-moonandstar1:before {
-  content: "\ecc8";
-}
 .icon2026-img-ai:before {
   content: "\ecc9";
-}
-.icon2026-diamond1:before {
-  content: "\ecca";
 }
 .icon2026-hand1:before {
   content: "\eccb";
@@ -2973,12 +2865,6 @@
 }
 .icon2026-bubbles1:before {
   content: "\eccd";
-}
-.icon2026-chat3:before {
-  content: "\ecce";
-}
-.icon2026-chat11:before {
-  content: "\eccf";
 }
 .icon2026-enlarge1:before {
   content: "\ecd0";
@@ -2998,32 +2884,11 @@
 .icon2026-tree1:before {
   content: "\ecd5";
 }
-.icon2026-paperplane1:before {
-  content: "\ecd6";
-}
-.icon2026-globe12:before {
-  content: "\ecd7";
-}
-.icon2026-yingyang1:before {
-  content: "\ecd8";
-}
 .icon2026-sphere1:before {
   content: "\ecd9";
 }
 .icon2026-sun2:before {
   content: "\ecda";
-}
-.icon2026-image21:before {
-  content: "\ecdb";
-}
-.icon2026-camera5:before {
-  content: "\ecdc";
-}
-.icon2026-file-text211:before {
-  content: "\ecdd";
-}
-.icon2026-phone41:before {
-  content: "\ecde";
 }
 .icon2026-smile1:before {
   content: "\ecdf";
@@ -3067,17 +2932,8 @@
 .icon2026-checkmark21:before {
   content: "\ecec";
 }
-.icon2026-mobile3:before {
-  content: "\eced";
-}
-.icon2026-gift1:before {
-  content: "\ecee";
-}
 .icon2026-play31:before {
   content: "\ecef";
-}
-.icon2026-bin3:before {
-  content: "\ecf0";
 }
 .icon2026-loop3:before {
   content: "\ecf1";
@@ -3129,30 +2985,6 @@
 }
 .icon2026-amazon1:before {
   content: "\ed01";
-}
-.icon2026-smile3:before {
-  content: "\ed02";
-}
-.icon2026-ribbon1:before {
-  content: "\ed03";
-}
-.icon2026-clap1:before {
-  content: "\ed04";
-}
-.icon2026-lady1:before {
-  content: "\ed05";
-}
-.icon2026-fortune1:before {
-  content: "\ed06";
-}
-.icon2026-bad:before {
-  content: "\ed07";
-}
-.icon2026-bamboo:before {
-  content: "\ed08";
-}
-.icon2026-cherry:before {
-  content: "\ed09";
 }
 .icon2026-wallet1:before {
   content: "\ed0a";
@@ -3232,9 +3064,6 @@
 .icon2026-phone:before {
   content: "\ed23";
 }
-.icon2026-flower:before {
-  content: "\ed24";
-}
 .icon2026-floppy-disk:before {
   content: "\ed25";
 }
@@ -3268,24 +3097,6 @@
 .icon2026-gallery-off:before {
   content: "\ed2f";
 }
-.icon2026-good1:before {
-  content: "\ed30";
-}
-.icon2026-good2:before {
-  content: "\ed31";
-}
-.icon2026-good3:before {
-  content: "\ed32";
-}
-.icon2026-plum:before {
-  content: "\ed33";
-}
-.icon2026-sakura:before {
-  content: "\ed34";
-}
-.icon2026-seed:before {
-  content: "\ed35";
-}
 .icon2026-nico_b:before {
   content: "\ee18";
 }
@@ -3310,27 +3121,192 @@
 .icon2026-three-bars:before {
   content: "\f05e";
 }
-.icon2026-t2:before {
-  content: "\ed36";
+.icon2026-crystal:before {
+  content: "\eae1";
 }
-.icon2026-t4:before {
-  content: "\ed37";
+.icon2026-card_b:before {
+  content: "\eb31";
 }
-.icon2026-t3:before {
-  content: "\ed38";
+.icon2026-ema:before {
+  content: "\ec4f";
 }
-.icon2026-s02:before {
-  content: "\ed39";
+.icon2026-orion:before {
+  content: "\ec59";
 }
-.icon2026-t00:before {
-  content: "\ed3a";
+.icon2026-parm_a:before {
+  content: "\ec5c";
 }
-.icon2026-t0:before {
-  content: "\ed3b";
+.icon2026-parm_b:before {
+  content: "\ec61";
 }
-.icon2026-s03:before {
-  content: "\ed3c";
+.icon2026-amuret:before {
+  content: "\ec62";
 }
-.icon2026-s01:before {
-  content: "\ed3d";
+.icon2026-card_a:before {
+  content: "\ec64";
+}
+.icon2026-horo12:before {
+  content: "\ec65";
+}
+.icon2026-horo11:before {
+  content: "\ec67";
+}
+.icon2026-horo10:before {
+  content: "\ec68";
+}
+.icon2026-horo09:before {
+  content: "\ec7c";
+}
+.icon2026-horo08:before {
+  content: "\ec80";
+}
+.icon2026-horo07:before {
+  content: "\ec82";
+}
+.icon2026-horo06:before {
+  content: "\ec83";
+}
+.icon2026-horo05:before {
+  content: "\ec86";
+}
+.icon2026-horo04:before {
+  content: "\ec87";
+}
+.icon2026-horo02:before {
+  content: "\ec88";
+}
+.icon2026-horo01:before {
+  content: "\ec89";
+}
+.icon2026-horo03:before {
+  content: "\ec8b";
+}
+.icon2026-mail1:before {
+  content: "\ec8c";
+}
+.icon2026-mail-envelope-open:before {
+  content: "\ec97";
+}
+.icon2026-mail-envelope-closed:before {
+  content: "\ec98";
+}
+.icon2026-thumb-up:before {
+  content: "\eca7";
+}
+.icon2026-thumb-up1:before {
+  content: "\ecad";
+}
+.icon2026-bankasa:before {
+  content: "\ecaf";
+}
+.icon2026-chotin:before {
+  content: "\ecb2";
+}
+.icon2026-furin:before {
+  content: "\ecb8";
+}
+.icon2026-calendar11:before {
+  content: "\ecbe";
+}
+.icon2026-nasu:before {
+  content: "\ecbf";
+}
+.icon2026-s_star:before {
+  content: "\ecc1";
+}
+.icon2026-pictures11:before {
+  content: "\ecc2";
+}
+.icon2026-davidstar1:before {
+  content: "\ecc4";
+}
+.icon2026-cross12:before {
+  content: "\ecc7";
+}
+.icon2026-moonandstar1:before {
+  content: "\ecc8";
+}
+.icon2026-diamond1:before {
+  content: "\ecca";
+}
+.icon2026-chat3:before {
+  content: "\ecce";
+}
+.icon2026-chat11:before {
+  content: "\eccf";
+}
+.icon2026-paperplane1:before {
+  content: "\ecd6";
+}
+.icon2026-globe12:before {
+  content: "\ecd7";
+}
+.icon2026-yingyang1:before {
+  content: "\ecd8";
+}
+.icon2026-image21:before {
+  content: "\ecdb";
+}
+.icon2026-camera5:before {
+  content: "\ecdc";
+}
+.icon2026-file-text211:before {
+  content: "\ecdd";
+}
+.icon2026-phone41:before {
+  content: "\ecde";
+}
+.icon2026-mobile3:before {
+  content: "\eced";
+}
+.icon2026-gift1:before {
+  content: "\ecee";
+}
+.icon2026-bin3:before {
+  content: "\ecf0";
+}
+.icon2026-smile3:before {
+  content: "\ed02";
+}
+.icon2026-ribbon1:before {
+  content: "\ed03";
+}
+.icon2026-clap1:before {
+  content: "\ed04";
+}
+.icon2026-lady1:before {
+  content: "\ed05";
+}
+.icon2026-fortune1:before {
+  content: "\ed06";
+}
+.icon2026-bad:before {
+  content: "\ed07";
+}
+.icon2026-bamboo:before {
+  content: "\ed08";
+}
+.icon2026-cherry:before {
+  content: "\ed09";
+}
+.icon2026-flower:before {
+  content: "\ed24";
+}
+.icon2026-good1:before {
+  content: "\ed30";
+}
+.icon2026-good2:before {
+  content: "\ed31";
+}
+.icon2026-good3:before {
+  content: "\ed32";
+}
+.icon2026-plum:before {
+  content: "\ed33";
+}
+.icon2026-sakura:before {
+  content: "\ed34";
+}
+.icon2026-seed:before {
+  content: "\ed35";
 }
