@@ -9,6 +9,7 @@
 	z-index		:114514;
 }
 
+
 .ar_modal_main{
 	display		:none;
 	text-align	:center;
@@ -17,15 +18,41 @@
 	left		:0;
 	right		:0;
 	margin		:auto;
-	width		:800px;
+	width		:600px;
+	height		:400px
 	background	:#90c080;
 	border		:10px solid #90c080;
 	border-radius:10px;
-	box-shadow	:5px 5px 5pxw rgba(30,30,30,0.5);
+	box-shadow	:5px 5px 5px rgba(30,30,30,0.5);
 	z-index		:114515;
 }
 
-.ar_modal_batsu{
+.ar_modal_title{
+	margin			:10px auto 0 auto;
+	width			:560px;
+	height			:40px;
+	line-height		:40px;
+	font-size		:22px;
+	text-align		:center;
+	background		:#c0f0b0;
+	color			:#303030;
+	border-bottom	:2px solid #008000;
+}
+
+.ar_modal_comm{
+	margin		:10px auto;
+	width		:560px;
+	height		:340px;
+	line-height	:25px;
+	font-size	:18px;
+	text-align	:left;
+	background	:#fafafa;
+	color		:#303030;
+	padding		:10px 20px;
+}
+
+
+.ar_modal_close{
 	position	:absolute;
 	top			:-80px;
 	right		:-10px;
@@ -40,30 +67,5 @@
 	font-size	:40px;
 	font-weight	:900;
 }
-
-.ar_modal_comm{
-	margin		:10px auto;
-	width		:760px;
-	line-height	:25px;
-	font-size	:18px;
-	text-align	:left;
-	background	:#fafafa;
-	color		:#303030;
-	padding		:10px 20px;
-}
-
-.ar_modal_title{
-	margin			:10px auto;
-	width			:760px;
-	height			:40px;
-	line-height		:40px;
-	font-size		:22px;
-	text-align		:center;
-	background		:#c0f0b0;
-	color			:#303030;
-	border-bottom	:2px solid #008000;
-
-}
-
 
 
