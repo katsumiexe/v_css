@@ -29,7 +29,7 @@
 
 .ar_modal_title{
 	margin			:10px auto 0 auto;
-	width			:360px;
+	width			:340px;
 	height			:40px;
 	line-height		:40px;
 	font-size		:22px;
@@ -54,8 +54,8 @@
 
 .ar_modal_close{
 	position	:absolute;
-	top			:-30px;
-	right		:-30px;
+	top			:-40px;
+	right		:-40px;
 	width		:40px;
 	height		:40px;
 	line-height	:40px;
