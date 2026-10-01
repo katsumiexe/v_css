@@ -846,15 +846,15 @@
 	margin		:2vw auto;
 }
 .eve_box_notice{
-	width		:90vw;
+	width		:94vw;
 	margin		:2vw auto;
 	font-size	:4vw;
 	line-height	:5.5vw;
-	padding		:1vw;
+	padding		:1.5vw;
 }
 
 .eve_title,.eve_title1,.eve_title2,.eve_title3{
-	width		:100%;
+	width		:95vw;
 	height		:16vw;
 	font-size	:4vw;
 	flex-wrap	:wrap;
@@ -912,7 +912,7 @@
 
 
 .eve_log_atama,.eve_log_atama_txt{
-	width			:96vw;
+	width			:95vw;
     line-height		:6vw;
     padding			:1vw;
 	font-size		:4.5vw;
@@ -1017,7 +1017,6 @@
 	height			:36vw;
 	margin			:0 auto;
 	padding			:0;
-	justfy-content	:center;
 }
 
 .img_box{
