@@ -121,8 +121,8 @@
 	display			:none;
 	position		:relative;
 	width			:902px;
-	background		:#d0d0a0;
-	margin-bottom	:5px;
+	background		:#f0f0ff;
+	margin-bottom	:10px;
 }
 
 
@@ -183,7 +183,6 @@
 
 .eve_answer_out{
 	position		:absolute;
-	background		:#eaeae0;
 	position		:relative;
 	height			:700px;
 	padding			:0;
