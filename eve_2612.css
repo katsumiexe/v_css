@@ -123,7 +123,7 @@
 	width			:902px;
 	background		:#f0e8e0;
 	margin-bottom	:10px;
-	border-bottom:1px solid #171717;
+	border-bottom	:1px solid #171717;
 }
 
 
@@ -183,7 +183,7 @@
 
 
 .eve_answer_out{
-	position		:absolute;
+	display			:none;
 	position		:relative;
 	height			:700px;
 	padding			:0;
