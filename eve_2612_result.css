@@ -1,0 +1,467 @@
+.box2025_body{
+	margin		:0;
+	padding		:0;
+	background	:#f0e0a0;
+	background	:#fafafa;
+}
+
+.box2025{
+	width		:96vw;
+	border		:1.5vw solid #685820;
+	border		:1px solid #303030;
+	background	:#f0e8c0;
+	background	:radial-gradient(#FFFFEC 40%,#d8d0a0 100%);
+	box-shadow	:1vw 1vw 1vw rgba(30,30,30,0.5);
+	margin		:3vw 3vw 3vw 1vw;
+}
+
+.box2025_top{
+	color		:#311500;
+	font-size	:8vw;
+	text-align	:center;
+	font-weight	:900;
+	width		:90vw;
+	margin		:2vw auto;
+	line-height	:10vw;
+}
+
+.box2025_title{
+	color		:#311500;
+	font-size	:6vw;
+	text-align	:center;
+	font-weight	:700;
+	margin		:5vw auto 2vw auto;
+	width		:90vw;
+}
+
+.box2025_comm{
+	color		:#272622;
+	color		:#575757;
+	font-size	:4vw;
+	text-align	:left;
+	line-height	:6vw;
+	margin		:1vw auto;
+	width		:90vw;
+}
+
+
+.box2026_body{
+	margin		:0;
+	padding		:0;
+	background	:#f0e0a0;
+	background	:#fafafa;
+}
+
+.box2026{
+	width			:96vw;
+	border			:1px solid #303030;
+	background		:radial-gradient(#FFFFEC 70%,#e8e0b0 100%);
+	box-shadow		:1vw 1vw 1vw rgba(30,30,30,0.5);
+	margin			:3vw auto;
+}
+
+.box2026_top{
+	color		:#311500;
+	font-size	:8vw;
+	text-align	:center;
+	font-weight	:900;
+	width		:90vw;
+	margin		:2vw auto;
+	line-height	:10vw;
+}
+
+.box2026_title{
+	color		:#311500;
+	font-size	:6vw;
+	text-align	:center;
+	font-weight	:700;
+	margin		:5vw auto 2vw auto;
+	width		:90vw;
+}
+
+.box2026_comm{
+	color		:#272622;
+	color		:#72650F;
+	font-size	:4vw;
+	text-align	:left;
+	line-height	:6vw;
+	margin		:1vw auto 5vw auto;
+	width		:90vw;
+}
+
+.box2026_tbl{
+	margin			:2vw auto;
+	border			:3px solid #988850;
+	border-collapse	:collapse;
+}
+
+.box2026_td,.box2026_td0{
+	border		:1px solid #988850;
+	font-size	:4vw;
+	color		:#72650f;
+	width		:35vw;
+	height		:6vw;
+	padding		:0.5vw;
+}
+
+.box2026_td0{
+	width		:20vw;
+	text-align	:center;
+}
+
+.pdf_menu{
+	position		:fixed;
+	bottom			:-56vw;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	width			:90vw;
+	height			:70vw;
+	border-radius	:2vw 2vw 0 0 ;
+	background		:#e0c0a0;
+	overflow		:hidden;
+}
+
+.pdf_title{
+	text-align		:center;
+	margin			:0 auto 5vw auto;
+	width			:90vw;
+	height			:9vw;
+	line-height		:7vw;
+	font-size		:4vw;
+	color			:#fafafa;
+	background		:#c0a080;
+	font-weight		:800;
+}
+
+.pdf_back{
+	position		:fixed;
+	bottom			:0;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	width			:90vw;
+	height			:120vw;
+}
+
+.pdf_menu_in{
+	position		:relative;
+	border-bottom	:2px solid #c0a080;
+	height			:16vw;
+	width			:80vw;
+	background		:#fafafa;
+	color			:#606060;
+	margin			:0 auto;
+}
+
+.pdf_menu_in_icon{
+	position	:absolute;
+	top			:0;
+	left		:0;
+	text-align	:center;
+	font-size	:12vw;
+	width		:16vw;
+	height		:16vw;
+	line-height	:16vw;
+}
+
+.pdf_menu_in_comm{
+	position	:absolute;
+	top			:6vw;
+	left		:16vw;
+	text-align	:left;
+	font-size	:7vw;
+	width		:60vw;
+	height		:10vw;
+	line-height	:10vw;
+	font-weight	:900;
+}
+
+
+.dl_icon{
+	text-align	:center;
+	margin		:20vw auto 0 auto;
+	font-size	:30vw;
+	width		:30vw;
+	height		:34vw;
+	line-height	:30vw;
+}
+
+.dl_comm{
+	text-align	:center;
+	font-size	:5vw;
+	width		:40vw;
+	height		:5vw;
+	line-height	:5vw;
+	font-weight	:900;
+	margin		:0 auto;
+}
+
+.dl_link{
+	display			:block;
+	text-decoration	:none;
+
+}
+
+.pdf_menu_in_at{
+	position	:absolute;
+	top			:2vw;
+	left		:16vw;
+	text-align	:left;
+	font-size	:3vw;
+	width		:60vw;
+	height		:4vw;
+	line-height	:4vw;
+	font-weight	:700;
+	color		:#c00000;
+}
+
+
+.m_modal_out{
+	display		:none;
+	position	:fixed;
+	top			:-10vh;
+	left		:-10vw;
+	width		:120vw;
+	height		:120vh;
+	background	:rgba(30,30,30,0.6);
+}
+
+.m_modal{
+	display		:none;
+	position	:fixed;
+	top			:8vh;
+	left		:3vw;
+	width		:94vw;
+	height		:150vw;
+	background	:#fafafa;
+}
+
+.m_no{
+	width		:90vw;
+	height		:14vw;
+	position	:relative;
+	background	:#f17766;
+	color		:#fafafa;
+	margin		:2vw auto;
+}
+
+.m_no_icon{
+	width		:14vw;
+	height		:12vw;
+	line-height	:12vw;
+	position	:absolute;
+	top			:0;
+	bottom		:0;
+	left		:0;
+	margin		:auto;
+	font-size	:11vw;
+	text-align	:center;
+}
+
+.m_no_id{
+	height		:14vw;
+	line-height	:14vw;
+	position	:absolute;
+	top			:0;
+	bottom		:0;
+	left		:15vw;
+	margin		:auto;
+	font-size	:9vw;
+	text-align	:center;
+	font-weight	:900;
+}
+
+.m_comm{
+	font-size	:3.5vw;
+	margin		:0 auto;
+	background	:#f0e8d8;
+	padding		:1.5vw;
+	color		:#906060;
+	width		:90vw;
+	height		:13vw;
+	line-height	:5vw;
+}
+
+.m_title{
+	font-size		:5vw;
+	margin			:2vw auto;
+	background		:#f17766;
+	color			:#fafafa;
+	height			:8vw;
+	line-height		:8vw;
+	width			:60vw;
+	border-radius	:4vw;
+	text-align		:center;
+}
+
+.m_guide{
+	margin			:2vw auto;
+	font-size		:3.5vw;
+	line-height		:4.5vw;
+	color			:#303030;
+	width			:88vw;
+}
+
+.m_comm_img{
+	width		:90vw;
+	margin		:0;
+	display		:block;
+}
+
+
+.m_comm_menu{
+	display			:flex;
+	margin			:1vw auto;
+	background		:#fafafa;
+	width			:34vw;
+	height			:8vw;
+	border-radius	:1vw;
+	border			:0.5vw solid #f17766;
+	justify-content	:center;
+}
+
+.m_comm_menu_in{
+	flex-basis		:5vw;
+	margin			:1vw;
+	text-align		:center;
+	height			:5vw;
+	line-height		:5vw;
+	font-weight		:800;
+	border-radius	:3vw;
+	background		:#f0d0e8;
+	color			:#fafafa;
+}
+
+.m_comm_box_out{
+	width		:90vw;
+	height		:72.5vw;
+	margin		:0 auto;
+	position	:relative;
+	border		:2px solid #f17766;
+	box-sizing	:content-box;
+	overflow	:hidden;
+}
+
+.m_comm_box{
+	display:none;
+	position	:absolute;
+	width		:90vw;
+	top			:0;
+	left		:0
+
+}
+
+.m_comm_menu_on{
+	background		:#f17766;
+}
+
+.td_box{
+	padding-bottom	:1.5vw;
+}
+
+.tag{
+	font-size		:4vw;
+	height			:5vw;
+	line-height		:6vw;
+	padding			:0;
+	margin			:0;
+	text-align		:left;
+}
+
+.td_name{
+	padding-left:1vw;
+	font-size	:4.5vw !important;
+	width		:86vw;
+	border		:1px solid #050505 !important;
+	height		:8vw !important;
+	margin		:1px !important;
+}
+
+.td_zip{
+	padding-left:1vw;
+	font-size	:4.5vw !important;
+	width		:40vw;
+	border		:1px solid #050505 !important;
+	height		:8vw !important;
+	margin		:1px !important;
+}
+
+.td_area{
+	font-size	:4.5vw !important;
+	width		:86vw;
+	border		:1px solid #050505;
+	resize		:none;
+	height		:16vw;
+	line-height	:6vw;
+	padding		:2vw;
+	margin		:1px !important;
+}
+
+.submit_btn{
+	margin		:2vw;
+	font-size	:4vw;
+	font-weight	:700;
+	color		:#fafafa;
+	height		:7vw;
+	width		:30vw;
+}
+
+.snd_on{
+	background	:linear-gradient(#00a000,#008000);
+	color		:#fafafa;
+}
+
+.post_table{
+	margin		:0 auto;
+	table-layout:fixed;
+	width		:89vw;
+	text-align	:left;
+	border		:none;
+}
+
+.td_box{
+	padding-bottom	:1.5vw;
+	border		:none;
+}
+
+.m_modal_title{
+	background		:#f17766;
+	color			:#fafafa;
+	text-align		:center;
+	position		:relative;
+	height			:8vw;
+	width			:100%;
+	line-height		:8vw;
+	font-size		:3.5vw;
+	font-weight		:800;
+}
+
+.m_modal_close{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	right			:1vw;
+	margin			:auto;
+	background		:#c00000;
+	height			:6vw;
+	width			:6vw;
+	border-radius	:50%;
+}
+
+.m_modal_close1,.m_modal_close2{
+	position		:absolute;
+	top				:0;
+	bottom			:0;
+	left			:0;
+	right			:0;
+	margin			:auto;
+	height			:4vw;
+	width			:1vw;
+	background		:#fafafa;
+	transform		:rotate(45deg);
+}
+
+.m_modal_close2{
+	transform		:rotate(-45deg);
+}
