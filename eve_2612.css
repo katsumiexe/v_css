@@ -12,7 +12,7 @@
 	margin-left		:50px;
 }
 .eve_box_notice{
-	width		:600px;
+	width		:870px;
 	margin		:10px auto;
 	background	:#f0f8f0;
 	font-size	:16px;
@@ -121,8 +121,10 @@
 	display			:none;
 	position		:relative;
 	width			:902px;
-	background		:#eaeae0;
+	background		:#d0d0a0;
+	margin-bottom	:5px;
 }
+
 
 .eve_log_in{
 	display			:flex;
