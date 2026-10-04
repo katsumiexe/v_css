@@ -191,6 +191,7 @@
 }
 
 .img_box{
+	position		:relative;
 	display			:block;
 	height			:225px;
 	width			:400px;
@@ -200,7 +201,16 @@
 	border			:1px solid #171717;
 }
 
-
+.img_box_in{
+	position		:absolute;
+	top				:0;
+	left			:0;
+	right			:0;
+	bottom			:0;
+	margin			:auto;
+	width			:200px;
+	height			:200px;
+}
 
 .eve_2412_res{
 	flex-basis		:75px;
