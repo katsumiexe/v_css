@@ -365,7 +365,7 @@
 
 .eve_month_answer_out{
 	position	:relative;
-	flex		:0 0 410px;
+	flex		:0 0 435px;
 	height		:280px;
 	margin		:4px;
 	border		:1px solid #171717;
@@ -689,7 +689,6 @@
 
 
 .eve_log_flex{
-    position	:absolute;
 	display		:flex;
 	flex-wrap	:wrap;
     left		:0;
