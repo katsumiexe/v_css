@@ -199,17 +199,12 @@
 	overflow		:hidden;
 	background		:#f0e0e0;
 	border			:1px solid #171717;
+	vertical-align	:middle
 }
 
 .img_box_in{
-	position		:absolute;
-	top				:0;
-	left			:0;
-	right			:0;
-	bottom			:0;
 	margin			:auto;
-	width			:200px;
-	height			:200px;
+	width			:100%;
 }
 
 .eve_2412_res{
