@@ -548,6 +548,12 @@
 }
 
 
+.mrasp{
+	width		:180px;
+	flex-basis	:180px;
+	height		:320px;
+	margin		:10px;
+}
 
 .mrasp_0{
 	width		:160px;
@@ -1089,6 +1095,13 @@
 .rasp_4{
 	width		:40vw;
 	height		:30vw;
+	margin		:1vw;
+}
+
+.mrasp{
+	width		:18vw;
+	flex-basis	:18vw;
+	height		:32vw;
 	margin		:1vw;
 }
 
