@@ -707,10 +707,6 @@
 	margin		:0 auto;
 }
 
-.eve_log_flex{
-	display		:none;
-}
-
 .mimg_box_out {
 	display		:flex;
     width		:880px;
