@@ -388,6 +388,7 @@
 }
 
 .eve_tag_out{
+	height:50px;
 	display			:flex;
 	justify-content	:flex-start;
 	margin			:5px auto;
@@ -706,6 +707,7 @@
 	width		:890px;
 	margin		:0 auto;
 }
+
 
 .mimg_box_out {
 	display		:flex;
