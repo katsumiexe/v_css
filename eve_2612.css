@@ -697,15 +697,18 @@
 .eve_log_flex{
 	display		:flex;
 	flex-wrap	:wrap;
-    left		:0;
-    right		:0;
-    font-size	:16px;
-    height		:940px;
-    line-height	:23px;
-    padding		:5px;
-    width		:890px;
-    resize		:none;
-    margin		: 0 auto;
+	left		:0;
+	right		:0;
+	font-size	:16px;
+	height		:940px;
+	line-height	:23px;
+	padding		:5px;
+	width		:890px;
+	margin		:0 auto;
+}
+
+.eve_log_flex{
+	display		:none;
 }
 
 .mimg_box_out {
@@ -1141,6 +1144,7 @@
 }
 
 .eve_log_flex {
+
 	position		:relative;
     font-size		: 4.5vw;
     height			: auto;
