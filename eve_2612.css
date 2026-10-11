@@ -1209,7 +1209,7 @@
 	height		:auto;
 }
 
-.stan0,.stan1,..stan2{
+.stan0, .stan1, .stan2{
 	height			:7vw;
 	line-height		:7vw;
 	font-size		:3.5vw;
