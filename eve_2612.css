@@ -131,7 +131,7 @@
 	display			:flex;
 	line-height		:24px;
 	width			:880px;
-	margin			:10px auto 0 auto
+	margin			:10px auto 0 auto;
 	background		:#fafafa;
 	font-size		:16px;
 }
