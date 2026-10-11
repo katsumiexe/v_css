@@ -873,12 +873,13 @@
 }
 
 .eve_log{
+	margin			:0 auto;
 	width			:99vw;
-	height			:240vw;
+	height			:265vw;
 }
 
 .eve_log_in{
-	width			:97vw;
+	width			:96vw;
 	margin			:0 auto;
 	flex-wrap		:wrap;
 	padding			:0.5vw;
@@ -894,6 +895,11 @@
 	width			:92vw;
 	flex-basis		:92vw;
 	margin			:0.5vw; 
+}
+
+.eve_log_name2{
+	height			:8vw;
+
 }
 
 .eve_log_birth{
@@ -931,6 +937,7 @@
 
 
 .eve_tag_out{
+    height			:10vw;
 	width			:96vw;
 	flex-wrap		:wrap;
 }
