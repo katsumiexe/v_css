@@ -841,8 +841,8 @@
 	margin		:2vw auto;
 }
 .eve_box_notice{
-	width		:94vw;
-	margin		:2vw auto;
+	width		:90vw;
+	margin		:5vw auto;
 	font-size	:4vw;
 	line-height	:5.5vw;
 	padding		:1.5vw;
@@ -874,16 +874,19 @@
 
 .eve_log{
 	width			:99vw;
-	height			:265vw;
+	height			:240vw;
 }
 
 .eve_log_in{
-	width			:98vw;
+	width			:97vw;
 	margin			:0 auto;
 	flex-wrap		:wrap;
+	padding			:0.5vw;
+	font-size		:4vw;
+	line-height		:5.5vw;
 }
 
-.eve_log_name{
+.eve_log_name,.eve_log_name2{
 	font-size		:3.5vw;
 	height			:15vw;
 	line-height		:5vw;
@@ -1015,7 +1018,7 @@
 }
 
 .img_box{
-	margin			:1vw;
+	margin			:1vw auto;
 }
 
 
@@ -1206,7 +1209,7 @@
 	height		:auto;
 }
 
-.stan0,.stan1{
+.stan0,.stan1,..stan2{
 	height			:7vw;
 	line-height		:7vw;
 	font-size		:3.5vw;
