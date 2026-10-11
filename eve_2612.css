@@ -130,10 +130,13 @@
 .eve_log_in{
 	display			:flex;
 	line-height		:24px;
-	width			:880px;
-	margin			:10px auto 0 auto;
+	width			:860px;
+	margin			:10px auto;
 	background		:#fafafa;
 	font-size		:16px;
+	padding			:10px;
+	min-height		:50px;
+	border			:1px solid #171717;
 }
 
 .eve_log_name{
