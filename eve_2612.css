@@ -691,10 +691,12 @@
 }
 .atama_view01{
 	width:100%;
+	margin: 0 auto 10px auto;
 }
 
 .atama_view10{
 	width:100%;
+	margin: 0 auto 10px auto;
 }
 .atama_view11{
 	width:100%;
@@ -851,7 +853,6 @@
 }
 
 .eve_title,.eve_title1,.eve_title2,.eve_title3{
-	width		:98vw;
 	height		:16vw;
 	font-size	:4vw;
 	flex-wrap	:wrap;
@@ -1204,7 +1205,8 @@
 	height			:135vw;
 	line-height		:6.5vw;
 	padding			:1vw;
-	width			:92vw;
+	width			:96vw;
+	margin			:0 auto;
 }
 
 
